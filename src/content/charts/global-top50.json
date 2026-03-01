@@ -1,0 +1,281 @@
+{
+  "id": "global-top50",
+  "slug": "global-top50",
+  "name": "Global Top 50",
+  "type": "global",
+  "description": "The most listened tracks worldwide right now, updated daily from Last.fm.",
+  "tracks": [
+    {
+      "id": "billie-eilish--birds-of-a-feather",
+      "title": "BIRDS OF A FEATHER",
+      "artistName": "Billie Eilish",
+      "artistSlug": "billie-eilish",
+      "albumTitle": "HIT ME HARD AND SOFT",
+      "duration": 210,
+      "rank": 1,
+      "previousRank": 1,
+      "rankChange": "same",
+      "rankDelta": 0,
+      "playcount": 18500000,
+      "listeners": 4200000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/billie-birds/100/100",
+        "medium": "https://picsum.photos/seed/billie-birds/300/300",
+        "large": "https://picsum.photos/seed/billie-birds/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER"
+      },
+      "tags": ["pop", "indie pop", "electropop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "sabrina-carpenter--espresso",
+      "title": "Espresso",
+      "artistName": "Sabrina Carpenter",
+      "artistSlug": "sabrina-carpenter",
+      "albumTitle": "Short n' Sweet",
+      "duration": 175,
+      "rank": 2,
+      "previousRank": 4,
+      "rankChange": "up",
+      "rankDelta": 2,
+      "playcount": 16200000,
+      "listeners": 3800000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/sabrina-espresso/100/100",
+        "medium": "https://picsum.photos/seed/sabrina-espresso/300/300",
+        "large": "https://picsum.photos/seed/sabrina-espresso/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Espresso"
+      },
+      "tags": ["pop", "dance pop", "catchy"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "chappell-roan--good-luck-babe",
+      "title": "Good Luck, Babe!",
+      "artistName": "Chappell Roan",
+      "artistSlug": "chappell-roan",
+      "albumTitle": "The Rise and Fall of a Midwest Princess",
+      "duration": 218,
+      "rank": 3,
+      "previousRank": 5,
+      "rankChange": "up",
+      "rankDelta": 2,
+      "playcount": 14800000,
+      "listeners": 3500000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/chappell-goodluck/100/100",
+        "medium": "https://picsum.photos/seed/chappell-goodluck/300/300",
+        "large": "https://picsum.photos/seed/chappell-goodluck/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe!"
+      },
+      "tags": ["pop", "synth-pop", "indie pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "the-weeknd--timeless",
+      "title": "Timeless",
+      "artistName": "The Weeknd",
+      "artistSlug": "the-weeknd",
+      "albumTitle": "Hurry Up Tomorrow",
+      "duration": 242,
+      "rank": 4,
+      "previousRank": 2,
+      "rankChange": "down",
+      "rankDelta": -2,
+      "playcount": 13900000,
+      "listeners": 3300000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/weeknd-timeless/100/100",
+        "medium": "https://picsum.photos/seed/weeknd-timeless/300/300",
+        "large": "https://picsum.photos/seed/weeknd-timeless/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/The+Weeknd/_/Timeless"
+      },
+      "tags": ["r&b", "synth-pop", "dark pop"],
+      "genres": ["r&b", "pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "kendrick-lamar--not-like-us",
+      "title": "Not Like Us",
+      "artistName": "Kendrick Lamar",
+      "artistSlug": "kendrick-lamar",
+      "albumTitle": "Not Like Us",
+      "duration": 274,
+      "rank": 5,
+      "previousRank": 3,
+      "rankChange": "down",
+      "rankDelta": -2,
+      "playcount": 13200000,
+      "listeners": 3100000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/kendrick-notlikeus/100/100",
+        "medium": "https://picsum.photos/seed/kendrick-notlikeus/300/300",
+        "large": "https://picsum.photos/seed/kendrick-notlikeus/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/Not+Like+Us"
+      },
+      "tags": ["hip-hop", "rap", "west coast"],
+      "genres": ["hip-hop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "lady-gaga--die-with-a-smile",
+      "title": "Die With A Smile",
+      "artistName": "Lady Gaga",
+      "artistSlug": "lady-gaga",
+      "albumTitle": "Die With A Smile",
+      "duration": 252,
+      "rank": 6,
+      "rankChange": "new",
+      "rankDelta": 0,
+      "playcount": 11800000,
+      "listeners": 2900000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/gaga-diewithasmile/100/100",
+        "medium": "https://picsum.photos/seed/gaga-diewithasmile/300/300",
+        "large": "https://picsum.photos/seed/gaga-diewithasmile/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Lady+Gaga/_/Die+With+A+Smile"
+      },
+      "tags": ["pop", "ballad", "country pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "dua-lipa--training-season",
+      "title": "Training Season",
+      "artistName": "Dua Lipa",
+      "artistSlug": "dua-lipa",
+      "albumTitle": "Radical Optimism",
+      "duration": 198,
+      "rank": 7,
+      "previousRank": 7,
+      "rankChange": "same",
+      "rankDelta": 0,
+      "playcount": 10500000,
+      "listeners": 2700000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/dua-training/100/100",
+        "medium": "https://picsum.photos/seed/dua-training/300/300",
+        "large": "https://picsum.photos/seed/dua-training/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Dua+Lipa/_/Training+Season"
+      },
+      "tags": ["pop", "dance", "dance pop"],
+      "genres": ["pop", "dance"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "taylor-swift--fortnight",
+      "title": "Fortnight",
+      "artistName": "Taylor Swift",
+      "artistSlug": "taylor-swift",
+      "albumTitle": "The Tortured Poets Department",
+      "duration": 228,
+      "rank": 8,
+      "previousRank": 6,
+      "rankChange": "down",
+      "rankDelta": -2,
+      "playcount": 9800000,
+      "listeners": 2500000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/swift-fortnight/100/100",
+        "medium": "https://picsum.photos/seed/swift-fortnight/300/300",
+        "large": "https://picsum.photos/seed/swift-fortnight/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Taylor+Swift/_/Fortnight"
+      },
+      "tags": ["pop", "synth-pop", "indie pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "hozier--too-sweet",
+      "title": "Too Sweet",
+      "artistName": "Hozier",
+      "artistSlug": "hozier",
+      "albumTitle": "Unreal Unearth",
+      "duration": 267,
+      "rank": 9,
+      "previousRank": 12,
+      "rankChange": "up",
+      "rankDelta": 3,
+      "playcount": 8900000,
+      "listeners": 2200000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/hozier-toosweet/100/100",
+        "medium": "https://picsum.photos/seed/hozier-toosweet/300/300",
+        "large": "https://picsum.photos/seed/hozier-toosweet/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Hozier/_/Too+Sweet"
+      },
+      "tags": ["indie", "folk", "soul"],
+      "genres": ["indie", "folk"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "tyla--water",
+      "title": "Water",
+      "artistName": "Tyla",
+      "artistSlug": "tyla",
+      "albumTitle": "TYLA",
+      "duration": 193,
+      "rank": 10,
+      "previousRank": 10,
+      "rankChange": "same",
+      "rankDelta": 0,
+      "playcount": 8200000,
+      "listeners": 2000000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/tyla-water/100/100",
+        "medium": "https://picsum.photos/seed/tyla-water/300/300",
+        "large": "https://picsum.photos/seed/tyla-water/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Tyla/_/Water"
+      },
+      "tags": ["afrobeats", "pop", "r&b"],
+      "genres": ["afrobeats", "pop"],
+      "dataSources": ["lastfm"]
+    }
+  ],
+  "lastUpdated": "2025-06-07T06:14:00.000Z",
+  "totalTracks": 10,
+  "coverColor": "#6366f1"
+}

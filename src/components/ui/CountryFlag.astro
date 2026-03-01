@@ -1,0 +1,23 @@
+---
+import { getCountryFlag } from '@utils/charts';
+
+interface Props {
+  code: string;
+  name?: string;
+  size?: 'sm' | 'md' | 'lg';
+}
+
+const { code, name, size = 'md' } = Astro.props;
+const flag = getCountryFlag(code);
+
+const sizeClasses: Record<string, string> = {
+  sm: 'text-base',
+  md: 'text-xl',
+  lg: 'text-3xl',
+};
+---
+
+<span class:list={['inline-flex items-center gap-1.5', sizeClasses[size]]} title={name}>
+  <span aria-hidden="true">{flag}</span>
+  {name && <span class="text-sm text-[var(--text-secondary)]">{name}</span>}
+</span>

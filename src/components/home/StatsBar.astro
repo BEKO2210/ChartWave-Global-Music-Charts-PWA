@@ -1,0 +1,33 @@
+---
+import { formatRelativeDate } from '@utils/format';
+
+// Read meta.json for aggregate stats
+const metaModule = await import('../../content/meta.json');
+const meta = metaModule.default as {
+  totalTracks: number;
+  totalCharts: number;
+  lastUpdated: string;
+};
+
+const stats = [
+  { label: 'Tracks', value: `${meta.totalTracks}` },
+  { label: 'Charts', value: `${meta.totalCharts}` },
+  { label: 'Last updated', value: formatRelativeDate(meta.lastUpdated) },
+];
+---
+
+<section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+  <div class="flex flex-wrap items-center justify-center gap-4 sm:gap-6">
+    {stats.map((stat, i) => (
+      <>
+        <div class="flex flex-col items-center rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] px-6 py-4 min-w-[140px]">
+          <span class="text-2xl font-bold text-[var(--text-primary)]">{stat.value}</span>
+          <span class="text-xs text-[var(--text-muted)] mt-1">{stat.label}</span>
+        </div>
+        {i < stats.length - 1 && (
+          <span class="hidden sm:block text-[var(--text-muted)]" aria-hidden="true">&middot;</span>
+        )}
+      </>
+    ))}
+  </div>
+</section>

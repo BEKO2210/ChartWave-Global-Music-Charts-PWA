@@ -1,0 +1,42 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Imprint | ChartWave"
+  description="Legal information and imprint for ChartWave."
+>
+  <div class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="mb-6 text-3xl font-bold text-balance">Imprint / Impressum</h1>
+
+    <div class="space-y-6 text-[var(--text-secondary)] leading-relaxed">
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">Information according to &sect; 5 TMG</h2>
+      <p>
+        ChartWave is a non-commercial, open-source hobby project.
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">Contact</h2>
+      <p>
+        GitHub:
+        <a href="https://github.com/BEKO2210/chartwave" target="_blank" rel="noopener noreferrer" class="text-[var(--text-accent)] hover:underline">
+          github.com/BEKO2210/chartwave
+        </a>
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">Disclaimer</h2>
+      <p>
+        ChartWave is a non-commercial music discovery tool. All chart data comes from
+        publicly accessible APIs (Last.fm, iTunes Search API, MusicBrainz). 30-second
+        preview clips are provided by Apple Music under fair use for music discovery.
+        All trademarks, artist names, and song titles belong to their respective owners.
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">Copyright</h2>
+      <p>
+        The ChartWave source code is available under the MIT License.
+        Music content, artwork, and audio previews are the property of their
+        respective copyright holders.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

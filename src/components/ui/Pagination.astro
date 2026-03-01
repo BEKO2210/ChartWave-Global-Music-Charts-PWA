@@ -1,0 +1,59 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  baseUrl: string;
+}
+
+const { currentPage, totalPages, baseUrl } = Astro.props;
+
+const pages: number[] = [];
+for (let i = 1; i <= totalPages; i++) {
+  if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 1) {
+    pages.push(i);
+  } else if (pages[pages.length - 1] !== -1) {
+    pages.push(-1); // ellipsis
+  }
+}
+---
+
+{totalPages > 1 && (
+  <nav class="flex items-center justify-center gap-1 py-6" aria-label="Pagination">
+    {currentPage > 1 && (
+      <a
+        href={currentPage === 2 ? baseUrl : `${baseUrl}/page/${currentPage - 1}`}
+        class="rounded-lg px-3 py-2 text-sm text-[var(--text-secondary)] transition-colors hover:bg-[var(--bg-hover)]"
+      >
+        Previous
+      </a>
+    )}
+
+    {pages.map((page) =>
+      page === -1 ? (
+        <span class="px-2 text-[var(--text-muted)]">...</span>
+      ) : (
+        <a
+          href={page === 1 ? baseUrl : `${baseUrl}/page/${page}`}
+          class:list={[
+            'rounded-lg px-3 py-2 text-sm font-medium transition-colors',
+            page === currentPage
+              ? 'bg-[var(--brand)] text-white'
+              : 'text-[var(--text-secondary)] hover:bg-[var(--bg-hover)]',
+          ]}
+          aria-current={page === currentPage ? 'page' : undefined}
+        >
+          {page}
+        </a>
+      )
+    )}
+
+    {currentPage < totalPages && (
+      <a
+        href={`${baseUrl}/page/${currentPage + 1}`}
+        class="rounded-lg px-3 py-2 text-sm text-[var(--text-secondary)] transition-colors hover:bg-[var(--bg-hover)]"
+      >
+        Next
+      </a>
+    )}
+  </nav>
+)}

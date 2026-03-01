@@ -1,0 +1,46 @@
+---
+import type { RankChange } from '../../content/config';
+
+interface Props {
+  rankChange: RankChange;
+  rankDelta?: number;
+}
+
+const { rankChange, rankDelta } = Astro.props;
+
+const badgeConfig: Record<RankChange, { symbol: string; class: string }> = {
+  up: {
+    symbol: `▲${rankDelta ?? ''}`,
+    class: 'text-[var(--rank-up)]',
+  },
+  down: {
+    symbol: `▼${rankDelta ?? ''}`,
+    class: 'text-[var(--rank-down)]',
+  },
+  same: {
+    symbol: '=',
+    class: 'text-[var(--rank-same)]',
+  },
+  new: {
+    symbol: 'NEW',
+    class: 'shimmer-new font-bold',
+  },
+};
+
+const config = badgeConfig[rankChange];
+
+const ariaLabels: Record<RankChange, string> = {
+  up: `Up ${rankDelta ?? ''} position${rankDelta !== 1 ? 's' : ''}`,
+  down: `Down ${rankDelta ?? ''} position${rankDelta !== 1 ? 's' : ''}`,
+  same: 'No change',
+  new: 'New entry',
+};
+---
+
+<span
+  class:list={['inline-flex items-center justify-center text-xs font-semibold', config.class]}
+  aria-label={ariaLabels[rankChange]}
+  title={ariaLabels[rankChange]}
+>
+  {config.symbol}
+</span>

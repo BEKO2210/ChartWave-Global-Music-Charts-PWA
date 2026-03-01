@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import type { Chart } from '../../content/config';
+import ChartGrid from '../charts/ChartGrid.astro';
+
+const entries = await getCollection('charts');
+const allCharts: Chart[] = entries
+  .filter((e) => e.id !== 'meta')
+  .map((e) => e.data as unknown as Chart);
+
+const featured = allCharts.slice(0, 6);
+---
+
+<section class="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:px-8">
+  <ChartGrid charts={featured} title="Featured Charts" />
+
+  {allCharts.length > 6 && (
+    <div class="mt-8 text-center">
+      <a
+        href="/chartwave/charts"
+        class="inline-flex items-center gap-2 rounded-lg border border-[var(--border-default)] px-5 py-2.5 text-sm font-medium text-[var(--text-primary)] transition-colors hover:border-[var(--border-accent)] hover:bg-[var(--bg-hover)]"
+      >
+        View All Charts
+        <svg class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+          <path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clip-rule="evenodd" />
+        </svg>
+      </a>
+    </div>
+  )}
+</section>

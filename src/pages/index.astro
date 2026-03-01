@@ -1,0 +1,17 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+import Hero from '@components/home/Hero.astro';
+import FeaturedCharts from '@components/home/FeaturedCharts.astro';
+import StatsBar from '@components/home/StatsBar.astro';
+import PlayerIsland from '@components/player/PlayerIsland.astro';
+---
+
+<BaseLayout
+  title="ChartWave — Global Music Charts"
+  description="Discover music from around the world. Global and country-specific music charts with 30-second previews. Free. Open. Everywhere."
+>
+  <Hero />
+  <StatsBar />
+  <FeaturedCharts />
+  <PlayerIsland />
+</BaseLayout>

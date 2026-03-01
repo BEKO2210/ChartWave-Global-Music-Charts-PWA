@@ -1,0 +1,189 @@
+---
+const navLinks = [
+  { href: '/chartwave/', label: 'Home' },
+  { href: '/chartwave/charts', label: 'Charts' },
+  { href: '/chartwave/genre', label: 'Genres' },
+  { href: '/chartwave/countries', label: 'Countries' },
+  { href: '/chartwave/trending', label: 'Trending' },
+  { href: '/chartwave/new', label: 'New' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="glass-nav fixed top-0 left-0 right-0 z-50">
+  <nav class="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6">
+    <!-- Logo -->
+    <a
+      href="/chartwave/"
+      class="flex items-center gap-2 text-lg font-bold"
+      aria-label="ChartWave Home"
+    >
+      <svg width="28" height="28" viewBox="0 0 128 128" aria-hidden="true">
+        <defs>
+          <linearGradient id="nav-g" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#6366f1" />
+            <stop offset="100%" stop-color="#a855f7" />
+          </linearGradient>
+        </defs>
+        <rect width="128" height="128" rx="28" fill="var(--bg-elevated)" />
+        <g fill="url(#nav-g)">
+          <rect x="20" y="70" width="12" height="28" rx="6" />
+          <rect x="38" y="50" width="12" height="48" rx="6" />
+          <rect x="56" y="30" width="12" height="68" rx="6" />
+          <rect x="74" y="44" width="12" height="54" rx="6" />
+          <rect x="92" y="58" width="12" height="40" rx="6" />
+        </g>
+      </svg>
+      <span class="gradient-text">ChartWave</span>
+    </a>
+
+    <!-- Desktop nav links -->
+    <div class="hidden items-center gap-1 md:flex">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class:list={[
+            'rounded-lg px-3 py-2 text-sm font-medium transition-colors',
+            currentPath === link.href || (link.href !== '/chartwave/' && currentPath.startsWith(link.href))
+              ? 'bg-[var(--bg-hover)] text-[var(--text-primary)]'
+              : 'text-[var(--text-secondary)] hover:bg-[var(--bg-hover)] hover:text-[var(--text-primary)]',
+          ]}
+        >
+          {link.label}
+        </a>
+      ))}
+    </div>
+
+    <!-- Right side actions -->
+    <div class="flex items-center gap-2">
+      <!-- Search button -->
+      <button
+        id="search-trigger"
+        type="button"
+        class="flex items-center gap-2 rounded-lg border border-[var(--border-default)] bg-[var(--bg-surface)] px-3 py-1.5 text-sm text-[var(--text-muted)] transition-colors hover:border-[var(--border-accent)] hover:text-[var(--text-secondary)]"
+        aria-label="Search (Ctrl+K)"
+      >
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" />
+        </svg>
+        <span class="hidden sm:inline">Search...</span>
+        <kbd class="hidden rounded border border-[var(--border-default)] bg-[var(--bg-elevated)] px-1.5 py-0.5 text-xs font-mono sm:inline">
+          Ctrl K
+        </kbd>
+      </button>
+
+      <!-- Theme toggle -->
+      <button
+        id="theme-toggle"
+        type="button"
+        class="rounded-lg p-2 text-[var(--text-secondary)] transition-colors hover:bg-[var(--bg-hover)] hover:text-[var(--text-primary)]"
+        aria-label="Toggle theme"
+      >
+        <!-- Sun icon (shown in dark mode) -->
+        <svg class="theme-icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="4" /><path d="M12 2v2" /><path d="M12 20v2" /><path d="m4.93 4.93 1.41 1.41" /><path d="m17.66 17.66 1.41 1.41" /><path d="M2 12h2" /><path d="M20 12h2" /><path d="m6.34 17.66-1.41 1.41" /><path d="m19.07 4.93-1.41 1.41" />
+        </svg>
+        <!-- Moon icon (shown in light mode) -->
+        <svg class="theme-icon-moon hidden" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z" />
+        </svg>
+      </button>
+
+      <!-- Mobile menu toggle -->
+      <button
+        id="mobile-menu-toggle"
+        type="button"
+        class="rounded-lg p-2 text-[var(--text-secondary)] transition-colors hover:bg-[var(--bg-hover)] hover:text-[var(--text-primary)] md:hidden"
+        aria-label="Toggle menu"
+        aria-expanded="false"
+      >
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <line x1="4" x2="20" y1="12" y2="12" /><line x1="4" x2="20" y1="6" y2="6" /><line x1="4" x2="20" y1="18" y2="18" />
+        </svg>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="hidden border-t border-[var(--border-subtle)] md:hidden">
+    <div class="space-y-1 px-4 py-3">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class:list={[
+            'block rounded-lg px-3 py-2 text-sm font-medium transition-colors',
+            currentPath === link.href || (link.href !== '/chartwave/' && currentPath.startsWith(link.href))
+              ? 'bg-[var(--bg-hover)] text-[var(--text-primary)]'
+              : 'text-[var(--text-secondary)] hover:bg-[var(--bg-hover)] hover:text-[var(--text-primary)]',
+          ]}
+        >
+          {link.label}
+        </a>
+      ))}
+    </div>
+  </div>
+</header>
+
+<!-- Spacer for fixed nav -->
+<div class="h-16"></div>
+
+<script>
+  // Theme toggle
+  document.getElementById('theme-toggle')?.addEventListener('click', () => {
+    const html = document.documentElement;
+    const isLight = html.getAttribute('data-theme') === 'light';
+    const newTheme = isLight ? 'dark' : 'light';
+
+    if (newTheme === 'light') {
+      html.setAttribute('data-theme', 'light');
+    } else {
+      html.removeAttribute('data-theme');
+    }
+
+    // Update icons
+    updateThemeIcons(newTheme);
+
+    try {
+      const stored = localStorage.getItem('chartwave:settings');
+      const settings = stored ? JSON.parse(stored) : {};
+      settings.theme = newTheme;
+      localStorage.setItem('chartwave:settings', JSON.stringify(settings));
+    } catch {}
+  });
+
+  function updateThemeIcons(theme: string) {
+    const suns = document.querySelectorAll('.theme-icon-sun');
+    const moons = document.querySelectorAll('.theme-icon-moon');
+    if (theme === 'light') {
+      suns.forEach((el) => el.classList.add('hidden'));
+      moons.forEach((el) => el.classList.remove('hidden'));
+    } else {
+      suns.forEach((el) => el.classList.remove('hidden'));
+      moons.forEach((el) => el.classList.add('hidden'));
+    }
+  }
+
+  // Init icons on load
+  const currentTheme = document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark';
+  updateThemeIcons(currentTheme);
+
+  // Mobile menu toggle
+  document.getElementById('mobile-menu-toggle')?.addEventListener('click', () => {
+    const menu = document.getElementById('mobile-menu');
+    const toggle = document.getElementById('mobile-menu-toggle');
+    if (menu && toggle) {
+      const isOpen = !menu.classList.contains('hidden');
+      menu.classList.toggle('hidden');
+      toggle.setAttribute('aria-expanded', String(!isOpen));
+    }
+  });
+
+  // Search shortcut (Ctrl+K / Cmd+K)
+  document.addEventListener('keydown', (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      document.getElementById('search-trigger')?.click();
+    }
+  });
+</script>

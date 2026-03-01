@@ -1,0 +1,58 @@
+---
+interface Props {
+  class?: string;
+}
+
+const { class: className = '' } = Astro.props;
+---
+
+<div class:list={['group relative', className]}>
+  <div
+    id="progress-bar"
+    class="relative h-[3px] w-full cursor-pointer overflow-hidden bg-[var(--border-default)] transition-[height] duration-200 group-hover:h-[6px]"
+    role="slider"
+    aria-label="Seek"
+    aria-valuemin={0}
+    aria-valuemax={100}
+    aria-valuenow={0}
+    tabindex="0"
+  >
+    <div
+      id="progress-fill"
+      class="absolute left-0 top-0 h-full bg-[var(--brand)] transition-[width] duration-100"
+      style="width: 0%"
+    ></div>
+    <div
+      id="progress-handle"
+      class="absolute top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full bg-white opacity-0 shadow-md transition-opacity group-hover:opacity-100"
+      style="left: 0%"
+    ></div>
+  </div>
+</div>
+
+<script>
+  const bar = document.getElementById('progress-bar');
+  const fill = document.getElementById('progress-fill');
+  const handle = document.getElementById('progress-handle');
+
+  if (bar && fill && handle) {
+    let isDragging = false;
+
+    function seekTo(e: MouseEvent | TouchEvent) {
+      const rect = bar!.getBoundingClientRect();
+      const clientX = 'touches' in e ? e.touches[0]!.clientX : e.clientX;
+      const percent = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+      fill!.style.width = `${percent * 100}%`;
+      handle!.style.left = `${percent * 100}%`;
+      bar!.setAttribute('aria-valuenow', String(Math.round(percent * 100)));
+      window.dispatchEvent(new CustomEvent('chartwave:seek', { detail: { percent } }));
+    }
+
+    bar.addEventListener('mousedown', (e) => { isDragging = true; seekTo(e); });
+    bar.addEventListener('touchstart', (e) => { isDragging = true; seekTo(e); }, { passive: true });
+    document.addEventListener('mousemove', (e) => { if (isDragging) seekTo(e); });
+    document.addEventListener('touchmove', (e) => { if (isDragging) seekTo(e); }, { passive: true });
+    document.addEventListener('mouseup', () => { isDragging = false; });
+    document.addEventListener('touchend', () => { isDragging = false; });
+  }
+</script>

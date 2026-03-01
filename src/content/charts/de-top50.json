@@ -1,0 +1,282 @@
+{
+  "id": "de-top50",
+  "slug": "de-top50",
+  "name": "Germany Top 50",
+  "type": "country",
+  "description": "Top 50 most listened tracks in Germany, updated daily.",
+  "country": "de",
+  "countryName": "Germany",
+  "tracks": [
+    {
+      "id": "apache-207--roller",
+      "title": "Roller",
+      "artistName": "Apache 207",
+      "artistSlug": "apache-207",
+      "albumTitle": "Treppenhaus",
+      "duration": 200,
+      "rank": 1,
+      "previousRank": 1,
+      "rankChange": "same",
+      "rankDelta": 0,
+      "playcount": 5000000,
+      "listeners": 1200000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/de1/100/100",
+        "medium": "https://picsum.photos/seed/de1/300/300",
+        "large": "https://picsum.photos/seed/de1/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Apache+207/_/Roller"
+      },
+      "tags": ["pop", "german"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "rammstein--deutschland",
+      "title": "Deutschland",
+      "artistName": "Rammstein",
+      "artistSlug": "rammstein",
+      "albumTitle": "Rammstein",
+      "duration": 322,
+      "rank": 2,
+      "previousRank": 3,
+      "rankChange": "up",
+      "rankDelta": 1,
+      "playcount": 4800000,
+      "listeners": 1150000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/de2/100/100",
+        "medium": "https://picsum.photos/seed/de2/300/300",
+        "large": "https://picsum.photos/seed/de2/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Rammstein/_/Deutschland"
+      },
+      "tags": ["pop", "german"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "tokio-hotel--monsoon",
+      "title": "Monsoon",
+      "artistName": "Tokio Hotel",
+      "artistSlug": "tokio-hotel",
+      "albumTitle": "Scream",
+      "duration": 197,
+      "rank": 3,
+      "previousRank": 1,
+      "rankChange": "down",
+      "rankDelta": -2,
+      "playcount": 4600000,
+      "listeners": 1100000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/de3/100/100",
+        "medium": "https://picsum.photos/seed/de3/300/300",
+        "large": "https://picsum.photos/seed/de3/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Tokio+Hotel/_/Monsoon"
+      },
+      "tags": ["pop", "german"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "nina-chuba--wildberry-lillet",
+      "title": "Wildberry Lillet",
+      "artistName": "Nina Chuba",
+      "artistSlug": "nina-chuba",
+      "albumTitle": "Glas",
+      "duration": 165,
+      "rank": 4,
+      "rankChange": "new",
+      "playcount": 4400000,
+      "listeners": 1050000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/de4/100/100",
+        "medium": "https://picsum.photos/seed/de4/300/300",
+        "large": "https://picsum.photos/seed/de4/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Nina+Chuba/_/Wildberry+Lillet"
+      },
+      "tags": ["pop", "german"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "kontra-k--erfolg-ist-kein-glueck",
+      "title": "Erfolg ist kein Glück",
+      "artistName": "Kontra K",
+      "artistSlug": "kontra-k",
+      "albumTitle": "Vollmond",
+      "duration": 234,
+      "rank": 5,
+      "previousRank": 8,
+      "rankChange": "up",
+      "rankDelta": 3,
+      "playcount": 4200000,
+      "listeners": 1000000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/de5/100/100",
+        "medium": "https://picsum.photos/seed/de5/300/300",
+        "large": "https://picsum.photos/seed/de5/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kontra+K/_/Erfolg+ist+kein+Gl%C3%BCck"
+      },
+      "tags": ["pop", "german"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "cro--traum",
+      "title": "Traum",
+      "artistName": "Cro",
+      "artistSlug": "cro",
+      "albumTitle": "Raop",
+      "duration": 212,
+      "rank": 6,
+      "previousRank": 6,
+      "rankChange": "same",
+      "rankDelta": 0,
+      "playcount": 4000000,
+      "listeners": 950000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/de6/100/100",
+        "medium": "https://picsum.photos/seed/de6/300/300",
+        "large": "https://picsum.photos/seed/de6/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Cro/_/Traum"
+      },
+      "tags": ["pop", "german"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "peter-fox--zukunft-pink",
+      "title": "Zukunft Pink",
+      "artistName": "Peter Fox",
+      "artistSlug": "peter-fox",
+      "albumTitle": "Love Songs",
+      "duration": 228,
+      "rank": 7,
+      "previousRank": 5,
+      "rankChange": "down",
+      "rankDelta": -2,
+      "playcount": 3800000,
+      "listeners": 900000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/de7/100/100",
+        "medium": "https://picsum.photos/seed/de7/300/300",
+        "large": "https://picsum.photos/seed/de7/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Peter+Fox/_/Zukunft+Pink"
+      },
+      "tags": ["pop", "german"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "mark-forster--uebermorgen",
+      "title": "Übermorgen",
+      "artistName": "Mark Forster",
+      "artistSlug": "mark-forster",
+      "albumTitle": "Musketiere",
+      "duration": 189,
+      "rank": 8,
+      "previousRank": 10,
+      "rankChange": "up",
+      "rankDelta": 2,
+      "playcount": 3600000,
+      "listeners": 850000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/de8/100/100",
+        "medium": "https://picsum.photos/seed/de8/300/300",
+        "large": "https://picsum.photos/seed/de8/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Mark+Forster/_/%C3%9Cbermorgen"
+      },
+      "tags": ["pop", "german"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "annenmaykantereit--pocahontas",
+      "title": "Pocahontas",
+      "artistName": "AnnenMayKantereit",
+      "artistSlug": "annenmaykantereit",
+      "albumTitle": "Schlagschatten",
+      "duration": 246,
+      "rank": 9,
+      "previousRank": 9,
+      "rankChange": "same",
+      "rankDelta": 0,
+      "playcount": 3400000,
+      "listeners": 800000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/de9/100/100",
+        "medium": "https://picsum.photos/seed/de9/300/300",
+        "large": "https://picsum.photos/seed/de9/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/AnnenMayKantereit/_/Pocahontas"
+      },
+      "tags": ["pop", "german"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "herbert-groenemeyer--mensch",
+      "title": "Mensch",
+      "artistName": "Herbert Grönemeyer",
+      "artistSlug": "herbert-groenemeyer",
+      "albumTitle": "Mensch",
+      "duration": 273,
+      "rank": 10,
+      "previousRank": 7,
+      "rankChange": "down",
+      "rankDelta": -3,
+      "playcount": 3200000,
+      "listeners": 750000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/de10/100/100",
+        "medium": "https://picsum.photos/seed/de10/300/300",
+        "large": "https://picsum.photos/seed/de10/600/600",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Herbert+Gr%C3%B6nemeyer/_/Mensch"
+      },
+      "tags": ["pop", "german"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    }
+  ],
+  "lastUpdated": "2025-06-07T06:14:00.000Z",
+  "totalTracks": 10,
+  "coverColor": "#ef4444"
+}

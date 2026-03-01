@@ -1,0 +1,280 @@
+{
+  "id": "genre-pop",
+  "slug": "genre-pop",
+  "name": "Pop",
+  "type": "genre",
+  "description": "Top pop tracks worldwide, updated daily from Last.fm.",
+  "genre": "pop",
+  "genreColor": "--genre-pop",
+  "tracks": [
+    {
+      "id": "sabrina-carpenter--espresso",
+      "title": "Espresso",
+      "artistName": "Sabrina Carpenter",
+      "artistSlug": "sabrina-carpenter",
+      "albumTitle": "Short n' Sweet",
+      "duration": 200,
+      "rank": 1,
+      "previousRank": 2,
+      "rankChange": "up",
+      "rankDelta": 1,
+      "playcount": 8000000,
+      "listeners": 2000000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/pop1/100/100",
+        "medium": "https://picsum.photos/seed/pop1/300/300",
+        "large": "https://picsum.photos/seed/pop1/600/600",
+        "placeholder": "#2e1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Espresso"
+      },
+      "tags": ["pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "billie-eilish--birds-of-a-feather",
+      "title": "BIRDS OF A FEATHER",
+      "artistName": "Billie Eilish",
+      "artistSlug": "billie-eilish",
+      "albumTitle": "HIT ME HARD AND SOFT",
+      "duration": 200,
+      "rank": 2,
+      "previousRank": 1,
+      "rankChange": "down",
+      "rankDelta": -1,
+      "playcount": 7500000,
+      "listeners": 1900000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/pop2/100/100",
+        "medium": "https://picsum.photos/seed/pop2/300/300",
+        "large": "https://picsum.photos/seed/pop2/600/600",
+        "placeholder": "#2e1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER"
+      },
+      "tags": ["pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "chappell-roan--good-luck-babe",
+      "title": "Good Luck, Babe!",
+      "artistName": "Chappell Roan",
+      "artistSlug": "chappell-roan",
+      "albumTitle": "The Rise and Fall of a Midwest Princess",
+      "duration": 200,
+      "rank": 3,
+      "previousRank": 3,
+      "rankChange": "same",
+      "rankDelta": 0,
+      "playcount": 7000000,
+      "listeners": 1800000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/pop3/100/100",
+        "medium": "https://picsum.photos/seed/pop3/300/300",
+        "large": "https://picsum.photos/seed/pop3/600/600",
+        "placeholder": "#2e1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Chappell+Roan/_/Good+Luck,+Babe!"
+      },
+      "tags": ["pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "dua-lipa--training-season",
+      "title": "Training Season",
+      "artistName": "Dua Lipa",
+      "artistSlug": "dua-lipa",
+      "albumTitle": "Radical Optimism",
+      "duration": 200,
+      "rank": 4,
+      "previousRank": 7,
+      "rankChange": "up",
+      "rankDelta": 3,
+      "playcount": 6500000,
+      "listeners": 1700000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/pop4/100/100",
+        "medium": "https://picsum.photos/seed/pop4/300/300",
+        "large": "https://picsum.photos/seed/pop4/600/600",
+        "placeholder": "#2e1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Dua+Lipa/_/Training+Season"
+      },
+      "tags": ["pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "ariana-grande--we-cant-be-friends",
+      "title": "we can't be friends",
+      "artistName": "Ariana Grande",
+      "artistSlug": "ariana-grande",
+      "albumTitle": "eternal sunshine",
+      "duration": 200,
+      "rank": 5,
+      "rankChange": "new",
+      "playcount": 6000000,
+      "listeners": 1600000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/pop5/100/100",
+        "medium": "https://picsum.photos/seed/pop5/300/300",
+        "large": "https://picsum.photos/seed/pop5/600/600",
+        "placeholder": "#2e1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ariana+Grande/_/we+can%27t+be+friends"
+      },
+      "tags": ["pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "taylor-swift--fortnight",
+      "title": "Fortnight",
+      "artistName": "Taylor Swift",
+      "artistSlug": "taylor-swift",
+      "albumTitle": "The Tortured Poets Department",
+      "duration": 200,
+      "rank": 6,
+      "previousRank": 4,
+      "rankChange": "down",
+      "rankDelta": -2,
+      "playcount": 5500000,
+      "listeners": 1500000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/pop6/100/100",
+        "medium": "https://picsum.photos/seed/pop6/300/300",
+        "large": "https://picsum.photos/seed/pop6/600/600",
+        "placeholder": "#2e1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Taylor+Swift/_/Fortnight"
+      },
+      "tags": ["pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "tyla--water",
+      "title": "Water",
+      "artistName": "Tyla",
+      "artistSlug": "tyla",
+      "albumTitle": "TYLA",
+      "duration": 200,
+      "rank": 7,
+      "previousRank": 7,
+      "rankChange": "same",
+      "rankDelta": 0,
+      "playcount": 5000000,
+      "listeners": 1400000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/pop7/100/100",
+        "medium": "https://picsum.photos/seed/pop7/300/300",
+        "large": "https://picsum.photos/seed/pop7/600/600",
+        "placeholder": "#2e1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Tyla/_/Water"
+      },
+      "tags": ["pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "lady-gaga--die-with-a-smile",
+      "title": "Die With A Smile",
+      "artistName": "Lady Gaga",
+      "artistSlug": "lady-gaga",
+      "albumTitle": "Die With A Smile",
+      "duration": 200,
+      "rank": 8,
+      "rankChange": "new",
+      "playcount": 4500000,
+      "listeners": 1300000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/pop8/100/100",
+        "medium": "https://picsum.photos/seed/pop8/300/300",
+        "large": "https://picsum.photos/seed/pop8/600/600",
+        "placeholder": "#2e1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Lady+Gaga/_/Die+With+A+Smile"
+      },
+      "tags": ["pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "olivia-rodrigo--vampire",
+      "title": "vampire",
+      "artistName": "Olivia Rodrigo",
+      "artistSlug": "olivia-rodrigo",
+      "albumTitle": "GUTS",
+      "duration": 200,
+      "rank": 9,
+      "previousRank": 11,
+      "rankChange": "up",
+      "rankDelta": 2,
+      "playcount": 4000000,
+      "listeners": 1200000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/pop9/100/100",
+        "medium": "https://picsum.photos/seed/pop9/300/300",
+        "large": "https://picsum.photos/seed/pop9/600/600",
+        "placeholder": "#2e1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Olivia+Rodrigo/_/vampire"
+      },
+      "tags": ["pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    },
+    {
+      "id": "harry-styles--as-it-was",
+      "title": "As It Was",
+      "artistName": "Harry Styles",
+      "artistSlug": "harry-styles",
+      "albumTitle": "Harry's House",
+      "duration": 200,
+      "rank": 10,
+      "previousRank": 8,
+      "rankChange": "down",
+      "rankDelta": -2,
+      "playcount": 3500000,
+      "listeners": 1100000,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://picsum.photos/seed/pop10/100/100",
+        "medium": "https://picsum.photos/seed/pop10/300/300",
+        "large": "https://picsum.photos/seed/pop10/600/600",
+        "placeholder": "#2e1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Harry+Styles/_/As+It+Was"
+      },
+      "tags": ["pop"],
+      "genres": ["pop"],
+      "dataSources": ["lastfm"]
+    }
+  ],
+  "lastUpdated": "2025-06-07T06:14:00.000Z",
+  "totalTracks": 10,
+  "coverColor": "#ec4899"
+}
