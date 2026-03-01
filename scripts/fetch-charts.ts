@@ -567,9 +567,10 @@ async function writeChart(chart: Chart): Promise<void> {
 
 /**
  * Write meta.json with aggregated stats.
+ * Written to src/content/meta.json (outside charts collection to avoid schema conflicts).
  */
 async function writeMeta(meta: ChartMeta): Promise<void> {
-  const filePath = join(CHARTS_DIR, 'meta.json');
+  const filePath = join(PROJECT_ROOT, 'src', 'content', 'meta.json');
   const json = JSON.stringify(meta, null, 2);
   await writeFile(filePath, json + '\n', 'utf-8');
   logger.info(`Written ${filePath}`, 'writer');
