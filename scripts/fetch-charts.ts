@@ -209,7 +209,7 @@ const COUNTRY_CONFIGS: ChartConfig[] = [
     type: 'country',
     description: 'Top 50 most listened tracks in South Korea, updated daily.',
     method: 'country',
-    param: 'south korea',
+    param: 'Korea, Republic of',
     country: 'kr',
     countryName: 'South Korea',
     coverColor: '#ec4899',
