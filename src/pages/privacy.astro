@@ -1,0 +1,65 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Privacy Policy | ChartWave"
+  description="ChartWave privacy policy — no tracking, no cookies, no data collection."
+>
+  <div class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="mb-6 text-3xl font-bold text-balance">Privacy Policy</h1>
+
+    <div class="space-y-6 text-[var(--text-secondary)] leading-relaxed">
+      <p class="text-lg text-[var(--text-primary)]">
+        ChartWave respects your privacy. We collect no personal data.
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">No Tracking</h2>
+      <p>
+        ChartWave does not use any analytics, tracking scripts, or third-party services
+        that monitor your behavior. There is no Google Analytics, no Facebook Pixel, no
+        tracking cookies of any kind.
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">No Cookies</h2>
+      <p>
+        ChartWave does not set any cookies. Your preferences (theme, volume, favorites)
+        are stored locally in your browser's localStorage and never transmitted to any server.
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">Local Storage</h2>
+      <p>
+        The following data is stored locally on your device only:
+      </p>
+      <ul class="list-inside list-disc space-y-1">
+        <li>Theme preference (dark/light)</li>
+        <li>Volume and playback settings</li>
+        <li>Favorited tracks</li>
+        <li>Recently played history</li>
+        <li>Custom playlists</li>
+      </ul>
+      <p>
+        This data never leaves your device. You can clear it at any time through your
+        browser's settings.
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">External Services</h2>
+      <p>
+        When you play a 30-second preview, your browser connects directly to Apple's CDN
+        to stream the audio. ChartWave does not proxy or log these requests.
+        Album artwork is also loaded directly from Apple's CDN.
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">Hosting</h2>
+      <p>
+        ChartWave is hosted on GitHub Pages. GitHub may collect standard server logs
+        (IP addresses, request timestamps) as described in their
+        <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer" class="text-[var(--text-accent)] hover:underline">privacy statement</a>.
+      </p>
+
+      <p class="text-sm text-[var(--text-muted)]">
+        Last updated: June 2025
+      </p>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,46 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+import ChartHeader from '@components/charts/ChartHeader.astro';
+import TrackList from '@components/tracks/TrackList.astro';
+import PlayerIsland from '@components/player/PlayerIsland.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('charts');
+  return entries.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { chart: entry.data },
+  }));
+}
+
+const { chart } = Astro.props;
+---
+
+<BaseLayout
+  title={`${chart.name} | ChartWave`}
+  description={chart.description}
+  ogType="music.playlist"
+>
+  <ChartHeader chart={chart} />
+
+  <div class="mx-auto max-w-7xl px-4 pb-8 sm:px-6">
+    <TrackList tracks={chart.tracks} showHeader={true} />
+  </div>
+
+  <!-- JSON-LD structured data -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "MusicPlaylist",
+    "name": chart.name,
+    "description": chart.description,
+    "numTracks": chart.totalTracks,
+    "track": chart.tracks.slice(0, 10).map((t: any) => ({
+      "@type": "MusicRecording",
+      "name": t.title,
+      "byArtist": { "@type": "MusicGroup", "name": t.artistName },
+      "duration": "PT30S",
+    })),
+  })} />
+
+  <PlayerIsland />
+</BaseLayout>

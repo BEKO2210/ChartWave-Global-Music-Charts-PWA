@@ -1,0 +1,61 @@
+---
+import type { Chart } from '../../content/config';
+import { formatRelativeDate } from '@utils/format';
+import { getCountryFlag } from '@utils/charts';
+
+interface Props {
+  chart: Chart;
+}
+
+const { chart } = Astro.props;
+
+const topTracks = chart.tracks.slice(0, 4);
+const topThreeNames = chart.tracks.slice(0, 3).map((t) => `${t.artistName} - ${t.title}`);
+const flag = chart.type === 'country' && chart.country ? getCountryFlag(chart.country) : null;
+const updatedText = `Updated ${formatRelativeDate(chart.lastUpdated)}`;
+---
+
+<a
+  href={`/chartwave/chart/${chart.slug}`}
+  class="group block rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] p-3 transition-all duration-300 hover:scale-[1.03] hover:border-[var(--border-accent)] hover:shadow-lg hover:shadow-[var(--brand)]/5"
+>
+  <!-- 2x2 Artwork Grid -->
+  <div class="aspect-square overflow-hidden rounded-lg mb-3">
+    <div class="grid grid-cols-2 grid-rows-2 h-full w-full gap-0.5">
+      {topTracks.map((track) => (
+        <img
+          src={track.artwork.medium}
+          alt={`${track.title} by ${track.artistName} artwork`}
+          width="150"
+          height="150"
+          loading="lazy"
+          decoding="async"
+          class="h-full w-full object-cover"
+        />
+      ))}
+      {Array.from({ length: Math.max(0, 4 - topTracks.length) }).map(() => (
+        <div class="h-full w-full bg-[var(--bg-elevated)]" />
+      ))}
+    </div>
+  </div>
+
+  <!-- Chart Name + Flag -->
+  <div class="flex items-center gap-2 mb-1">
+    {flag && <span aria-hidden="true" class="text-lg">{flag}</span>}
+    <h3 class="font-semibold text-[var(--text-primary)] truncate text-sm group-hover:text-[var(--text-accent)] transition-colors">
+      {chart.name}
+    </h3>
+  </div>
+
+  <!-- Updated timestamp -->
+  <p class="text-xs text-[var(--text-muted)] mb-2">{updatedText}</p>
+
+  <!-- Top 3 tracks -->
+  <ol class="space-y-0.5">
+    {topThreeNames.map((name, i) => (
+      <li class="text-xs text-[var(--text-secondary)] truncate">
+        <span class="text-[var(--text-muted)] mr-1">{i + 1}.</span>{name}
+      </li>
+    ))}
+  </ol>
+</a>

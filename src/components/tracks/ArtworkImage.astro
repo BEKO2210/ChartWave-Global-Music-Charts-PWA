@@ -1,0 +1,40 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  size?: 'sm' | 'md' | 'lg';
+  placeholder?: string;
+  class?: string;
+}
+
+const { src, alt, size = 'md', placeholder, class: className } = Astro.props;
+
+const sizeMap: Record<string, { width: number; height: number }> = {
+  sm: { width: 40, height: 40 },
+  md: { width: 48, height: 48 },
+  lg: { width: 56, height: 56 },
+};
+
+const dimensions = sizeMap[size];
+
+const placeholderStyle = placeholder
+  ? `background-color: ${placeholder};`
+  : 'background-color: var(--bg-elevated);';
+---
+
+<div
+  class:list={['relative shrink-0 overflow-hidden rounded-lg', className]}
+  style={`width: ${dimensions.width}px; height: ${dimensions.height}px; ${placeholderStyle}`}
+>
+  <img
+    src={src}
+    alt={alt}
+    width={dimensions.width}
+    height={dimensions.height}
+    loading="lazy"
+    decoding="async"
+    class="h-full w-full rounded-lg object-cover"
+    onerror="this.style.display='none'"
+  />
+  <slot />
+</div>

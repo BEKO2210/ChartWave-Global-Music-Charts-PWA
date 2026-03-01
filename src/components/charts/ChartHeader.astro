@@ -1,0 +1,105 @@
+---
+import type { Chart } from '../../content/config';
+import { formatRelativeDate } from '@utils/format';
+import { getCountryFlag, getGenreColor } from '@utils/charts';
+import Button from '../ui/Button.astro';
+import Badge from '../ui/Badge.astro';
+
+interface Props {
+  chart: Chart;
+}
+
+const { chart } = Astro.props;
+
+const flag = chart.type === 'country' && chart.country ? getCountryFlag(chart.country) : null;
+const genreColor = chart.type === 'genre' ? getGenreColor(chart.genreColor) : null;
+const updatedText = `Updated ${formatRelativeDate(chart.lastUpdated)}`;
+const tracksWithPreview = chart.tracks.filter((t) => t.previewUrl !== null).length;
+const previewPercent = chart.totalTracks > 0 ? Math.round((tracksWithPreview / chart.totalTracks) * 100) : 0;
+---
+
+<header class="relative overflow-hidden">
+  <!-- Blurred dominant-color background -->
+  <div
+    class="absolute inset-0 -z-10"
+    style={`background: radial-gradient(ellipse 80% 70% at 50% 30%, ${chart.coverColor}33 0%, transparent 70%), var(--bg-base);`}
+  >
+    <div
+      class="absolute inset-0 backdrop-blur-3xl"
+      aria-hidden="true"
+    ></div>
+  </div>
+
+  <div class="mx-auto max-w-5xl px-4 pt-24 pb-12 sm:px-6 lg:px-8">
+    <div class="flex flex-col gap-6 sm:flex-row sm:items-end sm:gap-8">
+      <!-- Left: Chart artwork mosaic -->
+      <div class="shrink-0">
+        <div class="h-48 w-48 overflow-hidden rounded-xl shadow-2xl sm:h-56 sm:w-56">
+          <div class="grid grid-cols-2 grid-rows-2 h-full w-full gap-0.5">
+            {chart.tracks.slice(0, 4).map((track) => (
+              <img
+                src={track.artwork.medium}
+                alt={`${track.title} by ${track.artistName} artwork`}
+                width="150"
+                height="150"
+                loading="eager"
+                decoding="async"
+                class="h-full w-full object-cover"
+              />
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <!-- Right: Info -->
+      <div class="flex flex-col gap-3 min-w-0">
+        <!-- Type label -->
+        <p class="text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)]">
+          {chart.type === 'country' ? 'Country Chart' : chart.type.charAt(0).toUpperCase() + chart.type.slice(1) + ' Chart'}
+        </p>
+
+        <!-- Name + Flag -->
+        <div class="flex items-center gap-3">
+          {flag && <span class="text-4xl" aria-hidden="true">{flag}</span>}
+          <h1 class="text-3xl font-bold text-[var(--text-primary)] sm:text-4xl lg:text-5xl truncate">
+            {chart.name}
+          </h1>
+        </div>
+
+        <!-- Genre badge -->
+        {chart.type === 'genre' && chart.genre && genreColor && (
+          <div>
+            <span
+              class="inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold"
+              style={`background: ${genreColor}20; color: ${genreColor}; border: 1px solid ${genreColor}33;`}
+            >
+              {chart.genre}
+            </span>
+          </div>
+        )}
+
+        <!-- Description -->
+        <p class="text-sm text-[var(--text-secondary)] max-w-lg text-pretty">{chart.description}</p>
+
+        <!-- Stats row: track count + preview coverage + update timestamp -->
+        <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-[var(--text-muted)]">
+          <span>{chart.totalTracks} tracks</span>
+          <span aria-hidden="true" class="hidden sm:inline">&middot;</span>
+          <span>{previewPercent}% preview coverage</span>
+          <span aria-hidden="true" class="hidden sm:inline">&middot;</span>
+          <span>{updatedText}</span>
+        </div>
+
+        <!-- Actions -->
+        <div class="flex items-center gap-3 mt-2">
+          <Button variant="primary" size="lg" data-play-all={chart.slug}>
+            <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path d="M6.3 2.84A1.5 1.5 0 004 4.11v11.78a1.5 1.5 0 002.3 1.27l9.344-5.891a1.5 1.5 0 000-2.538L6.3 2.841z" />
+            </svg>
+            Play All
+          </Button>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

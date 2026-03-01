@@ -1,0 +1,93 @@
+---
+import { ViewTransitions } from 'astro:transitions';
+import { getThemeInitScript } from '@lib/themeManager';
+import Navigation from './Navigation.astro';
+import Footer from './Footer.astro';
+import '@styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  ogImage?: string;
+  ogType?: 'website' | 'music.song' | 'music.playlist';
+  canonical?: string;
+}
+
+const {
+  title,
+  description,
+  ogImage = '/chartwave/og-image.png',
+  ogType = 'website',
+  canonical,
+} = Astro.props;
+
+const siteUrl = 'https://BEKO2210.github.io/chartwave';
+const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl).href;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- Prevent FOUC: theme init before CSS loads -->
+    <script is:inline set:html={getThemeInitScript()} />
+
+    <!-- SEO -->
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={`${siteUrl}${ogImage}`} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:site_name" content="ChartWave" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={`${siteUrl}${ogImage}`} />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/chartwave/favicon.svg" />
+    <link rel="apple-touch-icon" href="/chartwave/apple-touch-icon.png" />
+
+    <!-- PWA -->
+    <meta name="theme-color" content="#080810" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <ViewTransitions fallback="animate" />
+  </head>
+  <body>
+    <!-- Skip to content -->
+    <a
+      href="#main-content"
+      class="fixed top-0 left-0 z-[100] -translate-y-full bg-[var(--brand)] px-4 py-2 text-white transition-transform focus:translate-y-0"
+    >
+      Skip to content
+    </a>
+
+    <Navigation />
+
+    <main id="main-content">
+      <slot />
+    </main>
+
+    <Footer />
+
+    <!-- Aria live region for player announcements -->
+    <div
+      id="player-announcements"
+      aria-live="polite"
+      aria-atomic="true"
+      class="sr-only"
+    ></div>
+  </body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "name": "chartwave",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "fetch:charts": "tsx scripts/fetch-charts.ts",
+    "validate:charts": "tsx scripts/validate-charts.ts",
+    "type-check": "tsc --noEmit",
+    "lint": "eslint src scripts --ext .ts,.astro",
+    "format": "prettier --write src scripts",
+    "postinstall": "astro sync"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.0",
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/jetbrains-mono": "^5.2.8",
+    "@tailwindcss/vite": "^4.2.1",
+    "astro": "^5.18.0",
+    "date-fns": "^4.1.0",
+    "howler": "^2.2.4",
+    "nanostores": "^1.1.1",
+    "tailwindcss": "^4.2.1",
+    "vite-plugin-pwa": "^1.2.0",
+    "workbox-window": "^7.4.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/howler": "^2.2.12",
+    "@types/node": "^25.3.3",
+    "@typescript-eslint/eslint-plugin": "^8.56.1",
+    "@typescript-eslint/parser": "^8.56.1",
+    "eslint": "^10.0.2",
+    "eslint-plugin-astro": "^1.6.0",
+    "prettier": "^3.8.1",
+    "prettier-plugin-astro": "^0.14.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

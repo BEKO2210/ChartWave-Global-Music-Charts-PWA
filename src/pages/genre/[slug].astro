@@ -1,0 +1,32 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+import ChartHeader from '@components/charts/ChartHeader.astro';
+import TrackList from '@components/tracks/TrackList.astro';
+import PlayerIsland from '@components/player/PlayerIsland.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('charts');
+  return entries
+    .filter((entry) => entry.data.type === 'genre')
+    .map((entry) => ({
+      params: { slug: entry.data.genre ?? entry.data.slug },
+      props: { chart: entry.data },
+    }));
+}
+
+const { chart } = Astro.props;
+---
+
+<BaseLayout
+  title={`${chart.name} Charts | ChartWave`}
+  description={chart.description}
+  ogType="music.playlist"
+>
+  <ChartHeader chart={chart} />
+
+  <div class="mx-auto max-w-7xl px-4 pb-8 sm:px-6">
+    <TrackList tracks={chart.tracks} showHeader={true} />
+  </div>
+  <PlayerIsland />
+</BaseLayout>

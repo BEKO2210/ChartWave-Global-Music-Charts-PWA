@@ -1,0 +1,36 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+import ChartGrid from '@components/charts/ChartGrid.astro';
+import PlayerIsland from '@components/player/PlayerIsland.astro';
+import { getCollection } from 'astro:content';
+
+const entries = await getCollection('charts');
+const charts = entries.map((e) => e.data);
+
+const globalCharts = charts.filter((c) => c.type === 'global');
+const countryCharts = charts.filter((c) => c.type === 'country');
+const genreCharts = charts.filter((c) => c.type === 'genre');
+---
+
+<BaseLayout
+  title="All Charts | ChartWave"
+  description="Browse all music charts — global, country-specific, and genre charts updated daily."
+>
+  <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6">
+    <h1 class="mb-2 text-3xl font-bold text-balance">All Charts</h1>
+    <p class="mb-8 text-[var(--text-secondary)]">
+      Browse global, country, and genre charts updated daily from Last.fm.
+    </p>
+
+    {globalCharts.length > 0 && (
+      <ChartGrid charts={globalCharts} title="Global" />
+    )}
+    {countryCharts.length > 0 && (
+      <ChartGrid charts={countryCharts} title="Countries" />
+    )}
+    {genreCharts.length > 0 && (
+      <ChartGrid charts={genreCharts} title="Genres" />
+    )}
+  </div>
+  <PlayerIsland />
+</BaseLayout>

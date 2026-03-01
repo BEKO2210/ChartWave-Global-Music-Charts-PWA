@@ -1,0 +1,33 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+import PlayerIsland from '@components/player/PlayerIsland.astro';
+---
+
+<BaseLayout
+  title="404 — Not Found | ChartWave"
+  description="The page you're looking for doesn't exist."
+>
+  <div class="mx-auto max-w-3xl px-4 py-24 text-center sm:px-6">
+    <div class="mb-6 font-mono text-8xl font-bold text-[var(--brand)]">404</div>
+    <h1 class="mb-4 text-2xl font-bold text-balance">Track not found</h1>
+    <p class="mb-8 text-lg text-[var(--text-secondary)]">
+      This page doesn't exist, but there are plenty of charts to explore.
+    </p>
+
+    <div class="flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+      <a
+        href="/chartwave/"
+        class="inline-flex items-center gap-2 rounded-lg bg-[var(--brand)] px-6 py-3 font-medium text-white transition-colors hover:bg-[var(--brand-hover)]"
+      >
+        Go to Home
+      </a>
+      <a
+        href="/chartwave/charts"
+        class="inline-flex items-center gap-2 rounded-lg border border-[var(--border-default)] px-6 py-3 font-medium text-[var(--text-primary)] transition-colors hover:bg-[var(--bg-hover)]"
+      >
+        Browse Charts
+      </a>
+    </div>
+  </div>
+  <PlayerIsland />
+</BaseLayout>

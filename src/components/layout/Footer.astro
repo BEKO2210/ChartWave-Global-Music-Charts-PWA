@@ -1,0 +1,63 @@
+---
+const year = new Date().getFullYear();
+const footerLinks = [
+  { href: '/chartwave/about', label: 'About' },
+  { href: '/chartwave/privacy', label: 'Privacy' },
+  { href: '/chartwave/imprint', label: 'Imprint' },
+];
+---
+
+<footer class="border-t border-[var(--border-subtle)] bg-[var(--bg-surface)]">
+  <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6">
+    <div class="flex flex-col items-center justify-between gap-4 sm:flex-row">
+      <!-- Logo + tagline -->
+      <div class="flex items-center gap-2 text-sm text-[var(--text-secondary)]">
+        <svg width="20" height="20" viewBox="0 0 128 128" aria-hidden="true">
+          <defs>
+            <linearGradient id="footer-g" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#6366f1" />
+              <stop offset="100%" stop-color="#a855f7" />
+            </linearGradient>
+          </defs>
+          <rect width="128" height="128" rx="28" fill="var(--bg-elevated)" />
+          <g fill="url(#footer-g)">
+            <rect x="20" y="70" width="12" height="28" rx="6" />
+            <rect x="38" y="50" width="12" height="48" rx="6" />
+            <rect x="56" y="30" width="12" height="68" rx="6" />
+            <rect x="74" y="44" width="12" height="54" rx="6" />
+            <rect x="92" y="58" width="12" height="40" rx="6" />
+          </g>
+        </svg>
+        <span>ChartWave &copy; {year}</span>
+        <span class="text-[var(--text-muted)]">&mdash;</span>
+        <span class="text-[var(--text-muted)]">Discover music. Free. Open. Everywhere.</span>
+      </div>
+
+      <!-- Footer links -->
+      <nav class="flex items-center gap-4" aria-label="Footer navigation">
+        {footerLinks.map((link) => (
+          <a
+            href={link.href}
+            class="text-sm text-[var(--text-secondary)] transition-colors hover:text-[var(--text-primary)]"
+          >
+            {link.label}
+          </a>
+        ))}
+        <a
+          href="https://github.com/BEKO2210/chartwave"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-sm text-[var(--text-secondary)] transition-colors hover:text-[var(--text-primary)]"
+          aria-label="GitHub repository"
+        >
+          GitHub
+        </a>
+      </nav>
+    </div>
+
+    <!-- Data source attribution -->
+    <div class="mt-4 text-center text-xs text-[var(--text-muted)]">
+      Data from Last.fm, iTunes Search API &amp; MusicBrainz. 30-second previews provided by Apple Music.
+    </div>
+  </div>
+</footer>

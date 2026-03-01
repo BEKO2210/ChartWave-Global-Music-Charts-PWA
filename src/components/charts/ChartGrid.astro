@@ -1,0 +1,23 @@
+---
+import type { Chart } from '../../content/config';
+import ChartCard from './ChartCard.astro';
+
+interface Props {
+  charts: Chart[];
+  title?: string;
+}
+
+const { charts, title } = Astro.props;
+---
+
+<section class="w-full">
+  {title && (
+    <h2 class="text-2xl font-bold text-[var(--text-primary)] mb-6">{title}</h2>
+  )}
+
+  <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+    {charts.map((chart) => (
+      <ChartCard chart={chart} />
+    ))}
+  </div>
+</section>

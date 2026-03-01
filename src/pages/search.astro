@@ -1,0 +1,28 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+import PlayerIsland from '@components/player/PlayerIsland.astro';
+---
+
+<BaseLayout
+  title="Search | ChartWave"
+  description="Search for tracks, artists, and charts on ChartWave."
+>
+  <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6">
+    <h1 class="mb-2 text-3xl font-bold text-balance">Search</h1>
+    <p class="mb-8 text-[var(--text-secondary)]">
+      Find tracks, artists, and charts across ChartWave.
+    </p>
+
+    <div id="search-container" class="min-h-[50vh]">
+      <div class="rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-surface)] p-12 text-center">
+        <svg class="mx-auto mb-4 h-12 w-12 text-[var(--text-muted)]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" />
+        </svg>
+        <p class="text-[var(--text-muted)]">
+          Use the search bar in the navigation or press <kbd class="rounded border border-[var(--border-default)] bg-[var(--bg-elevated)] px-1.5 py-0.5 font-mono text-xs">Ctrl+K</kbd> to search.
+        </p>
+      </div>
+    </div>
+  </div>
+  <PlayerIsland />
+</BaseLayout>

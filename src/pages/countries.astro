@@ -1,0 +1,26 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+import ChartGrid from '@components/charts/ChartGrid.astro';
+import PlayerIsland from '@components/player/PlayerIsland.astro';
+import { getCollection } from 'astro:content';
+
+const entries = await getCollection('charts');
+const countryCharts = entries
+  .map((e) => e.data)
+  .filter((c) => c.type === 'country');
+---
+
+<BaseLayout
+  title="Country Charts | ChartWave"
+  description="Browse music charts by country — Germany, USA, UK, Japan, and more."
+>
+  <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6">
+    <h1 class="mb-2 text-3xl font-bold text-balance">Country Charts</h1>
+    <p class="mb-8 text-[var(--text-secondary)]">
+      See what's trending in countries around the world.
+    </p>
+
+    <ChartGrid charts={countryCharts} />
+  </div>
+  <PlayerIsland />
+</BaseLayout>

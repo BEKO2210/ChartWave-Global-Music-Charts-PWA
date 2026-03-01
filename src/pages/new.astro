@@ -1,0 +1,48 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+import TrackList from '@components/tracks/TrackList.astro';
+import PlayerIsland from '@components/player/PlayerIsland.astro';
+import { getCollection } from 'astro:content';
+import type { Track } from '../content/config';
+
+const entries = await getCollection('charts');
+const newTracks: Track[] = [];
+
+for (const entry of entries) {
+  for (const track of entry.data.tracks) {
+    if (track.rankChange === 'new') {
+      if (!newTracks.some((t) => t.id === track.id)) {
+        newTracks.push(track);
+      }
+    }
+  }
+}
+
+const sorted = newTracks
+  .sort((a, b) => b.listeners - a.listeners)
+  .slice(0, 50)
+  .map((track, i) => ({ ...track, rank: i + 1 }));
+---
+
+<BaseLayout
+  title="New Entries | ChartWave"
+  description="Brand new chart entries this week — freshly charted tracks from around the world."
+>
+  <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6">
+    <div class="mb-8">
+      <h1 class="mb-2 text-3xl font-bold text-balance">New Entries</h1>
+      <p class="text-[var(--text-secondary)]">
+        Brand new chart entries — tracks that just debuted on the charts.
+      </p>
+    </div>
+
+    {sorted.length > 0 ? (
+      <TrackList tracks={sorted} showHeader={true} />
+    ) : (
+      <div class="rounded-xl border border-[var(--border-subtle)] bg-[var(--bg-surface)] p-12 text-center">
+        <p class="text-[var(--text-muted)]">No new entries right now. Check back after the next chart update.</p>
+      </div>
+    )}
+  </div>
+  <PlayerIsland />
+</BaseLayout>

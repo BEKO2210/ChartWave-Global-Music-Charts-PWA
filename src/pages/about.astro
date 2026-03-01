@@ -1,0 +1,57 @@
+---
+import BaseLayout from '@components/layout/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="About | ChartWave"
+  description="Learn about ChartWave — a free, open-source music chart explorer with 30-second previews."
+>
+  <div class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="mb-6 text-3xl font-bold text-balance">About ChartWave</h1>
+
+    <div class="space-y-6 text-[var(--text-secondary)] leading-relaxed">
+      <p>
+        <strong class="text-[var(--text-primary)]">ChartWave</strong> is a free, open-source Progressive Web App
+        that brings you global and country-specific music charts with 30-second song previews.
+        No account required. No ads. No tracking. Just music.
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">How It Works</h2>
+      <p>
+        Every day at 06:00 UTC, our automated system fetches the latest chart data from
+        <a href="https://www.last.fm/api" target="_blank" rel="noopener noreferrer" class="text-[var(--text-accent)] hover:underline">Last.fm</a>,
+        enriches it with 30-second previews and high-quality artwork from the
+        <a href="https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/" target="_blank" rel="noopener noreferrer" class="text-[var(--text-accent)] hover:underline">iTunes Search API</a>,
+        and optionally adds metadata from
+        <a href="https://musicbrainz.org/" target="_blank" rel="noopener noreferrer" class="text-[var(--text-accent)] hover:underline">MusicBrainz</a>.
+      </p>
+      <p>
+        The result is a fully static website — no backend, no database, no server costs.
+        It's hosted for free on GitHub Pages and can be installed as a native app on any device.
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">Tech Stack</h2>
+      <ul class="list-inside list-disc space-y-1">
+        <li>Astro 5 — Static site generation with islands architecture</li>
+        <li>Tailwind CSS v4 — Modern utility-first styling</li>
+        <li>TypeScript 5 — Strict type safety throughout</li>
+        <li>Howler.js — Cross-browser audio playback</li>
+        <li>Nanostores — Lightweight reactive state management</li>
+        <li>Workbox — PWA with offline support</li>
+      </ul>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">Open Source</h2>
+      <p>
+        ChartWave is fully open source. View the code, report issues, or contribute on
+        <a href="https://github.com/BEKO2210/chartwave" target="_blank" rel="noopener noreferrer" class="text-[var(--text-accent)] hover:underline">GitHub</a>.
+      </p>
+
+      <h2 class="text-xl font-semibold text-[var(--text-primary)]">Data Sources</h2>
+      <ul class="list-inside list-disc space-y-1">
+        <li><strong>Last.fm</strong> — Chart rankings, play counts, listener data, and genre tags</li>
+        <li><strong>iTunes Search API</strong> — 30-second audio previews, HD artwork, and direct links</li>
+        <li><strong>MusicBrainz</strong> — ISRC codes and additional metadata enrichment</li>
+      </ul>
+    </div>
+  </div>
+</BaseLayout>

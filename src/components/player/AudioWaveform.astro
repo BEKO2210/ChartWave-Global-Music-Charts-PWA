@@ -1,0 +1,27 @@
+---
+interface Props {
+  isPlaying?: boolean;
+  barCount?: number;
+  class?: string;
+}
+
+const { isPlaying = false, barCount = 4, class: className = '' } = Astro.props;
+---
+
+<div
+  class:list={['flex items-end gap-[2px]', className]}
+  role="img"
+  aria-label={isPlaying ? 'Audio playing' : 'Audio paused'}
+>
+  {Array.from({ length: barCount }).map((_, i) => (
+    <span
+      class="w-[3px] rounded-full bg-[var(--brand)]"
+      style={`
+        height: ${12 + Math.random() * 8}px;
+        animation: ${isPlaying ? `waveformBounce ${0.4 + i * 0.1}s ease-in-out infinite` : 'none'};
+        animation-delay: ${i * 0.1}s;
+        opacity: ${isPlaying ? 1 : 0.4};
+      `}
+    />
+  ))}
+</div>

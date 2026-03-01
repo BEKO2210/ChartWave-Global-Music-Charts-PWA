@@ -1,0 +1,50 @@
+---
+interface Props {
+  hasPreview: boolean;
+}
+
+const { hasPreview } = Astro.props;
+---
+
+{hasPreview ? (
+  <span
+    class="inline-flex items-center text-[var(--playing-green)]"
+    title="Preview available"
+    aria-label="Preview available"
+  >
+    <svg
+      width="16"
+      height="16"
+      viewBox="0 0 24 24"
+      fill="currentColor"
+      aria-hidden="true"
+    >
+      <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55C7.79 13 6 14.79 6 17s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z" />
+    </svg>
+  </span>
+) : (
+  <span
+    class="inline-flex items-center text-[var(--no-preview)]"
+    title="No preview available"
+    aria-label="No preview available"
+  >
+    <svg
+      width="16"
+      height="16"
+      viewBox="0 0 24 24"
+      fill="currentColor"
+      aria-hidden="true"
+    >
+      <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55C7.79 13 6 14.79 6 17s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z" />
+      <line
+        x1="3"
+        y1="3"
+        x2="21"
+        y2="21"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+      />
+    </svg>
+  </span>
+)}

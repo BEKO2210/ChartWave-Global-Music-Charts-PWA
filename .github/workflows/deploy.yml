@@ -1,0 +1,102 @@
+name: Fetch Charts, Build & Deploy ChartWave
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      force_refetch:
+        description: 'Force re-fetch all charts even if cached'
+        required: false
+        default: 'false'
+        type: boolean
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    name: Fetch Chart Data
+    runs-on: ubuntu-latest
+    outputs:
+      data_changed: ${{ steps.check.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch all charts
+        id: fetch
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          FORCE_REFETCH: ${{ inputs.force_refetch || 'false' }}
+        run: |
+          npm run fetch:charts
+          echo "Fetch completed at $(date -u)"
+
+      - name: Check if data changed
+        id: check
+        run: |
+          git diff --quiet src/content/charts/ && \
+            echo "changed=false" >> $GITHUB_OUTPUT || \
+            echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit updated chart data
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config --global user.name  'ChartWave Bot'
+          git config --global user.email 'bot@chartwave.dev'
+          git add src/content/charts/
+          git commit -m "chore: update charts $(date -u +%Y-%m-%d) [skip ci]"
+          git push
+
+  build-and-deploy:
+    name: Build & Deploy
+    needs: fetch
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate chart data schemas
+        run: npm run validate:charts
+
+      - name: Build Astro
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
