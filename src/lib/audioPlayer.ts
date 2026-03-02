@@ -218,7 +218,14 @@ class AudioPlayerManager {
     const playable = tracks.filter((t) => t.previewUrl !== null);
     if (playable.length === 0) return;
 
-    const adjustedIndex = Math.min(startIndex, playable.length - 1);
+    // Find the intended track by ID to handle index shifts from filtering
+    const intendedTrack = tracks[startIndex];
+    let adjustedIndex = 0;
+    if (intendedTrack) {
+      const found = playable.findIndex((t) => t.id === intendedTrack.id);
+      adjustedIndex = found >= 0 ? found : 0;
+    }
+
     $queue.set(playable);
     $queueIndex.set(adjustedIndex);
 

@@ -63,9 +63,20 @@ const { tracks, showHeader = false } = Astro.props;
     return tracks;
   }
 
-  // Delegated click handler for track rows/cards
+  // Delegated click handler for track rows/cards and Play All buttons
+  // Uses event delegation on document so it works across Astro View Transitions
   document.addEventListener('click', (e) => {
     const target = e.target as HTMLElement;
+
+    // Handle "Play All" button clicks
+    const playAllBtn = target.closest('[data-play-all]');
+    if (playAllBtn) {
+      const allTracks = getAllTrackInfos();
+      if (allTracks.length > 0) {
+        audioPlayer.playChart(allTracks, 0);
+      }
+      return;
+    }
 
     // Don't intercept clicks on external links or interactive elements
     if (target.closest('a[href]') || target.closest('input') || target.closest('select')) return;
@@ -81,15 +92,5 @@ const { tracks, showHeader = false } = Astro.props;
     const allTracks = getAllTrackInfos();
     const startIndex = allTracks.findIndex((t) => t.id === clickedTrack.id);
     audioPlayer.playChart(allTracks, startIndex >= 0 ? startIndex : 0);
-  });
-
-  // Play All button handler
-  document.querySelectorAll('[data-play-all]').forEach((btn) => {
-    btn.addEventListener('click', () => {
-      const allTracks = getAllTrackInfos();
-      if (allTracks.length > 0) {
-        audioPlayer.playChart(allTracks, 0);
-      }
-    });
   });
 </script>
