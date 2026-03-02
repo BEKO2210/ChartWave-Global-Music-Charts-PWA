@@ -4,7 +4,7 @@ import ProgressBar from './ProgressBar.astro';
 
 <div
   id="mini-player"
-  class="glass-player fixed bottom-0 left-0 right-0 z-50"
+  class="glass-player fixed bottom-0 left-0 right-0 z-50 hidden"
   role="region"
   aria-label="Music player"
 >
@@ -152,6 +152,7 @@ import ProgressBar from './ProgressBar.astro';
   } from '../../stores/player';
 
   // DOM elements
+  const player = document.getElementById('mini-player');
   const artwork = document.getElementById('player-artwork') as HTMLImageElement | null;
   const titleEl = document.getElementById('player-title');
   const artistEl = document.getElementById('player-artist');
@@ -176,11 +177,10 @@ import ProgressBar from './ProgressBar.astro';
     return `${Math.floor(sec / 60)}:${String(sec % 60).padStart(2, '0')}`;
   }
 
-  // Player is always visible (fixed at bottom).
-  // $playerVisible is kept for programmatic use but doesn't hide the player.
-
+  // Show the player as soon as a track is selected
   $currentTrack.subscribe((track) => {
     if (!track) return;
+    if (player) player.classList.remove('hidden');
     if (artwork) { artwork.src = track.artwork.medium; artwork.alt = `${track.title} artwork`; }
     if (titleEl) titleEl.textContent = track.title;
     if (artistEl) artistEl.textContent = track.artistName;
