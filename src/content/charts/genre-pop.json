@@ -3,7 +3,7 @@
   "slug": "genre-pop",
   "name": "Pop",
   "type": "genre",
-  "description": "Top Pop tracks worldwide, updated daily from Last.fm.",
+  "description": "Top Pop tracks worldwide, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "bruno-mars--locked-out-of-heaven",

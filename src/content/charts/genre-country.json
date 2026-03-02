@@ -3,7 +3,7 @@
   "slug": "genre-country",
   "name": "Country",
   "type": "genre",
-  "description": "Top Country tracks worldwide, updated daily from Last.fm.",
+  "description": "Top Country tracks worldwide, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "buck-owens--made-in-japan",

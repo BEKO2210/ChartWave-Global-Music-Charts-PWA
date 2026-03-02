@@ -3,6 +3,7 @@ import { ViewTransitions } from 'astro:transitions';
 import { getThemeInitScript } from '@lib/themeManager';
 import Navigation from './Navigation.astro';
 import Footer from './Footer.astro';
+import PlayerIsland from '../player/PlayerIsland.astro';
 import '@styles/global.css';
 
 interface Props {
@@ -81,6 +82,8 @@ const canonicalUrl = canonical ?? new URL(Astro.url.pathname, siteUrl).href;
     </main>
 
     <Footer />
+
+    <PlayerIsland />
 
     <!-- Aria live region for player announcements -->
     <div

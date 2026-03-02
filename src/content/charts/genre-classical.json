@@ -3,7 +3,7 @@
   "slug": "genre-classical",
   "name": "Classical",
   "type": "genre",
-  "description": "Top Classical tracks worldwide, updated daily from Last.fm.",
+  "description": "Top Classical tracks worldwide, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "erik-satie--gymnopedie-no-1",

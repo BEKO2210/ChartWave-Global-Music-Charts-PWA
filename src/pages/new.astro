@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '@components/layout/BaseLayout.astro';
 import TrackList from '@components/tracks/TrackList.astro';
-import PlayerIsland from '@components/player/PlayerIsland.astro';
 import { getCollection } from 'astro:content';
 import type { Track } from '../content/config';
 
@@ -44,5 +43,4 @@ const sorted = newTracks
       </div>
     )}
   </div>
-  <PlayerIsland />
 </BaseLayout>

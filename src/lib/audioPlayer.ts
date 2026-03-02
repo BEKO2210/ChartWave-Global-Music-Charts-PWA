@@ -173,10 +173,18 @@ class AudioPlayerManager {
     if (queue.length === 0) return;
 
     let nextIndex: number;
+    const currentIndex = $queueIndex.get();
     if ($isShuffle.get()) {
-      nextIndex = Math.floor(Math.random() * queue.length);
+      if (queue.length <= 1) {
+        nextIndex = 0;
+      } else {
+        // Avoid playing the same track again
+        do {
+          nextIndex = Math.floor(Math.random() * queue.length);
+        } while (nextIndex === currentIndex);
+      }
     } else {
-      nextIndex = $queueIndex.get() + 1;
+      nextIndex = currentIndex + 1;
     }
 
     if (nextIndex >= queue.length) {
@@ -196,7 +204,19 @@ class AudioPlayerManager {
 
   async playPrev(): Promise<void> {
     const queue = $queue.get();
-    const prevIndex = Math.max(0, $queueIndex.get() - 1);
+    if (queue.length === 0) return;
+
+    const currentIndex = $queueIndex.get();
+    let prevIndex: number;
+
+    if (currentIndex > 0) {
+      prevIndex = currentIndex - 1;
+    } else if ($repeatMode.get() === 'all') {
+      prevIndex = queue.length - 1;
+    } else {
+      prevIndex = 0;
+    }
+
     const track = queue[prevIndex];
     if (!track) return;
 

@@ -35,7 +35,7 @@ export const GET: APIRoute = async () => {
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ChartWave — New Chart Entries</title>
-    <description>New entries on music charts worldwide, updated daily.</description>
+    <description>New entries on music charts worldwide, updated weekly.</description>
     <link>https://BEKO2210.github.io/ChartWave-Global-Music-Charts-PWA/</link>
     <atom:link href="https://BEKO2210.github.io/ChartWave-Global-Music-Charts-PWA/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>

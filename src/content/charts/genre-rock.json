@@ -3,7 +3,7 @@
   "slug": "genre-rock",
   "name": "Rock",
   "type": "genre",
-  "description": "Top Rock tracks worldwide, updated daily from Last.fm.",
+  "description": "Top Rock tracks worldwide, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "fleetwood-mac--the-chain-2004-remaster",

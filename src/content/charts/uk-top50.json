@@ -3,7 +3,7 @@
   "slug": "uk-top50",
   "name": "United Kingdom Top 50",
   "type": "country",
-  "description": "Top 50 most listened tracks in the United Kingdom, updated daily.",
+  "description": "Top 50 most listened tracks in the United Kingdom, updated weekly.",
   "tracks": [
     {
       "id": "pinkpantheress--stateside-zara-larsson",

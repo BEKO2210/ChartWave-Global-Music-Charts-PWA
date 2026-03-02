@@ -1,5 +1,5 @@
 import { audioPlayer } from './audioPlayer';
-import { $volume, $fullScreenOpen, $queueDrawerOpen, $repeatMode, $isShuffle } from '../stores/player';
+import { $volume, $progress, $fullScreenOpen, $queueDrawerOpen, $repeatMode, $isShuffle } from '../stores/player';
 
 function isInputFocused(): boolean {
   const active = document.activeElement;
@@ -19,10 +19,11 @@ export function initKeyboardShortcuts(): void {
         break;
       case 'ArrowLeft':
         e.preventDefault();
-        audioPlayer.seek(Math.max(0, ($volume.get() || 0) - 0.1));
+        audioPlayer.seek(Math.max(0, $progress.get() - 0.05));
         break;
       case 'ArrowRight':
         e.preventDefault();
+        audioPlayer.seek(Math.min(1, $progress.get() + 0.05));
         break;
       case 'ArrowUp':
         e.preventDefault();

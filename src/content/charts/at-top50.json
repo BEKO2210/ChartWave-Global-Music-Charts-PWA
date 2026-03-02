@@ -3,7 +3,7 @@
   "slug": "at-top50",
   "name": "Austria Top 50",
   "type": "country",
-  "description": "Top 50 most listened tracks in Austria, updated daily.",
+  "description": "Top 50 most listened tracks in Austria, updated weekly.",
   "tracks": [
     {
       "id": "pinkpantheress--stateside-zara-larsson",

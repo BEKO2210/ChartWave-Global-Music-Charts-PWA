@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '@components/layout/BaseLayout.astro';
 import ChartGrid from '@components/charts/ChartGrid.astro';
-import PlayerIsland from '@components/player/PlayerIsland.astro';
 import { getCollection } from 'astro:content';
 
 const entries = await getCollection('charts');
@@ -17,10 +16,9 @@ const genreCharts = entries
   <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6">
     <h1 class="mb-2 text-3xl font-bold text-balance">Genre Charts</h1>
     <p class="mb-8 text-[var(--text-secondary)]">
-      Explore the top tracks across every genre, updated daily.
+      Explore the top tracks across every genre, updated weekly.
     </p>
 
     <ChartGrid charts={genreCharts} />
   </div>
-  <PlayerIsland />
 </BaseLayout>

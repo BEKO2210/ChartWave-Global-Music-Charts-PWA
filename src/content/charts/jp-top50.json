@@ -3,7 +3,7 @@
   "slug": "jp-top50",
   "name": "Japan Top 50",
   "type": "country",
-  "description": "Top 50 most listened tracks in Japan, updated daily.",
+  "description": "Top 50 most listened tracks in Japan, updated weekly.",
   "tracks": [
     {
       "id": "--iris-out",

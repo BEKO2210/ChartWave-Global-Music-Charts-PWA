@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '@components/layout/BaseLayout.astro';
 import ChartGrid from '@components/charts/ChartGrid.astro';
-import PlayerIsland from '@components/player/PlayerIsland.astro';
 import { getCollection } from 'astro:content';
 
 const entries = await getCollection('charts');
@@ -22,5 +21,4 @@ const countryCharts = entries
 
     <ChartGrid charts={countryCharts} />
   </div>
-  <PlayerIsland />
 </BaseLayout>

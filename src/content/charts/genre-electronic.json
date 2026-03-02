@@ -3,7 +3,7 @@
   "slug": "genre-electronic",
   "name": "Electronic",
   "type": "genre",
-  "description": "Top Electronic tracks worldwide, updated daily from Last.fm.",
+  "description": "Top Electronic tracks worldwide, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "gorillaz--on-melancholy-hill",

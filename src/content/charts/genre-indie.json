@@ -3,7 +3,7 @@
   "slug": "genre-indie",
   "name": "Indie",
   "type": "genre",
-  "description": "Top Indie tracks worldwide, updated daily from Last.fm.",
+  "description": "Top Indie tracks worldwide, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "the-neighbourhood--sweater-weather",

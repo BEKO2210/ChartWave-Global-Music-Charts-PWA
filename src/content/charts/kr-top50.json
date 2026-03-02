@@ -3,7 +3,7 @@
   "slug": "kr-top50",
   "name": "South Korea Top 50",
   "type": "country",
-  "description": "Top 50 most listened tracks in South Korea, updated daily.",
+  "description": "Top 50 most listened tracks in South Korea, updated weekly.",
   "tracks": [
     {
       "id": "kiiikiii--404-new-era",

@@ -3,7 +3,7 @@
   "slug": "global-top50",
   "name": "Global Top 50",
   "type": "global",
-  "description": "The most listened tracks worldwide right now, updated daily from Last.fm.",
+  "description": "The most listened tracks worldwide right now, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "pinkpantheress--stateside-zara-larsson",
