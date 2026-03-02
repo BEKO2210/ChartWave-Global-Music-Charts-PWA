@@ -12,7 +12,7 @@ export const GET: APIRoute = async () => {
           title: track.title,
           artist: track.artistName,
           chart: entry.data.name,
-          link: track.links.lastfm ?? `https://BEKO2210.github.io/chartwave/chart/${entry.data.slug}`,
+          link: track.links.lastfm ?? `https://BEKO2210.github.io/ChartWave-Global-Music-Charts-PWA/chart/${entry.data.slug}`,
         });
       }
     }
@@ -36,8 +36,8 @@ export const GET: APIRoute = async () => {
   <channel>
     <title>ChartWave — New Chart Entries</title>
     <description>New entries on music charts worldwide, updated daily.</description>
-    <link>https://BEKO2210.github.io/chartwave/</link>
-    <atom:link href="https://BEKO2210.github.io/chartwave/rss.xml" rel="self" type="application/rss+xml"/>
+    <link>https://BEKO2210.github.io/ChartWave-Global-Music-Charts-PWA/</link>
+    <atom:link href="https://BEKO2210.github.io/ChartWave-Global-Music-Charts-PWA/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     ${items}
   </channel>

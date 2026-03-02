@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://BEKO2210.github.io/chartwave/sitemap-index.xml
+Sitemap: https://BEKO2210.github.io/ChartWave-Global-Music-Charts-PWA/sitemap-index.xml

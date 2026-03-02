@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig({
   site: 'https://BEKO2210.github.io',
-  base: '/chartwave',
+  base: '/ChartWave-Global-Music-Charts-PWA',
   output: 'static',
   integrations: [sitemap()],
   vite: {
@@ -24,8 +24,8 @@ export default defineConfig({
           display: 'standalone',
           display_override: ['window-controls-overlay', 'standalone'],
           orientation: 'any',
-          start_url: '/chartwave/',
-          scope: '/chartwave/',
+          start_url: '/ChartWave-Global-Music-Charts-PWA/',
+          scope: '/ChartWave-Global-Music-Charts-PWA/',
           categories: ['music', 'entertainment'],
           icons: [
             { src: 'pwa-64x64.png', sizes: '64x64', type: 'image/png' },
@@ -38,13 +38,13 @@ export default defineConfig({
             { src: 'screenshot-mobile.png', sizes: '390x844', type: 'image/png', form_factor: 'narrow', label: 'ChartWave Mobile' }
           ],
           shortcuts: [
-            { name: 'Global Top 50', url: '/chartwave/chart/global-top50', icons: [{ src: 'pwa-64x64.png', sizes: '64x64' }] },
-            { name: 'Trending', url: '/chartwave/trending', icons: [{ src: 'pwa-64x64.png', sizes: '64x64' }] }
+            { name: 'Global Top 50', url: '/ChartWave-Global-Music-Charts-PWA/chart/global-top50', icons: [{ src: 'pwa-64x64.png', sizes: '64x64' }] },
+            { name: 'Trending', url: '/ChartWave-Global-Music-Charts-PWA/trending', icons: [{ src: 'pwa-64x64.png', sizes: '64x64' }] }
           ]
         },
         workbox: {
-          navigateFallback: '/chartwave/offline',
-          navigateFallbackDenylist: [/^\/chartwave\/api\//],
+          navigateFallback: '/ChartWave-Global-Music-Charts-PWA/offline',
+          navigateFallbackDenylist: [/^\/ChartWave-Global-Music-Charts-PWA\/api\//],
           globPatterns: ['**/*.{js,css,html,ico,png,svg,webp,woff2}'],
           runtimeCaching: [
             {
