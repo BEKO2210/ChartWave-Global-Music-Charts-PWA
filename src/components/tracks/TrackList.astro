@@ -10,7 +10,7 @@ interface Props {
 const { tracks, showHeader = false } = Astro.props;
 ---
 
-<div class="w-full" role="table" aria-label="Track chart">
+<div class="w-full" role="table" aria-label="Track chart" id="track-list">
   {showHeader && (
     <div
       class="flex items-center gap-3 border-b border-[var(--border-subtle)] px-3 py-2 text-xs font-medium uppercase tracking-wider text-[var(--text-muted)]"
@@ -38,3 +38,58 @@ const { tracks, showHeader = false } = Astro.props;
     </div>
   )}
 </div>
+
+<script>
+  import { audioPlayer } from '../../lib/audioPlayer';
+  import type { TrackInfo } from '../../stores/player';
+
+  function getTrackInfoFromElement(el: Element): TrackInfo | null {
+    const raw = el.getAttribute('data-track-info');
+    if (!raw) return null;
+    try {
+      return JSON.parse(raw) as TrackInfo;
+    } catch {
+      return null;
+    }
+  }
+
+  function getAllTrackInfos(): TrackInfo[] {
+    const rows = document.querySelectorAll('[data-track-info]');
+    const tracks: TrackInfo[] = [];
+    rows.forEach((row) => {
+      const info = getTrackInfoFromElement(row);
+      if (info) tracks.push(info);
+    });
+    return tracks;
+  }
+
+  // Delegated click handler for track rows/cards
+  document.addEventListener('click', (e) => {
+    const target = e.target as HTMLElement;
+
+    // Don't intercept clicks on external links or interactive elements
+    if (target.closest('a[href]') || target.closest('input') || target.closest('select')) return;
+
+    // Check if click is on a track row/card
+    const trackEl = target.closest('[data-track-info]');
+    if (!trackEl) return;
+
+    const clickedTrack = getTrackInfoFromElement(trackEl);
+    if (!clickedTrack || !clickedTrack.previewUrl) return;
+
+    // Build the full queue from all visible tracks and find the clicked index
+    const allTracks = getAllTrackInfos();
+    const startIndex = allTracks.findIndex((t) => t.id === clickedTrack.id);
+    audioPlayer.playChart(allTracks, startIndex >= 0 ? startIndex : 0);
+  });
+
+  // Play All button handler
+  document.querySelectorAll('[data-play-all]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const allTracks = getAllTrackInfos();
+      if (allTracks.length > 0) {
+        audioPlayer.playChart(allTracks, 0);
+      }
+    });
+  });
+</script>

@@ -12,11 +12,24 @@ const { track } = Astro.props;
 
 const rankDisplay = String(track.rank).padStart(3, '0');
 const hasPreview = track.previewUrl !== null;
+
+const trackData = JSON.stringify({
+  id: track.id,
+  title: track.title,
+  artistName: track.artistName,
+  artistSlug: track.artistSlug,
+  albumTitle: track.albumTitle ?? null,
+  duration: track.duration ?? null,
+  previewUrl: track.previewUrl,
+  artwork: track.artwork,
+  links: track.links,
+});
 ---
 
 <div
-  class="group relative overflow-hidden rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] p-4 transition-all duration-300 hover:border-[var(--border-accent)] hover:shadow-lg hover:shadow-[var(--brand)]/5"
+  class:list={["group relative overflow-hidden rounded-xl bg-[var(--bg-surface)] border border-[var(--border-subtle)] p-4 transition-all duration-300 hover:border-[var(--border-accent)] hover:shadow-lg hover:shadow-[var(--brand)]/5", hasPreview && "cursor-pointer"]}
   data-track-id={track.id}
+  data-track-info={trackData}
 >
   <!-- Rank badge in top-right corner -->
   <div class="absolute top-3 right-3 z-10 flex items-center gap-1.5 rounded-full bg-[var(--bg-overlay)]/80 px-2.5 py-1 backdrop-blur-sm">
@@ -40,11 +53,9 @@ const hasPreview = track.previewUrl !== null;
 
     {/* Play overlay on hover */}
     {hasPreview && (
-      <button
-        type="button"
+      <div
         class="absolute inset-0 flex items-center justify-center bg-black/50 opacity-0 transition-opacity duration-300 group-hover:opacity-100"
-        aria-label={`Play preview of ${track.title}`}
-        data-preview-url={track.previewUrl}
+        aria-hidden="true"
       >
         <span class="flex h-12 w-12 items-center justify-center rounded-full bg-[var(--brand)] shadow-lg transition-transform group-hover:scale-110">
           <svg
@@ -57,7 +68,7 @@ const hasPreview = track.previewUrl !== null;
             <path d="M8 5v14l11-7z" />
           </svg>
         </span>
-      </button>
+      </div>
     )}
   </div>
 
@@ -75,12 +86,11 @@ const hasPreview = track.previewUrl !== null;
   </h3>
 
   <!-- Artist name -->
-  <a
-    href={`/ChartWave-Global-Music-Charts-PWA/artist/${track.artistSlug}`}
-    class="mt-1 block truncate text-sm text-[var(--text-secondary)] transition-colors hover:text-[var(--text-accent)]"
+  <span
+    class="mt-1 block truncate text-sm text-[var(--text-secondary)]"
   >
     {track.artistName}
-  </a>
+  </span>
 
   <!-- Footer: listeners + genres -->
   <div class="mt-3 flex items-center justify-between gap-2">

@@ -14,11 +14,24 @@ const { track, index } = Astro.props;
 const rankDisplay = String(track.rank).padStart(3, '0');
 const hasPreview = track.previewUrl !== null;
 const genreTags = track.genres.slice(0, 2);
+
+const trackData = JSON.stringify({
+  id: track.id,
+  title: track.title,
+  artistName: track.artistName,
+  artistSlug: track.artistSlug,
+  albumTitle: track.albumTitle ?? null,
+  duration: track.duration ?? null,
+  previewUrl: track.previewUrl,
+  artwork: track.artwork,
+  links: track.links,
+});
 ---
 
 <div
-  class="group flex items-center gap-3 rounded-lg px-3 py-2 transition-colors hover:bg-[var(--bg-hover)]"
+  class:list={["group flex items-center gap-3 rounded-lg px-3 py-2 transition-colors hover:bg-[var(--bg-hover)]", hasPreview && "cursor-pointer"]}
   data-track-id={track.id}
+  data-track-info={trackData}
   data-index={index}
   role="row"
 >
@@ -43,11 +56,9 @@ const genreTags = track.genres.slice(0, 2);
     placeholder={track.artwork.placeholder}
   >
     {hasPreview && (
-      <button
-        type="button"
+      <div
         class="absolute inset-0 flex items-center justify-center rounded-lg bg-black/60 opacity-0 transition-opacity group-hover:opacity-100"
-        aria-label={`Play preview of ${track.title}`}
-        data-preview-url={track.previewUrl}
+        aria-hidden="true"
       >
         <svg
           width="20"
@@ -58,7 +69,7 @@ const genreTags = track.genres.slice(0, 2);
         >
           <path d="M8 5v14l11-7z" />
         </svg>
-      </button>
+      </div>
     )}
   </ArtworkImage>
 
@@ -75,12 +86,11 @@ const genreTags = track.genres.slice(0, 2);
         </span>
       )}
     </span>
-    <a
-      href={`/ChartWave-Global-Music-Charts-PWA/artist/${track.artistSlug}`}
-      class="truncate text-sm text-[var(--text-secondary)] transition-colors hover:text-[var(--text-accent)]"
+    <span
+      class="truncate text-sm text-[var(--text-secondary)]"
     >
       {track.artistName}
-    </a>
+    </span>
   </div>
 
   <!-- Genre tags (hidden on mobile) -->
@@ -99,22 +109,14 @@ const genreTags = track.genres.slice(0, 2);
     {formatNumber(track.listeners)}
   </span>
 
-  <!-- Context menu button -->
-  <button
-    type="button"
-    class="shrink-0 rounded-md p-1 text-[var(--text-muted)] opacity-0 transition-all hover:bg-[var(--bg-elevated)] hover:text-[var(--text-secondary)] group-hover:opacity-100"
-    aria-label={`More options for ${track.title}`}
-  >
-    <svg
-      width="16"
-      height="16"
-      viewBox="0 0 24 24"
-      fill="currentColor"
-      aria-hidden="true"
-    >
-      <circle cx="12" cy="5" r="2" />
-      <circle cx="12" cy="12" r="2" />
-      <circle cx="12" cy="19" r="2" />
-    </svg>
-  </button>
+  <!-- Preview indicator -->
+  {hasPreview ? (
+    <span class="shrink-0 rounded-md p-1 text-[var(--text-muted)] opacity-0 transition-all group-hover:opacity-100" aria-label="Has 30s preview">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M8 5v14l11-7z" />
+      </svg>
+    </span>
+  ) : (
+    <span class="shrink-0 w-[24px]"></span>
+  )}
 </div>
