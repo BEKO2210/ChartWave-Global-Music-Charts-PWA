@@ -82,29 +82,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/c8/74/e0c87403-334f-e711-47d0-909f1bb192df/mzaf_10846901357548759630.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/9f/7f/609f7f34-c239-73e8-32da-96fd5f2cba77/886446480060.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/9f/7f/609f7f34-c239-73e8-32da-96fd5f2cba77/886446480060.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/9f/7f/609f7f34-c239-73e8-32da-96fd5f2cba77/886446480060.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Shakira/_/Chantaje+(feat.+Maluma)",
-        "itunes": "https://music.apple.com/us/album/chantaje-feat-maluma/1234665555?i=1234665569&uo=4"
+        "lastfm": "https://www.last.fm/music/Shakira/_/Chantaje+(feat.+Maluma)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
-      "albumTitle": "El Dorado",
-      "duration": 196,
+      "duration": 194,
       "previousRank": 3,
-      "rankDelta": 0,
-      "releaseDate": "2016-10-28T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "bad-bunny--moscow-mule",
@@ -353,30 +349,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/de/46/84de46ef-f9f8-c6ad-fb6e-f6d5ca7571b7/mzaf_17789816509198950478.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/1d/ad/211dad4f-69f6-9ac3-4c3b-3116dd3de4d4/06UMGIM24053.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/1d/ad/211dad4f-69f6-9ac3-4c3b-3116dd3de4d4/06UMGIM24053.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/1d/ad/211dad4f-69f6-9ac3-4c3b-3116dd3de4d4/06UMGIM24053.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Juanes/_/La+Camisa+Negra",
-        "itunes": "https://music.apple.com/us/album/la-camisa-negra/1440652099?i=1440652265&uo=4"
+        "lastfm": "https://www.last.fm/music/Juanes/_/La+Camisa+Negra"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "042018af-d224-34d4-864a-0aa6f1ecdaf3",
       "artistMbid": "8b0f05ce-354e-4121-9e0b-8b4732ea844f",
-      "albumTitle": "Mi Sangre",
-      "duration": 217,
+      "duration": 216,
       "previousRank": 11,
-      "rankDelta": 0,
-      "releaseDate": "2004-08-26T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "shawn-mendes--senorita",
@@ -455,30 +447,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8c/30/24/8c3024c2-5d1d-19b0-8f64-0a8ae638bbfb/mzaf_8648682391541433644.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/4a/b7/904ab7d4-a81c-262f-8b2c-3f0506640691/190374237703.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/4a/b7/904ab7d4-a81c-262f-8b2c-3f0506640691/190374237703.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/4a/b7/904ab7d4-a81c-262f-8b2c-3f0506640691/190374237703.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Aventura/_/El+Perdedor",
-        "itunes": "https://music.apple.com/us/album/el-perdedor/1074054159?i=1074054701&uo=4"
+        "lastfm": "https://www.last.fm/music/Aventura/_/El+Perdedor"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0ce1a1b2-32f5-4ef6-8567-5ff0ce2ca0ce",
       "artistMbid": "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
-      "albumTitle": "Todavía Me Amas: Lo Mejor de Aventura (Deluxe Edition)",
-      "duration": 215,
+      "duration": 238,
       "previousRank": 14,
-      "rankDelta": 0,
-      "releaseDate": "2006-12-19T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "buena-vista-social-club--chan-chan",
@@ -489,30 +477,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9f/b3/bb/9fb3bb95-dce9-bd65-7d91-4e9c4322dbc0/mzaf_17702336458070202791.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan",
-        "itunes": "https://music.apple.com/us/album/chan-chan/1716598034?i=1716598344&uo=4"
+        "lastfm": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "078b7a5d-7962-4722-9b90-914c711b88c8",
       "artistMbid": "2a85ecff-41e9-4be1-aca6-c87054a4c334",
-      "albumTitle": "Buena Vista Social Club",
-      "duration": 259,
+      "duration": 258,
       "previousRank": 15,
-      "rankDelta": 0,
-      "releaseDate": "1997-06-23T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "elvis-crespo--suavemente",
@@ -523,30 +507,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/f4/b4/42f4b497-cbfb-a982-788d-69294bd119ef/mzaf_4406960368277173940.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/b6/2f/0ab62f9e-c72b-0968-d11e-24d2b38dd5d8/mzi.lomqptbg.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/b6/2f/0ab62f9e-c72b-0968-d11e-24d2b38dd5d8/mzi.lomqptbg.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/b6/2f/0ab62f9e-c72b-0968-d11e-24d2b38dd5d8/mzi.lomqptbg.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Elvis+Crespo/_/Suavemente",
-        "itunes": "https://music.apple.com/us/album/suavemente/187429585?i=187429633&uo=4"
+        "lastfm": "https://www.last.fm/music/Elvis+Crespo/_/Suavemente"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0246a2cf-935b-457e-a50e-e36f75d6cf87",
       "artistMbid": "776b2c10-31fe-4c4b-9982-f408279b80a9",
-      "albumTitle": "Suavemente",
-      "duration": 267,
+      "duration": 268,
       "previousRank": 16,
-      "rankDelta": 0,
-      "releaseDate": "1998-04-04T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "bad-bunny--ojitos-lindos",
@@ -590,30 +570,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/64/52/416452dc-fc37-bb03-d5b9-6cad57b4fe8c/mzaf_13731390409657648314.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/b1/5d/8fb15d20-491c-5232-e939-ca4ddbd07a9d/06UMGIM13859.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/b1/5d/8fb15d20-491c-5232-e939-ca4ddbd07a9d/06UMGIM13859.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/b1/5d/8fb15d20-491c-5232-e939-ca4ddbd07a9d/06UMGIM13859.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Juanes/_/A+Dios+Le+Pido",
-        "itunes": "https://music.apple.com/us/album/a-dios-le-pido/1440785045?i=1440785264&uo=4"
+        "lastfm": "https://www.last.fm/music/Juanes/_/A+Dios+Le+Pido"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "024102a9-51c4-4666-b477-a4826047527d",
       "artistMbid": "8b0f05ce-354e-4121-9e0b-8b4732ea844f",
-      "albumTitle": "Un Día Normal",
       "duration": 205,
       "previousRank": 18,
-      "rankDelta": 0,
-      "releaseDate": "2002-06-06T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "shakira--addicted-to-you",
@@ -624,30 +600,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/ca/d7/aacad747-f168-13c1-5829-994ad79b75d9/mzaf_14673391289377486777.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/15/38/ec1538d9-67b8-e561-6b11-bc5a266cba7c/886444681568.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/15/38/ec1538d9-67b8-e561-6b11-bc5a266cba7c/886444681568.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/15/38/ec1538d9-67b8-e561-6b11-bc5a266cba7c/886444681568.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Shakira/_/Addicted+to+You",
-        "itunes": "https://music.apple.com/us/album/addicted-to-you/888878323?i=888878390&uo=4"
+        "lastfm": "https://www.last.fm/music/Shakira/_/Addicted+to+You"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "02f5b177-168d-376c-bcbe-4b09cd3f03b1",
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
-      "albumTitle": "Sale el Sol (Bonus Track Edition)",
-      "duration": 147,
+      "duration": 149,
       "previousRank": 19,
-      "rankDelta": 0,
-      "releaseDate": "2010-10-19T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "selena--amor-prohibido",
@@ -658,30 +630,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/aa/e3/5baae3ac-7c0e-9bb4-34a3-714d5f197865/mzaf_8398886671722301215.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/b4/dc/5eb4dc73-cb56-5aaa-761e-04f2bcf16100/13UABIM54244.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/b4/dc/5eb4dc73-cb56-5aaa-761e-04f2bcf16100/13UABIM54244.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/b4/dc/5eb4dc73-cb56-5aaa-761e-04f2bcf16100/13UABIM54244.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Selena/_/Amor+Prohibido",
-        "itunes": "https://music.apple.com/us/album/amor-prohibido/714819386?i=714819656&uo=4"
+        "lastfm": "https://www.last.fm/music/Selena/_/Amor+Prohibido"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00228b80-f91b-3c57-9922-5f916b98207b",
       "artistMbid": "03746227-c9f9-4b3b-b2c6-9b31f79564f7",
-      "albumTitle": "Ones",
-      "duration": 171,
+      "duration": 175,
       "previousRank": 20,
-      "rankDelta": 0,
-      "releaseDate": "1994-03-22T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "selena--como-la-flor",
@@ -726,30 +694,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/09/91/0d099178-b36f-a40a-d463-10b3d7d765ac/mzaf_10007740171693326730.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/39/fd/a339fdf6-e8f6-0a88-8799-b1db02c3aee9/mzi.nvqsivqv.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/39/fd/a339fdf6-e8f6-0a88-8799-b1db02c3aee9/mzi.nvqsivqv.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/39/fd/a339fdf6-e8f6-0a88-8799-b1db02c3aee9/mzi.nvqsivqv.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Man%C3%A1/_/En+El+Muelle+De+San+Blas",
-        "itunes": "https://music.apple.com/us/album/en-el-muelle-de-san-bl%C3%A1s/306124292?i=306124419&uo=4"
+        "lastfm": "https://www.last.fm/music/Man%C3%A1/_/En+El+Muelle+De+San+Blas"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00940955-b5d0-35db-918a-f49c091aedd7",
       "artistMbid": "55441123-89a2-49ab-ae3f-df7a3e86835a",
-      "albumTitle": "Sueños Líquidos",
-      "duration": 352,
+      "duration": 353,
       "previousRank": 22,
-      "rankDelta": 0,
-      "releaseDate": "1997-10-10T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "jennifer-lopez--lets-get-loud",
@@ -828,30 +792,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/80/e5/9480e56b-d1bf-e6f8-af0a-5d3bb5a4b35c/mzaf_916047728900147163.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/46/05/8b4605ed-4f64-72c0-a618-e041b5b4270e/5060281616937_cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/46/05/8b4605ed-4f64-72c0-a618-e041b5b4270e/5060281616937_cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/46/05/8b4605ed-4f64-72c0-a618-e041b5b4270e/5060281616937_cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Manu+Chao/_/Bongo+Bong",
-        "itunes": "https://music.apple.com/us/album/bongo-bong/725493481?i=725493639&uo=4"
+        "lastfm": "https://www.last.fm/music/Manu+Chao/_/Bongo+Bong"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0547e37d-b9b6-34e5-8bd9-a7c3ccb4f23e",
       "artistMbid": "7570a0dd-5a67-401b-b19a-261eee01a284",
-      "albumTitle": "Clandestino",
       "duration": 158,
       "previousRank": 25,
-      "rankDelta": 0,
-      "releaseDate": "1998-10-06T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "bacilos--caraluna",
@@ -862,30 +822,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/5b/5b/a65b5bcd-75c1-4d4a-7f56-716206a6036a/mzaf_10165567574457335884.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/7f/ca/357fca4d-70d6-6924-ca97-aed433bac1a7/mzi.knuakzpt.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/7f/ca/357fca4d-70d6-6924-ca97-aed433bac1a7/mzi.knuakzpt.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/7f/ca/357fca4d-70d6-6924-ca97-aed433bac1a7/mzi.knuakzpt.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Bacilos/_/Caraluna",
-        "itunes": "https://music.apple.com/us/album/caraluna/280875516?i=280875718&uo=4"
+        "lastfm": "https://www.last.fm/music/Bacilos/_/Caraluna"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0ff7912a-8dc7-4d47-ab71-34079a2804be",
       "artistMbid": "f69d655c-ffd6-4bee-8c2a-3086b2be2fc6",
-      "albumTitle": "Caraluna",
       "duration": 266,
       "previousRank": 26,
-      "rankDelta": 0,
-      "releaseDate": "2002-07-16T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "shakira--ciega-sordomuda",
@@ -1032,30 +988,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/b8/a3/32b8a349-4fcb-9211-6b96-c3f0083425a5/mzaf_1933709628490808457.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7a/5c/b87a5c68-9983-c648-a775-bbe1ba4cb32c/196872267891.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7a/5c/b87a5c68-9983-c648-a775-bbe1ba4cb32c/196872267891.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7a/5c/b87a5c68-9983-c648-a775-bbe1ba4cb32c/196872267891.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Shakira/_/D%C3%ADa+de+Enero",
-        "itunes": "https://music.apple.com/us/album/d%C3%ADa-de-enero/1758376213?i=1758376644&uo=4"
+        "lastfm": "https://www.last.fm/music/Shakira/_/D%C3%ADa+de+Enero"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0d9a0c52-c7bd-3aa0-a6e5-7e39896840ab",
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
-      "albumTitle": "Nostalgia Pop: Lo Mejor del Ayer en Español",
-      "duration": 173,
+      "duration": 175,
       "previousRank": 31,
-      "rankDelta": 0,
-      "releaseDate": "2005-06-03T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "julieta-venegas--lento",
@@ -1066,30 +1018,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a7/6e/d5/a76ed5a3-f433-9f51-d1e7-aabab61b8272/mzaf_8879423193797349785.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/ec/dd/41ecddff-a8e2-6ce2-5c4a-60ee909e65ea/mzi.ajqhjytq.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/ec/dd/41ecddff-a8e2-6ce2-5c4a-60ee909e65ea/mzi.ajqhjytq.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/ec/dd/41ecddff-a8e2-6ce2-5c4a-60ee909e65ea/mzi.ajqhjytq.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Julieta+Venegas/_/Lento",
-        "itunes": "https://music.apple.com/us/album/lento/251197275?i=251197278&uo=4"
+        "lastfm": "https://www.last.fm/music/Julieta+Venegas/_/Lento"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "134831ff-b5ae-3d02-aa52-015acc413763",
       "artistMbid": "601f8530-9009-4f73-94fb-a355b4497b70",
-      "albumTitle": "Sí",
       "duration": 239,
       "previousRank": 32,
-      "rankDelta": 0,
-      "releaseDate": "2003-11-18T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "alejandro-sanz--corazon-partio",
@@ -1100,30 +1048,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/11/8a/b5/118ab52d-7f9c-6821-3222-334583347ee7/mzaf_7063687902650814927.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/e0/69/65/mzi.wefyxwke.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/e0/69/65/mzi.wefyxwke.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/e0/69/65/mzi.wefyxwke.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Alejandro+Sanz/_/Coraz%C3%B3n+part%C3%ADo",
-        "itunes": "https://music.apple.com/us/album/coraz%C3%B3n-part%C3%ADo/193410821?i=193410897&uo=4"
+        "lastfm": "https://www.last.fm/music/Alejandro+Sanz/_/Coraz%C3%B3n+part%C3%ADo"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "091533f8-537b-3a72-972b-2df1c5b857d3",
       "artistMbid": "9bacf78f-9132-43da-8873-8a9eb49da0e9",
-      "albumTitle": "Más (Bonus Version)",
-      "duration": 343,
+      "duration": 342,
       "previousRank": 33,
-      "rankDelta": 0,
-      "releaseDate": "1997-09-09T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "bacilos--mi-primer-millon",
@@ -1134,30 +1078,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/00/e5/7600e545-6500-82b4-c05a-946155e4f5f5/mzaf_18280724728476739620.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/7f/ca/357fca4d-70d6-6924-ca97-aed433bac1a7/mzi.knuakzpt.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/7f/ca/357fca4d-70d6-6924-ca97-aed433bac1a7/mzi.knuakzpt.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/7f/ca/357fca4d-70d6-6924-ca97-aed433bac1a7/mzi.knuakzpt.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Bacilos/_/Mi+Primer+Millon",
-        "itunes": "https://music.apple.com/us/album/mi-primer-mill%C3%B3n/280875516?i=280875669&uo=4"
+        "lastfm": "https://www.last.fm/music/Bacilos/_/Mi+Primer+Millon"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "20ad32d8-54d1-38d5-ae07-58c0b90975b8",
       "artistMbid": "f69d655c-ffd6-4bee-8c2a-3086b2be2fc6",
-      "albumTitle": "Caraluna",
       "duration": 237,
       "previousRank": 34,
-      "rankDelta": 0,
-      "releaseDate": "2002-07-16T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "wisin-and-yandel--abusadora",
@@ -1236,30 +1176,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/85/ae/3c85ae22-09b5-f8a6-8b6b-d486499cbcc1/mzaf_12565913371623351315.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/4b/ff/c54bffa0-2333-1a55-e67e-a9c640e06f6f/mzi.hwxgzhsl.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/4b/ff/c54bffa0-2333-1a55-e67e-a9c640e06f6f/mzi.hwxgzhsl.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/4b/ff/c54bffa0-2333-1a55-e67e-a9c640e06f6f/mzi.hwxgzhsl.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Shakira/_/Suerte+(Whenever,+Wherever)",
-        "itunes": "https://music.apple.com/us/album/suerte-whenever-wherever/188260845?i=188261849&uo=4"
+        "lastfm": "https://www.last.fm/music/Shakira/_/Suerte+(Whenever,+Wherever)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "12a050d8-3954-3f8b-bb95-177fb82ffa0f",
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
-      "albumTitle": "Laundry Service",
-      "duration": 194,
+      "duration": 196,
       "previousRank": 37,
-      "rankDelta": 0,
-      "releaseDate": "2001-08-27T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "buena-vista-social-club--candela",
@@ -1270,30 +1206,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/4c/13/4a4c1338-4e93-9b56-29ca-d194da85b9e2/mzaf_2250836669478022053.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Candela",
-        "itunes": "https://music.apple.com/us/album/candela/1716598034?i=1716598595&uo=4"
+        "lastfm": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Candela"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "16c11b1d-162e-4b9e-a3c0-fc74546b4520",
       "artistMbid": "2a85ecff-41e9-4be1-aca6-c87054a4c334",
-      "albumTitle": "Buena Vista Social Club",
       "duration": 329,
       "previousRank": 38,
-      "rankDelta": 0,
-      "releaseDate": "1997-09-16T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "shakira--estoy-aqui",
@@ -1304,30 +1236,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/c7/9c/9cc79c4a-e0d7-d06d-a6e6-20b1ed5f7eae/mzaf_15842536259989854614.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/94/18/5e/94185e72-fc57-d3ad-51f6-485b8e188c21/dj.abqorqzf.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/94/18/5e/94185e72-fc57-d3ad-51f6-485b8e188c21/dj.abqorqzf.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/94/18/5e/94185e72-fc57-d3ad-51f6-485b8e188c21/dj.abqorqzf.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Shakira/_/Estoy+Aqu%C3%AD",
-        "itunes": "https://music.apple.com/us/album/estoy-aqu%C3%AD/193662156?i=193662167&uo=4"
+        "lastfm": "https://www.last.fm/music/Shakira/_/Estoy+Aqu%C3%AD"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00c85709-cba3-3bca-bf05-dc2dd7bdcedb",
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
-      "albumTitle": "Pies Descalzos",
-      "duration": 232,
+      "duration": 230,
       "previousRank": 39,
-      "rankDelta": 0,
-      "releaseDate": "1995-10-06T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "reik--inolvidable",
@@ -1406,30 +1334,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/91/73/0f91735b-9e21-f822-9531-82ec79ead0aa/mzaf_8627209571806726949.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/2f/ea/662fea42-7ef9-a61f-9df5-3383b3bf3c48/s05.pkdpjlfj.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/2f/ea/662fea42-7ef9-a61f-9df5-3383b3bf3c48/s05.pkdpjlfj.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/2f/ea/662fea42-7ef9-a61f-9df5-3383b3bf3c48/s05.pkdpjlfj.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Monchy+&+Alexandra/_/Dos+Locos",
-        "itunes": "https://music.apple.com/us/album/dos-locos/22142035?i=22141980&uo=4"
+        "lastfm": "https://www.last.fm/music/Monchy+&+Alexandra/_/Dos+Locos"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "3edd5d93-3fbf-3a86-8c0d-ac452b4753db",
       "artistMbid": "4694e9a3-bc35-4a5c-be15-0fa6ba9abd70",
-      "albumTitle": "Confesiones...",
-      "duration": 247,
+      "duration": 246,
       "previousRank": 42,
-      "rankDelta": 0,
-      "releaseDate": "2002-05-03T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "buena-vista-social-club--el-cuarto-de-tula",
@@ -1542,30 +1466,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/da/6a/2f/da6a2f7d-3b38-cbe9-54e0-8aefe793784c/mzaf_9849024552104924484.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/31/51/f0/3151f011-187a-381b-1014-0d4a808e8269/00602517487123.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/31/51/f0/3151f011-187a-381b-1014-0d4a808e8269/00602517487123.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/31/51/f0/3151f011-187a-381b-1014-0d4a808e8269/00602517487123.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Juanes/_/Me+Enamora",
-        "itunes": "https://music.apple.com/us/album/me-enamora/1443218315?i=1443218320&uo=4"
+        "lastfm": "https://www.last.fm/music/Juanes/_/Me+Enamora"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "07e73dfa-4a79-43d5-91ec-8c5a78e29b36",
       "artistMbid": "8b0f05ce-354e-4121-9e0b-8b4732ea844f",
-      "albumTitle": "La Vída…Es Un Ratico (Bonus Track Version)",
       "duration": 193,
       "previousRank": 46,
-      "rankDelta": 0,
-      "releaseDate": "2007-09-03T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "buena-vista-social-club--veinte-anos",
@@ -1576,30 +1496,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f2/83/7b/f2837b6d-ecb5-28e6-bf3b-d559de61bb8a/mzaf_5621311498780230702.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Veinte+a%C3%B1os",
-        "itunes": "https://music.apple.com/us/album/veinte-a%C3%B1os/1716598034?i=1716598583&uo=4"
+        "lastfm": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Veinte+a%C3%B1os"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "2bd2e87c-c13c-3cfb-b003-35f856a083b5",
       "artistMbid": "2a85ecff-41e9-4be1-aca6-c87054a4c334",
-      "albumTitle": "Buena Vista Social Club",
-      "duration": 212,
+      "duration": 209,
       "previousRank": 47,
-      "rankDelta": 0,
-      "releaseDate": "1997-09-16T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "manu-chao--clandestino",
@@ -1678,33 +1594,29 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/6b/8e/166b8ede-41dc-6db7-72a9-6a3b992e6166/mzaf_5633233080480028402.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/4b/ff/c54bffa0-2333-1a55-e67e-a9c640e06f6f/mzi.hwxgzhsl.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/4b/ff/c54bffa0-2333-1a55-e67e-a9c640e06f6f/mzi.hwxgzhsl.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/4b/ff/c54bffa0-2333-1a55-e67e-a9c640e06f6f/mzi.hwxgzhsl.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Shakira/_/Te+Aviso,+Te+Anuncio+(Tango)",
-        "itunes": "https://music.apple.com/us/album/te-aviso-te-anuncio-tango/188260845?i=188261895&uo=4"
+        "lastfm": "https://www.last.fm/music/Shakira/_/Te+Aviso,+Te+Anuncio+(Tango)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "01124ac3-133d-498e-a874-ed25d55705aa",
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
-      "albumTitle": "Laundry Service",
       "duration": 223,
       "previousRank": 50,
-      "rankDelta": 0,
-      "releaseDate": "2001-11-13T08:00:00Z"
+      "rankDelta": 0
     }
   ],
-  "lastUpdated": "2026-03-02T20:20:51.249Z",
+  "lastUpdated": "2026-03-02T23:32:01.659Z",
   "totalTracks": 50,
   "coverColor": "#f43f5e",
   "genre": "latin",

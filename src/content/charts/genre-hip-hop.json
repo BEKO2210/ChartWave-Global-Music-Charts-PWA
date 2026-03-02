@@ -14,29 +14,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/c6/c6/c3c6c652-2f19-1511-c8e9-e9caf9b6b4ac/mzaf_8110172512846397285.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kanye+West/_/Flashing+Lights",
-        "itunes": "https://music.apple.com/us/album/flashing-lights/1442845779?i=1442846712&uo=4"
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Flashing+Lights"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0064b08f-45d3-314e-bfcc-5f641e431319",
-      "albumTitle": "Graduation",
       "duration": 237,
       "previousRank": 1,
-      "rankDelta": 0,
-      "releaseDate": "2007-09-05T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "a-ap-rocky--fashion-killa",
@@ -81,30 +77,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/02/71/52027175-88dc-f74d-4240-051cf23cd3c5/mzaf_15152450390755382933.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/23/b8/8f23b822-dd02-573a-60d7-b20226819fd1/0892038002411_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/23/b8/8f23b822-dd02-573a-60d7-b20226819fd1/0892038002411_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/23/b8/8f23b822-dd02-573a-60d7-b20226819fd1/0892038002411_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Childish+Gambino/_/Heartbeat",
-        "itunes": "https://music.apple.com/us/album/heartbeat/1771705793?i=1771705799&uo=4"
+        "lastfm": "https://www.last.fm/music/Childish+Gambino/_/Heartbeat"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "055794b8-fa2a-3d3d-b689-36275e764b75",
       "artistMbid": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
-      "albumTitle": "Camp",
-      "duration": 266,
+      "duration": 272,
       "previousRank": 3,
-      "rankDelta": 0,
-      "releaseDate": "2011-11-15T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "fetty-wap--trap-queen",
@@ -149,29 +141,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ec/72/00/ec72002a-713f-f1eb-8ddb-30d2e66a631c/mzaf_14256312986443673368.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kanye+West/_/Touch+the+Sky",
-        "itunes": "https://music.apple.com/us/album/touch-the-sky-feat-lupe-fiasco/1440763821?i=1440763831&uo=4"
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Touch+the+Sky"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0542ff55-2d44-37f0-b33e-60dbedac4b29",
-      "albumTitle": "Late Registration",
-      "duration": 237,
+      "duration": 191,
       "previousRank": 5,
-      "rankDelta": 0,
-      "releaseDate": "2005-08-29T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "kanye-west--all-falls-down",
@@ -182,29 +170,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/a1/3b/47a13ba2-6f63-ced7-24f0-0c3307ee6218/mzaf_6552050600916041999.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kanye+West/_/All+Falls+Down",
-        "itunes": "https://music.apple.com/us/album/all-falls-down-feat-syleena-johnson/1437467864?i=1437467875&uo=4"
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/All+Falls+Down"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "16d60975-4d06-315d-8d11-be7538bead90",
-      "albumTitle": "The College Dropout",
       "duration": 224,
       "previousRank": 6,
-      "rankDelta": 0,
-      "releaseDate": "2004-02-10T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "kanye-west--i-wonder",
@@ -282,29 +266,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/f2/25/96f225f2-cd07-3639-4133-0910aa9725c0/mzaf_13857358519708863745.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kanye+West/_/Stronger",
-        "itunes": "https://music.apple.com/us/album/stronger/1442845779?i=1442846328&uo=4"
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Stronger"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00b157a4-d5f6-490d-873b-973ce46b0d7d",
-      "albumTitle": "Graduation",
-      "duration": 312,
+      "duration": 311,
       "previousRank": 9,
-      "rankDelta": 0,
-      "releaseDate": "2007-07-31T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "kanye-west--homecoming",
@@ -583,29 +563,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/75/a0/6b/75a06b55-7898-7f38-3af5-47575303edcf/mzaf_9134049976334830572.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kanye+West/_/POWER",
-        "itunes": "https://music.apple.com/us/album/power/1443160553?i=1443160563&uo=4"
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/POWER"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0e3faca8-a444-36fc-918c-19a489912df2",
-      "albumTitle": "My Beautiful Dark Twisted Fantasy",
       "duration": 292,
       "previousRank": 18,
-      "rankDelta": 0,
-      "releaseDate": "2010-05-28T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "kid-cudi--pursuit-of-happiness-nightmare",
@@ -785,29 +761,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/6e/05/5c6e05cf-7dfb-8ade-073a-ce283c7b6819/mzaf_12823917616239521881.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kanye+West/_/All+of+the+Lights",
-        "itunes": "https://music.apple.com/us/album/all-of-the-lights/1443160553?i=1443160568&uo=4"
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/All+of+the+Lights"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "074ceeb6-d946-47f2-a5de-e427e725adcb",
-      "albumTitle": "My Beautiful Dark Twisted Fantasy",
-      "duration": 300,
+      "duration": 299,
       "previousRank": 24,
-      "rankDelta": 0,
-      "releaseDate": "2010-11-22T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "eminem--without-me",
@@ -1018,30 +990,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/18/c1/28/18c128c5-55a2-8cce-1485-7e4c9c0819e5/mzaf_14329776023466908430.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/e8/17/48e81730-12af-700b-6ee5-f7a7d2fe959b/634904228163.png/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/e8/17/48e81730-12af-700b-6ee5-f7a7d2fe959b/634904228163.png/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/e8/17/48e81730-12af-700b-6ee5-f7a7d2fe959b/634904228163.png/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/M.I.A./_/Paper+Planes",
-        "itunes": "https://music.apple.com/us/album/paper-planes/296393419?i=296393515&uo=4"
+        "lastfm": "https://www.last.fm/music/M.I.A./_/Paper+Planes"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "09f03130-4b30-46d8-a2cd-81f8ef9bb97b",
       "artistMbid": "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
-      "albumTitle": "Kala",
-      "duration": 205,
+      "duration": 204,
       "previousRank": 31,
-      "rankDelta": 0,
-      "releaseDate": "2007-08-08T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "50-cent--in-da-club",
@@ -1086,29 +1054,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/4f/cf/d34fcf45-3059-5cd8-fd05-6c0f1070b39b/mzaf_1329962993872108634.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe",
-        "itunes": "https://music.apple.com/us/album/bitch-dont-kill-my-vibe/1440860389?i=1440860396&uo=4"
+        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "artistMbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
-      "albumTitle": "good kid, m.A.A.d city (Deluxe Version)",
-      "duration": 311,
+      "duration": 310,
       "previousRank": 33,
-      "rankDelta": 0,
-      "releaseDate": "2012-10-22T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "flo-rida--low-feat-t-pain",
@@ -1153,30 +1117,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/fb/69/83fb6917-19a5-78a1-1120-15d910a54891/mzaf_1569911826648558644.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/67/39/b6673987-b974-c579-325d-6df068e3eadc/25UMGIM77774.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/67/39/b6673987-b974-c579-325d-6df068e3eadc/25UMGIM77774.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/67/39/b6673987-b974-c579-325d-6df068e3eadc/25UMGIM77774.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It",
-        "itunes": "https://music.apple.com/us/album/pump-it-travis-barker-remix-version/1817288712?i=1817289012&uo=4"
+        "lastfm": "https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "01b98223-7951-33fb-8732-10860f0e0205",
       "artistMbid": "d5be5333-4171-427e-8e12-732087c6b78e",
-      "albumTitle": "Monkey Business (20th Anniversary Edition)",
-      "duration": 216,
+      "duration": 187,
       "previousRank": 35,
-      "rankDelta": 0,
-      "releaseDate": "2006-02-13T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "mf-doom--one-beer",
@@ -1255,30 +1215,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/dd/b4/96ddb45d-8048-604b-3497-be0606f72d65/mzaf_4333715066996463386.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/8e/f6/1a8ef635-e359-c8d6-bee3-7a720c56e52a/21UMGIM80636.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/8e/f6/1a8ef635-e359-c8d6-bee3-7a720c56e52a/21UMGIM80636.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/8e/f6/1a8ef635-e359-c8d6-bee3-7a720c56e52a/21UMGIM80636.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Akon/_/Smack+That",
-        "itunes": "https://music.apple.com/us/album/smack-that-live-aol-session/1610800313?i=1610801501&uo=4"
+        "lastfm": "https://www.last.fm/music/Akon/_/Smack+That"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0070aa9a-2bab-43f6-9f24-654fb1e8b070",
       "artistMbid": "1138a764-2212-4d0a-b02d-0dc14df91e08",
-      "albumTitle": "Konvicted (Complete Edition)",
-      "duration": 147,
+      "duration": 212,
       "previousRank": 38,
-      "rankDelta": 0,
-      "releaseDate": "2006-11-14T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "kanye-west--through-the-wire",
@@ -1289,29 +1245,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/5c/ea/2d5cea77-a56f-50ec-c6dc-f74a04d832dd/mzaf_822615455610190516.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kanye+West/_/Through+the+Wire",
-        "itunes": "https://music.apple.com/us/album/through-the-wire/1437467864?i=1437467903&uo=4"
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Through+the+Wire"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "01a5c04c-c3e4-3bab-afea-2fe3d691a439",
-      "albumTitle": "The College Dropout",
       "duration": 221,
       "previousRank": 39,
-      "rankDelta": 0,
-      "releaseDate": "2003-09-30T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "kendrick-lamar--poetic-justice",
@@ -1356,30 +1308,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/51/1d/d2/511dd226-7b89-0968-1220-f1cad2351629/mzaf_1862604703482231715.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Mac+Miller/_/The+Spins",
-        "itunes": "https://music.apple.com/us/album/the-spins-ben-gerrans-remix-mixed/1695955523?i=1695955735&uo=4"
+        "lastfm": "https://www.last.fm/music/Mac+Miller/_/The+Spins"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "27e6f690-8478-4cbd-bd3d-d3ff9942e507",
       "artistMbid": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
-      "albumTitle": "Group Chat Club: Long Story Short in Los Angeles, 2023 (DJ Mix)",
-      "duration": 96,
+      "duration": 195,
       "previousRank": 41,
-      "rankDelta": 0,
-      "releaseDate": "2023-05-25T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "gym-class-heroes--stereo-hearts-feat-adam-levine",
@@ -1594,16 +1542,16 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d7/48/2f/d7482f21-d97c-1c34-749d-4e8ece413fb5/mzaf_3500995787535680451.plus.aac.p.m4a",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/64/36/7b/64367bfd-122d-b4d0-d259-d877d9ff58dc/mzaf_9164192253633208931.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/81/75/mzi.ysellawn.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/81/75/mzi.ysellawn.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/81/75/mzi.ysellawn.jpg/600x600bb.jpg",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/81/75/mzi.qmzalwkg.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/81/75/mzi.qmzalwkg.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/81/75/mzi.qmzalwkg.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
         "lastfm": "https://www.last.fm/music/OutKast/_/So+Fresh,+So+Clean",
-        "itunes": "https://music.apple.com/us/album/so-fresh-so-clean/253093029?i=253093063&uo=4"
+        "itunes": "https://music.apple.com/us/album/so-fresh-so-clean/190743125?i=190743818&uo=4"
       },
       "tags": [],
       "genres": [],
@@ -1617,7 +1565,7 @@
       "duration": 238,
       "previousRank": 48,
       "rankDelta": 0,
-      "releaseDate": "1999-11-01T12:00:00Z"
+      "releaseDate": "2000-10-23T12:00:00Z"
     },
     {
       "id": "kendrick-lamar--a-d-h-d",
@@ -1662,33 +1610,29 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/2a/f5/e32af5f4-aa86-ad77-e6ca-23346f2db6b3/mzaf_7234173646335995092.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/8a/5d/6a8a5d47-7a78-4a9f-978a-59152d02c14e/13UAEIM09178.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/8a/5d/6a8a5d47-7a78-4a9f-978a-59152d02c14e/13UAEIM09178.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/8a/5d/6a8a5d47-7a78-4a9f-978a-59152d02c14e/13UAEIM09178.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/M.I.A./_/Bad+Girls",
-        "itunes": "https://music.apple.com/us/album/bad-girls/1469585732?i=1469586252&uo=4"
+        "lastfm": "https://www.last.fm/music/M.I.A./_/Bad+Girls"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "074057f3-d366-4701-88ae-da78f01c7d18",
       "artistMbid": "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
-      "albumTitle": "Matangi",
-      "duration": 228,
+      "duration": 227,
       "previousRank": 50,
-      "rankDelta": 0,
-      "releaseDate": "2012-01-31T08:00:00Z"
+      "rankDelta": 0
     }
   ],
-  "lastUpdated": "2026-03-02T20:19:24.959Z",
+  "lastUpdated": "2026-03-02T23:20:12.255Z",
   "totalTracks": 50,
   "coverColor": "#f97316",
   "genre": "hip-hop",

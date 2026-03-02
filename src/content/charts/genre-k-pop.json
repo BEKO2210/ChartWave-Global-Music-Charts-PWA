@@ -82,30 +82,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ca/fe/1d/cafe1df9-e706-1538-bf34-238efafe7f60/mzaf_5940680492365100371.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/03/76/e6/0376e6f9-f6d8-68f7-ae85-1a4ef17002aa/00602508875229_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/03/76/e6/0376e6f9-f6d8-68f7-ae85-1a4ef17002aa/00602508875229_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/03/76/e6/0376e6f9-f6d8-68f7-ae85-1a4ef17002aa/00602508875229_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/TWICE/_/FANCY",
-        "itunes": "https://music.apple.com/us/album/fancy/1555390183?i=1555390187&uo=4"
+        "lastfm": "https://www.last.fm/music/TWICE/_/FANCY"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "06a84550-773f-4ae9-b2ac-19442c7cb2b2",
       "artistMbid": "8da127cc-c432-418f-b356-ef36210d82ac",
-      "albumTitle": "FANCY YOU - EP",
-      "duration": 214,
+      "duration": 215,
       "previousRank": 3,
-      "rankDelta": 0,
-      "releaseDate": "2019-04-22T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "le-sserafim--antifragile",
@@ -655,30 +651,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/3b/89/a03b89a2-1820-96d9-8616-7aa42f79abba/mzaf_14904791120408388190.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/1f/06/661f06a5-a04a-be0a-8683-4ff5123bda1e/blackpink_fin0807.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/1f/06/661f06a5-a04a-be0a-8683-4ff5123bda1e/blackpink_fin0807.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/1f/06/661f06a5-a04a-be0a-8683-4ff5123bda1e/blackpink_fin0807.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH",
-        "itunes": "https://music.apple.com/us/album/boombayah/1315917456?i=1315917630&uo=4"
+        "lastfm": "https://www.last.fm/music/BLACKPINK/_/BOOMBAYAH"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "010ab866-2a8e-446a-ba43-973b2778cc1b",
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
-      "albumTitle": "SQUARE ONE - Single",
-      "duration": 243,
+      "duration": 240,
       "previousRank": 20,
-      "rankDelta": 0,
-      "releaseDate": "2016-11-01T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "exo--call-me-baby",
@@ -959,30 +951,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/07/2d/78/072d781a-cc43-ed37-71b0-05024934e765/mzaf_10147715758979437465.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8c/5e/2b/8c5e2bd9-38a8-5bc2-9a87-9bcd4011c2a7/00191222003792.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8c/5e/2b/8c5e2bd9-38a8-5bc2-9a87-9bcd4011c2a7/00191222003792.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8c/5e/2b/8c5e2bd9-38a8-5bc2-9a87-9bcd4011c2a7/00191222003792.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Jennie/_/SOLO",
-        "itunes": "https://music.apple.com/us/album/solo/1441819348?i=1441819350&uo=4"
+        "lastfm": "https://www.last.fm/music/Jennie/_/SOLO"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "2c2494e2-a385-4b73-b8c1-c551e47fdaaf",
       "artistMbid": "d32de3a1-01f0-430e-859a-72307724041c",
-      "albumTitle": "SOLO - Single",
       "duration": 170,
       "previousRank": 29,
-      "rankDelta": 0,
-      "releaseDate": "2018-11-12T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "red-velvet--kingdom-come",
@@ -1027,29 +1015,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/eb/10/7ceb1052-44f5-81e0-dab3-19e80c03ac61/mzaf_3793375742620578513.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/6e/a3/b06ea3f3-54c3-d637-3572-19b8c14817ef/asset.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/6e/a3/b06ea3f3-54c3-d637-3572-19b8c14817ef/asset.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/6e/a3/b06ea3f3-54c3-d637-3572-19b8c14817ef/asset.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80/_/Oh%21",
-        "itunes": "https://music.apple.com/us/album/oh/854890642?i=854890645&uo=4"
+        "lastfm": "https://www.last.fm/music/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80/_/Oh%21"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0f3eaed6-ea88-4108-85ff-2b7b854c8546",
-      "albumTitle": "Oh!",
-      "duration": 188,
+      "duration": 189,
       "previousRank": 31,
-      "rankDelta": 0,
-      "releaseDate": "2010-01-25T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "stray-kids--maniac",
@@ -1060,30 +1044,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/68/2b/8c/682b8cee-5d50-c9a8-7246-1970eb842cc8/mzaf_403092209817779548.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/5f/6d/545f6deb-89de-9f08-4ad0-b8d4136a0911/192641947902_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/5f/6d/545f6deb-89de-9f08-4ad0-b8d4136a0911/192641947902_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/5f/6d/545f6deb-89de-9f08-4ad0-b8d4136a0911/192641947902_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Stray+Kids/_/MANIAC",
-        "itunes": "https://music.apple.com/us/album/maniac/1609666698?i=1609666702&uo=4"
+        "lastfm": "https://www.last.fm/music/Stray+Kids/_/MANIAC"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "c0a07f91-5e69-4a33-a723-41db88125e62",
       "artistMbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9",
-      "albumTitle": "ODDINARY",
-      "duration": 183,
+      "duration": 182,
       "previousRank": 32,
-      "rankDelta": 0,
-      "releaseDate": "2022-03-18T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "wonder-girls--so-hot",
@@ -1432,30 +1412,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/5d/8d/6b5d8dd0-5d86-bcbe-a05f-9e44a22f1ef6/mzaf_16229273177106518739.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/46/66/7d4666f3-1dec-c3ae-e81c-1efef0ae5d6b/00602508870033_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/46/66/7d4666f3-1dec-c3ae-e81c-1efef0ae5d6b/00602508870033_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/46/66/7d4666f3-1dec-c3ae-e81c-1efef0ae5d6b/00602508870033_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/TWICE/_/CHEER+UP",
-        "itunes": "https://music.apple.com/us/album/cheer-up/1555389971?i=1555389973&uo=4"
+        "lastfm": "https://www.last.fm/music/TWICE/_/CHEER+UP"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "037a1f4c-0a42-4e4b-8623-6fa0b6986163",
       "artistMbid": "8da127cc-c432-418f-b356-ef36210d82ac",
-      "albumTitle": "Page Two - EP",
-      "duration": 209,
+      "duration": 208,
       "previousRank": 43,
-      "rankDelta": 0,
-      "releaseDate": "2016-04-25T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "bts--anpanman",
@@ -1568,30 +1544,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/fc/52/69fc528f-593c-9108-e1f7-a1d28e978296/mzaf_4978886415344685537.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/36/4b/e2364b01-f3f9-c67f-7194-81854a14e540/dj.lcmtrdtw.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/36/4b/e2364b01-f3f9-c67f-7194-81854a14e540/dj.lcmtrdtw.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/36/4b/e2364b01-f3f9-c67f-7194-81854a14e540/dj.lcmtrdtw.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Red+Velvet/_/Bad+Boy",
-        "itunes": "https://music.apple.com/us/album/bad-boy/1341259280?i=1341259542&uo=4"
+        "lastfm": "https://www.last.fm/music/Red+Velvet/_/Bad+Boy"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "4276466f-7b03-485d-b868-45efc7cd63f8",
       "artistMbid": "4f0cb3b7-6c06-4317-ae35-ddf3106a17ee",
-      "albumTitle": "The Perfect Red Velvet - The 2nd Album Repackage - EP",
-      "duration": 211,
+      "duration": 210,
       "previousRank": 47,
-      "rankDelta": 0,
-      "releaseDate": "2018-01-29T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "--run-devil-run",
@@ -1668,33 +1640,29 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/74/6c/75746cf7-9467-6206-7995-68df4a8017e1/mzaf_9811441997857270353.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/c5/18/02c518f5-ac06-3321-622e-08d9429fd968/192562556672_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/c5/18/02c518f5-ac06-3321-622e-08d9429fd968/192562556672_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/c5/18/02c518f5-ac06-3321-622e-08d9429fd968/192562556672_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BTS/_/134340",
-        "itunes": "https://music.apple.com/us/album/134340/1598660934?i=1598660945&uo=4"
+        "lastfm": "https://www.last.fm/music/BTS/_/134340"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "33e3e5f1-fa5a-4aa6-b15b-9a811d0c65b1",
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
-      "albumTitle": "Love Yourself 轉 'Tear'",
       "duration": 230,
       "previousRank": 50,
-      "rankDelta": 0,
-      "releaseDate": "2018-05-18T07:00:00Z"
+      "rankDelta": 0
     }
   ],
-  "lastUpdated": "2026-03-02T20:21:11.922Z",
+  "lastUpdated": "2026-03-02T23:35:25.796Z",
   "totalTracks": 50,
   "coverColor": "#e879f9",
   "genre": "k-pop",

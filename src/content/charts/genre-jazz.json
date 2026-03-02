@@ -48,30 +48,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/d7/47/d4d747d8-8d5a-4dc9-a686-1ca91f07ad0c/mzaf_10338145356691636309.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Chet+Baker/_/I+Fall+in+Love+Too+Easily",
-        "itunes": "https://music.apple.com/us/album/i-fall-in-love-too-easily/1440864756?i=1440866092&uo=4"
+        "lastfm": "https://www.last.fm/music/Chet+Baker/_/I+Fall+in+Love+Too+Easily"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "01d946ed-f2d4-3da8-b5ff-61deccc0b82a",
       "artistMbid": "1ba1d493-7114-45e2-b163-a36d49a0c065",
-      "albumTitle": "Chet Baker Sings",
-      "duration": 201,
+      "duration": 200,
       "previousRank": 2,
-      "rankDelta": 0,
-      "releaseDate": "1954-01-01T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "amy-winehouse--back-to-black",
@@ -524,30 +520,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/cf/4a/92cf4a07-aac7-eb44-2883-87e1b5c79caa/mzaf_7230369138937167834.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/97/639d9783-4ff1-806a-9900-2c92e560547e/093624942719.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/97/639d9783-4ff1-806a-9900-2c92e560547e/093624942719.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/97/639d9783-4ff1-806a-9900-2c92e560547e/093624942719.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Michael+Bubl%C3%A9/_/Sway",
-        "itunes": "https://music.apple.com/us/album/sway/668403420?i=668403430&uo=4"
+        "lastfm": "https://www.last.fm/music/Michael+Bubl%C3%A9/_/Sway"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0e33f158-4a34-3ec3-8c58-ce65a65c004b",
       "artistMbid": "611700cf-27f0-4dc9-ae80-c513a767853e",
-      "albumTitle": "Michael Bublé",
-      "duration": 189,
+      "duration": 341,
       "previousRank": 16,
-      "rankDelta": 0,
-      "releaseDate": "2003-02-11T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "louis-armstrong--what-a-wonderful-world",
@@ -1102,30 +1094,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/43/56/d6/4356d6a7-a063-6ed5-bb65-f9255f2f411e/mzaf_10810152660783246095.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sade/_/Kiss+Of+Life",
-        "itunes": "https://music.apple.com/us/album/kiss-of-life/158796559?i=158796603&uo=4"
+        "lastfm": "https://www.last.fm/music/Sade/_/Kiss+Of+Life"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00408f71-1551-336b-8398-0e3805ca3d10",
       "artistMbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
-      "albumTitle": "Love Deluxe",
-      "duration": 350,
+      "duration": 351,
       "previousRank": 33,
-      "rankDelta": 0,
-      "releaseDate": "1992-10-26T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "stan-getz--corcovado-quiet-nights-of-quiet-stars",
@@ -1136,30 +1124,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/9a/40/589a40f4-3a6e-99ee-e9c7-bc2fff30ff82/mzaf_55579851764794936.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/04/b8/5404b8fd-3dbf-9fe1-0513-4611c4dec84e/06UMGIM14182.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/04/b8/5404b8fd-3dbf-9fe1-0513-4611c4dec84e/06UMGIM14182.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/04/b8/5404b8fd-3dbf-9fe1-0513-4611c4dec84e/06UMGIM14182.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars)",
-        "itunes": "https://music.apple.com/us/album/corcovado-quiet-nights-of-quiet-stars/1422655717?i=1422656591&uo=4"
+        "lastfm": "https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00aa156d-d6e6-36e5-8399-cd32de2630b8",
       "artistMbid": "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
-      "albumTitle": "Getz/Gilberto",
-      "duration": 260,
+      "duration": 257,
       "previousRank": 34,
-      "rankDelta": 0,
-      "releaseDate": "1964-03-01T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "billie-holiday--blue-moon",
@@ -1340,30 +1324,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/28/c5/4928c554-1ae6-d0a7-c7b0-95d1625c13c2/mzaf_5785168487378997923.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/79/00/d5/7900d584-6c65-c59c-e2d7-7ef610584fe6/00602567849216.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/79/00/d5/7900d584-6c65-c59c-e2d7-7ef610584fe6/00602567849216.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/79/00/d5/7900d584-6c65-c59c-e2d7-7ef610584fe6/00602567849216.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Ink+Spots/_/I+Don%27t+Want+to+Set+the+World+on+Fire",
-        "itunes": "https://music.apple.com/us/album/i-dont-want-to-set-the-world-on-fire/1425152124?i=1425152942&uo=4"
+        "lastfm": "https://www.last.fm/music/The+Ink+Spots/_/I+Don%27t+Want+to+Set+the+World+on+Fire"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00a022bc-0ae4-3823-89ef-058d736e211d",
       "artistMbid": "75f47650-8a52-494a-8334-c5279bc6db09",
-      "albumTitle": "The Anthology",
-      "duration": 181,
+      "duration": 182,
       "previousRank": 40,
-      "rankDelta": 0,
-      "releaseDate": "1941-01-01T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "amy-winehouse--stronger-than-me",
@@ -1408,30 +1388,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2c/51/68/2c5168fd-0d95-ee74-4fe4-24abd7785540/mzaf_16110509892322053309.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/d8/ec/43d8ec17-0e96-dba9-21d9-4cdf9d98f2bf/634904078362.png/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/d8/ec/43d8ec17-0e96-dba9-21d9-4cdf9d98f2bf/634904078362.png/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/d8/ec/43d8ec17-0e96-dba9-21d9-4cdf9d98f2bf/634904078362.png/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Radiohead/_/Life+in+a+Glasshouse",
-        "itunes": "https://music.apple.com/us/album/life-in-a-glasshouse/1097864180?i=1097865056&uo=4"
+        "lastfm": "https://www.last.fm/music/Radiohead/_/Life+in+a+Glasshouse"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "07a09200-8e38-3d3c-8a73-492520e408db",
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-      "albumTitle": "Amnesiac",
-      "duration": 277,
+      "duration": 274,
       "previousRank": 42,
-      "rankDelta": 0,
-      "releaseDate": "2001-06-04T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "john-coltrane-quartet--its-easy-to-remember",
@@ -1510,30 +1486,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7f/4f/12/7f4f1272-4e2a-7bf1-30bd-1878ac05d5bd/mzaf_16325490097109180488.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/4a/ad/b44aad0f-3e7b-5172-95b2-f6a9752a01d0/00724349532458.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/4a/ad/b44aad0f-3e7b-5172-95b2-f6a9752a01d0/00724349532458.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/4a/ad/b44aad0f-3e7b-5172-95b2-f6a9752a01d0/00724349532458.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Art+Blakey+&+The+Jazz+Messengers/_/Moanin%27",
-        "itunes": "https://music.apple.com/us/album/moanin/725816184?i=725816540&uo=4"
+        "lastfm": "https://www.last.fm/music/Art+Blakey+&+The+Jazz+Messengers/_/Moanin%27"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00854ea3-d88e-49be-aafe-64030476f527",
       "artistMbid": "209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee",
-      "albumTitle": "Moanin' (Remastered)",
-      "duration": 571,
+      "duration": 467,
       "previousRank": 45,
-      "rankDelta": 0,
-      "releaseDate": "1958-01-01T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "erroll-garner--misty",
@@ -1544,30 +1516,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/5d/a7/335da78d-6651-dd22-b75f-7e554aafdea0/mzaf_15900572932398837178.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f7/92/0ff792e5-9309-6684-f8c5-06d92bb6ed56/00042283491021.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f7/92/0ff792e5-9309-6684-f8c5-06d92bb6ed56/00042283491021.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f7/92/0ff792e5-9309-6684-f8c5-06d92bb6ed56/00042283491021.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Erroll+Garner/_/Misty",
-        "itunes": "https://music.apple.com/us/album/misty/1443144342?i=1443144347&uo=4"
+        "lastfm": "https://www.last.fm/music/Erroll+Garner/_/Misty"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "1c4d3cde-d54e-429c-bdb1-48b17fca0675",
       "artistMbid": "75bd5186-9d89-4da9-95de-fce055c28895",
-      "albumTitle": "The Original Misty",
-      "duration": 169,
+      "duration": 173,
       "previousRank": 46,
-      "rankDelta": 0,
-      "releaseDate": "1954-07-01T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "sade--the-sweetest-taboo",
@@ -1578,30 +1546,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f1/b2/e6/f1b2e6e4-86f2-b2b3-56b6-7730df35dd72/mzaf_12615870320597962929.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/8b/22/0b/8b220bf9-7a5f-d266-3d39-c17d0070f3fa/dj.ylfbscrn.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/8b/22/0b/8b220bf9-7a5f-d266-3d39-c17d0070f3fa/dj.ylfbscrn.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/8b/22/0b/8b220bf9-7a5f-d266-3d39-c17d0070f3fa/dj.ylfbscrn.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sade/_/The+Sweetest+Taboo",
-        "itunes": "https://music.apple.com/us/album/the-sweetest-taboo/211677347?i=211677413&uo=4"
+        "lastfm": "https://www.last.fm/music/Sade/_/The+Sweetest+Taboo"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0100dba5-2644-4eb4-889a-92b33a0eb3cd",
       "artistMbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
-      "albumTitle": "Promise",
-      "duration": 277,
+      "duration": 265,
       "previousRank": 47,
-      "rankDelta": 0,
-      "releaseDate": "1985-11-04T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "nat-king-cole--i-love-you-for-sentimental-reasons",
@@ -1680,33 +1644,29 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/f8/c8/70f8c87b-5de9-d752-32a1-8c7d51b33e3e/mzaf_1488014473433964867.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/a7/0c/fda70c9b-1e6a-8915-b8db-71f8456d034e/18UMGIM13490.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/a7/0c/fda70c9b-1e6a-8915-b8db-71f8456d034e/18UMGIM13490.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/a7/0c/fda70c9b-1e6a-8915-b8db-71f8456d034e/18UMGIM13490.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Louis+Armstrong/_/Dream+a+Little+Dream+of+Me",
-        "itunes": "https://music.apple.com/us/album/dream-a-little-dream-of-me/1359340014?i=1359341569&uo=4"
+        "lastfm": "https://www.last.fm/music/Louis+Armstrong/_/Dream+a+Little+Dream+of+Me"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "67cd8784-53f1-42ec-93e4-e67e6e081c02",
       "artistMbid": "eea8a864-fcda-4602-9569-38ab446decd6",
-      "albumTitle": "Cheek To Cheek: The Complete Duet Recordings",
-      "duration": 188,
+      "duration": 180,
       "previousRank": 50,
-      "rankDelta": 0,
-      "releaseDate": "1950-01-01T12:00:00Z"
+      "rankDelta": 0
     }
   ],
-  "lastUpdated": "2026-03-02T20:20:27.723Z",
+  "lastUpdated": "2026-03-02T23:28:32.121Z",
   "totalTracks": 50,
   "coverColor": "#f59e0b",
   "genre": "jazz",

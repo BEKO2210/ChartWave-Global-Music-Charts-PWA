@@ -354,30 +354,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/a9/80/dda980a0-3b62-f7b7-9588-11b929a30b3c/mzaf_4007504837203131685.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/07/5b/ba075b3c-f0c4-b519-59f3-7ae74d43246b/dj.lajxsvkg.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/07/5b/ba075b3c-f0c4-b519-59f3-7ae74d43246b/dj.lajxsvkg.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/07/5b/ba075b3c-f0c4-b519-59f3-7ae74d43246b/dj.lajxsvkg.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks",
-        "itunes": "https://music.apple.com/us/album/pumped-up-kicks/435761204?i=435761212&uo=4"
+        "lastfm": "https://www.last.fm/music/Foster+the+People/_/Pumped+Up+Kicks"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "06fc5e0f-f4f7-4dff-a20e-c8d23eaeb34c",
       "artistMbid": "e0e1a584-dd0a-4bd1-88d1-c4c62895039d",
-      "albumTitle": "Torches",
-      "duration": 240,
+      "duration": 238,
       "previousRank": 11,
-      "rankDelta": 0,
-      "releaseDate": "2010-09-14T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "franz-ferdinand--take-me-out",
@@ -898,30 +894,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/96/03/29/960329b3-3904-50e6-c717-c2e38808e906/mzaf_2721493429091171879.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/12/6f/71126f46-82f3-65ce-4cbe-5a4f1afa6667/0044003198685_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/12/6f/71126f46-82f3-65ce-4cbe-5a4f1afa6667/0044003198685_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/12/6f/71126f46-82f3-65ce-4cbe-5a4f1afa6667/0044003198685_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Temper+Trap/_/Sweet+Disposition",
-        "itunes": "https://music.apple.com/us/album/sweet-disposition/1771693599?i=1771693670&uo=4"
+        "lastfm": "https://www.last.fm/music/The+Temper+Trap/_/Sweet+Disposition"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "02c42a0f-2c3c-3807-b1af-0f31b7c7a23d",
       "artistMbid": "bb6eaced-69dd-4636-829f-9f987acc4fc3",
-      "albumTitle": "Conditions",
-      "duration": 236,
+      "duration": 211,
       "previousRank": 27,
-      "rankDelta": 0,
-      "releaseDate": "2008-09-16T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "mgmt--electric-feel",
@@ -932,30 +924,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/92/85/8e9285d6-709f-e8ec-06ba-a8ce0581ede1/mzaf_14509651326128706139.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/d8/08/66d808c0-24c9-9223-5692-7e4759ab207d/196871101424.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/d8/08/66d808c0-24c9-9223-5692-7e4759ab207d/196871101424.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/d8/08/66d808c0-24c9-9223-5692-7e4759ab207d/196871101424.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/MGMT/_/Electric+Feel",
-        "itunes": "https://music.apple.com/us/album/electric-feel/1687386073?i=1687386390&uo=4"
+        "lastfm": "https://www.last.fm/music/MGMT/_/Electric+Feel"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "01218288-d146-4071-836d-5c9240a4c494",
       "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
-      "albumTitle": "Hot Summer Party Mix",
-      "duration": 230,
+      "duration": 229,
       "previousRank": 28,
-      "rankDelta": 0,
-      "releaseDate": "2007-10-02T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "tom-odell--another-love",
@@ -966,30 +954,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/c6/20/8cc62000-fd67-0925-eecf-15711c5be4aa/mzaf_3872167395618313489.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/76/0a/8f/760a8fbb-814f-5e5b-9a35-79eb2333546c/886444256407.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/76/0a/8f/760a8fbb-814f-5e5b-9a35-79eb2333546c/886444256407.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/76/0a/8f/760a8fbb-814f-5e5b-9a35-79eb2333546c/886444256407.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Tom+Odell/_/Another+Love",
-        "itunes": "https://music.apple.com/us/album/another-love-zwette-edit/719002751?i=719002824&uo=4"
+        "lastfm": "https://www.last.fm/music/Tom+Odell/_/Another+Love"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "013fe7a7-8fe6-4f30-99d7-42fc0726b2ba",
       "artistMbid": "fee6a7fb-80d9-4290-a171-e48f1f20e381",
-      "albumTitle": "Another Love (Zwette Edit) - Single",
-      "duration": 395,
+      "duration": 257,
       "previousRank": 29,
-      "rankDelta": 0,
-      "releaseDate": "2013-09-27T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "florence-the-machine--dog-days-are-over",
@@ -1000,30 +984,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3b/d1/e3/3bd1e3cf-e2b5-98e3-3078-1d1623914404/mzaf_10047268165932809049.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/f6/4d/b7f64deb-fb74-95aa-81e6-729e5cc38ce8/09UMGIM14223.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/f6/4d/b7f64deb-fb74-95aa-81e6-729e5cc38ce8/09UMGIM14223.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/f6/4d/b7f64deb-fb74-95aa-81e6-729e5cc38ce8/09UMGIM14223.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Florence+%252B+the+Machine/_/Dog+Days+Are+Over",
-        "itunes": "https://music.apple.com/us/album/dog-days-are-over/1470593916?i=1470593922&uo=4"
+        "lastfm": "https://www.last.fm/music/Florence+%252B+the+Machine/_/Dog+Days+Are+Over"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "04e4e5ab-8cd6-4768-8aa8-481e008a81e8",
       "artistMbid": "5fee3020-513b-48c2-b1f7-4681b01db0c6",
-      "albumTitle": "Lungs (Digital Deluxe Version)",
-      "duration": 253,
+      "duration": 252,
       "previousRank": 30,
-      "rankDelta": 0,
-      "releaseDate": "2008-11-22T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "lana-del-rey--diet-mountain-dew",
@@ -1135,30 +1115,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/89/fe/cc89fee4-4bb5-1807-ebf6-5f9c10e5f1ef/mzaf_15048761207912416206.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/e3/5c/12e35c39-de5c-b501-3ef0-00f19fb3d513/56627.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/e3/5c/12e35c39-de5c-b501-3ef0-00f19fb3d513/56627.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/e3/5c/12e35c39-de5c-b501-3ef0-00f19fb3d513/56627.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Neutral+Milk+Hotel/_/In+the+Aeroplane+Over+the+Sea",
-        "itunes": "https://music.apple.com/us/album/in-the-aeroplane-over-the-sea/1839077554?i=1839077573&uo=4"
+        "lastfm": "https://www.last.fm/music/Neutral+Milk+Hotel/_/In+the+Aeroplane+Over+the+Sea"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "010fb1b0-3f64-4023-8674-ca82cff48ce8",
       "artistMbid": "a506f761-2c22-4b2f-8a94-bd748c2c8f75",
-      "albumTitle": "In the Aeroplane Over the Sea",
-      "duration": 202,
+      "duration": 314,
       "previousRank": 34,
-      "rankDelta": 0,
-      "releaseDate": "1998-02-10T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "of-monsters-and-men--little-talks",
@@ -1475,30 +1451,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/36/b7/4b36b739-1de7-e0ae-45da-9a66463127ac/mzaf_1821541347983595183.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met",
-        "itunes": "https://music.apple.com/us/album/the-night-we-met/1806531135?i=1806531961&uo=4"
+        "lastfm": "https://www.last.fm/music/Lord+Huron/_/The+Night+We+Met"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "20b0cbf8-12bd-4b69-a089-de2994b5a6d5",
       "artistMbid": "51c76d97-0635-433c-b26d-66beb81657f8",
-      "albumTitle": "Strange Trails",
       "duration": 208,
       "previousRank": 44,
-      "rankDelta": 0,
-      "releaseDate": "2015-02-09T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "the-drums--money",
@@ -1509,30 +1481,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2c/b8/c3/2cb8c313-c139-f118-53a9-261598292b55/mzaf_16588195621339935229.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/06/d0/c306d060-8f16-f74d-7772-02079fd1280b/21UMGIM82481.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/06/d0/c306d060-8f16-f74d-7772-02079fd1280b/21UMGIM82481.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/06/d0/c306d060-8f16-f74d-7772-02079fd1280b/21UMGIM82481.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Drums/_/Money",
-        "itunes": "https://music.apple.com/us/album/money/1581702290?i=1581702298&uo=4"
+        "lastfm": "https://www.last.fm/music/The+Drums/_/Money"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "04f6e022-da93-3331-af5e-cc400ae87ea5",
       "artistMbid": "c3ecef5d-84f3-4942-8c24-0a626343c3f4",
-      "albumTitle": "Portamento",
       "duration": 234,
       "previousRank": 45,
-      "rankDelta": 0,
-      "releaseDate": "2011-01-01T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "le-tigre--deceptacon",
@@ -1705,7 +1673,7 @@
       "releaseDate": "2004-02-10T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T20:20:05.833Z",
+  "lastUpdated": "2026-03-02T23:25:30.083Z",
   "totalTracks": 50,
   "coverColor": "#10b981",
   "genre": "indie",

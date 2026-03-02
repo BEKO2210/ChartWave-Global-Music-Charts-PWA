@@ -249,7 +249,7 @@
       "artistName": "The Killers",
       "artistSlug": "the-killers",
       "rank": 8,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 457,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/95/6e/b3956e14-35f0-937e-afb0-72774d3f613f/mzaf_8359343604382181711.plus.aac.p.m4a",
@@ -273,8 +273,8 @@
       "artistMbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
       "albumTitle": "Direct Hits",
       "duration": 224,
-      "previousRank": 11,
-      "rankDelta": 3,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2003-09-29T12:00:00Z"
     },
     {
@@ -317,7 +317,7 @@
       "artistName": "Twenty One Pilots",
       "artistSlug": "twenty-one-pilots",
       "rank": 10,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 448,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/e1/8d/5ce18dc7-92e0-c437-1c4c-3eb133a7dad3/mzaf_16869785547693954708.plus.aac.p.m4a",
@@ -341,8 +341,8 @@
       "artistMbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
       "albumTitle": "Drag Path - Single",
       "duration": 224,
-      "previousRank": 8,
-      "rankDelta": -2,
+      "previousRank": 10,
+      "rankDelta": 0,
       "releaseDate": "2025-09-12T12:00:00Z"
     },
     {
@@ -351,7 +351,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 11,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 432,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
@@ -375,8 +375,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "DeBÍ TiRAR MáS FOToS",
       "duration": 184,
-      "previousRank": 10,
-      "rankDelta": -1,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2025-01-05T12:00:00Z"
     },
     {
@@ -385,7 +385,7 @@
       "artistName": "Gorillaz",
       "artistSlug": "gorillaz",
       "rank": 12,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 404,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/8f/8d/638f8d73-cce2-923c-1dee-5fec273ab2b4/mzaf_4710951047781627570.plus.aac.p.m4a",
@@ -409,8 +409,8 @@
       "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
       "albumTitle": "Work Grind",
       "duration": 223,
-      "previousRank": 13,
-      "rankDelta": 1,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2005-05-09T12:00:00Z"
     },
     {
@@ -419,7 +419,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 13,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 392,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/1c/6b/fa1c6be0-8f12-52fa-3b36-5465d32ac602/mzaf_13774232611391010550.plus.aac.p.m4a",
@@ -443,8 +443,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "The Life of a Showgirl",
       "duration": 226,
-      "previousRank": 12,
-      "rankDelta": -1,
+      "previousRank": 13,
+      "rankDelta": 0,
       "releaseDate": "2025-10-03T12:00:00Z"
     },
     {
@@ -453,7 +453,7 @@
       "artistName": "Tame Impala",
       "artistSlug": "tame-impala",
       "rank": 14,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 386,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/55/f3/8b55f3a3-3204-8930-f156-82843546950e/mzaf_9370328603131228430.plus.aac.p.m4a",
@@ -477,8 +477,8 @@
       "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
       "albumTitle": "The Less I Know The Better - Single",
       "duration": 176,
-      "previousRank": 17,
-      "rankDelta": 3,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "2025-02-28T12:00:00Z"
     },
     {
@@ -487,7 +487,7 @@
       "artistName": "sombr",
       "artistSlug": "sombr",
       "rank": 15,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 377,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/5d/c4/d05dc49d-f3b6-7d3a-4e5f-56e12bcde750/mzaf_14325217487291115220.plus.aac.p.m4a",
@@ -511,8 +511,8 @@
       "artistMbid": "502cf908-9921-48bc-bf0e-265c881c0156",
       "albumTitle": "12 to 12 - Single",
       "duration": 243,
-      "previousRank": 16,
-      "rankDelta": 1,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "2025-07-24T12:00:00Z"
     },
     {
@@ -521,7 +521,7 @@
       "artistName": "Radiohead",
       "artistSlug": "radiohead",
       "rank": 16,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 374,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8d/e0/bb/8de0bb10-0593-83cc-4d2c-4e9f6ea9b575/mzaf_16440589638018943894.plus.aac.p.m4a",
@@ -545,8 +545,8 @@
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
       "albumTitle": "Creep - EP",
       "duration": 259,
-      "previousRank": 14,
-      "rankDelta": -2,
+      "previousRank": 16,
+      "rankDelta": 0,
       "releaseDate": "1992-09-21T12:00:00Z"
     },
     {
@@ -555,7 +555,7 @@
       "artistName": "The Police",
       "artistSlug": "the-police",
       "rank": 17,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 369,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/7e/4f/f37e4f0e-4979-c096-6fa0-7ffc054d0c73/mzaf_8433816559382260848.plus.aac.p.m4a",
@@ -579,8 +579,8 @@
       "artistMbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
       "albumTitle": "The Very Best of Sting & The Police",
       "duration": 251,
-      "previousRank": 15,
-      "rankDelta": -2,
+      "previousRank": 17,
+      "rankDelta": 0,
       "releaseDate": "1983-01-06T12:00:00Z"
     },
     {
@@ -589,7 +589,7 @@
       "artistName": "Empire of the Sun",
       "artistSlug": "empire-of-the-sun",
       "rank": 18,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 367,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/33/71/1f337152-3283-de6b-45f5-c3b4028c0998/mzaf_11304312529559775009.plus.aac.p.m4a",
@@ -613,8 +613,8 @@
       "artistMbid": "ac7e838c-3d95-47c2-92a9-81767ad7c217",
       "albumTitle": "Walking On a Dream (Special Edition)",
       "duration": 267,
-      "previousRank": 20,
-      "rankDelta": 2,
+      "previousRank": 18,
+      "rankDelta": 0,
       "releaseDate": "2008-09-20T07:00:00Z"
     },
     {
@@ -623,7 +623,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 19,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 363,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/61/8e/2d/618e2d09-d6e5-1864-92b3-b5ea326bc1a9/mzaf_18353592973487747406.plus.aac.p.m4a",
@@ -647,8 +647,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "ARTZ Basel Miami Mix (DJ Mix)",
       "duration": 111,
-      "previousRank": 18,
-      "rankDelta": -1,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2023-01-27T12:00:00Z"
     },
     {
@@ -657,7 +657,7 @@
       "artistName": "The Neighbourhood",
       "artistSlug": "the-neighbourhood",
       "rank": 20,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 356,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/37/20/8c372047-2727-8054-9411-0e4867643dd8/mzaf_10169659262182214119.plus.aac.p.m4a",
@@ -681,8 +681,8 @@
       "artistMbid": "53b06622-ec51-4924-a554-58b0affde6b5",
       "albumTitle": "I Love You.",
       "duration": 240,
-      "previousRank": 21,
-      "rankDelta": 1,
+      "previousRank": 20,
+      "rankDelta": 0,
       "releaseDate": "2012-12-03T08:00:00Z"
     },
     {
@@ -691,7 +691,7 @@
       "artistName": "sombr",
       "artistSlug": "sombr",
       "rank": 21,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 353,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
@@ -715,8 +715,8 @@
       "artistMbid": "502cf908-9921-48bc-bf0e-265c881c0156",
       "albumTitle": "Homewrecker - Single",
       "duration": 209,
-      "previousRank": 22,
-      "rankDelta": 1,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "2026-02-05T12:00:00Z"
     },
     {
@@ -725,7 +725,7 @@
       "artistName": "Ravyn Lenae",
       "artistSlug": "ravyn-lenae",
       "rank": 22,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 353,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/56/cd/e456cd7c-d289-553a-9c39-98ca08ca0b4b/mzaf_14810478461288819548.plus.aac.p.m4a",
@@ -749,8 +749,8 @@
       "artistMbid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
       "albumTitle": "Bird's Eye",
       "duration": 213,
-      "previousRank": 24,
-      "rankDelta": 2,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2024-05-03T12:00:00Z"
     },
     {
@@ -759,7 +759,7 @@
       "artistName": "Charli xcx",
       "artistSlug": "charli-xcx",
       "rank": 23,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 352,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/c5/e2/fbc5e2b7-69b9-eb8f-ea86-773ca8cf290a/mzaf_13689117863235539113.plus.aac.p.m4a",
@@ -783,8 +783,8 @@
       "artistMbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
       "albumTitle": "Wuthering Heights",
       "duration": 182,
-      "previousRank": 19,
-      "rankDelta": -4,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "2026-02-13T12:00:00Z"
     },
     {
@@ -793,7 +793,7 @@
       "artistName": "EsDeeKid",
       "artistSlug": "esdeekid",
       "rank": 24,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 339,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/13/8f/b5138f23-e816-8e12-8203-83f6ee2d3ce6/mzaf_8525420916576032268.plus.aac.p.m4a",
@@ -817,8 +817,8 @@
       "artistMbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
       "albumTitle": "esdeekid 4 raws - Single",
       "duration": 101,
-      "previousRank": 30,
-      "rankDelta": 6,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2025-12-20T12:00:00Z"
     },
     {
@@ -827,7 +827,7 @@
       "artistName": "The Marías",
       "artistSlug": "the-marias",
       "rank": 25,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 338,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/59/68/465968ed-5c6d-0f97-167d-6f53b74793fc/mzaf_12576584058255046082.plus.aac.p.m4a",
@@ -851,8 +851,8 @@
       "artistMbid": "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3",
       "albumTitle": "Submarine",
       "duration": 237,
-      "previousRank": 27,
-      "rankDelta": 2,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "2024-05-03T07:00:00Z"
     },
     {
@@ -861,33 +861,29 @@
       "artistName": "sombr",
       "artistSlug": "sombr",
       "rank": 26,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 338,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/c4/dd/48c4dd2b-8335-be3c-81f3-f13b84e0cf0a/mzaf_4574789671002849650.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/sombr/_/undressed",
-        "itunes": "https://music.apple.com/us/album/undressed/1802084937?i=1802084938&uo=4"
+        "lastfm": "https://www.last.fm/music/sombr/_/undressed"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "4f720de8-5e2b-44df-814c-3fcefb9cb493",
       "artistMbid": "502cf908-9921-48bc-bf0e-265c881c0156",
-      "albumTitle": "undressed - Single",
       "duration": 182,
-      "previousRank": 25,
-      "rankDelta": -1,
-      "releaseDate": "2025-03-21T12:00:00Z"
+      "previousRank": 26,
+      "rankDelta": 0
     },
     {
       "id": "rihanna--s-and-m",
@@ -895,7 +891,7 @@
       "artistName": "Rihanna",
       "artistSlug": "rihanna",
       "rank": 27,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 334,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/02/a8/4d/02a84d1b-e538-ade2-bcae-cb9548c9c13f/mzaf_665222301792604031.plus.aac.p.m4a",
@@ -919,8 +915,8 @@
       "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
       "albumTitle": "S&M (Remix) [feat. Britney Spears] - Single",
       "duration": 257,
-      "previousRank": 28,
-      "rankDelta": 1,
+      "previousRank": 27,
+      "rankDelta": 0,
       "releaseDate": "2011-04-11T12:00:00Z"
     },
     {
@@ -929,7 +925,7 @@
       "artistName": "Olivia Dean",
       "artistSlug": "olivia-dean",
       "rank": 28,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 331,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/2c/6d/812c6df3-5481-5e61-b5d1-306d485b0d9d/mzaf_6058256111555931162.plus.aac.p.m4a",
@@ -953,8 +949,8 @@
       "artistMbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
       "albumTitle": "The Art of Loving",
       "duration": 184,
-      "previousRank": 29,
-      "rankDelta": 1,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "2025-09-26T12:00:00Z"
     },
     {
@@ -963,7 +959,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 29,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 329,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/2c/26/852c262a-d446-3343-26c9-a48b679e65f8/mzaf_10568200496426777792.plus.aac.p.m4a",
@@ -987,8 +983,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "DeBÍ TiRAR Más FOToS (Piano Version)",
       "duration": 127,
-      "previousRank": 23,
-      "rankDelta": -6,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "2025-06-27T12:00:00Z"
     },
     {
@@ -997,7 +993,7 @@
       "artistName": "Sean Paul",
       "artistSlug": "sean-paul",
       "rank": 30,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 329,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/da/a4/bcdaa416-ef9e-fbcc-a96b-0a1b492d35b0/mzaf_8826149582565333170.plus.aac.p.m4a",
@@ -1020,8 +1016,8 @@
       "artistMbid": "c3da3346-2643-48a7-93cd-011f6834b3d7",
       "albumTitle": "Only Hits",
       "duration": 244,
-      "previousRank": 31,
-      "rankDelta": 1,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "2005-09-27T12:00:00Z"
     },
     {
@@ -1030,7 +1026,7 @@
       "artistName": "Radiohead",
       "artistSlug": "radiohead",
       "rank": 31,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 329,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/66/13/3c/66133c2c-59a6-f17b-0b88-7f61e1edc181/mzaf_12936594904953407247.plus.aac.p.m4a",
@@ -1054,8 +1050,8 @@
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
       "albumTitle": "OK Computer",
       "duration": 300,
-      "previousRank": 38,
-      "rankDelta": 7,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "1997-05-21T07:00:00Z"
     },
     {
@@ -1064,7 +1060,7 @@
       "artistName": "Tame Impala",
       "artistSlug": "tame-impala",
       "rank": 32,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 327,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/e0/26/93e02611-d12e-86e8-595a-b6d20a7847dc/mzaf_12540017880660395875.plus.aac.p.m4a",
@@ -1088,8 +1084,8 @@
       "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
       "albumTitle": "Dracula - Single",
       "duration": 205,
-      "previousRank": 39,
-      "rankDelta": 7,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2025-09-24T12:00:00Z"
     },
     {
@@ -1098,7 +1094,7 @@
       "artistName": "Linkin Park",
       "artistSlug": "linkin-park",
       "rank": 33,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 327,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/48/47/81484725-99a9-867a-a094-25a390e82a31/mzaf_2642985205707173460.plus.aac.p.m4a",
@@ -1122,8 +1118,8 @@
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
       "albumTitle": "From Zero: A Cappellas + Instrumentals",
       "duration": 190,
-      "previousRank": 32,
-      "rankDelta": -1,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "2024-09-05T12:00:00Z"
     },
     {
@@ -1132,7 +1128,7 @@
       "artistName": "Linkin Park",
       "artistSlug": "linkin-park",
       "rank": 34,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 322,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/ca/eb/e9caeb68-483d-b108-7898-25073e24566a/mzaf_1183955807160648053.plus.aac.p.m4a",
@@ -1156,8 +1152,8 @@
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
       "albumTitle": "Meteora (Deluxe Edition)",
       "duration": 214,
-      "previousRank": 33,
-      "rankDelta": -1,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "2003-02-24T08:00:00Z"
     },
     {
@@ -1200,7 +1196,7 @@
       "artistName": "Lana Del Rey",
       "artistSlug": "lana-del-rey",
       "rank": 36,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 316,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/a0/8d/87a08d64-abe7-cbfd-df70-002b61fad2db/mzaf_16110706407153351655.plus.aac.p.m4a",
@@ -1224,8 +1220,8 @@
       "artistMbid": "b7539c32-53e7-4908-bda3-81449c367da6",
       "albumTitle": "White Feather Hawk Tail Deer Hunter - Single",
       "duration": 234,
-      "previousRank": 26,
-      "rankDelta": -10,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "2026-02-17T12:00:00Z"
     },
     {
@@ -1234,7 +1230,7 @@
       "artistName": "Zara Larsson",
       "artistSlug": "zara-larsson",
       "rank": 37,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 313,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/69/bb/0369bb27-0c58-9c65-ad6b-d86c77a38f42/mzaf_13731575429992521229.plus.aac.p.m4a",
@@ -1258,8 +1254,8 @@
       "artistMbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
       "albumTitle": "Midnight Sun",
       "duration": 190,
-      "previousRank": 36,
-      "rankDelta": -1,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2025-06-13T12:00:00Z"
     },
     {
@@ -1268,7 +1264,7 @@
       "artistName": "t.A.T.u.",
       "artistSlug": "t-a-t-u",
       "rank": 38,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 312,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/ef/b7/04efb7c0-63b8-0164-cdd9-f7d7a93c1372/mzaf_15885597228946383675.plus.aac.p.m4a",
@@ -1292,8 +1288,8 @@
       "artistMbid": "7c20f558-d664-42bd-b6f1-81acf9dbb72d",
       "albumTitle": "200 KM/H In the Wrong Lane",
       "duration": 214,
-      "previousRank": 40,
-      "rankDelta": 2,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "2002-08-19T12:00:00Z"
     },
     {
@@ -1302,7 +1298,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 39,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 309,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
@@ -1326,8 +1322,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "DeBÍ TiRAR MáS FOToS",
       "duration": 184,
-      "previousRank": 37,
-      "rankDelta": -2,
+      "previousRank": 39,
+      "rankDelta": 0,
       "releaseDate": "2025-01-05T12:00:00Z"
     },
     {
@@ -1336,7 +1332,7 @@
       "artistName": "Linkin Park",
       "artistSlug": "linkin-park",
       "rank": 40,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 302,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/81/42/72814285-6c1a-d0a4-89e2-8aeeda6cfc37/mzaf_17180911196812101386.plus.aac.p.m4a",
@@ -1360,8 +1356,8 @@
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
       "albumTitle": "Meteora (Deluxe Edition)",
       "duration": 162,
-      "previousRank": 41,
-      "rankDelta": 1,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "2003-03-25T08:00:00Z"
     },
     {
@@ -1370,7 +1366,7 @@
       "artistName": "EsDeeKid",
       "artistSlug": "esdeekid",
       "rank": 41,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 301,
       "previewUrl": null,
@@ -1391,8 +1387,8 @@
       "mbid": "03b24d61-b880-45b3-ad97-7c48505e949e",
       "artistMbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
       "duration": 110,
-      "previousRank": 43,
-      "rankDelta": 2
+      "previousRank": 41,
+      "rankDelta": 0
     },
     {
       "id": "sabrina-carpenter--manchild",
@@ -1400,7 +1396,7 @@
       "artistName": "Sabrina Carpenter",
       "artistSlug": "sabrina-carpenter",
       "rank": 42,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 299,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/b9/7d/0fb97d62-b093-2c58-a6d4-c20d987dd2c9/mzaf_9158363594364887027.plus.aac.p.m4a",
@@ -1424,8 +1420,8 @@
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
       "albumTitle": "Manchild - Single",
       "duration": 214,
-      "previousRank": 46,
-      "rankDelta": 4,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2025-06-05T12:00:00Z"
     },
     {
@@ -1434,7 +1430,7 @@
       "artistName": "Olivia Dean",
       "artistSlug": "olivia-dean",
       "rank": 43,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 299,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/78/76/b07876e5-0e27-b261-a76b-9de5135f7196/mzaf_3541076937115029478.plus.aac.p.m4a",
@@ -1457,8 +1453,8 @@
       "artistMbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
       "albumTitle": "The Art of Loving",
       "duration": 169,
-      "previousRank": 44,
-      "rankDelta": 1,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "2025-09-26T12:00:00Z"
     },
     {
@@ -1467,7 +1463,7 @@
       "artistName": "Gorillaz",
       "artistSlug": "gorillaz",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 295,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/36/19/80361983-137c-5ec1-04b8-c47a38f94bd7/mzaf_15967606551339762207.plus.aac.p.m4a",
@@ -1491,6 +1487,8 @@
       "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
       "albumTitle": "The Mountain",
       "duration": 298,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "2026-02-27T08:00:00Z"
     },
     {
@@ -1499,7 +1497,7 @@
       "artistName": "Gigi Perez",
       "artistSlug": "gigi-perez",
       "rank": 45,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 294,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/fe/18/6dfe184e-7612-f171-0356-0b7a84112e9a/mzaf_9760607751711758843.plus.aac.p.m4a",
@@ -1523,8 +1521,8 @@
       "artistMbid": "8ab64ebd-200e-47af-a3fc-92540e186214",
       "albumTitle": "Sailor Song - Single",
       "duration": 212,
-      "previousRank": 49,
-      "rankDelta": 4,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "2025-04-12T12:00:00Z"
     },
     {
@@ -1533,7 +1531,7 @@
       "artistName": "The Neighbourhood",
       "artistSlug": "the-neighbourhood",
       "rank": 46,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 294,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/08/9e/1b089e17-1084-d825-d576-66d46ae1e243/mzaf_11823295334220528749.plus.aac.p.m4a",
@@ -1557,8 +1555,8 @@
       "artistMbid": "53b06622-ec51-4924-a554-58b0affde6b5",
       "albumTitle": "Hard To Imagine The Neighbourhood Ever Changing",
       "duration": 206,
-      "previousRank": 42,
-      "rankDelta": -4,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "2018-03-09T12:00:00Z"
     },
     {
@@ -1567,7 +1565,7 @@
       "artistName": "Chappell Roan",
       "artistSlug": "chappell-roan",
       "rank": 47,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 291,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/6d/4f/c36d4f23-b87f-046d-7a0e-e3e05d180b2a/mzaf_17235999651335214399.plus.aac.p.m4a",
@@ -1591,8 +1589,8 @@
       "artistMbid": "56a55378-f155-48de-80a5-d80104221267",
       "albumTitle": "Good Luck, Babe! - Single",
       "duration": 218,
-      "previousRank": 48,
-      "rankDelta": 1,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "2024-04-05T12:00:00Z"
     },
     {
@@ -1601,7 +1599,7 @@
       "artistName": "Tame Impala",
       "artistSlug": "tame-impala",
       "rank": 48,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 290,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/04/9b/47/049b4772-0cc3-55d8-0c92-86a7368679a7/mzaf_11944374016959280597.plus.aac.p.m4a",
@@ -1625,8 +1623,8 @@
       "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
       "albumTitle": "The Slow Rush",
       "duration": 238,
-      "previousRank": 47,
-      "rankDelta": -1,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "2019-04-12T07:00:00Z"
     },
     {
@@ -1635,7 +1633,7 @@
       "artistName": "Linkin Park",
       "artistSlug": "linkin-park",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 289,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bb/13/76/bb1376a7-4db0-ed68-c1a6-d0278cc4b320/mzaf_17832584344687833283.plus.aac.p.m4a",
@@ -1659,6 +1657,8 @@
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
       "albumTitle": "Meteora (Deluxe Edition)",
       "duration": 188,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2003-03-25T08:00:00Z"
     },
     {
@@ -1667,7 +1667,7 @@
       "artistName": "COSMÓ",
       "artistSlug": "cosmo",
       "rank": 50,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 284,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/a2/de/08a2dede-ddc3-e5a1-1867-170abd2a4f77/mzaf_15151063157010972535.plus.aac.p.m4a",
@@ -1690,12 +1690,12 @@
       "mbid": "76d61d85-fa90-47ce-961c-3cbe8782bebd",
       "albumTitle": "TANZSCHEIN - Single",
       "duration": 163,
-      "previousRank": 34,
-      "rankDelta": -16,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2026-02-06T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T20:17:41.568Z",
+  "lastUpdated": "2026-03-02T23:12:44.089Z",
   "totalTracks": 50,
   "coverColor": "#ef4444",
   "country": "at",

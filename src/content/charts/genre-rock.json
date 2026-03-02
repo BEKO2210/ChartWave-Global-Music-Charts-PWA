@@ -82,30 +82,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/17/35/60173512-3d5c-1d6f-549e-d8ddafa93e07/mzaf_5281658494050788067.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Goo+Goo+Dolls/_/Iris",
-        "itunes": "https://music.apple.com/us/album/iris/1109658139?i=1109658204&uo=4"
+        "lastfm": "https://www.last.fm/music/Goo+Goo+Dolls/_/Iris"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "02a75d1a-977b-4430-9db4-5d02d26e1d85",
       "artistMbid": "e2c00c56-8365-4160-9f40-a64682917633",
-      "albumTitle": "Dizzy Up the Girl",
-      "duration": 290,
+      "duration": 294,
       "previousRank": 3,
-      "rankDelta": 0,
-      "releaseDate": "1998-04-07T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "foo-fighters--everlong",
@@ -320,30 +316,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/6b/81/726b81ba-51ce-a834-a7e7-f63ef188ba5e/mzaf_3878585649506778971.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/86/1d/4c861dab-5428-f3b7-8068-82bb69db5e89/093624932130.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/86/1d/4c861dab-5428-f3b7-8068-82bb69db5e89/093624932130.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/86/1d/4c861dab-5428-f3b7-8068-82bb69db5e89/093624932130.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Scar+Tissue",
-        "itunes": "https://music.apple.com/us/album/scar-tissue/945575406?i=945575409&uo=4"
+        "lastfm": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Scar+Tissue"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "01de644b-448d-4aac-ba09-5c6bdc1bd8c1",
       "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
-      "albumTitle": "Californication (Remastered)",
-      "duration": 217,
+      "duration": 245,
       "previousRank": 10,
-      "rankDelta": 0,
-      "releaseDate": "1999-05-25T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "my-chemical-romance--teenagers",
@@ -422,30 +414,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/19/f7/99/19f799a3-4638-f354-8713-f5ac076f328e/mzaf_2398941441794619302.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Harry+Styles/_/Sign+of+the+Times",
-        "itunes": "https://music.apple.com/us/album/sign-of-the-times/1226034336?i=1226034393&uo=4"
+        "lastfm": "https://www.last.fm/music/Harry+Styles/_/Sign+of+the+Times"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "03296d3a-6bee-4bcb-84dc-72d8307b1f4a",
       "artistMbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
-      "albumTitle": "Harry Styles",
-      "duration": 341,
+      "duration": 335,
       "previousRank": 13,
-      "rankDelta": 0,
-      "releaseDate": "2017-04-07T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "the-police--every-breath-you-take",
@@ -694,30 +682,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8b/1d/bd/8b1dbd50-0282-d4c3-814f-c444fa87a892/mzaf_5909803204081466460.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/99/8a/56998a1c-efe7-fdf0-2b1d-e2da88d8df52/093624917724.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/99/8a/56998a1c-efe7-fdf0-2b1d-e2da88d8df52/093624917724.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/99/8a/56998a1c-efe7-fdf0-2b1d-e2da88d8df52/093624917724.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/My+Chemical+Romance/_/I+Don%27t+Love+You",
-        "itunes": "https://music.apple.com/us/album/i-dont-love-you/1156310650?i=1156310695&uo=4"
+        "lastfm": "https://www.last.fm/music/My+Chemical+Romance/_/I+Don%27t+Love+You"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "067f5f86-218e-3da3-be48-17f91138f2b2",
       "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
-      "albumTitle": "The Black Parade",
       "duration": 239,
       "previousRank": 21,
-      "rankDelta": 0,
-      "releaseDate": "2006-10-24T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "my-chemical-romance--welcome-to-the-black-parade",
@@ -762,30 +746,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a2/ff/e8/a2ffe8f2-8642-e806-e5c8-9afbc5cc6e8d/mzaf_17255648141518396899.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/99/dd/3199ddd5-6317-d6a1-f447-712ac86161ba/mzi.bwfrnenf.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/99/dd/3199ddd5-6317-d6a1-f447-712ac86161ba/mzi.bwfrnenf.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/31/99/dd/3199ddd5-6317-d6a1-f447-712ac86161ba/mzi.bwfrnenf.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Paramore/_/Decode",
-        "itunes": "https://music.apple.com/us/album/decode/294342468?i=294342487&uo=4"
+        "lastfm": "https://www.last.fm/music/Paramore/_/Decode"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "128de3c7-8d4d-37bb-8c07-4d4cf0d1c491",
       "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
-      "albumTitle": "Twilight (Original Motion Picture Soundtrack)",
-      "duration": 262,
+      "duration": 261,
       "previousRank": 23,
-      "rankDelta": 0,
-      "releaseDate": "2008-10-21T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "red-hot-chili-peppers--californication",
@@ -1134,30 +1114,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/f3/1a/66f31a76-a6ed-cb4c-f353-23310a7ae9a8/mzaf_10593596652344378873.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Coldplay/_/Yellow",
-        "itunes": "https://music.apple.com/us/album/yellow/1122782080?i=1122782283&uo=4"
+        "lastfm": "https://www.last.fm/music/Coldplay/_/Yellow"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0063bb06-4e74-464d-97ae-b82f90bcb222",
       "artistMbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-      "albumTitle": "Parachutes",
       "duration": 269,
       "previousRank": 34,
-      "rankDelta": 0,
-      "releaseDate": "2000-06-26T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "my-chemical-romance--im-not-okay-i-promise",
@@ -1270,30 +1246,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/52/56/3f525606-7cb8-0292-51c1-c617802ba773/mzaf_433193577063250516.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Killers/_/Somebody+Told+Me",
-        "itunes": "https://music.apple.com/us/album/somebody-told-me/1526194184?i=1526194195&uo=4"
+        "lastfm": "https://www.last.fm/music/The+Killers/_/Somebody+Told+Me"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "03604dc5-efed-4990-8a68-1bdca3cf00ce",
       "artistMbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
-      "albumTitle": "Hot Fuss",
-      "duration": 197,
+      "duration": 198,
       "previousRank": 38,
-      "rankDelta": 0,
-      "releaseDate": "2004-03-15T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "red-hot-chili-peppers--otherside",
@@ -1372,30 +1344,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f4/3e/86/f43e8664-bdd9-bc56-8d2b-76064c865920/mzaf_15456055651529260945.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Nirvana/_/Come+as+You+Are",
-        "itunes": "https://music.apple.com/us/album/come-as-you-are/1440783617?i=1440783636&uo=4"
+        "lastfm": "https://www.last.fm/music/Nirvana/_/Come+as+You+Are"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0003d855-0691-3e1c-b8de-f53254f6a2ae",
       "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
-      "albumTitle": "Nevermind",
-      "duration": 219,
+      "duration": 220,
       "previousRank": 41,
-      "rankDelta": 0,
-      "releaseDate": "1991-09-24T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "muse--supermassive-black-hole",
@@ -1610,30 +1578,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/ca/8f/faca8fed-4283-328e-d32a-84e747b35575/mzaf_11209087538798491758.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/d8/ff/2bd8ff78-9201-71dc-c931-503340d8b08a/00601501407529.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/d8/ff/2bd8ff78-9201-71dc-c931-503340d8b08a/00601501407529.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/d8/ff/2bd8ff78-9201-71dc-c931-503340d8b08a/00601501407529.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Creed/_/One+Last+Breath",
-        "itunes": "https://music.apple.com/us/album/one-last-breath/1440738578?i=1440738795&uo=4"
+        "lastfm": "https://www.last.fm/music/Creed/_/One+Last+Breath"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0d584ebc-265e-3704-b96d-40529beb133f",
       "artistMbid": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
-      "albumTitle": "Weathered",
-      "duration": 238,
+      "duration": 239,
       "previousRank": 48,
-      "rankDelta": 0,
-      "releaseDate": "2001-11-20T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "linkin-park--given-up",
@@ -1704,7 +1668,7 @@
       "releaseDate": "2007-02-06T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T20:19:34.951Z",
+  "lastUpdated": "2026-03-02T23:21:29.171Z",
   "totalTracks": 50,
   "coverColor": "#ef4444",
   "genre": "rock",
