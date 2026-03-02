@@ -14,26 +14,30 @@
       "rankChange": "up",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/6e/cb/fe6ecb1e-22f2-423b-f4c4-9a13877977fb/mzaf_10663462282757651821.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/fe/23/fdfe23c0-ed10-4485-a8e1-702a99a8336c/859712317261_cover.tif/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/fe/23/fdfe23c0-ed10-4485-a8e1-702a99a8336c/859712317261_cover.tif/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/fe/23/fdfe23c0-ed10-4485-a8e1-702a99a8336c/859712317261_cover.tif/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.+1"
+        "lastfm": "https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.+1",
+        "itunes": "https://music.apple.com/us/album/gymnopedie-no-1/847714522?i=847718927&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "001df836-e996-34c6-9400-c546044dabbb",
       "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
-      "duration": 202,
+      "albumTitle": "Gymnopedie No.1 - Single",
+      "duration": 191,
       "previousRank": 18,
-      "rankDelta": 17
+      "rankDelta": 17,
+      "releaseDate": "2012-03-28T12:00:00Z"
     },
     {
       "id": "claude-debussy--clair-de-lune",
@@ -143,26 +147,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e4/ce/be/e4cebe4d-e128-c149-d3c3-e863c12e5b03/mzaf_3541492753066162998.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/ec/d7/58ecd75d-8df8-c05f-5e1a-b144292c6493/17UM1IM64259.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/ec/d7/58ecd75d-8df8-c05f-5e1a-b144292c6493/17UM1IM64259.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/ec/d7/58ecd75d-8df8-c05f-5e1a-b144292c6493/17UM1IM64259.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Max+Richter/_/On+the+Nature+of+Daylight"
+        "lastfm": "https://www.last.fm/music/Max+Richter/_/On+the+Nature+of+Daylight",
+        "itunes": "https://music.apple.com/us/album/on-the-nature-of-daylight/1368089903?i=1368090483&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0f1707ac-dcc5-4c71-9e7a-9c6cb0276270",
       "artistMbid": "509f20b2-5df3-4aec-9bbc-002131fb3f99",
+      "albumTitle": "The Blue Notebooks (15 Years)",
       "duration": 372,
       "previousRank": 5,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2004-02-23T12:00:00Z"
     },
     {
       "id": "gustav-holst--the-planets-op-32-iv-jupiter-the-bringer-of-jollity",
@@ -309,26 +317,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4a/c0/01/4ac001fc-8070-4d5f-ac75-14f4df7321e5/mzaf_1236335642423734923.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/5c/ac/11/mzi.zduziwsm.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/5c/ac/11/mzi.zduziwsm.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/5c/ac/11/mzi.zduziwsm.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Ludwig+van+Beethoven/_/F%C3%BCr+Elise"
+        "lastfm": "https://www.last.fm/music/Ludwig+van+Beethoven/_/F%C3%BCr+Elise",
+        "itunes": "https://music.apple.com/us/album/fur-elise-bagatelle-in-a-minor-woo-59/484214147?i=484214571&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "000a56e5-3546-4930-88b2-08db60263254",
       "artistMbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
-      "duration": 167,
+      "albumTitle": "Piano and Organ Works / Mozart: Turkish March - Sonata Facile / Pachelbel: Canon in D Major / Beethoven: Fur Elise - Moonlight Sonata / Bach: Jesu, Joy of Man's Desiring / Rinaldi: Piano Works / Mendelssohn: Wedding March / Bridal Chorus / Ave Maria",
+      "duration": 161,
       "previousRank": 10,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2011-10-11T12:00:00Z"
     },
     {
       "id": "erik-satie--gnossienne-no-1",
@@ -373,26 +385,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/55/96/c2/5596c2e6-3f39-8d61-9bfe-94ee8faba662/mzaf_13294780678548004318.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/2e/46/262e4601-650f-467c-02de-b7e590b028dc/mzi.jlbxtcmq.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/2e/46/262e4601-650f-467c-02de-b7e590b028dc/mzi.jlbxtcmq.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/2e/46/262e4601-650f-467c-02de-b7e590b028dc/mzi.jlbxtcmq.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Johann+Sebastian+Bach/_/Air+on+a+G+String"
+        "lastfm": "https://www.last.fm/music/Johann+Sebastian+Bach/_/Air+on+a+G+String",
+        "itunes": "https://music.apple.com/us/album/air-on-a-g-string/303301889?i=303301900&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "02bb3ac6-e3d1-4894-81de-b2f0e018d99f",
       "artistMbid": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
-      "duration": 185,
+      "albumTitle": "Pachelbel: Canon In D - Bach: Air On a G String - Handel: Largo from 'Xerxes' - Hallelujah Chorus - Clarke: Trumpet Voluntary",
+      "duration": 205,
       "previousRank": 12,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2005-10-11T07:00:00Z"
     },
     {
       "id": "andrea-bocelli--con-te-partiro",
@@ -403,24 +419,29 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/92/f0/2b92f06d-4ce7-5659-322e-4815f2aad0f2/mzaf_8362649659153462242.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/9b/54/f89b5493-fb60-3779-0ce9-27ebee8c5949/15UMGIM02105.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/9b/54/f89b5493-fb60-3779-0ce9-27ebee8c5949/15UMGIM02105.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/9b/54/f89b5493-fb60-3779-0ce9-27ebee8c5949/15UMGIM02105.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Andrea+Bocelli/_/Con+Te+Partir%C3%B2"
+        "lastfm": "https://www.last.fm/music/Andrea+Bocelli/_/Con+Te+Partir%C3%B2",
+        "itunes": "https://music.apple.com/us/album/con-te-partiro/1440845097?i=1440845105&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "artistMbid": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
+      "albumTitle": "Bocelli",
+      "duration": 250,
       "previousRank": 13,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1995-01-01T12:00:00Z"
     },
     {
       "id": "camille-saint-saens--danse-macabre-in-g-minor-op-40",
@@ -1672,7 +1693,7 @@
       "releaseDate": "2005-01-01T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T01:25:11.372Z",
+  "lastUpdated": "2026-03-02T06:39:16.280Z",
   "totalTracks": 50,
   "coverColor": "#a78bfa",
   "genre": "classical",

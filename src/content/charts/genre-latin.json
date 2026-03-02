@@ -319,26 +319,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/56/33/6c5633cf-a5f0-d489-f3e2-4fdd9b821ef3/mzaf_417409533127729756.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/66/f0/2f66f0f1-c3c2-9dc0-8391-04804cabc8cf/24CRGIM46808.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/66/f0/2f66f0f1-c3c2-9dc0-8391-04804cabc8cf/24CRGIM46808.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/66/f0/2f66f0f1-c3c2-9dc0-8391-04804cabc8cf/24CRGIM46808.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Daddy+Yankee/_/Gasolina"
+        "lastfm": "https://www.last.fm/music/Daddy+Yankee/_/Gasolina",
+        "itunes": "https://music.apple.com/us/album/gasolina/1785999696?i=1786000124&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00725818-5e29-41a0-a35b-0792d5172834",
       "artistMbid": "2f522f5c-111c-4ce8-8bd0-d82e97c227ad",
-      "duration": 111,
+      "albumTitle": "Barrio Fino (Deluxe Version)",
+      "duration": 193,
       "previousRank": 10,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2004-01-01T12:00:00Z"
     },
     {
       "id": "juanes--la-camisa-negra",
@@ -485,26 +489,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9f/b3/bb/9fb3bb95-dce9-bd65-7d91-4e9c4322dbc0/mzaf_17702336458070202791.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/93/8b/5a938b3e-a74d-9c8b-dcf1-c9c1f83498da/4050538455618.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan"
+        "lastfm": "https://www.last.fm/music/Buena+Vista+Social+Club/_/Chan+Chan",
+        "itunes": "https://music.apple.com/us/album/chan-chan/1716598034?i=1716598344&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "078b7a5d-7962-4722-9b90-914c711b88c8",
       "artistMbid": "2a85ecff-41e9-4be1-aca6-c87054a4c334",
-      "duration": 258,
+      "albumTitle": "Buena Vista Social Club",
+      "duration": 259,
       "previousRank": 15,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1997-06-23T12:00:00Z"
     },
     {
       "id": "elvis-crespo--suavemente",
@@ -515,26 +523,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/f4/b4/42f4b497-cbfb-a982-788d-69294bd119ef/mzaf_4406960368277173940.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/b6/2f/0ab62f9e-c72b-0968-d11e-24d2b38dd5d8/mzi.lomqptbg.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/b6/2f/0ab62f9e-c72b-0968-d11e-24d2b38dd5d8/mzi.lomqptbg.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/b6/2f/0ab62f9e-c72b-0968-d11e-24d2b38dd5d8/mzi.lomqptbg.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Elvis+Crespo/_/Suavemente"
+        "lastfm": "https://www.last.fm/music/Elvis+Crespo/_/Suavemente",
+        "itunes": "https://music.apple.com/us/album/suavemente/187429585?i=187429633&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0246a2cf-935b-457e-a50e-e36f75d6cf87",
       "artistMbid": "776b2c10-31fe-4c4b-9982-f408279b80a9",
-      "duration": 268,
+      "albumTitle": "Suavemente",
+      "duration": 267,
       "previousRank": 16,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1998-04-04T08:00:00Z"
     },
     {
       "id": "bad-bunny--ojitos-lindos",
@@ -545,25 +557,29 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/ae/81/72ae81c2-4ef3-b998-40b6-563c0609509f/mzaf_12868850384306577273.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/Ojitos+Lindos"
+        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/Ojitos+Lindos",
+        "itunes": "https://music.apple.com/us/album/ojitos-lindos/1622045624?i=1622045962&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "albumTitle": "Un Verano Sin Ti",
       "duration": 258,
       "previousRank": 17,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2022-05-06T12:00:00Z"
     },
     {
       "id": "juanes--a-dios-le-pido",
@@ -574,26 +590,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/64/52/416452dc-fc37-bb03-d5b9-6cad57b4fe8c/mzaf_13731390409657648314.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/b1/5d/8fb15d20-491c-5232-e939-ca4ddbd07a9d/06UMGIM13859.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/b1/5d/8fb15d20-491c-5232-e939-ca4ddbd07a9d/06UMGIM13859.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/b1/5d/8fb15d20-491c-5232-e939-ca4ddbd07a9d/06UMGIM13859.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Juanes/_/A+Dios+Le+Pido"
+        "lastfm": "https://www.last.fm/music/Juanes/_/A+Dios+Le+Pido",
+        "itunes": "https://music.apple.com/us/album/a-dios-le-pido/1440785045?i=1440785264&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "024102a9-51c4-4666-b477-a4826047527d",
       "artistMbid": "8b0f05ce-354e-4121-9e0b-8b4732ea844f",
+      "albumTitle": "Un Día Normal",
       "duration": 205,
       "previousRank": 18,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2002-06-06T12:00:00Z"
     },
     {
       "id": "shakira--addicted-to-you",
@@ -604,26 +624,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/ca/d7/aacad747-f168-13c1-5829-994ad79b75d9/mzaf_14673391289377486777.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/15/38/ec1538d9-67b8-e561-6b11-bc5a266cba7c/886444681568.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/15/38/ec1538d9-67b8-e561-6b11-bc5a266cba7c/886444681568.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/15/38/ec1538d9-67b8-e561-6b11-bc5a266cba7c/886444681568.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Shakira/_/Addicted+to+You"
+        "lastfm": "https://www.last.fm/music/Shakira/_/Addicted+to+You",
+        "itunes": "https://music.apple.com/us/album/addicted-to-you/888878323?i=888878390&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "02f5b177-168d-376c-bcbe-4b09cd3f03b1",
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
-      "duration": 149,
+      "albumTitle": "Sale el Sol (Bonus Track Edition)",
+      "duration": 147,
       "previousRank": 19,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2010-10-19T07:00:00Z"
     },
     {
       "id": "selena--amor-prohibido",
@@ -634,26 +658,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/aa/e3/5baae3ac-7c0e-9bb4-34a3-714d5f197865/mzaf_8398886671722301215.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/b4/dc/5eb4dc73-cb56-5aaa-761e-04f2bcf16100/13UABIM54244.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/b4/dc/5eb4dc73-cb56-5aaa-761e-04f2bcf16100/13UABIM54244.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/b4/dc/5eb4dc73-cb56-5aaa-761e-04f2bcf16100/13UABIM54244.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Selena/_/Amor+Prohibido"
+        "lastfm": "https://www.last.fm/music/Selena/_/Amor+Prohibido",
+        "itunes": "https://music.apple.com/us/album/amor-prohibido/714819386?i=714819656&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00228b80-f91b-3c57-9922-5f916b98207b",
       "artistMbid": "03746227-c9f9-4b3b-b2c6-9b31f79564f7",
-      "duration": 175,
+      "albumTitle": "Ones",
+      "duration": 171,
       "previousRank": 20,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1994-03-22T08:00:00Z"
     },
     {
       "id": "selena--como-la-flor",
@@ -1650,29 +1678,33 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/6b/8e/166b8ede-41dc-6db7-72a9-6a3b992e6166/mzaf_5633233080480028402.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/4b/ff/c54bffa0-2333-1a55-e67e-a9c640e06f6f/mzi.hwxgzhsl.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/4b/ff/c54bffa0-2333-1a55-e67e-a9c640e06f6f/mzi.hwxgzhsl.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/4b/ff/c54bffa0-2333-1a55-e67e-a9c640e06f6f/mzi.hwxgzhsl.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Shakira/_/Te+Aviso,+Te+Anuncio+(Tango)"
+        "lastfm": "https://www.last.fm/music/Shakira/_/Te+Aviso,+Te+Anuncio+(Tango)",
+        "itunes": "https://music.apple.com/us/album/te-aviso-te-anuncio-tango/188260845?i=188261895&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "01124ac3-133d-498e-a874-ed25d55705aa",
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+      "albumTitle": "Laundry Service",
       "duration": 223,
       "previousRank": 50,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2001-11-13T08:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T01:26:13.363Z",
+  "lastUpdated": "2026-03-02T06:39:26.564Z",
   "totalTracks": 50,
   "coverColor": "#f43f5e",
   "genre": "latin",

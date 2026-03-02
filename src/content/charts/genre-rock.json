@@ -796,26 +796,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/30/57/a2/3057a2dc-cbd7-bea7-66fd-7680c0a47c68/mzaf_7704768448750272219.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/86/1d/4c861dab-5428-f3b7-8068-82bb69db5e89/093624932130.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/86/1d/4c861dab-5428-f3b7-8068-82bb69db5e89/093624932130.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/86/1d/4c861dab-5428-f3b7-8068-82bb69db5e89/093624932130.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Californication"
+        "lastfm": "https://www.last.fm/music/Red+Hot+Chili+Peppers/_/Californication",
+        "itunes": "https://music.apple.com/us/album/californication/945575406?i=945575413&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00e4c990-bb74-4b32-b5b5-31c39759965b",
       "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
-      "duration": 410,
+      "albumTitle": "Californication (Remastered)",
+      "duration": 321,
       "previousRank": 24,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1999-06-08T07:00:00Z"
     },
     {
       "id": "the-all-american-rejects--dirty-little-secret",
@@ -826,24 +830,28 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/09/6f/a0096f54-7ef2-3fc1-5243-f2d216d2ca2e/mzaf_9602656919098080675.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/41/aa/7f41aa35-8904-9946-2e43-48b1893e9495/06UMGIM44690.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/41/aa/7f41aa35-8904-9946-2e43-48b1893e9495/06UMGIM44690.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/41/aa/7f41aa35-8904-9946-2e43-48b1893e9495/06UMGIM44690.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+All-American+Rejects/_/Dirty+Little+Secret"
+        "lastfm": "https://www.last.fm/music/The+All-American+Rejects/_/Dirty+Little+Secret",
+        "itunes": "https://music.apple.com/us/album/dirty-little-secret/1444092638?i=1444093053&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
-      "duration": 196,
+      "albumTitle": "Move Along (Bonus Track Version)",
+      "duration": 194,
       "previousRank": 25,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2005-06-06T12:00:00Z"
     },
     {
       "id": "nickelback--how-you-remind-me",
@@ -956,26 +964,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a2/65/ea/a265ea31-5403-afb9-d32c-00a2bed6adc9/mzaf_14470032920014838408.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/03/56/730356d5-a510-3d3f-d3c6-171f64700d35/093624948971.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/03/56/730356d5-a510-3d3f-d3c6-171f64700d35/093624948971.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/73/03/56/730356d5-a510-3d3f-d3c6-171f64700d35/093624948971.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Linkin+Park/_/What+I%27ve+Done"
+        "lastfm": "https://www.last.fm/music/Linkin+Park/_/What+I%27ve+Done",
+        "itunes": "https://music.apple.com/us/album/what-ive-done/590427297?i=590427450&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "02208502-2994-4a10-ab50-4d49ffdc5dc0",
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
-      "duration": 230,
+      "albumTitle": "Minutes to Midnight (Deluxe Edition)",
+      "duration": 205,
       "previousRank": 29,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2007-04-02T07:00:00Z"
     },
     {
       "id": "kings-of-leon--sex-on-fire",
@@ -1122,26 +1134,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/f3/1a/66f31a76-a6ed-cb4c-f353-23310a7ae9a8/mzaf_10593596652344378873.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Coldplay/_/Yellow"
+        "lastfm": "https://www.last.fm/music/Coldplay/_/Yellow",
+        "itunes": "https://music.apple.com/us/album/yellow/1122782080?i=1122782283&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0063bb06-4e74-464d-97ae-b82f90bcb222",
       "artistMbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+      "albumTitle": "Parachutes",
       "duration": 269,
       "previousRank": 34,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2000-06-26T07:00:00Z"
     },
     {
       "id": "my-chemical-romance--im-not-okay-i-promise",
@@ -1688,7 +1704,7 @@
       "releaseDate": "2007-02-06T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T01:21:59.511Z",
+  "lastUpdated": "2026-03-02T06:38:15.853Z",
   "totalTracks": 50,
   "coverColor": "#ef4444",
   "genre": "rock",

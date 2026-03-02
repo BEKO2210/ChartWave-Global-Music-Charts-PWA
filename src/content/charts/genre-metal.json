@@ -1238,26 +1238,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/68/bc/8e68bcef-e9ee-6f4e-1cf6-6a144f7d4255/mzaf_5372283877988363674.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/70/dc/f870dcfd-a1b4-5e29-1e1e-7764a802d90a/s07.sotroeja.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/70/dc/f870dcfd-a1b4-5e29-1e1e-7764a802d90a/s07.sotroeja.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/70/dc/f870dcfd-a1b4-5e29-1e1e-7764a802d90a/s07.sotroeja.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Avenged+Sevenfold/_/Bat+Country"
+        "lastfm": "https://www.last.fm/music/Avenged+Sevenfold/_/Bat+Country",
+        "itunes": "https://music.apple.com/us/album/bat-country/65621096?i=65621021&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00ea3f5c-82f7-3662-82be-2ac4c1d0e510",
       "artistMbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
-      "duration": 311,
+      "albumTitle": "City of Evil",
+      "duration": 312,
       "previousRank": 37,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2005-06-06T07:00:00Z"
     },
     {
       "id": "metallica--master-of-puppets",
@@ -1268,26 +1272,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/da/e7/9c/dae79c08-a960-2d21-8eab-42e9d70e29e6/mzaf_7135498142102205621.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/5a/82/b85a8259-60d9-bfaa-770a-2baac8380e87/858978005196.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/5a/82/b85a8259-60d9-bfaa-770a-2baac8380e87/858978005196.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/5a/82/b85a8259-60d9-bfaa-770a-2baac8380e87/858978005196.png/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Metallica/_/Master+of+Puppets"
+        "lastfm": "https://www.last.fm/music/Metallica/_/Master+of+Puppets",
+        "itunes": "https://music.apple.com/us/album/master-of-puppets/1275819392?i=1275819878&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00499db9-73db-36dd-94cd-2ec98c524ffb",
       "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
-      "duration": 530,
+      "albumTitle": "Master of Puppets (Deluxe Box Set)",
+      "duration": 515,
       "previousRank": 38,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1986-03-03T12:00:00Z"
     },
     {
       "id": "system-of-a-down--violent-pornography",
@@ -1468,26 +1476,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/e8/ca/38/e8ca38c4-6a8e-63e5-67bb-0905ced6e256/mzaf_7514058959811248509.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/61/f4/60/61f46080-c64f-1b6c-3492-758962a01b20/699675106720.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/61/f4/60/61f46080-c64f-1b6c-3492-758962a01b20/699675106720.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/61/f4/60/61f46080-c64f-1b6c-3492-758962a01b20/699675106720.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kittie/_/Brackish"
+        "lastfm": "https://www.last.fm/music/Kittie/_/Brackish",
+        "itunes": "https://music.apple.com/us/album/brackish-live-version/1297000888?i=1297001667&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "01399297-12a3-46b6-a492-3097feb0d1d8",
       "artistMbid": "7677be48-16e9-4c84-9365-a69dd6f2df55",
-      "duration": 142,
+      "albumTitle": "Paperdoll - EP",
+      "duration": 175,
       "previousRank": 44,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2000-12-12T12:00:00Z"
     },
     {
       "id": "babymetal--gimme-chocolate",
@@ -1566,26 +1578,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/6d/5f/576d5f71-3a0e-8ddb-707c-a678d0662e61/mzaf_9422690907460571611.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/0e/f0/c5/0ef0c567-7802-d4d8-ebf0-9d35e88a77e0/Metallica_TTN_Soundtrack_RGB.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/0e/f0/c5/0ef0c567-7802-d4d8-ebf0-9d35e88a77e0/Metallica_TTN_Soundtrack_RGB.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/0e/f0/c5/0ef0c567-7802-d4d8-ebf0-9d35e88a77e0/Metallica_TTN_Soundtrack_RGB.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Metallica/_/Fuel"
+        "lastfm": "https://www.last.fm/music/Metallica/_/Fuel",
+        "itunes": "https://music.apple.com/us/album/fuel-live/679166887?i=679167183&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00b0891e-88a8-374e-b804-91cae2d83880",
       "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
-      "duration": 408,
+      "albumTitle": "Metallica Through the Never (Music from the Motion Picture)",
+      "duration": 237,
       "previousRank": 47,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2013-09-24T07:00:00Z"
     },
     {
       "id": "system-of-a-down--deer-dance",
@@ -1630,26 +1646,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/94/9f/64/949f6431-d5b3-8543-24e0-dd5c8dc13f84/mzaf_11602823617922206877.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/ATWA"
+        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/ATWA",
+        "itunes": "https://music.apple.com/us/album/atwa/273714443?i=273714669&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "025b1c5c-606b-4946-855d-ebe0bd188b0f",
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+      "albumTitle": "Toxicity",
       "duration": 176,
       "previousRank": 49,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2001-09-04T07:00:00Z"
     },
     {
       "id": "bullet-for-my-valentine--tears-dont-fall",
@@ -1686,7 +1706,7 @@
       "releaseDate": "2013-02-08T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T01:23:46.794Z",
+  "lastUpdated": "2026-03-02T06:38:55.874Z",
   "totalTracks": 50,
   "coverColor": "#6b7280",
   "genre": "metal",

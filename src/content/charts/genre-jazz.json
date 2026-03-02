@@ -48,26 +48,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/d7/47/d4d747d8-8d5a-4dc9-a686-1ca91f07ad0c/mzaf_10338145356691636309.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Chet+Baker/_/I+Fall+in+Love+Too+Easily"
+        "lastfm": "https://www.last.fm/music/Chet+Baker/_/I+Fall+in+Love+Too+Easily",
+        "itunes": "https://music.apple.com/us/album/i-fall-in-love-too-easily/1440864756?i=1440866092&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "01d946ed-f2d4-3da8-b5ff-61deccc0b82a",
       "artistMbid": "1ba1d493-7114-45e2-b163-a36d49a0c065",
-      "duration": 200,
+      "albumTitle": "Chet Baker Sings",
+      "duration": 201,
       "previousRank": 2,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1954-01-01T12:00:00Z"
     },
     {
       "id": "amy-winehouse--back-to-black",
@@ -78,26 +82,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/07/2c/40072c1f-c551-e490-4ee4-d864eeb28c51/mzaf_11174458628498475021.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black"
+        "lastfm": "https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black",
+        "itunes": "https://music.apple.com/us/album/back-to-black-original-demo/1445278541?i=1445278565&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "01123f1a-807b-37ac-8c6c-7bef6070b49c",
       "artistMbid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
-      "duration": 241,
+      "albumTitle": "Back To Black (Remixes & B Sides) - EP",
+      "duration": 181,
       "previousRank": 3,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2007-01-01T12:00:00Z"
     },
     {
       "id": "sade--paradise",
@@ -1536,26 +1544,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/5d/a7/335da78d-6651-dd22-b75f-7e554aafdea0/mzaf_15900572932398837178.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f7/92/0ff792e5-9309-6684-f8c5-06d92bb6ed56/00042283491021.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f7/92/0ff792e5-9309-6684-f8c5-06d92bb6ed56/00042283491021.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f7/92/0ff792e5-9309-6684-f8c5-06d92bb6ed56/00042283491021.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Erroll+Garner/_/Misty"
+        "lastfm": "https://www.last.fm/music/Erroll+Garner/_/Misty",
+        "itunes": "https://music.apple.com/us/album/misty/1443144342?i=1443144347&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "1c4d3cde-d54e-429c-bdb1-48b17fca0675",
       "artistMbid": "75bd5186-9d89-4da9-95de-fce055c28895",
-      "duration": 173,
+      "albumTitle": "The Original Misty",
+      "duration": 169,
       "previousRank": 46,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1954-07-01T12:00:00Z"
     },
     {
       "id": "sade--the-sweetest-taboo",
@@ -1634,26 +1646,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/e5/fd/e6e5fdcf-f2de-18d2-3c52-849d49e3f35c/mzaf_13405155240929120898.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/e1/9f/e9e19f17-813e-41ed-4aa9-04d76498895d/18UMGIM61659.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/e1/9f/e9e19f17-813e-41ed-4aa9-04d76498895d/18UMGIM61659.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/e1/9f/e9e19f17-813e-41ed-4aa9-04d76498895d/18UMGIM61659.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Frank+Sinatra/_/Fly+Me+to+the+Moon+(In+Other+Words)"
+        "lastfm": "https://www.last.fm/music/Frank+Sinatra/_/Fly+Me+to+the+Moon+(In+Other+Words)",
+        "itunes": "https://music.apple.com/us/album/fly-me-to-the-moon-in-other-words/1436866850?i=1436866861&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "04d273fe-0fcf-4a27-9fc3-aae909d17219",
       "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d",
-      "duration": 96,
+      "albumTitle": "Quincy: A Life Beyond Measure (Music From The Netflix Original Documentary)",
+      "duration": 151,
       "previousRank": 49,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1964-08-01T12:00:00Z"
     },
     {
       "id": "louis-armstrong--dream-a-little-dream-of-me",
@@ -1664,29 +1680,33 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/f8/c8/70f8c87b-5de9-d752-32a1-8c7d51b33e3e/mzaf_1488014473433964867.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/a7/0c/fda70c9b-1e6a-8915-b8db-71f8456d034e/18UMGIM13490.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/a7/0c/fda70c9b-1e6a-8915-b8db-71f8456d034e/18UMGIM13490.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/a7/0c/fda70c9b-1e6a-8915-b8db-71f8456d034e/18UMGIM13490.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Louis+Armstrong/_/Dream+a+Little+Dream+of+Me"
+        "lastfm": "https://www.last.fm/music/Louis+Armstrong/_/Dream+a+Little+Dream+of+Me",
+        "itunes": "https://music.apple.com/us/album/dream-a-little-dream-of-me/1359340014?i=1359341569&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "67cd8784-53f1-42ec-93e4-e67e6e081c02",
       "artistMbid": "eea8a864-fcda-4602-9569-38ab446decd6",
-      "duration": 180,
+      "albumTitle": "Cheek To Cheek: The Complete Duet Recordings",
+      "duration": 188,
       "previousRank": 50,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1950-01-01T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T01:24:31.059Z",
+  "lastUpdated": "2026-03-02T06:39:06.217Z",
   "totalTracks": 50,
   "coverColor": "#f59e0b",
   "genre": "jazz",

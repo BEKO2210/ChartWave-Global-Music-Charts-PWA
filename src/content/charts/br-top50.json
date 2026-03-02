@@ -920,26 +920,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 23776,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/f2/eb/35f2eb2c-29f2-799a-1e50-bb4edc52883c/mzaf_15193816457304787413.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8b/f1/41/8bf141d9-3f7c-1c9d-5315-f3127db04b01/5050466573421.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8b/f1/41/8bf141d9-3f7c-1c9d-5315-f3127db04b01/5050466573421.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8b/f1/41/8bf141d9-3f7c-1c9d-5315-f3127db04b01/5050466573421.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Preta+Gil/_/Sinais+de+fogo"
+        "lastfm": "https://www.last.fm/music/Preta+Gil/_/Sinais+de+fogo",
+        "itunes": "https://music.apple.com/us/album/sinais-de-fogo/581032239?i=581032497&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "9a64f5d2-c228-4deb-ba6f-dbc8d1a6a3f6",
       "artistMbid": "6348666a-b266-49d7-836c-b9d4741ba646",
+      "albumTitle": "Prét-A-Porter",
       "duration": 216,
       "previousRank": 28,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2003-08-04T12:00:00Z"
     },
     {
       "id": "djo--end-of-beginning",
@@ -1687,7 +1691,7 @@
       "releaseDate": "2026-02-13T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T01:20:47.349Z",
+  "lastUpdated": "2026-03-02T06:37:35.723Z",
   "totalTracks": 50,
   "coverColor": "#22c55e",
   "country": "br",
