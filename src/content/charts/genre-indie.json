@@ -82,16 +82,16 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5e/8f/b2/5e8fb292-3426-fef6-2f16-f13d66298859/mzaf_17690865025642426423.plus.aac.p.m4a",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/f0/2f/f6f02f76-4e94-1966-b431-8fb7d3bc75ad/mzaf_1051216607856311410.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/8c/90/2f8c903f-6e84-b820-3ab6-d9ec0044267a/196871038430.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/8c/90/2f8c903f-6e84-b820-3ab6-d9ec0044267a/196871038430.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/8c/90/2f8c903f-6e84-b820-3ab6-d9ec0044267a/196871038430.jpg/600x600bb.jpg",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3b/91/9e/3b919e47-c18b-613f-5be6-a42c8c1b6f0f/886443772748.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3b/91/9e/3b919e47-c18b-613f-5be6-a42c8c1b6f0f/886443772748.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3b/91/9e/3b919e47-c18b-613f-5be6-a42c8c1b6f0f/886443772748.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
         "lastfm": "https://www.last.fm/music/The+Neighbourhood/_/A+Little+Death",
-        "itunes": "https://music.apple.com/us/album/a-little-death/1682583963?i=1682584237&uo=4"
+        "itunes": "https://music.apple.com/us/album/a-little-death/584841510?i=584841736&uo=4"
       },
       "tags": [],
       "genres": [],
@@ -101,11 +101,11 @@
       ],
       "mbid": "6bf51b85-4e4d-41b8-bb1e-065b9c876e7c",
       "artistMbid": "53b06622-ec51-4924-a554-58b0affde6b5",
-      "albumTitle": "I Love You. (10th Anniversary Edition)",
+      "albumTitle": "Thank You, - Single",
       "duration": 210,
       "previousRank": 3,
       "rankDelta": 0,
-      "releaseDate": "2012-12-18T12:00:00Z"
+      "releaseDate": "2013-01-14T08:00:00Z"
     },
     {
       "id": "arctic-monkeys--whyd-you-only-call-me-when-youre-high",
@@ -1705,7 +1705,7 @@
       "releaseDate": "2004-02-10T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T06:38:45.867Z",
+  "lastUpdated": "2026-03-02T07:02:27.015Z",
   "totalTracks": 50,
   "coverColor": "#10b981",
   "genre": "indie",
