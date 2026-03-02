@@ -386,29 +386,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c2/70/07/c2700791-55d0-b674-7800-a80165db5864/mzaf_8873884505420429292.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/35/eb/4635eb60-b3df-ce45-2e40-6ff8ba3fa0a5/cover.png/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/35/eb/4635eb60-b3df-ce45-2e40-6ff8ba3fa0a5/cover.png/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/35/eb/4635eb60-b3df-ce45-2e40-6ff8ba3fa0a5/cover.png/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80/_/The+Boys",
-        "itunes": "https://music.apple.com/us/album/the-boys/1679266955?i=1679266956&uo=4"
+        "lastfm": "https://www.last.fm/music/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80/_/The+Boys"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "20aa63f8-6d53-378f-b990-cc8bc95d715b",
-      "albumTitle": "The Boys - The 3rd Album",
-      "duration": 229,
+      "duration": 227,
       "previousRank": 12,
-      "rankDelta": 0,
-      "releaseDate": "2011-10-18T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "--genie",
@@ -419,29 +415,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0d/53/7d/0d537d58-8100-c1c7-24f5-4f500cb150dd/mzaf_715832534791500985.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/5f/0c/025f0c9a-6346-ed15-e7c3-055c442ac580/asset.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/5f/0c/025f0c9a-6346-ed15-e7c3-055c442ac580/asset.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/5f/0c/025f0c9a-6346-ed15-e7c3-055c442ac580/asset.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80/_/GENIE",
-        "itunes": "https://music.apple.com/us/album/genie/854915051?i=854915055&uo=4"
+        "lastfm": "https://www.last.fm/music/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80/_/GENIE"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "004eddcf-6577-4021-84fa-83a56a511717",
-      "albumTitle": "Genie - EP",
-      "duration": 229,
+      "duration": 222,
       "previousRank": 13,
-      "rankDelta": 0,
-      "releaseDate": "2009-06-25T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "bts--run",
@@ -452,30 +444,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/13/6c/db136c1b-07ae-96e9-6d71-965bc1874a99/mzaf_6334159972478972132.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BTS/_/RUN",
-        "itunes": "https://music.apple.com/us/album/run/1598661880?i=1598661903&uo=4"
+        "lastfm": "https://www.last.fm/music/BTS/_/RUN"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "02076df3-6638-4d91-9089-ea69e3af0ad7",
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
-      "albumTitle": "The Most Beautiful Moment in Life: Young Forever",
-      "duration": 236,
+      "duration": 237,
       "previousRank": 14,
-      "rankDelta": 0,
-      "releaseDate": "2015-11-30T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "blackpink--as-if-its-your-last",
@@ -621,30 +609,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e4/cc/4e/e4cc4e0c-da0c-4246-5d42-9b238879d438/mzaf_9387232076906136205.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/34/1a/74341afc-0e1c-80d5-1d8c-5bfc37d13aef/00602508875021_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/34/1a/74341afc-0e1c-80d5-1d8c-5bfc37d13aef/00602508875021_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/34/1a/74341afc-0e1c-80d5-1d8c-5bfc37d13aef/00602508875021_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/TWICE/_/LIKEY",
-        "itunes": "https://music.apple.com/us/album/likey/1555405141?i=1555405145&uo=4"
+        "lastfm": "https://www.last.fm/music/TWICE/_/LIKEY"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0b922a81-bab1-456c-b42a-478c992db528",
       "artistMbid": "8da127cc-c432-418f-b356-ef36210d82ac",
-      "albumTitle": "Twicetagram",
-      "duration": 208,
+      "duration": 209,
       "previousRank": 19,
-      "rankDelta": 0,
-      "releaseDate": "2017-10-30T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "blackpink--boombayah",
@@ -689,30 +673,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8d/97/43/8d9743bb-53cb-ed50-a60b-9b2149c4f1e3/mzaf_13524117932247674480.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5b/b4/90/5bb490f9-4db6-44be-7183-b6e844ec75db/EXO_2_EXODUS_KORver.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5b/b4/90/5bb490f9-4db6-44be-7183-b6e844ec75db/EXO_2_EXODUS_KORver.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5b/b4/90/5bb490f9-4db6-44be-7183-b6e844ec75db/EXO_2_EXODUS_KORver.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Exo/_/CALL+ME+BABY",
-        "itunes": "https://music.apple.com/us/album/call-me-baby/979878364?i=979878876&uo=4"
+        "lastfm": "https://www.last.fm/music/Exo/_/CALL+ME+BABY"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "047e6e49-3e35-4caf-b4de-1f4216497895",
       "artistMbid": "6ab10aaf-8812-41eb-b59f-f07b42468f22",
-      "albumTitle": "The 2nd Album ‘EXODUS’",
-      "duration": 211,
+      "duration": 113,
       "previousRank": 21,
-      "rankDelta": 0,
-      "releaseDate": "2015-03-30T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "blackpink--ddu-du-ddu-du",
@@ -723,30 +703,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/19/0b/1f190b1d-4279-9eb9-8485-0f4342b84090/mzaf_5657825060835883930.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/5d/c3/5e5dc3a6-797b-dee5-9f51-2dcbf447c48e/19UMGIM05046.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/5d/c3/5e5dc3a6-797b-dee5-9f51-2dcbf447c48e/19UMGIM05046.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/5d/c3/5e5dc3a6-797b-dee5-9f51-2dcbf447c48e/19UMGIM05046.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU",
-        "itunes": "https://music.apple.com/us/album/ddu-du-ddu-du/1551479990?i=1551479993&uo=4"
+        "lastfm": "https://www.last.fm/music/BLACKPINK/_/DDU-DU+DDU-DU"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "03c1a3ce-170d-44db-88e2-60338e5d6080",
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
-      "albumTitle": "SQUARE UP - EP",
-      "duration": 211,
+      "duration": 209,
       "previousRank": 22,
-      "rankDelta": 0,
-      "releaseDate": "2018-06-15T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "bts--save-me",
@@ -757,30 +733,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/80/ff/5680fff2-9a20-dc6d-4f8e-4ec611541b37/mzaf_899563692285928094.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BTS/_/Save+ME",
-        "itunes": "https://music.apple.com/us/album/save-me/1598661880?i=1598662137&uo=4"
+        "lastfm": "https://www.last.fm/music/BTS/_/Save+ME"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "06366d5c-8972-45fa-8608-f5194a89cdfe",
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
-      "albumTitle": "The Most Beautiful Moment in Life: Young Forever",
       "duration": 197,
       "previousRank": 23,
-      "rankDelta": 0,
-      "releaseDate": "2016-05-02T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "aespa--next-level",
@@ -791,30 +763,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/1e/0a/431e0a24-2c04-e738-2632-87462a20984d/mzaf_3158159453623406671.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/8d/ac/608dacc2-d6d6-462d-26f0-d693e4364751/artwork.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/8d/ac/608dacc2-d6d6-462d-26f0-d693e4364751/artwork.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/8d/ac/608dacc2-d6d6-462d-26f0-d693e4364751/artwork.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/aespa/_/Next+Level",
-        "itunes": "https://music.apple.com/us/album/next-level/1567326687?i=1567326688&uo=4"
+        "lastfm": "https://www.last.fm/music/aespa/_/Next+Level"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "ea9014d1-7d90-4831-8b0a-049bfaa5f227",
       "artistMbid": "b51c672b-85e0-48fe-8648-470a2422229f",
-      "albumTitle": "Next Level - Single",
-      "duration": 222,
+      "duration": 225,
       "previousRank": 24,
-      "rankDelta": 0,
-      "releaseDate": "2021-05-17T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "--i-got-a-boy",
@@ -1694,7 +1662,7 @@
       "releaseDate": "2018-05-18T07:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:52:38.923Z",
+  "lastUpdated": "2026-03-02T01:28:07.540Z",
   "totalTracks": 50,
   "coverColor": "#e879f9",
   "genre": "k-pop",

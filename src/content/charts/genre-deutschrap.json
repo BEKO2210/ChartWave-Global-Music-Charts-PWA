@@ -773,29 +773,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b2/71/79/b2717907-6bab-7754-84d1-fc7cb9b9cb54/mzaf_1145267453976503430.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/d6/42/24d642d1-da98-af99-ed23-99fc456823a2/00602517397354.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/d6/42/24d642d1-da98-af99-ed23-99fc456823a2/00602517397354.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/d6/42/24d642d1-da98-af99-ed23-99fc456823a2/00602517397354.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/K.I.Z./_/Walpurgisnacht",
-        "itunes": "https://music.apple.com/us/album/walpurgisnacht/1443074617?i=1443074772&uo=4"
+        "lastfm": "https://www.last.fm/music/K.I.Z./_/Walpurgisnacht"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "103e0c64-ef21-4d17-86a2-902e86065c21",
-      "albumTitle": "Hahnenkampf",
       "duration": 301,
       "previousRank": 24,
-      "rankDelta": 0,
-      "releaseDate": "2007-01-01T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "sxtn--bongzimmer",
@@ -806,30 +802,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6c/fc/d2/6cfcd23f-eb74-ccf3-dd77-ab6baa2b97cf/mzaf_7702746498557768568.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/dd/c9/3cddc996-c580-4025-a38e-7c78741b43aa/04019593408557.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/dd/c9/3cddc996-c580-4025-a38e-7c78741b43aa/04019593408557.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/dd/c9/3cddc996-c580-4025-a38e-7c78741b43aa/04019593408557.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/SXTN/_/Bongzimmer",
-        "itunes": "https://music.apple.com/us/album/bongzimmer-instrumental/1440938325?i=1440939135&uo=4"
+        "lastfm": "https://www.last.fm/music/SXTN/_/Bongzimmer"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "5b979aca-5ea2-48f8-ad0b-c9d86201edb8",
       "artistMbid": "a13271fa-1c00-4685-b963-6ecbbf32784d",
-      "albumTitle": "Leben am Limit",
-      "duration": 287,
+      "duration": 286,
       "previousRank": 25,
-      "rankDelta": 0,
-      "releaseDate": "2017-06-02T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "k-i-z--ein-affe-und-ein-pferd",
@@ -902,30 +894,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5d/8f/3c/5d8f3cd2-d035-f42d-e1e1-83150ce8ddb7/mzaf_3472354334879837098.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1a/78/b1/1a78b18a-08c0-4b80-62de-ba00ac9f7ad7/cover_0886973912126.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1a/78/b1/1a78b18a-08c0-4b80-62de-ba00ac9f7ad7/cover_0886973912126.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1a/78/b1/1a78b18a-08c0-4b80-62de-ba00ac9f7ad7/cover_0886973912126.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Bushido/_/Outro",
-        "itunes": "https://music.apple.com/us/album/outro/1555448858?i=1555448878&uo=4"
+        "lastfm": "https://www.last.fm/music/Bushido/_/Outro"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "020b88a7-c8d1-45df-86b3-1b0decd8872d",
       "artistMbid": "13246906-ec3b-4ec5-bc2f-f7ca802facea",
-      "albumTitle": "Heavy Metal Payback",
-      "duration": 109,
       "previousRank": 28,
-      "rankDelta": 0,
-      "releaseDate": "2008-10-10T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "k-i-z--wenn-es-brennt",
@@ -1067,30 +1054,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/ac/7d/ffac7d77-a98c-157b-f6d8-8351fce318e7/mzaf_11796100571288829295.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/dd/c9/3cddc996-c580-4025-a38e-7c78741b43aa/04019593408557.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/dd/c9/3cddc996-c580-4025-a38e-7c78741b43aa/04019593408557.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/dd/c9/3cddc996-c580-4025-a38e-7c78741b43aa/04019593408557.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/SXTN/_/Von+Party+zu+Party",
-        "itunes": "https://music.apple.com/us/album/von-party-zu-party-instrumental/1440938325?i=1440939034&uo=4"
+        "lastfm": "https://www.last.fm/music/SXTN/_/Von+Party+zu+Party"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "06cb0aa7-068f-4407-b1ea-35a13f54ad00",
       "artistMbid": "a13271fa-1c00-4685-b963-6ecbbf32784d",
-      "albumTitle": "Leben am Limit",
       "duration": 224,
       "previousRank": 33,
-      "rankDelta": 0,
-      "releaseDate": "2017-06-02T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "prinz-pi--du-bist",
@@ -1101,30 +1084,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b8/1f/1e/b81f1ef1-7fc1-3b73-84be-113ad2bd4789/mzaf_7317354110514590801.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/e3/7d/d2e37d34-59a7-c194-6a66-402b6eb90a38/cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/e3/7d/d2e37d34-59a7-c194-6a66-402b6eb90a38/cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/e3/7d/d2e37d34-59a7-c194-6a66-402b6eb90a38/cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Prinz+Pi/_/Du+Bist",
-        "itunes": "https://music.apple.com/us/album/du-bist/1683502438?i=1683502451&uo=4"
+        "lastfm": "https://www.last.fm/music/Prinz+Pi/_/Du+Bist"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "144a6dc9-0238-3ba9-ad4d-2f6e4f1204a7",
       "artistMbid": "8e4e1dff-978a-482f-8d18-30d7998dd209",
-      "albumTitle": "Du bist - EP",
       "duration": 240,
       "previousRank": 34,
-      "rankDelta": 0,
-      "releaseDate": "2011-01-14T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "k-i-z--klassenfahrt",
@@ -1135,29 +1114,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/f3/1f/57f31f09-6e0b-876e-fcde-9c7aa941ee4e/mzaf_6137911254315700714.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/d6/42/24d642d1-da98-af99-ed23-99fc456823a2/00602517397354.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/d6/42/24d642d1-da98-af99-ed23-99fc456823a2/00602517397354.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/24/d6/42/24d642d1-da98-af99-ed23-99fc456823a2/00602517397354.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/K.I.Z./_/Klassenfahrt",
-        "itunes": "https://music.apple.com/us/album/klassenfahrt/1443074617?i=1443074656&uo=4"
+        "lastfm": "https://www.last.fm/music/K.I.Z./_/Klassenfahrt"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "2c155732-3862-46d0-a955-5a03df9b8d4c",
-      "albumTitle": "Hahnenkampf",
-      "duration": 189,
+      "duration": 188,
       "previousRank": 35,
-      "rankDelta": 0,
-      "releaseDate": "2007-01-01T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "kool-savas--alle-in-einem",
@@ -1168,30 +1143,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/92/ec/a6/92eca6f5-e368-bf67-4054-9a6416237a30/mzaf_9307940196701612621.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/80/18/de/8018de05-cdb3-9042-ec2f-3c81e6e6dcd4/886446620442.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/80/18/de/8018de05-cdb3-9042-ec2f-3c81e6e6dcd4/886446620442.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/80/18/de/8018de05-cdb3-9042-ec2f-3c81e6e6dcd4/886446620442.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kool+Savas/_/Alle+in+Einem",
-        "itunes": "https://music.apple.com/us/album/alle-in-einem/1255577588?i=1255578172&uo=4"
+        "lastfm": "https://www.last.fm/music/Kool+Savas/_/Alle+in+Einem"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "1ea5dc44-977d-3b04-be01-81a27365228a",
       "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
-      "albumTitle": "Der beste Tag meines Lebens",
       "duration": 207,
       "previousRank": 36,
-      "rankDelta": 0,
-      "releaseDate": "2002-11-04T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "kontra-k--adrenalin",
@@ -1653,7 +1624,7 @@
       "releaseDate": "2019-04-12T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:52:49.142Z",
+  "lastUpdated": "2026-03-02T01:29:05.192Z",
   "totalTracks": 50,
   "coverColor": "#64748b",
   "genre": "deutschrap",

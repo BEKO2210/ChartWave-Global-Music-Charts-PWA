@@ -14,30 +14,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9d/a3/3d/9da33d6e-261f-d6f3-2e2f-c82200a0c283/mzaf_17420725704827652019.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d0/96/80/d0968056-8d8d-8326-c5b5-94460364e2aa/816651017539.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d0/96/80/d0968056-8d8d-8326-c5b5-94460364e2aa/816651017539.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d0/96/80/d0968056-8d8d-8326-c5b5-94460364e2aa/816651017539.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Buck+Owens/_/Made+in+Japan",
-        "itunes": "https://music.apple.com/us/album/made-in-japan/1460406579?i=1460407021&uo=4"
+        "lastfm": "https://www.last.fm/music/Buck+Owens/_/Made+in+Japan"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "04146f86-d45f-4177-bdde-147b01e4661d",
       "artistMbid": "13cb0fb4-7f7f-4116-a282-905c675c39ef",
-      "albumTitle": "The Complete Capitol Singles: 1971-1975",
       "duration": 165,
       "previousRank": 1,
-      "rankDelta": 0,
-      "releaseDate": "1992-07-14T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "lady-antebellum--need-you-now",
@@ -48,29 +44,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/bf/e6/5ebfe6d2-5cce-c801-11cf-5e885a6a2adf/mzaf_7332504426986884692.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/60/92/8f6092a6-8efb-c71b-20d1-81da6be2a716/13UABIM57670.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/60/92/8f6092a6-8efb-c71b-20d1-81da6be2a716/13UABIM57670.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/60/92/8f6092a6-8efb-c71b-20d1-81da6be2a716/13UABIM57670.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Lady+Antebellum/_/Need+You+Now",
-        "itunes": "https://music.apple.com/us/album/need-you-now/721253248?i=721253705&uo=4"
+        "lastfm": "https://www.last.fm/music/Lady+Antebellum/_/Need+You+Now"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00e4d90d-1305-4944-a98a-13b4e0fc2733",
-      "albumTitle": "Need You Now",
-      "duration": 278,
+      "duration": 235,
       "previousRank": 2,
-      "rankDelta": 0,
-      "releaseDate": "2009-08-11T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "brooks-and-dunn--neon-moon",
@@ -115,30 +107,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/b6/d0/7fb6d036-cb17-cf78-49cb-55dbef9704a2/mzaf_6828473469451839772.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/9c/17/c69c17df-1835-77e7-58c1-ca04d44a0611/196871853736.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/9c/17/c69c17df-1835-77e7-58c1-ca04d44a0611/196871853736.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/9c/17/c69c17df-1835-77e7-58c1-ca04d44a0611/196871853736.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Beyonc%C3%A9/_/TEXAS+HOLD+%27EM",
-        "itunes": "https://music.apple.com/us/album/texas-hold-em/1738370746?i=1738370967&uo=4"
+        "lastfm": "https://www.last.fm/music/Beyonc%C3%A9/_/TEXAS+HOLD+%27EM"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "16cc84ea-9416-4cd4-8b3b-88097e577ba5",
       "artistMbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
-      "albumTitle": "COWBOY CARTER",
       "duration": 233,
       "previousRank": 4,
-      "rankDelta": 0,
-      "releaseDate": "2024-02-11T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "glen-campbell--southern-nights",
@@ -183,30 +171,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/f6/45/55f645d7-e263-2396-4e50-d0492c0a51ad/mzaf_11131290710291072927.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/85/67/71/856771e4-7058-c00f-a42b-3f10b8394a1c/19UMGIM53422.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/85/67/71/856771e4-7058-c00f-a42b-3f10b8394a1c/19UMGIM53422.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/85/67/71/856771e4-7058-c00f-a42b-3f10b8394a1c/19UMGIM53422.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Darius+Rucker/_/Wagon+Wheel",
-        "itunes": "https://music.apple.com/us/album/wagon-wheel/1469411292?i=1469412117&uo=4"
+        "lastfm": "https://www.last.fm/music/Darius+Rucker/_/Wagon+Wheel"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "17fdfcb1-1fe5-4ca7-a597-4bd4da70f2fd",
       "artistMbid": "3ae70f76-ea53-4cc5-906e-d47a384202a1",
-      "albumTitle": "True Believers",
       "duration": 298,
       "previousRank": 6,
-      "rankDelta": 0,
-      "releaseDate": "2013-01-07T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "carrie-underwood--before-he-cheats",
@@ -319,30 +303,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/21/7c/48217c37-b997-7486-d563-bfe5e469d341/mzaf_11299818800209664892.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/f3/00/ebf300a7-22ab-9f61-29ef-9c86acc889b3/16DMGIM07683.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/f3/00/ebf300a7-22ab-9f61-29ef-9c86acc889b3/16DMGIM07683.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/f3/00/ebf300a7-22ab-9f61-29ef-9c86acc889b3/16DMGIM07683.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Rascal+Flatts/_/Life+Is+a+Highway",
-        "itunes": "https://music.apple.com/us/album/life-is-a-highway/1440667439?i=1440667482&uo=4"
+        "lastfm": "https://www.last.fm/music/Rascal+Flatts/_/Life+Is+a+Highway"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "13e42f84-f0a9-4f05-890d-3cdff515e4e5",
       "artistMbid": "6e0ae159-8449-4262-bba5-18ec87fa529f",
-      "albumTitle": "Cars (Original Motion Picture Soundtrack)",
       "duration": 276,
       "previousRank": 10,
-      "rankDelta": 0,
-      "releaseDate": "2006-06-06T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "taylor-swift--our-song",
@@ -387,30 +367,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c3/0d/44/c30d44ae-fae5-e5fa-b07e-5131534b9d3b/mzaf_2062219622500186385.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/37/fa/d1/mzi.ecmonpil.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/37/fa/d1/mzi.ecmonpil.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/37/fa/d1/mzi.ecmonpil.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Dolly+Parton/_/9+to+5",
-        "itunes": "https://music.apple.com/us/album/9-to-5/282883573?i=282883590&uo=4"
+        "lastfm": "https://www.last.fm/music/Dolly+Parton/_/9+to+5"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00fdaab2-dbd7-4c62-a379-3c5f25e2a94d",
       "artistMbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856",
-      "albumTitle": "Ultimate Dolly Parton",
-      "duration": 181,
+      "duration": 165,
       "previousRank": 12,
-      "rankDelta": 0,
-      "releaseDate": "1980-11-05T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "dolly-parton--islands-in-the-stream",
@@ -455,30 +431,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/9d/f4/c89df4ca-36a7-ae78-b685-d2ad79cb5f49/mzaf_9766439164727040261.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/6d/40/a46d40ac-305d-0e58-b23d-bf8799c54f8d/13UABIM53308.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/6d/40/a46d40ac-305d-0e58-b23d-bf8799c54f8d/13UABIM53308.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/6d/40/a46d40ac-305d-0e58-b23d-bf8799c54f8d/13UABIM53308.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Luke+Bryan/_/Country+Girl+(Shake+It+for+Me)",
-        "itunes": "https://music.apple.com/us/album/country-girl-shake-it-for-me/1617201744?i=1617201884&uo=4"
+        "lastfm": "https://www.last.fm/music/Luke+Bryan/_/Country+Girl+(Shake+It+for+Me)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "3c2f2756-9f7a-45e0-b2c0-862b2854d3f1",
       "artistMbid": "aab35942-f176-4f77-bbf9-1d6aa98ccf3f",
-      "albumTitle": "Tailgates & Tanlines",
-      "duration": 226,
+      "duration": 225,
       "previousRank": 14,
-      "rankDelta": 0,
-      "releaseDate": "2011-03-14T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "marty-robbins--big-iron",
@@ -1703,7 +1675,7 @@
       "releaseDate": "2010-11-02T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:52:28.550Z",
+  "lastUpdated": "2026-03-02T01:27:09.494Z",
   "totalTracks": 50,
   "coverColor": "#d97706",
   "genre": "country",
