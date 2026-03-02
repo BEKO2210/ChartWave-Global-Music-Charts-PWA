@@ -3,7 +3,7 @@
   "slug": "genre-latin",
   "name": "Latin",
   "type": "genre",
-  "description": "Top Latin tracks worldwide, updated daily from Last.fm.",
+  "description": "Top Latin tracks worldwide, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "bad-bunny--dtmf",

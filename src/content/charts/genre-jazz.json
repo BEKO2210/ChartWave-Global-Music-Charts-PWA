@@ -3,7 +3,7 @@
   "slug": "genre-jazz",
   "name": "Jazz",
   "type": "genre",
-  "description": "Top Jazz tracks worldwide, updated daily from Last.fm.",
+  "description": "Top Jazz tracks worldwide, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "sade--like-a-tattoo",

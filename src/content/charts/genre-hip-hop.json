@@ -3,7 +3,7 @@
   "slug": "genre-hip-hop",
   "name": "Hip-Hop",
   "type": "genre",
-  "description": "Top Hip-Hop tracks worldwide, updated daily from Last.fm.",
+  "description": "Top Hip-Hop tracks worldwide, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "kanye-west--flashing-lights",
@@ -1692,5 +1692,5 @@
   "totalTracks": 50,
   "coverColor": "#f97316",
   "genre": "hip-hop",
-  "genreColor": "--genre-hip-hop"
+  "genreColor": "--genre-hiphop"
 }

@@ -3,7 +3,7 @@
   "slug": "genre-k-pop",
   "name": "K-Pop",
   "type": "genre",
-  "description": "Top K-Pop tracks worldwide, updated daily from Last.fm.",
+  "description": "Top K-Pop tracks worldwide, updated weekly from Last.fm.",
   "tracks": [
     {
       "id": "newjeans--ditto",

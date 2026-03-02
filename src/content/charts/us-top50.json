@@ -3,7 +3,7 @@
   "slug": "us-top50",
   "name": "United States Top 50",
   "type": "country",
-  "description": "Top 50 most listened tracks in the United States, updated daily.",
+  "description": "Top 50 most listened tracks in the United States, updated weekly.",
   "tracks": [
     {
       "id": "pinkpantheress--stateside-zara-larsson",

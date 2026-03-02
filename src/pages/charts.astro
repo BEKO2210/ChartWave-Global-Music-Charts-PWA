@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '@components/layout/BaseLayout.astro';
 import ChartGrid from '@components/charts/ChartGrid.astro';
-import PlayerIsland from '@components/player/PlayerIsland.astro';
 import { getCollection } from 'astro:content';
 
 const entries = await getCollection('charts');
@@ -14,12 +13,12 @@ const genreCharts = charts.filter((c) => c.type === 'genre');
 
 <BaseLayout
   title="All Charts | ChartWave"
-  description="Browse all music charts — global, country-specific, and genre charts updated daily."
+  description="Browse all music charts — global, country-specific, and genre charts updated weekly."
 >
   <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6">
     <h1 class="mb-2 text-3xl font-bold text-balance">All Charts</h1>
     <p class="mb-8 text-[var(--text-secondary)]">
-      Browse global, country, and genre charts updated daily from Last.fm.
+      Browse global, country, and genre charts updated weekly from Last.fm.
     </p>
 
     {globalCharts.length > 0 && (
@@ -32,5 +31,4 @@ const genreCharts = charts.filter((c) => c.type === 'genre');
       <ChartGrid charts={genreCharts} title="Genres" />
     )}
   </div>
-  <PlayerIsland />
 </BaseLayout>

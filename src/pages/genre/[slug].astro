@@ -2,7 +2,6 @@
 import BaseLayout from '@components/layout/BaseLayout.astro';
 import ChartHeader from '@components/charts/ChartHeader.astro';
 import TrackList from '@components/tracks/TrackList.astro';
-import PlayerIsland from '@components/player/PlayerIsland.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -28,5 +27,4 @@ const { chart } = Astro.props;
   <div class="mx-auto max-w-7xl px-4 pb-8 sm:px-6">
     <TrackList tracks={chart.tracks} showHeader={true} />
   </div>
-  <PlayerIsland />
 </BaseLayout>

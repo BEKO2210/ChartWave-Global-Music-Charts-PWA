@@ -3,7 +3,7 @@
   "slug": "de-top50",
   "name": "Germany Top 50",
   "type": "country",
-  "description": "Top 50 most listened tracks in Germany, updated daily.",
+  "description": "Top 50 most listened tracks in Germany, updated weekly.",
   "tracks": [
     {
       "id": "pinkpantheress--stateside-zara-larsson",
