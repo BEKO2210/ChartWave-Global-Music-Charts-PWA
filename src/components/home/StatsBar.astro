@@ -1,18 +1,26 @@
 ---
+import { getCollection } from 'astro:content';
 import { formatRelativeDate } from '@utils/format';
+import type { Chart } from '../../content/config';
 
-// Read meta.json for aggregate stats
-const metaModule = await import('../../content/meta.json');
-const meta = metaModule.default as {
-  totalTracks: number;
-  totalCharts: number;
-  lastUpdated: string;
-};
+// Compute stats dynamically from actual chart data
+const entries = await getCollection('charts');
+const allCharts: Chart[] = entries
+  .filter((e) => e.id !== 'meta')
+  .map((e) => e.data as unknown as Chart);
+
+const totalCharts = allCharts.length;
+const totalTracks = allCharts.reduce((sum, c) => sum + c.tracks.length, 0);
+
+// Find the most recent lastUpdated across all charts
+const latestUpdate = allCharts.reduce((latest, c) => {
+  return c.lastUpdated > latest ? c.lastUpdated : latest;
+}, '');
 
 const stats = [
-  { label: 'Tracks', value: `${meta.totalTracks}` },
-  { label: 'Charts', value: `${meta.totalCharts}` },
-  { label: 'Last updated', value: formatRelativeDate(meta.lastUpdated) },
+  { label: 'Tracks', value: `${totalTracks}` },
+  { label: 'Charts', value: `${totalCharts}` },
+  { label: 'Last updated', value: latestUpdate ? formatRelativeDate(latestUpdate) : 'N/A' },
 ];
 ---
 
