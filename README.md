@@ -4,7 +4,7 @@
 
 ChartWave is a free, open-source Progressive Web App that brings you **global and country-specific music charts** with **30-second song previews**. No account required. No ads. No tracking.
 
-**Live**: [[https://BEKO2210.github.io/chartwave](https://beko2210.github.io/ChartWave-Global-Music-Charts-PWA/)]([https://BEKO2210.github.io/chartwave](https://beko2210.github.io/ChartWave-Global-Music-Charts-PWA/])
+**Live**: [[https://BEKO2210.github.io/chartwave](https://beko2210.github.io/ChartWave-Global-Music-Charts-PWA/)]
 
 ---
 
