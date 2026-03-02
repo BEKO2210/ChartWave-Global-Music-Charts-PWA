@@ -1,0 +1,1597 @@
+{
+  "id": "genre-classical",
+  "slug": "genre-classical",
+  "name": "Classical",
+  "type": "genre",
+  "description": "Top Classical tracks worldwide, updated daily from Last.fm.",
+  "tracks": [
+    {
+      "id": "erik-satie--gymnopedie-no-1",
+      "title": "Gymnopédie No. 1",
+      "artistName": "Erik Satie",
+      "artistSlug": "erik-satie",
+      "rank": 1,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/6e/cb/fe6ecb1e-22f2-423b-f4c4-9a13877977fb/mzaf_10663462282757651821.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/fe/23/fdfe23c0-ed10-4485-a8e1-702a99a8336c/859712317261_cover.tif/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/fe/23/fdfe23c0-ed10-4485-a8e1-702a99a8336c/859712317261_cover.tif/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/fe/23/fdfe23c0-ed10-4485-a8e1-702a99a8336c/859712317261_cover.tif/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.+1",
+        "itunes": "https://music.apple.com/us/album/gymnopedie-no-1/847714522?i=847718927&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "001df836-e996-34c6-9400-c546044dabbb",
+      "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
+      "albumTitle": "Gymnopedie No.1 - Single",
+      "duration": 191,
+      "releaseDate": "2012-03-28T12:00:00Z"
+    },
+    {
+      "id": "claude-debussy--clair-de-lune",
+      "title": "Clair de lune",
+      "artistName": "Claude Debussy",
+      "artistSlug": "claude-debussy",
+      "rank": 2,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/68/35/c36835b6-9cb3-a20a-088b-6c7d39e39636/mzaf_484141242926915999.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/5f/f2/dc/mzi.cjpwuohz.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/5f/f2/dc/mzi.cjpwuohz.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/5f/f2/dc/mzi.cjpwuohz.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Claude+Debussy/_/Clair+de+lune",
+        "itunes": "https://music.apple.com/us/album/clair-de-lune/444967120?i=444967148&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0042bb0a-67e2-37aa-ad7a-53509c9a9a33",
+      "artistMbid": "be50643c-0377-4968-b48c-47e06b2e2a3b",
+      "albumTitle": "Clair de Lune - Single",
+      "duration": 218,
+      "releaseDate": "2011-06-16T12:00:00Z"
+    },
+    {
+      "id": "camille-saint-saens--carnival-of-the-animals-the-swan",
+      "title": "Carnival of the Animals: The Swan",
+      "artistName": "Camille Saint-Saëns",
+      "artistSlug": "camille-saint-saens",
+      "rank": 3,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/3d/60/673d6059-0a91-c061-1d0d-6b707e77d2cb/mzaf_17467694915562420660.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/fc/86/ad/fc86ad82-fa03-40ba-34f2-978c698c72f3/884977495379.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/fc/86/ad/fc86ad82-fa03-40ba-34f2-978c698c72f3/884977495379.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/fc/86/ad/fc86ad82-fa03-40ba-34f2-978c698c72f3/884977495379.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Carnival+of+the+Animals:+The+Swan",
+        "itunes": "https://music.apple.com/us/album/carnival-of-the-animals-the-swan/1040277273?i=1040278411&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "albumTitle": "Saint-Saens: Carnival of the Animals (Remastered)",
+      "duration": 186,
+      "releaseDate": "1978-01-01T08:00:00Z"
+    },
+    {
+      "id": "claude-debussy--clair-de-lune-l-32",
+      "title": "Clair de lune, L. 32",
+      "artistName": "Claude Debussy",
+      "artistSlug": "claude-debussy",
+      "rank": 4,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/68/35/c36835b6-9cb3-a20a-088b-6c7d39e39636/mzaf_484141242926915999.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/5f/f2/dc/mzi.cjpwuohz.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/5f/f2/dc/mzi.cjpwuohz.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/5f/f2/dc/mzi.cjpwuohz.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Claude+Debussy/_/Clair+de+lune,+L.+32",
+        "itunes": "https://music.apple.com/us/album/clair-de-lune/444967120?i=444967148&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "artistMbid": "be50643c-0377-4968-b48c-47e06b2e2a3b",
+      "albumTitle": "Clair de Lune - Single",
+      "duration": 218,
+      "releaseDate": "2011-06-16T12:00:00Z"
+    },
+    {
+      "id": "max-richter--on-the-nature-of-daylight",
+      "title": "On the Nature of Daylight",
+      "artistName": "Max Richter",
+      "artistSlug": "max-richter",
+      "rank": 5,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e4/ce/be/e4cebe4d-e128-c149-d3c3-e863c12e5b03/mzaf_3541492753066162998.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/ec/d7/58ecd75d-8df8-c05f-5e1a-b144292c6493/17UM1IM64259.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/ec/d7/58ecd75d-8df8-c05f-5e1a-b144292c6493/17UM1IM64259.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/ec/d7/58ecd75d-8df8-c05f-5e1a-b144292c6493/17UM1IM64259.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Max+Richter/_/On+the+Nature+of+Daylight",
+        "itunes": "https://music.apple.com/us/album/on-the-nature-of-daylight/1368089903?i=1368090483&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0f1707ac-dcc5-4c71-9e7a-9c6cb0276270",
+      "artistMbid": "509f20b2-5df3-4aec-9bbc-002131fb3f99",
+      "albumTitle": "The Blue Notebooks (15 Years)",
+      "duration": 372,
+      "releaseDate": "2004-02-23T12:00:00Z"
+    },
+    {
+      "id": "gustav-holst--the-planets-op-32-iv-jupiter-the-bringer-of-jollity",
+      "title": "The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity",
+      "artistName": "Gustav Holst",
+      "artistSlug": "gustav-holst",
+      "rank": 6,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/d2/a1/bdd2a148-390b-aef4-3a96-040df7d6ec50/mzaf_15729240983447196847.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cd/e2/89/cde2890d-fe59-b11a-bfe3-a47d06b0116c/dj.fqmgpnei.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cd/e2/89/cde2890d-fe59-b11a-bfe3-a47d06b0116c/dj.fqmgpnei.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cd/e2/89/cde2890d-fe59-b11a-bfe3-a47d06b0116c/dj.fqmgpnei.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Gustav+Holst/_/The+Planets,+Op.+32:+IV.+Jupiter,+the+Bringer+of+Jollity",
+        "itunes": "https://music.apple.com/us/album/the-planets-op-32-iv-jupiter-the-bringer-of-jollity/769116904?i=769116908&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "02b872ce-19ce-4b66-90ce-c6aad39fdbd9",
+      "artistMbid": "3ba68671-e3b5-4263-81dc-76b16b29bbc6",
+      "albumTitle": "Holst: The Planets",
+      "duration": 483,
+      "releaseDate": "2006-01-01T12:00:00Z"
+    },
+    {
+      "id": "samuel-barber--adagio-for-strings-op-11",
+      "title": "Adagio for Strings, Op. 11",
+      "artistName": "Samuel Barber",
+      "artistSlug": "samuel-barber",
+      "rank": 7,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/f5/21/74f521ee-a804-634a-7b6c-a96c4d8ed0e5/mzaf_14993792612292566696.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/37/b1/8a37b1ea-6c18-d5ab-bff6-ae62b8b91e50/886443706705.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/37/b1/8a37b1ea-6c18-d5ab-bff6-ae62b8b91e50/886443706705.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8a/37/b1/8a37b1ea-6c18-d5ab-bff6-ae62b8b91e50/886443706705.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Samuel+Barber/_/Adagio+for+Strings,+Op.+11",
+        "itunes": "https://music.apple.com/us/album/adagio-for-strings-op-11/594596368?i=594596762&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "01277769-80f1-45a8-bb5c-f00095d86375",
+      "artistMbid": "74ed34ce-ee95-44e9-a87d-4d2d5056c24a",
+      "albumTitle": "Barber: Adagio for Strings - Copland: Appalachian Spring, Rodeo & Billy the Kid",
+      "duration": 599,
+      "releaseDate": "2013-01-28T12:00:00Z"
+    },
+    {
+      "id": "ludwig-van-beethoven--symphony-no-5-in-c-minor-op-67-i-allegro-con-brio",
+      "title": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "artistName": "Ludwig van Beethoven",
+      "artistSlug": "ludwig-van-beethoven",
+      "rank": 8,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/f6/a4/45f6a498-2f1e-e963-f727-ef3b9d8f9dd6/mzaf_3951712077166694275.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/3a/21/3c3a21ad-fcc6-4025-9da3-9974fee79f44/mzi.mijkpksx.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/3a/21/3c3a21ad-fcc6-4025-9da3-9974fee79f44/mzi.mijkpksx.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/3a/21/3c3a21ad-fcc6-4025-9da3-9974fee79f44/mzi.mijkpksx.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ludwig+van+Beethoven/_/Symphony+No.+5+in+C+Minor,+Op.+67:+I.+Allegro+con+brio",
+        "itunes": "https://music.apple.com/us/album/symphony-no-5-in-c-minor-op-67-i-allegro-con-brio/288461963?i=288462059&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00168078-712d-4ac7-8b94-915774c459dd",
+      "artistMbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+      "albumTitle": "Beethoven: The Complete Symphony Collection",
+      "duration": 499,
+      "releaseDate": "1955-05-09T12:00:00Z"
+    },
+    {
+      "id": "giuseppe-verdi--dies-irae",
+      "title": "Dies irae",
+      "artistName": "Giuseppe Verdi",
+      "artistSlug": "giuseppe-verdi",
+      "rank": 9,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/c1/4a/83c14aa1-bace-2bd6-f434-72b698cb0424/mzaf_6663738685468385999.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/35/b4/e9/mzi.uaautowz.tif/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/35/b4/e9/mzi.uaautowz.tif/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/35/b4/e9/mzi.uaautowz.tif/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Giuseppe+Verdi/_/Dies+irae",
+        "itunes": "https://music.apple.com/us/album/dies-irae/350312693?i=350312709&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0ec95964-83bb-496f-a2ba-b32149f84c4e",
+      "artistMbid": "f1bedf1f-4445-4651-9c35-f4a3f3860a13",
+      "albumTitle": "Verdi Requiem",
+      "duration": 135,
+      "releaseDate": "2010-01-01T12:00:00Z"
+    },
+    {
+      "id": "ludwig-van-beethoven--fur-elise",
+      "title": "Für Elise",
+      "artistName": "Ludwig van Beethoven",
+      "artistSlug": "ludwig-van-beethoven",
+      "rank": 10,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4a/c0/01/4ac001fc-8070-4d5f-ac75-14f4df7321e5/mzaf_1236335642423734923.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/5c/ac/11/mzi.zduziwsm.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/5c/ac/11/mzi.zduziwsm.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/5c/ac/11/mzi.zduziwsm.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ludwig+van+Beethoven/_/F%C3%BCr+Elise",
+        "itunes": "https://music.apple.com/us/album/fur-elise-bagatelle-in-a-minor-woo-59/484214147?i=484214571&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "000a56e5-3546-4930-88b2-08db60263254",
+      "artistMbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+      "albumTitle": "Piano and Organ Works / Mozart: Turkish March - Sonata Facile / Pachelbel: Canon in D Major / Beethoven: Fur Elise - Moonlight Sonata / Bach: Jesu, Joy of Man's Desiring / Rinaldi: Piano Works / Mendelssohn: Wedding March / Bridal Chorus / Ave Maria",
+      "duration": 161,
+      "releaseDate": "2011-10-11T12:00:00Z"
+    },
+    {
+      "id": "erik-satie--gnossienne-no-1",
+      "title": "Gnossienne No. 1",
+      "artistName": "Erik Satie",
+      "artistSlug": "erik-satie",
+      "rank": 11,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/5f/10/78/5f10781a-9889-6430-ad24-b4ca67ae09aa/mzaf_15750646473257692189.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e2/bf/cb/e2bfcbdc-ff1f-965d-6b1b-b9cb8c56c479/cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e2/bf/cb/e2bfcbdc-ff1f-965d-6b1b-b9cb8c56c479/cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e2/bf/cb/e2bfcbdc-ff1f-965d-6b1b-b9cb8c56c479/cover.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Erik+Satie/_/Gnossienne+No.+1",
+        "itunes": "https://music.apple.com/us/album/gnossienne-no-1/1667630289?i=1667630290&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0164aa64-8b25-49c0-add1-ff09aa47e26e",
+      "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
+      "albumTitle": "3 Gnossiennes and 3 Gymnopédies - EP",
+      "duration": 176,
+      "releaseDate": "1994-01-01T12:00:00Z"
+    },
+    {
+      "id": "johann-sebastian-bach--air-on-a-g-string",
+      "title": "Air on a G String",
+      "artistName": "Johann Sebastian Bach",
+      "artistSlug": "johann-sebastian-bach",
+      "rank": 12,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/55/96/c2/5596c2e6-3f39-8d61-9bfe-94ee8faba662/mzaf_13294780678548004318.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/2e/46/262e4601-650f-467c-02de-b7e590b028dc/mzi.jlbxtcmq.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/2e/46/262e4601-650f-467c-02de-b7e590b028dc/mzi.jlbxtcmq.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/2e/46/262e4601-650f-467c-02de-b7e590b028dc/mzi.jlbxtcmq.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Johann+Sebastian+Bach/_/Air+on+a+G+String",
+        "itunes": "https://music.apple.com/us/album/air-on-a-g-string/303301889?i=303301900&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "02bb3ac6-e3d1-4894-81de-b2f0e018d99f",
+      "artistMbid": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+      "albumTitle": "Pachelbel: Canon In D - Bach: Air On a G String - Handel: Largo from 'Xerxes' - Hallelujah Chorus - Clarke: Trumpet Voluntary",
+      "duration": 205,
+      "releaseDate": "2005-10-11T07:00:00Z"
+    },
+    {
+      "id": "andrea-bocelli--con-te-partiro",
+      "title": "Con Te Partirò",
+      "artistName": "Andrea Bocelli",
+      "artistSlug": "andrea-bocelli",
+      "rank": 13,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/92/f0/2b92f06d-4ce7-5659-322e-4815f2aad0f2/mzaf_8362649659153462242.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/9b/54/f89b5493-fb60-3779-0ce9-27ebee8c5949/15UMGIM02105.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/9b/54/f89b5493-fb60-3779-0ce9-27ebee8c5949/15UMGIM02105.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/9b/54/f89b5493-fb60-3779-0ce9-27ebee8c5949/15UMGIM02105.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Andrea+Bocelli/_/Con+Te+Partir%C3%B2",
+        "itunes": "https://music.apple.com/us/album/con-te-partiro/1440845097?i=1440845105&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "artistMbid": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
+      "albumTitle": "Bocelli",
+      "duration": 250,
+      "releaseDate": "1995-01-01T12:00:00Z"
+    },
+    {
+      "id": "camille-saint-saens--danse-macabre-in-g-minor-op-40",
+      "title": "Danse Macabre in G minor, Op. 40",
+      "artistName": "Camille Saint-Saëns",
+      "artistSlug": "camille-saint-saens",
+      "rank": 14,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/d6/93/76d6931b-5a15-9592-3376-74dc01dbd7e3/mzaf_17410620681759260216.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m03/d18/h15/s05.ulvtziss.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m03/d18/h15/s05.ulvtziss.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m03/d18/h15/s05.ulvtziss.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Camille+Saint-Sa%C3%ABns/_/Danse+Macabre+in+G+minor,+Op.+40",
+        "itunes": "https://music.apple.com/us/album/danse-macabre-in-g-minor-op-40/5915325?i=5915250&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "albumTitle": "The Best of Saint-Saëns",
+      "duration": 432,
+      "releaseDate": "1988-11-25T12:00:00Z"
+    },
+    {
+      "id": "johannes-brahms--hungarian-dance-no-5",
+      "title": "Hungarian Dance No. 5",
+      "artistName": "Johannes Brahms",
+      "artistSlug": "johannes-brahms",
+      "rank": 15,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/34/03/41/340341ee-d86f-b5ed-d3e4-adcdb94e7794/mzaf_16933060522027993682.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/6d/7a/566d7a22-c97f-9ae4-122e-0ed02efb6d0c/5056495441465_1.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/6d/7a/566d7a22-c97f-9ae4-122e-0ed02efb6d0c/5056495441465_1.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/6d/7a/566d7a22-c97f-9ae4-122e-0ed02efb6d0c/5056495441465_1.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Johannes+Brahms/_/Hungarian+Dance+No.+5",
+        "itunes": "https://music.apple.com/us/album/hungarian-dance-no-5/1597301250?i=1597301744&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "021b6428-7ea1-40dc-992e-ec556a053ab3",
+      "artistMbid": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
+      "albumTitle": "Chromium x Classics, Vol. II",
+      "duration": 103,
+      "releaseDate": "2021-12-03T12:00:00Z"
+    },
+    {
+      "id": "wolfgang-amadeus-mozart--symphony-no-40-in-g-minor-k-550-i-molto-allegro",
+      "title": "Symphony No. 40 in G Minor, K. 550: I. Molto allegro",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "artistSlug": "wolfgang-amadeus-mozart",
+      "rank": 16,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/31/fe/9731fea8-e50b-3208-bc1e-de9916e19357/mzaf_14529199425360378947.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/72/cf/b972cff9-3a8e-17bd-bd02-ff6b7cd7da40/691062030823.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/72/cf/b972cff9-3a8e-17bd-bd02-ff6b7cd7da40/691062030823.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/72/cf/b972cff9-3a8e-17bd-bd02-ff6b7cd7da40/691062030823.png/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Symphony+No.+40+in+G+Minor,+K.+550:+I.+Molto+allegro",
+        "itunes": "https://music.apple.com/us/album/symphony-no-40-in-g-minor-k-550-i-molto-allegro/1535767041?i=1535767048&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "01cce8ae-1804-3d7d-9e90-36bc3e0ab4bd",
+      "artistMbid": "b972f589-fb0e-474e-b64a-803b0364fa75",
+      "albumTitle": "Mozart: Symphonies Nos. 38-41",
+      "duration": 426,
+      "releaseDate": "2008-01-07T12:00:00Z"
+    },
+    {
+      "id": "frederic-chopin--ballade-no-1-in-g-minor-op-23",
+      "title": "Ballade No. 1 in G minor, Op. 23",
+      "artistName": "Frédéric Chopin",
+      "artistSlug": "frederic-chopin",
+      "rank": 17,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a9/23/4e/a9234e42-5f3a-fa4e-574e-b172874f55b5/mzaf_13700572600159818013.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/47/2a/b5/472ab500-71fd-f9e7-3246-540a699e9389/00028948180707.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/47/2a/b5/472ab500-71fd-f9e7-3246-540a699e9389/00028948180707.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/47/2a/b5/472ab500-71fd-f9e7-3246-540a699e9389/00028948180707.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/_/Ballade+No.+1+in+G+minor,+Op.+23",
+        "itunes": "https://music.apple.com/us/album/ballade-no-1-in-g-minor-op-23/1455282395?i=1455282396&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "03b2bad7-f51d-3090-97cd-fcb3176900a8",
+      "albumTitle": "Chopin: Ballade No. 1 & 24 Preludes",
+      "duration": 596,
+      "releaseDate": "2019-03-20T12:00:00Z"
+    },
+    {
+      "id": "erik-satie--gymnopedie-no-1",
+      "title": "Gymnopédie No.1",
+      "artistName": "Erik Satie",
+      "artistSlug": "erik-satie",
+      "rank": 18,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.1"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "d72b4b62-cdd0-458c-9e85-a11ba4a926d3",
+      "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
+      "duration": 200
+    },
+    {
+      "id": "ludovico-einaudi--una-mattina",
+      "title": "Una Mattina",
+      "artistName": "Ludovico Einaudi",
+      "artistSlug": "ludovico-einaudi",
+      "rank": 19,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/64/30/3f64303f-dbda-23e4-6b23-64e8df7eb5e7/mzaf_12817939629152130724.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/44/86/ea448600-257f-670f-7f06-332e02b42abc/06UMGIM59381.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/44/86/ea448600-257f-670f-7f06-332e02b42abc/06UMGIM59381.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/44/86/ea448600-257f-670f-7f06-332e02b42abc/06UMGIM59381.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ludovico+Einaudi/_/Una+Mattina",
+        "itunes": "https://music.apple.com/us/album/una-mattina/1440762051?i=1440762058&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0a1a8a9c-0990-4a5e-8da5-1865a49e8e86",
+      "artistMbid": "fa34b363-79df-434f-a5b8-be4e6898543f",
+      "albumTitle": "Una Mattina",
+      "duration": 204,
+      "releaseDate": "2004-01-01T12:00:00Z"
+    },
+    {
+      "id": "wolfgang-amadeus-mozart--symphony-no-25-in-g-minor-k-183-i-allegro-con-brio",
+      "title": "Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "artistSlug": "wolfgang-amadeus-mozart",
+      "rank": 20,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f2/9b/18/f29b1859-9173-3d77-84bf-3c3b04034462/mzaf_30066150052473400.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/47/76/24477687-267f-f3b1-f8b0-f78f75be3865/5021732258632.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/47/76/24477687-267f-f3b1-f8b0-f78f75be3865/5021732258632.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/47/76/24477687-267f-f3b1-f8b0-f78f75be3865/5021732258632.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Symphony+No.+25+in+G+Minor,+K.+183:+I.+Allegro+con+brio",
+        "itunes": "https://music.apple.com/us/album/symphony-no-25-in-g-minor-k-183-i-allegro-con-brio/1735828586?i=1735829017&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "07a8658f-2e7f-3dc0-910e-598eb49d17e0",
+      "artistMbid": "b972f589-fb0e-474e-b64a-803b0364fa75",
+      "albumTitle": "Sir Neville Marriner Conducts Mozart",
+      "duration": 467,
+      "releaseDate": "1972-01-01T12:00:00Z"
+    },
+    {
+      "id": "erik-satie--gymnopedie-no-3",
+      "title": "Gymnopédie No. 3",
+      "artistName": "Erik Satie",
+      "artistSlug": "erik-satie",
+      "rank": 21,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/33/8f/55338f04-5400-2b0b-96f6-16a89fe99a82/mzaf_15318214017527145229.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/2a/a0/6d2aa004-54a8-9f2b-9b36-e87e9d2a21c2/1963620768530.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/2a/a0/6d2aa004-54a8-9f2b-9b36-e87e9d2a21c2/1963620768530.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/2a/a0/6d2aa004-54a8-9f2b-9b36-e87e9d2a21c2/1963620768530.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Erik+Satie/_/Gymnop%C3%A9die+No.+3",
+        "itunes": "https://music.apple.com/us/album/gymnop%C3%A9die-no-3/1790475532?i=1790475538&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "034020b9-9558-496e-809b-5aa8fe3829eb",
+      "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
+      "albumTitle": "Satie: Gymnopédie No. 3 - Single",
+      "duration": 141,
+      "releaseDate": "2022-05-04T12:00:00Z"
+    },
+    {
+      "id": "johann-pachelbel--canon-in-d",
+      "title": "Canon In D",
+      "artistName": "Johann Pachelbel",
+      "artistSlug": "johann-pachelbel",
+      "rank": 22,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/49/a4/ab49a40f-3626-820f-d7c8-105682a4b19e/mzaf_5300589687375651611.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/2e/46/262e4601-650f-467c-02de-b7e590b028dc/mzi.jlbxtcmq.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/2e/46/262e4601-650f-467c-02de-b7e590b028dc/mzi.jlbxtcmq.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/2e/46/262e4601-650f-467c-02de-b7e590b028dc/mzi.jlbxtcmq.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Johann+Pachelbel/_/Canon+In+D",
+        "itunes": "https://music.apple.com/us/album/canon-in-d/303301889?i=303301897&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "003e5d56-697b-47ad-8d55-2dd606dc343e",
+      "artistMbid": "2251b277-2dfb-4cf1-83f3-27e29f902440",
+      "albumTitle": "Pachelbel: Canon In D - Bach: Air On a G String - Handel: Largo from 'Xerxes' - Hallelujah Chorus - Clarke: Trumpet Voluntary",
+      "duration": 377,
+      "releaseDate": "2007-11-26T12:00:00Z"
+    },
+    {
+      "id": "johann-sebastian-bach--toccata-and-fugue-in-d-minor",
+      "title": "Toccata and Fugue in D Minor",
+      "artistName": "Johann Sebastian Bach",
+      "artistSlug": "johann-sebastian-bach",
+      "rank": 23,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/2e/40/5a2e40c1-58fe-f4e0-75ea-f284675ccdaa/mzaf_11048458762235492451.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/b5/60/c9/mzi.ltvohfnx.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/b5/60/c9/mzi.ltvohfnx.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/b5/60/c9/mzi.ltvohfnx.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Johann+Sebastian+Bach/_/Toccata+and+Fugue+in+D+Minor",
+        "itunes": "https://music.apple.com/us/album/toccata-and-fugue-in-d-minor/459525562?i=459525792&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "001491ec-af57-4aee-a0d1-e9df4b5d7b92",
+      "artistMbid": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+      "albumTitle": "Great Organ Classics",
+      "duration": 567,
+      "releaseDate": "1997-11-14T12:00:00Z"
+    },
+    {
+      "id": "ludwig-van-beethoven--symphony-no-7-in-a-major-op-92-ii-allegretto",
+      "title": "Symphony No. 7 in A Major, Op. 92: II. Allegretto",
+      "artistName": "Ludwig van Beethoven",
+      "artistSlug": "ludwig-van-beethoven",
+      "rank": 24,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/43/a8/db43a84a-25ef-0f8e-3d5b-3105b4c751c1/mzaf_8045662846047167663.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/b2/99/e9b29981-0037-5f06-7881-79d2d50b2a5a/26UMGIM24211.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/b2/99/e9b29981-0037-5f06-7881-79d2d50b2a5a/26UMGIM24211.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/b2/99/e9b29981-0037-5f06-7881-79d2d50b2a5a/26UMGIM24211.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ludwig+van+Beethoven/_/Symphony+No.+7+in+A+Major,+Op.+92:+II.+Allegretto",
+        "itunes": "https://music.apple.com/us/album/symphony-no-7-in-a-major-op-92-ii-allegretto/1880696969?i=1880697314&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0014ecf3-8811-3e19-b2f1-cdda533c6184",
+      "artistMbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+      "albumTitle": "Ultimate Classics",
+      "duration": 509,
+      "releaseDate": "2026-02-28T08:00:00Z"
+    },
+    {
+      "id": "sarah-brightman--time-to-say-goodbye",
+      "title": "Time to Say Goodbye",
+      "artistName": "Sarah Brightman",
+      "artistSlug": "sarah-brightman",
+      "rank": 25,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/23/58/602358a9-9d95-8959-f91e-588baff6390b/mzaf_8117642416684439941.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fb/d5/bc/fbd5bc79-4d4d-b19a-e0c4-8eb86d63eef7/00028948175529.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fb/d5/bc/fbd5bc79-4d4d-b19a-e0c4-8eb86d63eef7/00028948175529.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fb/d5/bc/fbd5bc79-4d4d-b19a-e0c4-8eb86d63eef7/00028948175529.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sarah+Brightman/_/Time+to+Say+Goodbye",
+        "itunes": "https://music.apple.com/us/album/time-to-say-goodbye/1435615443?i=1435615573&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "02b8a7ae-01ae-3177-8f74-d0971dd1ea89",
+      "artistMbid": "896f0194-8ab2-4278-81e0-c56a0444b569",
+      "albumTitle": "Hymn",
+      "duration": 255,
+      "releaseDate": "2018-11-09T12:00:00Z"
+    },
+    {
+      "id": "ludovico-einaudi--primavera",
+      "title": "Primavera",
+      "artistName": "Ludovico Einaudi",
+      "artistSlug": "ludovico-einaudi",
+      "rank": 26,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/7a/57/b77a57ce-e9af-f73a-4292-8e8663ed9c61/mzaf_7878684706193626416.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/86/bc/2c86bcb8-2ff2-f0a1-f157-976f5c85159a/06UMGIM37884.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/86/bc/2c86bcb8-2ff2-f0a1-f157-976f5c85159a/06UMGIM37884.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/86/bc/2c86bcb8-2ff2-f0a1-f157-976f5c85159a/06UMGIM37884.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ludovico+Einaudi/_/Primavera",
+        "itunes": "https://music.apple.com/us/album/primavera/1452504769?i=1452505054&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0e6de59f-cf6b-3244-9845-37162676bff1",
+      "artistMbid": "fa34b363-79df-434f-a5b8-be4e6898543f",
+      "albumTitle": "Divenire",
+      "duration": 442,
+      "releaseDate": "2006-01-01T12:00:00Z"
+    },
+    {
+      "id": "richard-wagner--ride-of-the-valkyries",
+      "title": "Ride of the Valkyries",
+      "artistName": "Richard Wagner",
+      "artistSlug": "richard-wagner",
+      "rank": 27,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/9c/5a/b19c5a55-58ce-7fd6-478b-9442f264a620/mzaf_299010490123583463.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/bd/e9/2bbde963-c831-3335-0739-c828a85fb7a0/018736315428_cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/bd/e9/2bbde963-c831-3335-0739-c828a85fb7a0/018736315428_cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/bd/e9/2bbde963-c831-3335-0739-c828a85fb7a0/018736315428_cover.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Richard+Wagner/_/Ride+of+the+Valkyries",
+        "itunes": "https://music.apple.com/us/album/ride-of-the-valkyries/1500977772?i=1500977773&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "01595626-3569-4bbe-a4b3-8ea3bbc1f00b",
+      "artistMbid": "eefd7c1e-abcf-4ccc-ba60-0fd435c9061f",
+      "albumTitle": "Classical Lines",
+      "duration": 282,
+      "releaseDate": "1989-12-08T12:00:00Z"
+    },
+    {
+      "id": "maurice-ravel--pavane-pour-une-infante-defunte",
+      "title": "Pavane pour une infante défunte",
+      "artistName": "Maurice Ravel",
+      "artistSlug": "maurice-ravel",
+      "rank": 28,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/ef/d9/75efd9cd-6803-c63b-bca9-ebe8c7e4444d/mzaf_9235049110807391068.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/eb/8c/8feb8c42-a6e4-2e8f-fd01-d87be6351343/00028943900829.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/eb/8c/8feb8c42-a6e4-2e8f-fd01-d87be6351343/00028943900829.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/eb/8c/8feb8c42-a6e4-2e8f-fd01-d87be6351343/00028943900829.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Maurice+Ravel/_/Pavane+pour+une+infante+d%C3%A9funte",
+        "itunes": "https://music.apple.com/us/album/pavane-pour-une-infante-d%C3%A9funte/1452143727?i=1452143734&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00332769-2c6b-490b-a9f8-a9574df07ed0",
+      "artistMbid": "6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a",
+      "albumTitle": "Debussy: La Mer, Prélude à l'après-midi - Ravel: Pavane, Daphnis et Chloé No. 2",
+      "duration": 433,
+      "releaseDate": "1986-01-01T12:00:00Z"
+    },
+    {
+      "id": "sergei-rachmaninoff--piano-concerto-no-2-in-c-minor-op-18-i-moderato",
+      "title": "Piano Concerto No. 2 in C minor, Op. 18: I. Moderato",
+      "artistName": "Sergei Rachmaninoff",
+      "artistSlug": "sergei-rachmaninoff",
+      "rank": 29,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/79/6c/ad/796cad08-2570-58f2-c61a-23610c09e4ff/mzaf_15956390103766769224.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/d3/7e/67d37e5a-804c-1a01-7ca8-496387e40156/886446227511.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/d3/7e/67d37e5a-804c-1a01-7ca8-496387e40156/886446227511.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/d3/7e/67d37e5a-804c-1a01-7ca8-496387e40156/886446227511.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sergei+Rachmaninoff/_/Piano+Concerto+No.+2+in+C+minor,+Op.+18:+I.+Moderato",
+        "itunes": "https://music.apple.com/us/album/piano-concerto-no-2-in-c-minor-op-18-i-moderato/1199073413?i=1199073765&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0000f1a0-039c-42d4-9f66-6a7822deb887",
+      "albumTitle": "Rachmaninoff: Piano Concertos Nos. 2 & 3",
+      "duration": 600,
+      "releaseDate": "2017-02-10T12:00:00Z"
+    },
+    {
+      "id": "franz-liszt--liebestraum",
+      "title": "Liebestraum",
+      "artistName": "Franz Liszt",
+      "artistSlug": "franz-liszt",
+      "rank": 30,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/1d/3f/011d3f37-538c-e08c-41b6-3e194ce88e52/mzaf_14685519828361086688.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/e5/a0/1be5a039-2dfd-1a8f-9115-9538da28b886/17UMGIM10475.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/e5/a0/1be5a039-2dfd-1a8f-9115-9538da28b886/17UMGIM10475.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1b/e5/a0/1be5a039-2dfd-1a8f-9115-9538da28b886/17UMGIM10475.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Franz+Liszt/_/Liebestraum",
+        "itunes": "https://music.apple.com/us/album/liebestraum-no-3-in-a-flat-major-s-541-no-3/1452500855?i=1452501018&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0161acdb-94c1-44cb-b6d5-52bb278ef975",
+      "artistMbid": "2cd475bb-1abd-40c4-9904-6d4b691c752c",
+      "albumTitle": "Liszt: The Essentials",
+      "duration": 279,
+      "releaseDate": "1981-01-01T12:00:00Z"
+    },
+    {
+      "id": "erik-satie--je-te-veux",
+      "title": "Je te veux",
+      "artistName": "Erik Satie",
+      "artistSlug": "erik-satie",
+      "rank": 31,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/fc/94/96fc9426-4e32-0df9-dcb2-ace8d4cf9815/mzaf_10320768391928069927.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/21/52/03/215203ba-1ef2-c89f-48d0-114ec82a6f3b/06UMGIM60957.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/21/52/03/215203ba-1ef2-c89f-48d0-114ec82a6f3b/06UMGIM60957.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/21/52/03/215203ba-1ef2-c89f-48d0-114ec82a6f3b/06UMGIM60957.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Erik+Satie/_/Je+te+veux",
+        "itunes": "https://music.apple.com/us/album/je-te-veux/1440721118?i=1440721119&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "021632f0-185a-3d79-8b15-bd37d0d67dd6",
+      "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
+      "albumTitle": "Satie: 3 Gymnopédies",
+      "duration": 314,
+      "releaseDate": "1984-05-02T12:00:00Z"
+    },
+    {
+      "id": "sergei-rachmaninoff--piano-concerto-no-2-in-c-minor-op-18-ii-adagio-sostenuto",
+      "title": "Piano Concerto No. 2 in C minor, Op. 18: II. Adagio sostenuto",
+      "artistName": "Sergei Rachmaninoff",
+      "artistSlug": "sergei-rachmaninoff",
+      "rank": 32,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ba/c2/6a/bac26adb-2438-6cc2-1be8-5f91dee79106/mzaf_8899914285506202465.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/d3/7e/67d37e5a-804c-1a01-7ca8-496387e40156/886446227511.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/d3/7e/67d37e5a-804c-1a01-7ca8-496387e40156/886446227511.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/d3/7e/67d37e5a-804c-1a01-7ca8-496387e40156/886446227511.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sergei+Rachmaninoff/_/Piano+Concerto+No.+2+in+C+minor,+Op.+18:+II.+Adagio+sostenuto",
+        "itunes": "https://music.apple.com/us/album/piano-concerto-no-2-in-c-minor-op-18-ii-adagio-sostenuto/1199073413?i=1199073778&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0004e1b7-4808-41da-9fe1-ec4057b8313e",
+      "albumTitle": "Rachmaninoff: Piano Concertos Nos. 2 & 3",
+      "duration": 655,
+      "releaseDate": "2017-03-10T12:00:00Z"
+    },
+    {
+      "id": "ralph-vaughan-williams--fantasia-on-greensleeves",
+      "title": "Fantasia on Greensleeves",
+      "artistName": "Ralph Vaughan Williams",
+      "artistSlug": "ralph-vaughan-williams",
+      "rank": 33,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/83/b7/e0/83b7e0f5-a6b2-2f7e-4347-06634fc9d0c1/mzaf_17829623488197527515.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f5/cc/a8/f5cca8e4-8032-957d-c1b1-de50dde6cb95/5099946357557_1417x1417_300dpi.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f5/cc/a8/f5cca8e4-8032-957d-c1b1-de50dde6cb95/5099946357557_1417x1417_300dpi.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f5/cc/a8/f5cca8e4-8032-957d-c1b1-de50dde6cb95/5099946357557_1417x1417_300dpi.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ralph+Vaughan+Williams/_/Fantasia+on+Greensleeves",
+        "itunes": "https://music.apple.com/us/album/fantasia-on-greensleeves/693565303?i=693565378&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "02112122-bf4b-36a6-999c-0e7fc373b957",
+      "artistMbid": "4f3b96ed-f1f1-4a68-be73-0e0657837096",
+      "albumTitle": "Elgar: Enigma Variations - Vaughan Williams: Fantasia on Greensleeves [2011 - Remaster] (2011 - Remaster)",
+      "duration": 282,
+      "releaseDate": "2012-03-09T12:00:00Z"
+    },
+    {
+      "id": "ralph-vaughan-williams--the-lark-ascending",
+      "title": "The Lark Ascending",
+      "artistName": "Ralph Vaughan Williams",
+      "artistSlug": "ralph-vaughan-williams",
+      "rank": 34,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/ef/a5/67efa525-3c6a-2612-abf3-b0e3f4540639/mzaf_3320800354257153760.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/4f/98/0d4f98af-0c6b-0987-7a71-0d0fc7f4e1f8/13UMGIM26208.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/4f/98/0d4f98af-0c6b-0987-7a71-0d0fc7f4e1f8/13UMGIM26208.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/4f/98/0d4f98af-0c6b-0987-7a71-0d0fc7f4e1f8/13UMGIM26208.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ralph+Vaughan+Williams/_/The+Lark+Ascending",
+        "itunes": "https://music.apple.com/us/album/the-lark-ascending/1452643335?i=1452643454&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "005ca2d7-cee0-4dc1-83e4-2ed56fc0b57a",
+      "artistMbid": "4f3b96ed-f1f1-4a68-be73-0e0657837096",
+      "albumTitle": "Vaughan Williams: The Lark Ascending, Fantasia On A Theme By Thomas Tallis, Symphony No. 5",
+      "duration": 969,
+      "releaseDate": "1972-10-01T12:00:00Z"
+    },
+    {
+      "id": "george-gershwin--rhapsody-in-blue",
+      "title": "Rhapsody in Blue",
+      "artistName": "George Gershwin",
+      "artistSlug": "george-gershwin",
+      "rank": 35,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/6a/ee/356aee65-dcfe-44d4-fa73-345ca564f6fe/mzaf_9978999284495888727.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/9e/6b/269e6bb0-45df-d9ce-a620-b6f2db25947e/mzi.vxdfiicg.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/9e/6b/269e6bb0-45df-d9ce-a620-b6f2db25947e/mzi.vxdfiicg.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/9e/6b/269e6bb0-45df-d9ce-a620-b6f2db25947e/mzi.vxdfiicg.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/George+Gershwin/_/Rhapsody+in+Blue",
+        "itunes": "https://music.apple.com/us/album/rhapsody-in-blue/79576591?i=79576564&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "005cfb71-2a40-379a-963f-815618bc18be",
+      "artistMbid": "65744963-191a-44ef-a3c7-b693a808a158",
+      "albumTitle": "Gershwin Plays Gershwin: The Piano Rolls",
+      "duration": 865,
+      "releaseDate": "1993-01-01T12:00:00Z"
+    },
+    {
+      "id": "charles-gounod--ave-maria",
+      "title": "Ave Maria",
+      "artistName": "Charles Gounod",
+      "artistSlug": "charles-gounod",
+      "rank": 36,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/ed/e7/0bede7f6-3b37-14a2-99f1-5dec76c0a0a8/mzaf_16855991253602716454.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d9/4f/d9/d94fd980-28a5-bb4e-1ae7-be1a62eb8321/20UMGIM96523.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d9/4f/d9/d94fd980-28a5-bb4e-1ae7-be1a62eb8321/20UMGIM96523.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d9/4f/d9/d94fd980-28a5-bb4e-1ae7-be1a62eb8321/20UMGIM96523.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Charles+Gounod/_/Ave+Maria",
+        "itunes": "https://music.apple.com/us/album/ave-maria/1538152904?i=1538152917&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0c853656-2f48-4ae3-8e3c-d1b4ebdc8299",
+      "artistMbid": "cd4636e1-06a3-41fc-848a-624b84bbb023",
+      "albumTitle": "J.S. Bach, Gounod: Ave Maria (Musical Moments) - Single",
+      "duration": 183,
+      "releaseDate": "2020-11-13T12:00:00Z"
+    },
+    {
+      "id": "gabriel-faure--pavane-op-50",
+      "title": "Pavane, Op. 50",
+      "artistName": "Gabriel Fauré",
+      "artistSlug": "gabriel-faure",
+      "rank": 37,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/10/5d/e5105dbe-6ec8-a101-b66e-a9171a934e30/mzaf_1020000499361770483.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/21/a0/e1/21a0e1bb-99c2-c51c-8c44-fd6000e933bf/21UM1IM17002.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/21/a0/e1/21a0e1bb-99c2-c51c-8c44-fd6000e933bf/21UM1IM17002.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/21/a0/e1/21a0e1bb-99c2-c51c-8c44-fd6000e933bf/21UM1IM17002.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Gabriel+Faur%C3%A9/_/Pavane,+Op.+50",
+        "itunes": "https://music.apple.com/us/album/pavane-op-50/1587716975?i=1587717470&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "002900ef-fb37-4822-92a0-f60c0284be62",
+      "artistMbid": "fa19a8b6-e7f4-40d4-af15-7a7c41ac7d8f",
+      "albumTitle": "Vaughan Williams: Fantasia on a Theme by Thomas Tallis - Barber: Adagio for Strings - Grainger: Irish Tune from County Derry - Satie: Gymnopédies Nos. 1 & 3 - Fauré: Pavane",
+      "duration": 345,
+      "releaseDate": "1983-09-01T12:00:00Z"
+    },
+    {
+      "id": "pietro-mascagni--cavalleria-rusticana-intermezzo",
+      "title": "Cavalleria Rusticana: Intermezzo",
+      "artistName": "Pietro Mascagni",
+      "artistSlug": "pietro-mascagni",
+      "rank": 38,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/22/97/c822979e-776b-610f-2e14-097d8e0ef756/mzaf_3599737398248236504.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/a8/43/94a8433b-d860-560d-ad2f-c518b28e5b38/00028941459022.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/a8/43/94a8433b-d860-560d-ad2f-c518b28e5b38/00028941459022.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/a8/43/94a8433b-d860-560d-ad2f-c518b28e5b38/00028941459022.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Pietro+Mascagni/_/Cavalleria+Rusticana:+Intermezzo",
+        "itunes": "https://music.apple.com/us/album/cavalleria-rusticana-intermezzo/1452547783?i=1452548409&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "066dee17-d9a3-4b5d-9388-2c7ab5d1dcf1",
+      "artistMbid": "95f7c24e-2879-4abb-ba35-906c467fc704",
+      "albumTitle": "Mascagni: Cavalleria Rusticana & Leoncavallo: Pagliacci",
+      "duration": 190,
+      "releaseDate": "1978-12-03T12:00:00Z"
+    },
+    {
+      "id": "sir-edward-elgar--salut-damour-op-12",
+      "title": "Salut d'amour, Op. 12",
+      "artistName": "Sir Edward Elgar",
+      "artistSlug": "sir-edward-elgar",
+      "rank": 39,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/fd/57/fffd5762-4916-e700-0420-0c4c81aba202/mzaf_1337098699071598019.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/bb/c7/edbbc792-eb83-92b3-3322-5f6def434230/21UMGIM36019.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/bb/c7/edbbc792-eb83-92b3-3322-5f6def434230/21UMGIM36019.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/bb/c7/edbbc792-eb83-92b3-3322-5f6def434230/21UMGIM36019.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sir+Edward+Elgar/_/Salut+d%27amour,+Op.+12",
+        "itunes": "https://music.apple.com/us/album/salut-damour-op-12/1573886602?i=1573886613&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "02aeeb35-80f4-3984-8e04-701e6f50e6f2",
+      "albumTitle": "Prokofiev: Symphony No. 1, Op. 25 \"Classical Symphony\"; Britten: Simple Symphony, Op. 4; Bizet: Symphony in C Major; Elgar: Salut d'amour, Op. 12",
+      "duration": 183,
+      "releaseDate": "1996-01-01T12:00:00Z"
+    },
+    {
+      "id": "pyotr-ilyich-tchaikovsky--dance-of-the-sugar-plum-fairy",
+      "title": "Dance of the Sugar Plum Fairy",
+      "artistName": "Pyotr Ilyich Tchaikovsky",
+      "artistSlug": "pyotr-ilyich-tchaikovsky",
+      "rank": 40,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/a2/37/6ba237bd-d7c3-e7ad-19dc-41edecd25aac/mzaf_2724674515904699368.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/bd/e9/2bbde963-c831-3335-0739-c828a85fb7a0/018736315428_cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/bd/e9/2bbde963-c831-3335-0739-c828a85fb7a0/018736315428_cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/bd/e9/2bbde963-c831-3335-0739-c828a85fb7a0/018736315428_cover.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky/_/Dance+of+the+Sugar+Plum+Fairy",
+        "itunes": "https://music.apple.com/us/album/dance-of-the-sugar-plum-fairy/1500977772?i=1500977791&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0958ea71-79e7-4cbd-9854-aebcfc4073a9",
+      "albumTitle": "Classical Lines",
+      "duration": 121,
+      "releaseDate": "1989-12-08T12:00:00Z"
+    },
+    {
+      "id": "andrea-bocelli--vivo-per-lei",
+      "title": "Vivo Per Lei",
+      "artistName": "Andrea Bocelli",
+      "artistSlug": "andrea-bocelli",
+      "rank": 41,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/9e/9d/8e9e9d86-51dd-10c2-7a8d-8997fe626bb6/mzaf_14159137208938150472.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/aa/6b/bfaa6b30-3bc9-af12-c776-510e3f21b475/18UMGIM74788.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/aa/6b/bfaa6b30-3bc9-af12-c776-510e3f21b475/18UMGIM74788.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/aa/6b/bfaa6b30-3bc9-af12-c776-510e3f21b475/18UMGIM74788.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Andrea+Bocelli/_/Vivo+Per+Lei",
+        "itunes": "https://music.apple.com/us/album/vivo-per-lei-feat-giorgia/1443832972?i=1443833241&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "03ffaf6c-bace-32a8-8b93-a650db9ab995",
+      "artistMbid": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
+      "albumTitle": "The Best of Andrea Bocelli: Vivere",
+      "duration": 266,
+      "releaseDate": "1995-01-01T12:00:00Z"
+    },
+    {
+      "id": "pyotr-ilyich-tchaikovsky--swan-lake",
+      "title": "Swan Lake",
+      "artistName": "Pyotr Ilyich Tchaikovsky",
+      "artistSlug": "pyotr-ilyich-tchaikovsky",
+      "rank": 42,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/74/ef/5f/74ef5f66-9a4c-53bc-7063-d6bef560916d/mzaf_3954256042523450257.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/2e/c1/2e2ec19a-cec5-3294-0998-e89ee598e123/5056495367277_1.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/2e/c1/2e2ec19a-cec5-3294-0998-e89ee598e123/5056495367277_1.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/2e/c1/2e2ec19a-cec5-3294-0998-e89ee598e123/5056495367277_1.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky/_/Swan+Lake",
+        "itunes": "https://music.apple.com/us/album/swan-lake/1595163230?i=1595163231&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "08c44d52-87e8-46cd-a9ef-57d899682b25",
+      "albumTitle": "Swan Lake - Single",
+      "duration": 207,
+      "releaseDate": "2021-12-03T12:00:00Z"
+    },
+    {
+      "id": "wolfgang-amadeus-mozart--rondo-alla-turca",
+      "title": "Rondo alla Turca",
+      "artistName": "Wolfgang Amadeus Mozart",
+      "artistSlug": "wolfgang-amadeus-mozart",
+      "rank": 43,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e8/65/cd/e865cdd7-112d-d6c9-c8b6-bd9f306fb777/mzaf_3153622389964450288.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d6/95/4b/d6954bc3-d3c0-3849-a064-594c31e2cba2/887396539945.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d6/95/4b/d6954bc3-d3c0-3849-a064-594c31e2cba2/887396539945.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d6/95/4b/d6954bc3-d3c0-3849-a064-594c31e2cba2/887396539945.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Rondo+alla+Turca",
+        "itunes": "https://music.apple.com/us/album/rondo-alla-turca/581031547?i=581031909&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0095d81f-bcf2-4988-9ed7-3075f476b2ee",
+      "artistMbid": "b972f589-fb0e-474e-b64a-803b0364fa75",
+      "albumTitle": "Piano Classics",
+      "duration": 226,
+      "releaseDate": "2011-07-01T12:00:00Z"
+    },
+    {
+      "id": "gioacchino-rossini--william-tell-overture",
+      "title": "William Tell Overture",
+      "artistName": "Gioacchino Rossini",
+      "artistSlug": "gioacchino-rossini",
+      "rank": 44,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/0f/32/84/0f328482-4fa5-dc7b-78c1-e8f14f6e2c7c/mzaf_105700719636223745.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/bc/7a/62/mzi.vubkrtac.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/bc/7a/62/mzi.vubkrtac.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/bc/7a/62/mzi.vubkrtac.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Gioacchino+Rossini/_/William+Tell+Overture",
+        "itunes": "https://music.apple.com/us/album/william-tell-overture/350535250?i=350535254&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0186f668-526e-39f1-94b5-85b987e6e518",
+      "albumTitle": "Orchestral Excerpts for Cello",
+      "duration": 223,
+      "releaseDate": "1997-01-14T12:00:00Z"
+    },
+    {
+      "id": "ludovico-einaudi--divenire",
+      "title": "Divenire",
+      "artistName": "Ludovico Einaudi",
+      "artistSlug": "ludovico-einaudi",
+      "rank": 45,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/7e/37/4a7e3771-0b91-806b-66a1-1a166d2a0ceb/mzaf_16913843404009221634.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/74/3f/51743ff6-9f0a-7b15-b924-c3dff7ab1538/06UMGIM37884.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/74/3f/51743ff6-9f0a-7b15-b924-c3dff7ab1538/06UMGIM37884.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/74/3f/51743ff6-9f0a-7b15-b924-c3dff7ab1538/06UMGIM37884.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ludovico+Einaudi/_/Divenire",
+        "itunes": "https://music.apple.com/us/album/divenire/1452374029?i=1452374529&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0e307378-f016-48b1-9b05-e8e5c03245de",
+      "artistMbid": "fa34b363-79df-434f-a5b8-be4e6898543f",
+      "albumTitle": "Divenire (Bonus Track Version)",
+      "duration": 402,
+      "releaseDate": "2006-01-01T12:00:00Z"
+    },
+    {
+      "id": "gabriel-faure--in-paradisum",
+      "title": "In Paradisum",
+      "artistName": "Gabriel Fauré",
+      "artistSlug": "gabriel-faure",
+      "rank": 46,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/5a/98/3a/5a983a87-5738-2b36-de53-bd6f62030519/mzaf_12386991218361947136.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1d/5a/0d/1d5a0d9e-5295-275c-964c-34e27a8c4eb8/00028947669739.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1d/5a/0d/1d5a0d9e-5295-275c-964c-34e27a8c4eb8/00028947669739.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1d/5a/0d/1d5a0d9e-5295-275c-964c-34e27a8c4eb8/00028947669739.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Gabriel+Faur%C3%A9/_/In+Paradisum",
+        "itunes": "https://music.apple.com/us/album/in-paradisum/1467922520?i=1467922787&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0597d432-e324-35cb-b5c1-59335bc65b68",
+      "artistMbid": "fa19a8b6-e7f4-40d4-af15-7a7c41ac7d8f",
+      "albumTitle": "Sacred Arias",
+      "duration": 194,
+      "releaseDate": "2008-01-01T12:00:00Z"
+    },
+    {
+      "id": "tomaso-giovanni-albinoni--adagio-in-g-minor",
+      "title": "Adagio in G minor",
+      "artistName": "Tomaso Giovanni Albinoni",
+      "artistSlug": "tomaso-giovanni-albinoni",
+      "rank": 47,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/d2/a1/d4d2a160-5691-59c5-adbd-16103b5f06a4/mzaf_9614909248470802997.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/dd/1c/51/dd1c5154-b7cc-29d4-5c57-537f04b41b5c/887396080522.tif/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/dd/1c/51/dd1c5154-b7cc-29d4-5c57-537f04b41b5c/887396080522.tif/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/dd/1c/51/dd1c5154-b7cc-29d4-5c57-537f04b41b5c/887396080522.tif/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Tomaso+Giovanni+Albinoni/_/Adagio+in+G+minor",
+        "itunes": "https://music.apple.com/us/album/adagio-in-g-minor/536701915?i=536702321&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00a36674-8bd1-4e97-991d-9862e54476ff",
+      "artistMbid": "83903121-f611-4875-984c-673ae7173e56",
+      "albumTitle": "Albinoni: Adagio in G Minor & 3 Concerti à cinque, Op. 7 - EP",
+      "duration": 542,
+      "releaseDate": "1996-01-01T12:00:00Z"
+    },
+    {
+      "id": "johann-sebastian-bach--ave-maria",
+      "title": "Ave Maria",
+      "artistName": "Johann Sebastian Bach",
+      "artistSlug": "johann-sebastian-bach",
+      "rank": 48,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/33/06/983306e4-f12f-e8fc-a524-01008dbd95a3/mzaf_11403262865323014925.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/23/13/39/23133958-828a-3d73-499e-a4ab5cef04c8/mzi.hbqjaqxm.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/23/13/39/23133958-828a-3d73-499e-a4ab5cef04c8/mzi.hbqjaqxm.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/23/13/39/23133958-828a-3d73-499e-a4ab5cef04c8/mzi.hbqjaqxm.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Johann+Sebastian+Bach/_/Ave+Maria",
+        "itunes": "https://music.apple.com/us/album/ave-maria/274102414?i=274102536&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "06ad21d3-990b-39b0-898d-68a8876d974a",
+      "artistMbid": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+      "albumTitle": "Wedding: Music & Words",
+      "duration": 187,
+      "releaseDate": "2005-09-15T12:00:00Z"
+    },
+    {
+      "id": "ludwig-van-beethoven--moonlight-sonata",
+      "title": "Moonlight Sonata",
+      "artistName": "Ludwig van Beethoven",
+      "artistSlug": "ludwig-van-beethoven",
+      "rank": 49,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/a4/c4/52a4c4ab-c8ff-edc2-1d9e-6d6207e3df36/mzaf_10898931435537392814.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/cd/11/3d/mzi.habpfpwc.tif/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/cd/11/3d/mzi.habpfpwc.tif/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/cd/11/3d/mzi.habpfpwc.tif/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ludwig+van+Beethoven/_/Moonlight+Sonata",
+        "itunes": "https://music.apple.com/us/album/moonlight-sonata/415535328?i=415535337&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "013ac5b4-eb7f-428b-8b9a-aace2f733d97",
+      "artistMbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+      "albumTitle": "With Love... From Beethoven",
+      "duration": 319,
+      "releaseDate": "2011-01-11T12:00:00Z"
+    },
+    {
+      "id": "carl-orff--carmina-burana-o-fortuna",
+      "title": "Carmina Burana: O Fortuna",
+      "artistName": "Carl Orff",
+      "artistSlug": "carl-orff",
+      "rank": 50,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7d/c2/b4/7dc2b461-52a2-ce99-29fc-d1c09021e2b7/mzaf_4900988731167134594.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/20/7f/eb/207feb94-0169-a44a-07ba-67869be026d3/dj.kowpweqp.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/20/7f/eb/207feb94-0169-a44a-07ba-67869be026d3/dj.kowpweqp.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/20/7f/eb/207feb94-0169-a44a-07ba-67869be026d3/dj.kowpweqp.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Carl+Orff/_/Carmina+Burana:+O+Fortuna",
+        "itunes": "https://music.apple.com/us/album/carmina-burana-o-fortuna/306270884?i=306270891&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0033643e-df9b-4a75-8d8d-0972a5debef9",
+      "artistMbid": "0b3ee6cd-a2df-4144-adf9-7807ee7ecc4f",
+      "albumTitle": "Carl Orff, Carmina Burana",
+      "duration": 173,
+      "releaseDate": "2005-01-01T12:00:00Z"
+    }
+  ],
+  "lastUpdated": "2026-03-02T00:34:24.427Z",
+  "totalTracks": 50,
+  "coverColor": "#a78bfa",
+  "genre": "classical",
+  "genreColor": "--genre-classical"
+}

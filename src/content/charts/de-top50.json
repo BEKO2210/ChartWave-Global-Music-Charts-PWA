@@ -4,279 +4,1602 @@
   "name": "Germany Top 50",
   "type": "country",
   "description": "Top 50 most listened tracks in Germany, updated daily.",
-  "country": "de",
-  "countryName": "Germany",
   "tracks": [
     {
-      "id": "apache-207--roller",
-      "title": "Roller",
-      "artistName": "Apache 207",
-      "artistSlug": "apache-207",
-      "albumTitle": "Treppenhaus",
-      "duration": 200,
+      "id": "pinkpantheress--stateside-zara-larsson",
+      "title": "Stateside + Zara Larsson",
+      "artistName": "PinkPantheress",
+      "artistSlug": "pinkpantheress",
       "rank": 1,
-      "previousRank": 1,
-      "rankChange": "same",
-      "rankDelta": 0,
-      "playcount": 5000000,
-      "listeners": 1200000,
-      "previewUrl": null,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 7003,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/0b/8e/5e0b8e5f-1a32-7f1f-3b77-1d008e6e0c1e/mzaf_17111867416921804819.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://picsum.photos/seed/de1/100/100",
-        "medium": "https://picsum.photos/seed/de1/300/300",
-        "large": "https://picsum.photos/seed/de1/600/600",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/d2/bb/b0d2bb76-41a2-1bb1-586c-107b63e4181d/5026854077819.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/d2/bb/b0d2bb76-41a2-1bb1-586c-107b63e4181d/5026854077819.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/d2/bb/b0d2bb76-41a2-1bb1-586c-107b63e4181d/5026854077819.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Apache+207/_/Roller"
+        "lastfm": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
+        "itunes": "https://music.apple.com/us/album/stateside-with-zara-larsson/1843595790?i=1843595808&uo=4"
       },
-      "tags": ["pop", "german"],
-      "genres": ["pop"],
-      "dataSources": ["lastfm"]
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
+      "artistMbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+      "albumTitle": "Fancy Some More?",
+      "duration": 185,
+      "releaseDate": "2025-10-10T12:00:00Z"
     },
     {
-      "id": "rammstein--deutschland",
-      "title": "Deutschland",
-      "artistName": "Rammstein",
-      "artistSlug": "rammstein",
-      "albumTitle": "Rammstein",
-      "duration": 322,
+      "id": "bad-bunny--dtmf",
+      "title": "DtMF",
+      "artistName": "Bad Bunny",
+      "artistSlug": "bad-bunny",
       "rank": 2,
-      "previousRank": 3,
-      "rankChange": "up",
-      "rankDelta": 1,
-      "playcount": 4800000,
-      "listeners": 1150000,
-      "previewUrl": null,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 5286,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://picsum.photos/seed/de2/100/100",
-        "medium": "https://picsum.photos/seed/de2/300/300",
-        "large": "https://picsum.photos/seed/de2/600/600",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Rammstein/_/Deutschland"
+        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
+        "itunes": "https://music.apple.com/us/album/nuevayol/1787022393?i=1787022572&uo=4"
       },
-      "tags": ["pop", "german"],
-      "genres": ["pop"],
-      "dataSources": ["lastfm"]
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "2944ab9d-2e49-4143-83fb-4e8499469654",
+      "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "albumTitle": "DeBÍ TiRAR MáS FOToS",
+      "duration": 184,
+      "releaseDate": "2025-01-05T12:00:00Z"
     },
     {
-      "id": "tokio-hotel--monsoon",
-      "title": "Monsoon",
-      "artistName": "Tokio Hotel",
-      "artistSlug": "tokio-hotel",
-      "albumTitle": "Scream",
-      "duration": 197,
+      "id": "djo--end-of-beginning",
+      "title": "End of Beginning",
+      "artistName": "Djo",
+      "artistSlug": "djo",
       "rank": 3,
-      "previousRank": 1,
-      "rankChange": "down",
-      "rankDelta": -2,
-      "playcount": 4600000,
-      "listeners": 1100000,
-      "previewUrl": null,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 5130,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/df/af/6edfaf58-f901-e9b5-840b-9ac9e37f34b7/mzaf_8465065510938624101.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://picsum.photos/seed/de3/100/100",
-        "medium": "https://picsum.photos/seed/de3/300/300",
-        "large": "https://picsum.photos/seed/de3/600/600",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Tokio+Hotel/_/Monsoon"
+        "lastfm": "https://www.last.fm/music/Djo/_/End+of+Beginning",
+        "itunes": "https://music.apple.com/us/album/end-of-beginning/1632447652?i=1632448108&uo=4"
       },
-      "tags": ["pop", "german"],
-      "genres": ["pop"],
-      "dataSources": ["lastfm"]
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "298a594f-d201-41c3-a9a6-9e362d5c5c03",
+      "artistMbid": "83cedfd0-a118-48eb-ad71-72f4c2f95fd2",
+      "albumTitle": "DECIDE",
+      "duration": 159,
+      "releaseDate": "2024-03-01T12:00:00Z"
     },
     {
-      "id": "nina-chuba--wildberry-lillet",
-      "title": "Wildberry Lillet",
-      "artistName": "Nina Chuba",
-      "artistSlug": "nina-chuba",
-      "albumTitle": "Glas",
-      "duration": 165,
+      "id": "zara-larsson--lush-life",
+      "title": "Lush Life",
+      "artistName": "Zara Larsson",
+      "artistSlug": "zara-larsson",
       "rank": 4,
       "rankChange": "new",
-      "playcount": 4400000,
-      "listeners": 1050000,
-      "previewUrl": null,
+      "playcount": 0,
+      "listeners": 4646,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/52/6a/77526a57-f53f-b8ba-bdc7-e74e242c7c55/mzaf_11538198025885549610.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://picsum.photos/seed/de4/100/100",
-        "medium": "https://picsum.photos/seed/de4/300/300",
-        "large": "https://picsum.photos/seed/de4/600/600",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/82/69/b2826914-f524-4fed-dfeb-b6df63ea6cff/886446183473.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/82/69/b2826914-f524-4fed-dfeb-b6df63ea6cff/886446183473.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/82/69/b2826914-f524-4fed-dfeb-b6df63ea6cff/886446183473.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Nina+Chuba/_/Wildberry+Lillet"
+        "lastfm": "https://www.last.fm/music/Zara+Larsson/_/Lush+Life",
+        "itunes": "https://music.apple.com/us/album/lush-life/1201058048?i=1201058113&uo=4"
       },
-      "tags": ["pop", "german"],
-      "genres": ["pop"],
-      "dataSources": ["lastfm"]
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "005e43bc-ada9-4648-b92f-e3da9a48b2f1",
+      "artistMbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+      "albumTitle": "So Good",
+      "duration": 201,
+      "releaseDate": "2017-03-17T07:00:00Z"
     },
     {
-      "id": "kontra-k--erfolg-ist-kein-glueck",
-      "title": "Erfolg ist kein Glück",
-      "artistName": "Kontra K",
-      "artistSlug": "kontra-k",
-      "albumTitle": "Vollmond",
-      "duration": 234,
+      "id": "taylor-swift--the-fate-of-ophelia",
+      "title": "The Fate of Ophelia",
+      "artistName": "Taylor Swift",
+      "artistSlug": "taylor-swift",
       "rank": 5,
-      "previousRank": 8,
-      "rankChange": "up",
-      "rankDelta": 3,
-      "playcount": 4200000,
-      "listeners": 1000000,
-      "previewUrl": null,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 4285,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/1c/6b/fa1c6be0-8f12-52fa-3b36-5465d32ac602/mzaf_13774232611391010550.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://picsum.photos/seed/de5/100/100",
-        "medium": "https://picsum.photos/seed/de5/300/300",
-        "large": "https://picsum.photos/seed/de5/600/600",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kontra+K/_/Erfolg+ist+kein+Gl%C3%BCck"
+        "lastfm": "https://www.last.fm/music/Taylor+Swift/_/The+Fate+of+Ophelia",
+        "itunes": "https://music.apple.com/us/album/the-fate-of-ophelia/1833328839?i=1833328840&uo=4"
       },
-      "tags": ["pop", "german"],
-      "genres": ["pop"],
-      "dataSources": ["lastfm"]
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+      "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "albumTitle": "The Life of a Showgirl",
+      "duration": 226,
+      "releaseDate": "2025-10-03T12:00:00Z"
     },
     {
-      "id": "cro--traum",
-      "title": "Traum",
-      "artistName": "Cro",
-      "artistSlug": "cro",
-      "albumTitle": "Raop",
-      "duration": 212,
+      "id": "raye--where-is-my-husband",
+      "title": "WHERE IS MY HUSBAND!",
+      "artistName": "RAYE",
+      "artistSlug": "raye",
       "rank": 6,
-      "previousRank": 6,
-      "rankChange": "same",
-      "rankDelta": 0,
-      "playcount": 4000000,
-      "listeners": 950000,
-      "previewUrl": null,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 4254,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/16/34/c716348b-2768-3e4f-75d6-136bbb11ce6b/mzaf_17115623893667689076.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://picsum.photos/seed/de6/100/100",
-        "medium": "https://picsum.photos/seed/de6/300/300",
-        "large": "https://picsum.photos/seed/de6/600/600",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Cro/_/Traum"
+        "lastfm": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND%21",
+        "itunes": "https://music.apple.com/us/album/where-is-my-husband/1838737596?i=1838737598&uo=4"
       },
-      "tags": ["pop", "german"],
-      "genres": ["pop"],
-      "dataSources": ["lastfm"]
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "127fd962-d85c-4f64-84e1-220f3dae762c",
+      "artistMbid": "8be564c3-dfba-440b-af8c-4ffbceeef45e",
+      "albumTitle": "WHERE IS MY HUSBAND! - Single",
+      "duration": 197,
+      "releaseDate": "2025-09-19T12:00:00Z"
     },
     {
-      "id": "peter-fox--zukunft-pink",
-      "title": "Zukunft Pink",
-      "artistName": "Peter Fox",
-      "artistSlug": "peter-fox",
-      "albumTitle": "Love Songs",
-      "duration": 228,
+      "id": "the-killers--mr-brightside",
+      "title": "Mr. Brightside",
+      "artistName": "The Killers",
+      "artistSlug": "the-killers",
       "rank": 7,
-      "previousRank": 5,
-      "rankChange": "down",
-      "rankDelta": -2,
-      "playcount": 3800000,
-      "listeners": 900000,
-      "previewUrl": null,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 4085,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/95/6e/b3956e14-35f0-937e-afb0-72774d3f613f/mzaf_8359343604382181711.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://picsum.photos/seed/de7/100/100",
-        "medium": "https://picsum.photos/seed/de7/300/300",
-        "large": "https://picsum.photos/seed/de7/600/600",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/64/9c/11649c80-2066-dba8-77a9-df7eecae26c1/17UM1IM06937.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/64/9c/11649c80-2066-dba8-77a9-df7eecae26c1/17UM1IM06937.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/64/9c/11649c80-2066-dba8-77a9-df7eecae26c1/17UM1IM06937.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Peter+Fox/_/Zukunft+Pink"
+        "lastfm": "https://www.last.fm/music/The+Killers/_/Mr.+Brightside",
+        "itunes": "https://music.apple.com/us/album/mr-brightside/1440891166?i=1440891171&uo=4"
       },
-      "tags": ["pop", "german"],
-      "genres": ["pop"],
-      "dataSources": ["lastfm"]
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0157fd48-a126-4af1-ad1f-4fbb37911b90",
+      "artistMbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+      "albumTitle": "Direct Hits",
+      "duration": 224,
+      "releaseDate": "2003-09-29T12:00:00Z"
     },
     {
-      "id": "mark-forster--uebermorgen",
-      "title": "Übermorgen",
-      "artistName": "Mark Forster",
-      "artistSlug": "mark-forster",
-      "albumTitle": "Musketiere",
-      "duration": 189,
+      "id": "addison-rae--fame-is-a-gun",
+      "title": "Fame Is a Gun",
+      "artistName": "Addison Rae",
+      "artistSlug": "addison-rae",
       "rank": 8,
-      "previousRank": 10,
-      "rankChange": "up",
-      "rankDelta": 2,
-      "playcount": 3600000,
-      "listeners": 850000,
-      "previewUrl": null,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3953,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/d2/12/e2d21293-079d-5cfb-6504-cde60d2043b4/mzaf_12881942189562714208.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://picsum.photos/seed/de8/100/100",
-        "medium": "https://picsum.photos/seed/de8/300/300",
-        "large": "https://picsum.photos/seed/de8/600/600",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/4a/e3/cf4ae3c9-3420-6021-f059-cc6c87cf11b2/196872958249.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/4a/e3/cf4ae3c9-3420-6021-f059-cc6c87cf11b2/196872958249.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/4a/e3/cf4ae3c9-3420-6021-f059-cc6c87cf11b2/196872958249.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Mark+Forster/_/%C3%9Cbermorgen"
+        "lastfm": "https://www.last.fm/music/Addison+Rae/_/Fame+Is+a+Gun",
+        "itunes": "https://music.apple.com/us/album/fame-is-a-gun/1809015416?i=1809015879&uo=4"
       },
-      "tags": ["pop", "german"],
-      "genres": ["pop"],
-      "dataSources": ["lastfm"]
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "37907edc-06c1-4d08-b2ef-7e5221986f91",
+      "artistMbid": "610b71d9-fa78-47d6-9073-083922e73840",
+      "albumTitle": "Addison",
+      "duration": 183,
+      "releaseDate": "2025-05-30T07:00:00Z"
     },
     {
-      "id": "annenmaykantereit--pocahontas",
-      "title": "Pocahontas",
-      "artistName": "AnnenMayKantereit",
-      "artistSlug": "annenmaykantereit",
-      "albumTitle": "Schlagschatten",
-      "duration": 246,
+      "id": "sombr--back-to-friends",
+      "title": "back to friends",
+      "artistName": "sombr",
+      "artistSlug": "sombr",
       "rank": 9,
-      "previousRank": 9,
-      "rankChange": "same",
-      "rankDelta": 0,
-      "playcount": 3400000,
-      "listeners": 800000,
-      "previewUrl": null,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3946,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/63/7d/d7637dec-cf2d-1455-3398-f1a6340359d0/mzaf_88927986796632454.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://picsum.photos/seed/de9/100/100",
-        "medium": "https://picsum.photos/seed/de9/300/300",
-        "large": "https://picsum.photos/seed/de9/600/600",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d5/ad/5dd5ad1b-fabf-9218-77f0-3adbfd5328ac/054391237118.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d5/ad/5dd5ad1b-fabf-9218-77f0-3adbfd5328ac/054391237118.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d5/ad/5dd5ad1b-fabf-9218-77f0-3adbfd5328ac/054391237118.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/AnnenMayKantereit/_/Pocahontas"
+        "lastfm": "https://www.last.fm/music/sombr/_/back+to+friends",
+        "itunes": "https://music.apple.com/us/album/back-to-friends/1786481196?i=1786481197&uo=4"
       },
-      "tags": ["pop", "german"],
-      "genres": ["pop"],
-      "dataSources": ["lastfm"]
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "12f8214c-b2a2-4372-a566-e000a3bf1ef1",
+      "artistMbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+      "albumTitle": "back to friends - Single",
+      "duration": 199,
+      "releaseDate": "2024-12-27T12:00:00Z"
     },
     {
-      "id": "herbert-groenemeyer--mensch",
-      "title": "Mensch",
-      "artistName": "Herbert Grönemeyer",
-      "artistSlug": "herbert-groenemeyer",
-      "albumTitle": "Mensch",
-      "duration": 273,
+      "id": "dominic-fike--babydoll",
+      "title": "Babydoll",
+      "artistName": "Dominic Fike",
+      "artistSlug": "dominic-fike",
       "rank": 10,
-      "previousRank": 7,
-      "rankChange": "down",
-      "rankDelta": -3,
-      "playcount": 3200000,
-      "listeners": 750000,
-      "previewUrl": null,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3920,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b9/00/5c/b9005c47-45de-a5cb-e9ac-f8af66d69f33/mzaf_18175355208890397177.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://picsum.photos/seed/de10/100/100",
-        "medium": "https://picsum.photos/seed/de10/300/300",
-        "large": "https://picsum.photos/seed/de10/600/600",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/37/18/2d3718e9-8620-b603-d3cc-f34ce817070d/886447290170.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/37/18/2d3718e9-8620-b603-d3cc-f34ce817070d/886447290170.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/37/18/2d3718e9-8620-b603-d3cc-f34ce817070d/886447290170.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Herbert+Gr%C3%B6nemeyer/_/Mensch"
+        "lastfm": "https://www.last.fm/music/Dominic+Fike/_/Babydoll",
+        "itunes": "https://music.apple.com/us/album/babydoll/1438243719?i=1438243880&uo=4"
       },
-      "tags": ["pop", "german"],
-      "genres": ["pop"],
-      "dataSources": ["lastfm"]
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "c6fa2cd4-a100-4db8-8206-3cbcdd3aabe0",
+      "artistMbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+      "albumTitle": "Don't Forget About Me, Demos - EP",
+      "duration": 98,
+      "releaseDate": "2018-10-16T12:00:00Z"
+    },
+    {
+      "id": "twenty-one-pilots--drag-path",
+      "title": "Drag Path",
+      "artistName": "Twenty One Pilots",
+      "artistSlug": "twenty-one-pilots",
+      "rank": 11,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3818,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/e1/8d/5ce18dc7-92e0-c437-1c4c-3eb133a7dad3/mzaf_16869785547693954708.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/d0/6d/b7d06d2d-2083-f417-b18d-f8ac862547b0/075679588968.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/d0/6d/b7d06d2d-2083-f417-b18d-f8ac862547b0/075679588968.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/d0/6d/b7d06d2d-2083-f417-b18d-f8ac862547b0/075679588968.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Twenty+One+Pilots/_/Drag+Path",
+        "itunes": "https://music.apple.com/us/album/drag-path/1876977594?i=1876977596&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "82e450a4-411b-43e9-8da0-c035de5d8c81",
+      "artistMbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+      "albumTitle": "Drag Path - Single",
+      "duration": 224,
+      "releaseDate": "2025-09-12T12:00:00Z"
+    },
+    {
+      "id": "bad-bunny--nuevayol",
+      "title": "NUEVAYoL",
+      "artistName": "Bad Bunny",
+      "artistSlug": "bad-bunny",
+      "rank": 12,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3752,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
+        "itunes": "https://music.apple.com/us/album/nuevayol/1787022393?i=1787022572&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0780271f-9882-4e41-ba9a-546c69bcb914",
+      "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "albumTitle": "DeBÍ TiRAR MáS FOToS",
+      "duration": 184,
+      "releaseDate": "2025-01-05T12:00:00Z"
+    },
+    {
+      "id": "the-neighbourhood--sweater-weather",
+      "title": "Sweater Weather",
+      "artistName": "The Neighbourhood",
+      "artistSlug": "the-neighbourhood",
+      "rank": 13,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3554,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/37/20/8c372047-2727-8054-9411-0e4867643dd8/mzaf_10169659262182214119.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather",
+        "itunes": "https://music.apple.com/us/album/sweater-weather/635016635?i=635016640&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "19f56d18-090a-4f50-b427-a655e9a2521e",
+      "artistMbid": "53b06622-ec51-4924-a554-58b0affde6b5",
+      "albumTitle": "I Love You.",
+      "duration": 240,
+      "releaseDate": "2012-12-03T08:00:00Z"
+    },
+    {
+      "id": "linkin-park--the-emptiness-machine",
+      "title": "The Emptiness Machine",
+      "artistName": "Linkin Park",
+      "artistSlug": "linkin-park",
+      "rank": 14,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3383,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/48/47/81484725-99a9-867a-a094-25a390e82a31/mzaf_2642985205707173460.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/35/8b/af358b06-ed22-f8d2-bbf9-1cd38b6f2762/093624833802.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/35/8b/af358b06-ed22-f8d2-bbf9-1cd38b6f2762/093624833802.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/35/8b/af358b06-ed22-f8d2-bbf9-1cd38b6f2762/093624833802.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Linkin+Park/_/The+Emptiness+Machine",
+        "itunes": "https://music.apple.com/us/album/the-emptiness-machine-instrumental/1796483977?i=1796484133&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0815f294-becd-4544-bad0-5d43b7426cce",
+      "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "albumTitle": "From Zero: A Cappellas + Instrumentals",
+      "duration": 190,
+      "releaseDate": "2024-09-05T12:00:00Z"
+    },
+    {
+      "id": "gorillaz--feel-good-inc",
+      "title": "Feel Good Inc.",
+      "artistName": "Gorillaz",
+      "artistSlug": "gorillaz",
+      "rank": 15,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3270,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/8f/8d/638f8d73-cce2-923c-1dee-5fec273ab2b4/mzaf_4710951047781627570.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/c3/52/2dc35236-2054-c0e0-fc24-10cc124c9718/5059460444133.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/c3/52/2dc35236-2054-c0e0-fc24-10cc124c9718/5059460444133.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/c3/52/2dc35236-2054-c0e0-fc24-10cc124c9718/5059460444133.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Gorillaz/_/Feel+Good+Inc.",
+        "itunes": "https://music.apple.com/us/album/feel-good-inc/1839892412?i=1839892415&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00b527e3-4f83-36b5-b448-e90ff86d9099",
+      "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+      "albumTitle": "Work Grind",
+      "duration": 223,
+      "releaseDate": "2005-05-09T12:00:00Z"
+    },
+    {
+      "id": "empire-of-the-sun--we-are-the-people",
+      "title": "We Are the People",
+      "artistName": "Empire of the Sun",
+      "artistSlug": "empire-of-the-sun",
+      "rank": 16,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3203,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/33/71/1f337152-3283-de6b-45f5-c3b4028c0998/mzaf_11304312529559775009.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/63/2c/7f632c08-3960-de3d-d34c-ee8140038b69/13UADIM60773.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/63/2c/7f632c08-3960-de3d-d34c-ee8140038b69/13UADIM60773.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/63/2c/7f632c08-3960-de3d-d34c-ee8140038b69/13UADIM60773.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People",
+        "itunes": "https://music.apple.com/us/album/we-are-the-people/712862605?i=712862710&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "03b47db1-becd-3c28-903e-183e28621bf2",
+      "artistMbid": "ac7e838c-3d95-47c2-92a9-81767ad7c217",
+      "albumTitle": "Walking On a Dream (Special Edition)",
+      "duration": 267,
+      "releaseDate": "2008-09-20T07:00:00Z"
+    },
+    {
+      "id": "rihanna--s-and-m",
+      "title": "S&M",
+      "artistName": "Rihanna",
+      "artistSlug": "rihanna",
+      "rank": 17,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3197,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/02/a8/4d/02a84d1b-e538-ade2-bcae-cb9548c9c13f/mzaf_665222301792604031.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/8c/06/1c8c06c4-56e0-c89a-6936-3b4871e05917/11UMGIM10184.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/8c/06/1c8c06c4-56e0-c89a-6936-3b4871e05917/11UMGIM10184.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1c/8c/06/1c8c06c4-56e0-c89a-6936-3b4871e05917/11UMGIM10184.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Rihanna/_/S&M",
+        "itunes": "https://music.apple.com/us/album/s-m-remix-feat-britney-spears/1445311845?i=1445311857&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "02f5ddae-b9d2-4b18-b882-c40dd5e256b8",
+      "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+      "albumTitle": "S&M (Remix) [feat. Britney Spears] - Single",
+      "duration": 257,
+      "releaseDate": "2011-04-11T12:00:00Z"
+    },
+    {
+      "id": "linkin-park--faint",
+      "title": "Faint",
+      "artistName": "Linkin Park",
+      "artistSlug": "linkin-park",
+      "rank": 18,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3156,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/81/42/72814285-6c1a-d0a4-89e2-8aeeda6cfc37/mzaf_17180911196812101386.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Linkin+Park/_/Faint",
+        "itunes": "https://music.apple.com/us/album/faint/590423275?i=590423286&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "051f95e0-b0ca-4ec1-bb6c-4b89c81afc36",
+      "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "albumTitle": "Meteora (Deluxe Edition)",
+      "duration": 162,
+      "releaseDate": "2003-03-25T08:00:00Z"
+    },
+    {
+      "id": "linkin-park--in-the-end",
+      "title": "In the End",
+      "artistName": "Linkin Park",
+      "artistSlug": "linkin-park",
+      "rank": 19,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3153,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/cb/c7/3fcbc7cc-0606-7f6e-7fc3-793318cfd1ed/mzaf_16081918663584534594.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Linkin+Park/_/In+the+End",
+        "itunes": "https://music.apple.com/us/album/in-the-end/590431776?i=590431785&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "000125d9-cf0d-3354-926b-704befae9577",
+      "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "albumTitle": "Hybrid Theory (Deluxe Edition)",
+      "duration": 216,
+      "releaseDate": "2000-10-24T07:00:00Z"
+    },
+    {
+      "id": "sombr--12-to-12",
+      "title": "12 to 12",
+      "artistName": "sombr",
+      "artistSlug": "sombr",
+      "rank": 20,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3145,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/5d/c4/d05dc49d-f3b6-7d3a-4e5f-56e12bcde750/mzaf_14325217487291115220.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e4/44/19e44489-7f7b-3ca7-660f-98d44664bc3f/054391229144.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e4/44/19e44489-7f7b-3ca7-660f-98d44664bc3f/054391229144.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e4/44/19e44489-7f7b-3ca7-660f-98d44664bc3f/054391229144.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/sombr/_/12+to+12",
+        "itunes": "https://music.apple.com/us/album/12-to-12/1828036634?i=1828036635&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "a43d3ce0-c1c4-4481-8ad9-ac012af67037",
+      "artistMbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+      "albumTitle": "12 to 12 - Single",
+      "duration": 243,
+      "releaseDate": "2025-07-24T12:00:00Z"
+    },
+    {
+      "id": "tame-impala--the-less-i-know-the-better",
+      "title": "The Less I Know the Better",
+      "artistName": "Tame Impala",
+      "artistSlug": "tame-impala",
+      "rank": 21,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3120,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/55/f3/8b55f3a3-3204-8930-f156-82843546950e/mzaf_9370328603131228430.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/9a/2c/a09a2ca3-a5a6-814b-0af7-640dc0aef0aa/091012682261.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/9a/2c/a09a2ca3-a5a6-814b-0af7-640dc0aef0aa/091012682261.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/9a/2c/a09a2ca3-a5a6-814b-0af7-640dc0aef0aa/091012682261.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better",
+        "itunes": "https://music.apple.com/us/album/the-less-i-know-the-better/1792993807?i=1792993808&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0409caa8-c467-4455-8033-05ff8d9345f1",
+      "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+      "albumTitle": "The Less I Know The Better - Single",
+      "duration": 176,
+      "releaseDate": "2025-02-28T12:00:00Z"
+    },
+    {
+      "id": "radiohead--creep",
+      "title": "Creep",
+      "artistName": "Radiohead",
+      "artistSlug": "radiohead",
+      "rank": 22,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3059,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8d/e0/bb/8de0bb10-0593-83cc-4d2c-4e9f6ea9b575/mzaf_16440589638018943894.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/7a/7c/287a7ca9-ed95-1a21-e3bb-4559a1a0ac0e/191404134351.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/7a/7c/287a7ca9-ed95-1a21-e3bb-4559a1a0ac0e/191404134351.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/7a/7c/287a7ca9-ed95-1a21-e3bb-4559a1a0ac0e/191404134351.png/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Radiohead/_/Creep",
+        "itunes": "https://music.apple.com/us/album/creep-acoustic/1679849414?i=1679849823&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "012e70cd-4ef6-37bf-8ebf-02d318fe5151",
+      "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "albumTitle": "Creep - EP",
+      "duration": 259,
+      "releaseDate": "1992-09-21T12:00:00Z"
+    },
+    {
+      "id": "bad-bunny--titi-me-pregunto",
+      "title": "Tití Me Preguntó",
+      "artistName": "Bad Bunny",
+      "artistSlug": "bad-bunny",
+      "rank": 23,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3024,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/61/8e/2d/618e2d09-d6e5-1864-92b3-b5ea326bc1a9/mzaf_18353592973487747406.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b0/b9/7c/b0b97c63-14ff-8946-f34e-4239faecb1e0/820cc83e-1f8f-4738-8ee8-e1ebce5c123b.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b0/b9/7c/b0b97c63-14ff-8946-f34e-4239faecb1e0/820cc83e-1f8f-4738-8ee8-e1ebce5c123b.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b0/b9/7c/b0b97c63-14ff-8946-f34e-4239faecb1e0/820cc83e-1f8f-4738-8ee8-e1ebce5c123b.png/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/Tit%C3%AD+Me+Pregunt%C3%B3",
+        "itunes": "https://music.apple.com/us/album/tit%C3%AD-me-pregunt%C3%B3-mixed/1664296806?i=1664297506&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "3872dd6c-b59b-4298-b343-619dc62bb8b7",
+      "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "albumTitle": "ARTZ Basel Miami Mix (DJ Mix)",
+      "duration": 111,
+      "releaseDate": "2023-01-27T12:00:00Z"
+    },
+    {
+      "id": "the-police--every-breath-you-take",
+      "title": "Every Breath You Take",
+      "artistName": "The Police",
+      "artistSlug": "the-police",
+      "rank": 24,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3007,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/7e/4f/f37e4f0e-4979-c096-6fa0-7ffc054d0c73/mzaf_8433816559382260848.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/The+Police/_/Every+Breath+You+Take",
+        "itunes": "https://music.apple.com/us/album/every-breath-you-take/1440882817?i=1440882897&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00aac12d-7ed9-47d7-93e1-ca7f3712b46b",
+      "artistMbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
+      "albumTitle": "The Very Best of Sting & The Police",
+      "duration": 251,
+      "releaseDate": "1983-01-06T12:00:00Z"
+    },
+    {
+      "id": "linkin-park--somewhere-i-belong",
+      "title": "Somewhere I Belong",
+      "artistName": "Linkin Park",
+      "artistSlug": "linkin-park",
+      "rank": 25,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 3001,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/ca/eb/e9caeb68-483d-b108-7898-25073e24566a/mzaf_1183955807160648053.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Linkin+Park/_/Somewhere+I+Belong",
+        "itunes": "https://music.apple.com/us/album/somewhere-i-belong/590423275?i=590423282&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "03006aa3-8f86-3408-a95a-78566dea652c",
+      "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "albumTitle": "Meteora (Deluxe Edition)",
+      "duration": 214,
+      "releaseDate": "2003-02-24T08:00:00Z"
+    },
+    {
+      "id": "rihanna--only-girl-in-the-world",
+      "title": "Only Girl (In the World)",
+      "artistName": "Rihanna",
+      "artistSlug": "rihanna",
+      "rank": 26,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2979,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/bd/6f/58bd6f05-45d7-76d7-bae3-6d453e00b5cc/mzaf_1937910784700207272.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/b1/6c/c6b16cd1-5580-a214-8745-c4f6faa490d6/16UMGIM59220.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/b1/6c/c6b16cd1-5580-a214-8745-c4f6faa490d6/16UMGIM59220.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/b1/6c/c6b16cd1-5580-a214-8745-c4f6faa490d6/16UMGIM59220.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Rihanna/_/Only+Girl+(In+the+World)",
+        "itunes": "https://music.apple.com/us/album/only-girl-in-the-world/1440895867?i=1440896009&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0336be80-2278-4efa-930f-d26204cb21f3",
+      "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+      "albumTitle": "Loud (Deluxe)",
+      "duration": 235,
+      "releaseDate": "2010-09-10T07:00:00Z"
+    },
+    {
+      "id": "lady-gaga--just-dance",
+      "title": "Just Dance",
+      "artistName": "Lady Gaga",
+      "artistSlug": "lady-gaga",
+      "rank": 27,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2937,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7a/f7/45/7af7456b-0444-9dc3-a681-1e9b19c3a12c/mzaf_7188993938116700987.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/61/7a/3a617a9c-6f1a-c758-3328-4538998228d3/08UMGIM04846.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/61/7a/3a617a9c-6f1a-c758-3328-4538998228d3/08UMGIM04846.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/61/7a/3a617a9c-6f1a-c758-3328-4538998228d3/08UMGIM04846.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Lady+Gaga/_/Just+Dance",
+        "itunes": "https://music.apple.com/us/album/just-dance/1445006763?i=1445006767&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "01372277-c972-4438-9857-44187acf2f66",
+      "artistMbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+      "albumTitle": "Just Dance (Remixes) - EP [feat. Colby O'Donis]",
+      "duration": 242,
+      "releaseDate": "2008-01-01T12:00:00Z"
+    },
+    {
+      "id": "bad-bunny--baile-inolvidable",
+      "title": "BAILE INoLVIDABLE",
+      "artistName": "Bad Bunny",
+      "artistSlug": "bad-bunny",
+      "rank": 28,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2933,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/2c/26/852c262a-d446-3343-26c9-a48b679e65f8/mzaf_10568200496426777792.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/a3/67/42a367e8-9fe0-70ae-0f7c-a01c114012f0/859708840100_cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/a3/67/42a367e8-9fe0-70ae-0f7c-a01c114012f0/859708840100_cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/a3/67/42a367e8-9fe0-70ae-0f7c-a01c114012f0/859708840100_cover.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE",
+        "itunes": "https://music.apple.com/us/album/baile-inolvidable/1820472475?i=1820472584&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "224177fe-504b-4495-bc62-a091f1022bda",
+      "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "albumTitle": "DeBÍ TiRAR Más FOToS (Piano Version)",
+      "duration": 127,
+      "releaseDate": "2025-06-27T12:00:00Z"
+    },
+    {
+      "id": "sean-paul--when-you-gonna-give-it-up-to-me-radio-version",
+      "title": "(When You Gonna) Give It Up To Me - Radio Version",
+      "artistName": "Sean Paul",
+      "artistSlug": "sean-paul",
+      "rank": 29,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2908,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/da/a4/bcdaa416-ef9e-fbcc-a96b-0a1b492d35b0/mzaf_8826149582565333170.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/cb/db/06/mzi.nlvxgflx.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/cb/db/06/mzi.nlvxgflx.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/cb/db/06/mzi.nlvxgflx.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sean+Paul/_/(When+You+Gonna)+Give+It+Up+To+Me+-+Radio+Version",
+        "itunes": "https://music.apple.com/us/album/when-you-gonna-give-it-up-to-me-radio-version/202964095?i=202964098&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "artistMbid": "c3da3346-2643-48a7-93cd-011f6834b3d7",
+      "albumTitle": "Only Hits",
+      "duration": 244,
+      "releaseDate": "2005-09-27T12:00:00Z"
+    },
+    {
+      "id": "linkin-park--numb",
+      "title": "Numb",
+      "artistName": "Linkin Park",
+      "artistSlug": "linkin-park",
+      "rank": 30,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2907,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bb/13/76/bb1376a7-4db0-ed68-c1a6-d0278cc4b320/mzaf_17832584344687833283.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Linkin+Park/_/Numb",
+        "itunes": "https://music.apple.com/us/album/numb/590423275?i=590423552&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "025c52f2-87b5-4310-bef5-c38987f2594f",
+      "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "albumTitle": "Meteora (Deluxe Edition)",
+      "duration": 188,
+      "releaseDate": "2003-03-25T08:00:00Z"
+    },
+    {
+      "id": "charli-xcx--dying-for-you",
+      "title": "Dying for You",
+      "artistName": "Charli xcx",
+      "artistSlug": "charli-xcx",
+      "rank": 31,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2859,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/c5/e2/fbc5e2b7-69b9-eb8f-ea86-773ca8cf290a/mzaf_13689117863235539113.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/e6/66/a8e6669b-9028-900c-adb9-05d4ddee4625/075679591906.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/e6/66/a8e6669b-9028-900c-adb9-05d4ddee4625/075679591906.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/e6/66/a8e6669b-9028-900c-adb9-05d4ddee4625/075679591906.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Charli+xcx/_/Dying+for+You",
+        "itunes": "https://music.apple.com/us/album/dying-for-you/1852566184?i=1852566427&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "18d9cd50-e68f-4bcb-8d28-1c262e0df82d",
+      "artistMbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+      "albumTitle": "Wuthering Heights",
+      "duration": 182,
+      "releaseDate": "2026-02-13T12:00:00Z"
+    },
+    {
+      "id": "the-neighbourhood--softcore",
+      "title": "Softcore",
+      "artistName": "The Neighbourhood",
+      "artistSlug": "the-neighbourhood",
+      "rank": 32,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2835,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/08/9e/1b089e17-1084-d825-d576-66d46ae1e243/mzaf_11823295334220528749.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/The+Neighbourhood/_/Softcore",
+        "itunes": "https://music.apple.com/us/album/softcore/1440532502?i=1440532753&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0e016d69-1afe-435a-b159-f528eea505c6",
+      "artistMbid": "53b06622-ec51-4924-a554-58b0affde6b5",
+      "albumTitle": "Hard To Imagine The Neighbourhood Ever Changing",
+      "duration": 206,
+      "releaseDate": "2018-03-09T12:00:00Z"
+    },
+    {
+      "id": "pashanim--shabab-e-s-im-vip",
+      "title": "Shabab(e)s im VIP",
+      "artistName": "PASHANIM",
+      "artistSlug": "pashanim",
+      "rank": 33,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2786,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/PASHANIM/_/Shabab(e)s+im+VIP"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ]
+    },
+    {
+      "id": "timbaland--the-way-i-are",
+      "title": "The Way I Are",
+      "artistName": "Timbaland",
+      "artistSlug": "timbaland",
+      "rank": 34,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2777,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/7e/7d/9e7e7d28-d45e-1a8f-1e98-8f2acd968be3/mzaf_17088396386058051519.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/95/c0/a495c0cf-6e6a-7af5-308d-1cf8c9931fd6/07UMGIM03315.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/95/c0/a495c0cf-6e6a-7af5-308d-1cf8c9931fd6/07UMGIM03315.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/95/c0/a495c0cf-6e6a-7af5-308d-1cf8c9931fd6/07UMGIM03315.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Timbaland/_/The+Way+I+Are",
+        "itunes": "https://music.apple.com/us/album/the-way-i-are-feat-keri-hilson-d-o-e/1440748593?i=1440748894&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00833a9a-0545-42ee-a39d-3e25df9dd4b1",
+      "artistMbid": "daa09819-5da5-4c7a-8bef-eb372bb27ff1",
+      "albumTitle": "Shock Value",
+      "duration": 179,
+      "releaseDate": "2007-04-02T07:00:00Z"
+    },
+    {
+      "id": "tame-impala--dracula",
+      "title": "Dracula",
+      "artistName": "Tame Impala",
+      "artistSlug": "tame-impala",
+      "rank": 35,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2774,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/e0/26/93e02611-d12e-86e8-595a-b6d20a7847dc/mzaf_12540017880660395875.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/be/b4/36beb41f-c644-55cb-9fbb-bf0622a66653/196873644783.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/be/b4/36beb41f-c644-55cb-9fbb-bf0622a66653/196873644783.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/be/b4/36beb41f-c644-55cb-9fbb-bf0622a66653/196873644783.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Tame+Impala/_/Dracula",
+        "itunes": "https://music.apple.com/us/album/dracula/1842444456?i=1842444457&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "5b1c893a-16da-4e3d-b9b7-6cc57afc360c",
+      "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+      "albumTitle": "Dracula - Single",
+      "duration": 205,
+      "releaseDate": "2025-09-24T12:00:00Z"
+    },
+    {
+      "id": "ravyn-lenae--love-me-not",
+      "title": "Love Me Not",
+      "artistName": "Ravyn Lenae",
+      "artistSlug": "ravyn-lenae",
+      "rank": 36,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2755,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/56/cd/e456cd7c-d289-553a-9c39-98ca08ca0b4b/mzaf_14810478461288819548.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ravyn+Lenae/_/Love+Me+Not",
+        "itunes": "https://music.apple.com/us/album/love-me-not/1743852410?i=1743852427&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "6c8ef1fe-897c-43f4-b45e-a3d5e3fba71d",
+      "artistMbid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+      "albumTitle": "Bird's Eye",
+      "duration": 213,
+      "releaseDate": "2024-05-03T12:00:00Z"
+    },
+    {
+      "id": "rihanna--dont-stop-the-music",
+      "title": "Don't Stop the Music",
+      "artistName": "Rihanna",
+      "artistSlug": "rihanna",
+      "rank": 37,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2750,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/5b/0d/f65b0d9e-ad88-c617-94a8-de4cf6579dff/mzaf_4611312496171288825.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music",
+        "itunes": "https://music.apple.com/us/album/dont-stop-the-music/1441154435?i=1441154439&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "014b764e-ac05-4611-a191-f737dbcd77a8",
+      "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+      "albumTitle": "Good Girl Gone Bad: Reloaded",
+      "duration": 267,
+      "releaseDate": "2007-05-31T07:00:00Z"
+    },
+    {
+      "id": "t-a-t-u--all-the-things-she-said",
+      "title": "All the Things She Said",
+      "artistName": "t.A.T.u.",
+      "artistSlug": "t-a-t-u",
+      "rank": 38,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2747,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/ef/b7/04efb7c0-63b8-0164-cdd9-f7d7a93c1372/mzaf_15885597228946383675.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cb/7d/73/cb7d73a3-b77f-aec4-b1ee-dd759c35374c/06UMGIM34819.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cb/7d/73/cb7d73a3-b77f-aec4-b1ee-dd759c35374c/06UMGIM34819.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cb/7d/73/cb7d73a3-b77f-aec4-b1ee-dd759c35374c/06UMGIM34819.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/t.A.T.u./_/All+the+Things+She+Said",
+        "itunes": "https://music.apple.com/us/album/all-the-things-she-said/1454026496?i=1454026498&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "05f4a9d4-501b-34d8-9aae-4b8ddf3c44f6",
+      "artistMbid": "7c20f558-d664-42bd-b6f1-81acf9dbb72d",
+      "albumTitle": "200 KM/H In the Wrong Lane",
+      "duration": 214,
+      "releaseDate": "2002-08-19T12:00:00Z"
+    },
+    {
+      "id": "a-ap-rocky--i-smoked-away-my-brain-im-god-x-demons-mashup-feat-imogen-heap-and-clams-casino",
+      "title": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+      "artistName": "A$AP Rocky",
+      "artistSlug": "a-ap-rocky",
+      "rank": 39,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2731,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a7/9a/a6/a79aa63c-03fe-8d03-0156-d64703340736/mzaf_6358114128986734028.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/8f/5f/648f5f68-3ffa-e33d-39d0-50210803074f/196871388221.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/8f/5f/648f5f68-3ffa-e33d-39d0-50210803074f/196871388221.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/8f/5f/648f5f68-3ffa-e33d-39d0-50210803074f/196871388221.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/A$AP+Rocky/_/I+Smoked+Away+My+Brain+(I%27m+God+x+Demons+Mashup)+(feat.+Imogen+Heap+&+Clams+Casino)",
+        "itunes": "https://music.apple.com/us/album/i-smoked-away-my-brain-im-god-x-demons-mashup-feat/1702941199?i=1702941200&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "b9545700-492a-483d-b522-180b141bb9ec",
+      "artistMbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+      "albumTitle": "I Smoked Away My Brain (I'm God x Demons Mashup) [feat. Imogen Heap & Clams Casino] - Single",
+      "duration": 190,
+      "releaseDate": "2023-08-17T12:00:00Z"
+    },
+    {
+      "id": "bad-bunny--eoo",
+      "title": "EoO",
+      "artistName": "Bad Bunny",
+      "artistSlug": "bad-bunny",
+      "rank": 40,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2700,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/EoO",
+        "itunes": "https://music.apple.com/us/album/nuevayol/1787022393?i=1787022572&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "549bbde2-a84a-43b2-a6fa-a0a0baaffb7e",
+      "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "albumTitle": "DeBÍ TiRAR MáS FOToS",
+      "duration": 184,
+      "releaseDate": "2025-01-05T12:00:00Z"
+    },
+    {
+      "id": "the-goo-goo-dolls--iris",
+      "title": "Iris",
+      "artistName": "The Goo Goo Dolls",
+      "artistSlug": "the-goo-goo-dolls",
+      "rank": 41,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2690,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/17/35/60173512-3d5c-1d6f-549e-d8ddafa93e07/mzaf_5281658494050788067.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/The+Goo+Goo+Dolls/_/Iris",
+        "itunes": "https://music.apple.com/us/album/iris/1109658139?i=1109658204&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "036b3dd5-0c96-4519-bf8a-4e6429d4b6e4",
+      "albumTitle": "Dizzy Up the Girl",
+      "duration": 290,
+      "releaseDate": "1998-04-07T07:00:00Z"
+    },
+    {
+      "id": "the-cure--boys-dont-cry",
+      "title": "Boys Don't Cry",
+      "artistName": "The Cure",
+      "artistSlug": "the-cure",
+      "rank": 42,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2643,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/18/35/3f/18353f65-c7d9-f4be-7557-4f7159ac5cb8/mzaf_12144965791397797836.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/6b/bb/2c6bbbb2-ae5c-57ac-55e9-d49efea7039e/603497862962.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/6b/bb/2c6bbbb2-ae5c-57ac-55e9-d49efea7039e/603497862962.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/6b/bb/2c6bbbb2-ae5c-57ac-55e9-d49efea7039e/603497862962.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry",
+        "itunes": "https://music.apple.com/us/album/boys-dont-cry/1288102355?i=1288102522&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0084450d-ee80-4331-ab66-34227997155c",
+      "artistMbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+      "albumTitle": "Greatest Hits",
+      "duration": 157,
+      "releaseDate": "1979-06-15T12:00:00Z"
+    },
+    {
+      "id": "zara-larsson--midnight-sun",
+      "title": "Midnight Sun",
+      "artistName": "Zara Larsson",
+      "artistSlug": "zara-larsson",
+      "rank": 43,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2640,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/69/bb/0369bb27-0c58-9c65-ad6b-d86c77a38f42/mzaf_13731575429992521229.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1d/2d/fb1d2d1c-0f79-53ad-ab9b-ac20918b5856/196873177199.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Zara+Larsson/_/Midnight+Sun",
+        "itunes": "https://music.apple.com/us/album/midnight-sun/1817499239?i=1817499251&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "21e8a4db-0892-428d-a143-0e2215dddbfa",
+      "artistMbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+      "albumTitle": "Midnight Sun",
+      "duration": 190,
+      "releaseDate": "2025-06-13T12:00:00Z"
+    },
+    {
+      "id": "evanescence--bring-me-to-life",
+      "title": "Bring Me to Life",
+      "artistName": "Evanescence",
+      "artistSlug": "evanescence",
+      "rank": 44,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2636,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/34/c4/3e34c400-9ad9-3859-6988-496c27728be4/mzaf_14936938522678789093.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Evanescence/_/Bring+Me+to+Life",
+        "itunes": "https://music.apple.com/us/album/bring-me-to-life/1440665838?i=1440666111&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00586963-0545-3a1e-8fa9-d21ebfbdb9f6",
+      "artistMbid": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+      "albumTitle": "Fallen",
+      "duration": 236,
+      "releaseDate": "2003-02-04T12:00:00Z"
+    },
+    {
+      "id": "sombr--undressed",
+      "title": "undressed",
+      "artistName": "sombr",
+      "artistSlug": "sombr",
+      "rank": 45,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2623,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/c4/dd/48c4dd2b-8335-be3c-81f3-f13b84e0cf0a/mzaf_4574789671002849650.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/sombr/_/undressed",
+        "itunes": "https://music.apple.com/us/album/undressed/1802084937?i=1802084938&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "4f720de8-5e2b-44df-814c-3fcefb9cb493",
+      "artistMbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+      "albumTitle": "undressed - Single",
+      "duration": 182,
+      "releaseDate": "2025-03-21T12:00:00Z"
+    },
+    {
+      "id": "blackpink--jump",
+      "title": "JUMP",
+      "artistName": "BLACKPINK",
+      "artistSlug": "blackpink",
+      "rank": 46,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2615,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/b3/6b/cbb36b26-061d-af60-2cdf-353f3afa8463/mzaf_6164418099715201202.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/5e/74/ee5e747e-52e5-458c-e850-0ed3d703b184/8809519880736.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/5e/74/ee5e747e-52e5-458c-e850-0ed3d703b184/8809519880736.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/5e/74/ee5e747e-52e5-458c-e850-0ed3d703b184/8809519880736.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/BLACKPINK/_/JUMP",
+        "itunes": "https://music.apple.com/us/album/jump/1824672650?i=1824672652&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "752d837b-a4bc-40c5-ab85-b485de42df12",
+      "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
+      "albumTitle": "JUMP - Single",
+      "duration": 165,
+      "releaseDate": "2025-07-11T12:00:00Z"
+    },
+    {
+      "id": "nelly-furtado--promiscuous",
+      "title": "Promiscuous",
+      "artistName": "Nelly Furtado",
+      "artistSlug": "nelly-furtado",
+      "rank": 47,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2613,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/41/e2/0341e2ae-d84b-20bf-7179-204867c7907a/mzaf_1787596399060792567.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/5a/d3/0c5ad339-9532-eca9-9231-30b6ea9949e4/21UMGIM32622.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/5a/d3/0c5ad339-9532-eca9-9231-30b6ea9949e4/21UMGIM32622.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/5a/d3/0c5ad339-9532-eca9-9231-30b6ea9949e4/21UMGIM32622.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Nelly+Furtado/_/Promiscuous",
+        "itunes": "https://music.apple.com/us/album/promiscuous-feat-timbaland/1568362486?i=1568362821&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "01566728-d02b-409a-a0b8-4d08a600772f",
+      "artistMbid": "13655113-cd16-4b43-9dca-cadbbf26ee05",
+      "albumTitle": "Loose (Expanded Edition)",
+      "duration": 242,
+      "releaseDate": "2006-04-25T12:00:00Z"
+    },
+    {
+      "id": "sombr--homewrecker",
+      "title": "Homewrecker",
+      "artistName": "sombr",
+      "artistSlug": "sombr",
+      "rank": 48,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2609,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/1b/6a/2e1b6ac5-9248-a622-1558-4ca1eb129afd/mzaf_17886671279380054774.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/bf/fb/84bffb0a-023f-419f-d5f7-6636f4e5d970/054391221933.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/sombr/_/Homewrecker",
+        "itunes": "https://music.apple.com/us/album/homewrecker/1871595252?i=1871595253&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "dc971aed-66be-4ba8-9f21-31511227fca4",
+      "artistMbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+      "albumTitle": "Homewrecker - Single",
+      "duration": 209,
+      "releaseDate": "2026-02-05T12:00:00Z"
+    },
+    {
+      "id": "lana-del-rey--white-feather-hawk-tail-deer-hunter",
+      "title": "White Feather Hawk Tail Deer Hunter",
+      "artistName": "Lana Del Rey",
+      "artistSlug": "lana-del-rey",
+      "rank": 49,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2607,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/a0/8d/87a08d64-abe7-cbfd-df70-002b61fad2db/mzaf_16110706407153351655.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/03/ce/d803ce98-a6e6-edbf-c32b-d35f1e50300d/26UMGIM14555.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/03/ce/d803ce98-a6e6-edbf-c32b-d35f1e50300d/26UMGIM14555.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/03/ce/d803ce98-a6e6-edbf-c32b-d35f1e50300d/26UMGIM14555.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Lana+Del+Rey/_/White+Feather+Hawk+Tail+Deer+Hunter",
+        "itunes": "https://music.apple.com/us/album/white-feather-hawk-tail-deer-hunter/1877234145?i=1877234387&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "7b7f48fd-d36e-46a5-a868-44c9063a00b0",
+      "artistMbid": "b7539c32-53e7-4908-bda3-81449c367da6",
+      "albumTitle": "White Feather Hawk Tail Deer Hunter - Single",
+      "duration": 234,
+      "releaseDate": "2026-02-17T12:00:00Z"
+    },
+    {
+      "id": "arctic-monkeys--505",
+      "title": "505",
+      "artistName": "Arctic Monkeys",
+      "artistSlug": "arctic-monkeys",
+      "rank": 50,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 2573,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/32/bc/c1/32bcc1f1-f812-e765-5b4e-340e5c9ab373/mzaf_7885353230840382876.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/90/14/829014ad-a301-62ab-bee6-f4cca4457411/mzi.hozudery.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/90/14/829014ad-a301-62ab-bee6-f4cca4457411/mzi.hozudery.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/90/14/829014ad-a301-62ab-bee6-f4cca4457411/mzi.hozudery.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Arctic+Monkeys/_/505",
+        "itunes": "https://music.apple.com/us/album/505/251499221?i=251499791&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00d0985d-278e-4a72-b959-fc184a1ce990",
+      "artistMbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+      "albumTitle": "Favourite Worst Nightmare",
+      "duration": 254,
+      "releaseDate": "2007-04-20T07:00:00Z"
     }
   ],
-  "lastUpdated": "2025-06-07T06:14:00.000Z",
-  "totalTracks": 10,
-  "coverColor": "#ef4444"
+  "lastUpdated": "2026-03-02T00:25:01.718Z",
+  "totalTracks": 50,
+  "coverColor": "#ef4444",
+  "country": "de",
+  "countryName": "Germany"
 }

@@ -1,0 +1,1566 @@
+{
+  "id": "genre-jazz",
+  "slug": "genre-jazz",
+  "name": "Jazz",
+  "type": "genre",
+  "description": "Top Jazz tracks worldwide, updated daily from Last.fm.",
+  "tracks": [
+    {
+      "id": "sade--like-a-tattoo",
+      "title": "Like a Tattoo",
+      "artistName": "Sade",
+      "artistSlug": "sade",
+      "rank": 1,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4d/ba/61/4dba61f3-4a25-9185-1c95-963d0f6f5098/mzaf_9634399721484714932.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/c8/d7/18c8d7bc-8491-09e6-df0d-6e0a83ead680/mzi.wsikzifg.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sade/_/Like+a+Tattoo",
+        "itunes": "https://music.apple.com/us/album/like-a-tattoo/158796559?i=158796590&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0d84184d-b41b-371d-80f1-12e1069f6b55",
+      "artistMbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
+      "albumTitle": "Love Deluxe",
+      "duration": 218,
+      "releaseDate": "1992-10-26T08:00:00Z"
+    },
+    {
+      "id": "chet-baker--i-fall-in-love-too-easily",
+      "title": "I Fall in Love Too Easily",
+      "artistName": "Chet Baker",
+      "artistSlug": "chet-baker",
+      "rank": 2,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/d7/47/d4d747d8-8d5a-4dc9-a686-1ca91f07ad0c/mzaf_10338145356691636309.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Chet+Baker/_/I+Fall+in+Love+Too+Easily",
+        "itunes": "https://music.apple.com/us/album/i-fall-in-love-too-easily/1440864756?i=1440866092&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "01d946ed-f2d4-3da8-b5ff-61deccc0b82a",
+      "artistMbid": "1ba1d493-7114-45e2-b163-a36d49a0c065",
+      "albumTitle": "Chet Baker Sings",
+      "duration": 201,
+      "releaseDate": "1954-01-01T12:00:00Z"
+    },
+    {
+      "id": "amy-winehouse--back-to-black",
+      "title": "Back to Black",
+      "artistName": "Amy Winehouse",
+      "artistSlug": "amy-winehouse",
+      "rank": 3,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/07/2c/40072c1f-c551-e490-4ee4-d864eeb28c51/mzaf_11174458628498475021.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cd/6c/11/cd6c11b3-6300-0a29-d211-855847ed2c8c/00602547505040.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Amy+Winehouse/_/Back+to+Black",
+        "itunes": "https://music.apple.com/us/album/back-to-black-original-demo/1445278541?i=1445278565&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "01123f1a-807b-37ac-8c6c-7bef6070b49c",
+      "artistMbid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
+      "albumTitle": "Back To Black (Remixes & B Sides) - EP",
+      "duration": 181,
+      "releaseDate": "2007-01-01T12:00:00Z"
+    },
+    {
+      "id": "sade--paradise",
+      "title": "Paradise",
+      "artistName": "Sade",
+      "artistSlug": "sade",
+      "rank": 4,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/85/61/9d/85619d57-c0f6-1638-e43d-abbe4c4a3cbf/mzaf_1666879067709021497.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/ad/2a/5fad2aca-d998-701d-7b27-c074339d5fd0/886972262628.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/ad/2a/5fad2aca-d998-701d-7b27-c074339d5fd0/886972262628.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/ad/2a/5fad2aca-d998-701d-7b27-c074339d5fd0/886972262628.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sade/_/Paradise",
+        "itunes": "https://music.apple.com/us/album/paradise/604770232?i=604770779&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "000447ee-0f7a-3e17-abe9-a4010f698b05",
+      "artistMbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
+      "albumTitle": "The Best of Sade",
+      "duration": 217,
+      "releaseDate": "1988-05-01T07:00:00Z"
+    },
+    {
+      "id": "frank-sinatra--my-way",
+      "title": "My Way",
+      "artistName": "Frank Sinatra",
+      "artistSlug": "frank-sinatra",
+      "rank": 5,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/5d/26/525d26d3-47c8-e895-2ecb-b450c237b66c/mzaf_5951957958540383333.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/c2/45/3fc2454d-f1ef-8cef-a1f3-0c5a6d751e0a/19UMGIM69266.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/c2/45/3fc2454d-f1ef-8cef-a1f3-0c5a6d751e0a/19UMGIM69266.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/c2/45/3fc2454d-f1ef-8cef-a1f3-0c5a6d751e0a/19UMGIM69266.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Frank+Sinatra/_/My+Way",
+        "itunes": "https://music.apple.com/us/album/my-way/1475517532?i=1475517693&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "02dbde33-fba7-39ab-91be-70be28293c24",
+      "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d",
+      "albumTitle": "My Way (50th Anniversary Edition)",
+      "duration": 276,
+      "releaseDate": "1969-03-01T12:00:00Z"
+    },
+    {
+      "id": "the-dave-brubeck-quartet--take-five",
+      "title": "Take Five",
+      "artistName": "The Dave Brubeck Quartet",
+      "artistSlug": "the-dave-brubeck-quartet",
+      "rank": 6,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/8c/fb/e3/8cfbe318-32a9-7b19-0fd9-ea9764ef46fc/mzaf_7049515640073719848.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/da/45/39da45ea-0a55-8668-0a84-4017b45fb13e/dj.rzbgoyft.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/da/45/39da45ea-0a55-8668-0a84-4017b45fb13e/dj.rzbgoyft.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/39/da/45/39da45ea-0a55-8668-0a84-4017b45fb13e/dj.rzbgoyft.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/The+Dave+Brubeck+Quartet/_/Take+Five",
+        "itunes": "https://music.apple.com/us/album/take-five/316475425?i=316475543&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "02d22625-0e61-4978-a0a4-ba667cc7252a",
+      "artistMbid": "7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7",
+      "albumTitle": "Time Out (50th Anniversary Legacy Edition)",
+      "duration": 325,
+      "releaseDate": "1959-12-14T08:00:00Z"
+    },
+    {
+      "id": "norah-jones--dont-know-why",
+      "title": "Don't Know Why",
+      "artistName": "Norah Jones",
+      "artistSlug": "norah-jones",
+      "rank": 7,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/06/4b/39/064b39b4-8665-430b-2518-6a443279fa23/mzaf_13159063069969974028.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/80/7b/02/807b023b-fb9e-de08-4c62-dd45d7d2317e/22UMGIM10696.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/80/7b/02/807b023b-fb9e-de08-4c62-dd45d7d2317e/22UMGIM10696.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/80/7b/02/807b023b-fb9e-de08-4c62-dd45d7d2317e/22UMGIM10696.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Norah+Jones/_/Don%27t+Know+Why",
+        "itunes": "https://music.apple.com/us/album/dont-know-why/1625058458?i=1625058461&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "016058a5-062e-3a93-8ce3-db44b089ad39",
+      "artistMbid": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+      "albumTitle": "Come Away With Me (Super Deluxe Edition)",
+      "duration": 186,
+      "releaseDate": "2002-01-28T12:00:00Z"
+    },
+    {
+      "id": "frank-sinatra--thats-life",
+      "title": "That's Life",
+      "artistName": "Frank Sinatra",
+      "artistSlug": "frank-sinatra",
+      "rank": 8,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Frank+Sinatra/_/That%27s+Life"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "01ab3cc2-cd82-3e0b-bcd2-5b5a0bee457b",
+      "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d",
+      "duration": 185
+    },
+    {
+      "id": "michael-buble--feeling-good",
+      "title": "Feeling Good",
+      "artistName": "Michael Bublé",
+      "artistSlug": "michael-buble",
+      "rank": 9,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f3/1a/3a/f31a3a4f-2845-9f93-e0d6-b9789cf366f4/mzaf_9434510474122746904.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/67/6d/a4676d95-233f-5e56-a6bf-9ff73c8189bf/093624942757.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/67/6d/a4676d95-233f-5e56-a6bf-9ff73c8189bf/093624942757.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/67/6d/a4676d95-233f-5e56-a6bf-9ff73c8189bf/093624942757.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Michael+Bubl%C3%A9/_/Feeling+Good",
+        "itunes": "https://music.apple.com/us/album/feeling-good/668403225?i=668403227&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0d199859-a520-3555-b7b3-30e923d329e1",
+      "artistMbid": "611700cf-27f0-4dc9-ae80-c513a767853e",
+      "albumTitle": "It's Time",
+      "duration": 237,
+      "releaseDate": "2005-02-08T08:00:00Z"
+    },
+    {
+      "id": "duke-ellington--in-a-sentimental-mood",
+      "title": "In A Sentimental Mood",
+      "artistName": "Duke Ellington",
+      "artistSlug": "duke-ellington",
+      "rank": 10,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Duke+Ellington/_/In+A+Sentimental+Mood"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "0176518c-7bc1-3b43-b838-752b6878ed38",
+      "artistMbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
+      "duration": 140
+    },
+    {
+      "id": "frank-sinatra--strangers-in-the-night",
+      "title": "Strangers in the Night",
+      "artistName": "Frank Sinatra",
+      "artistSlug": "frank-sinatra",
+      "rank": 11,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Frank+Sinatra/_/Strangers+in+the+Night"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "02294a2a-6404-4119-a345-541330879bce",
+      "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d",
+      "duration": 145
+    },
+    {
+      "id": "amy-winehouse--you-know-im-no-good",
+      "title": "You Know I'm No Good",
+      "artistName": "Amy Winehouse",
+      "artistSlug": "amy-winehouse",
+      "rank": 12,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/9c/5a/b89c5aa9-5433-68c8-38d1-75fd85862ffb/mzaf_17195324683878243507.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Amy+Winehouse/_/You+Know+I%27m+No+Good",
+        "itunes": "https://music.apple.com/us/album/you-know-im-no-good/1422677780?i=1422677782&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00ad4bec-62bc-4838-b194-c3b27ef7005e",
+      "artistMbid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
+      "albumTitle": "Back to Black",
+      "duration": 257,
+      "releaseDate": "2006-10-27T07:00:00Z"
+    },
+    {
+      "id": "john-coltrane--my-one-and-only-love",
+      "title": "My One And Only Love",
+      "artistName": "John Coltrane",
+      "artistSlug": "john-coltrane",
+      "rank": 13,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/John+Coltrane/_/My+One+And+Only+Love"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "1c066715-dc3d-3a51-9cc5-838dec962e83",
+      "artistMbid": "b625448e-bf4a-41c3-a421-72ad46cdb831",
+      "duration": 296
+    },
+    {
+      "id": "chet-baker--my-funny-valentine",
+      "title": "My Funny Valentine",
+      "artistName": "Chet Baker",
+      "artistSlug": "chet-baker",
+      "rank": 14,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/2e/93/712e93b3-c09c-82a5-b58c-4425e950d685/mzaf_582111910534553844.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d6/c7/a3/d6c7a3e9-f0b4-bdaf-89d4-5e5cb468f0c2/00602557056563.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Chet+Baker/_/My+Funny+Valentine",
+        "itunes": "https://music.apple.com/us/album/my-funny-valentine/1440864756?i=1440865800&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0183d634-e338-4847-a033-300eadb24bca",
+      "artistMbid": "1ba1d493-7114-45e2-b163-a36d49a0c065",
+      "albumTitle": "Chet Baker Sings",
+      "duration": 139,
+      "releaseDate": "1954-01-01T08:00:00Z"
+    },
+    {
+      "id": "lana-del-rey--the-other-woman",
+      "title": "The Other Woman",
+      "artistName": "Lana Del Rey",
+      "artistSlug": "lana-del-rey",
+      "rank": 15,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/03/4e/75/034e7531-694e-6303-4c79-3b8607b95d9f/mzaf_14568047101016421061.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/57/0e/33/570e3338-56cd-1f57-5f18-512f9a0288cf/14UMGIM20259.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/57/0e/33/570e3338-56cd-1f57-5f18-512f9a0288cf/14UMGIM20259.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/57/0e/33/570e3338-56cd-1f57-5f18-512f9a0288cf/14UMGIM20259.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Lana+Del+Rey/_/The+Other+Woman",
+        "itunes": "https://music.apple.com/us/album/the-other-woman/1440831284?i=1440831995&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "04ba1cd0-82a4-45f9-aa1c-4fd5ffc114f8",
+      "artistMbid": "b7539c32-53e7-4908-bda3-81449c367da6",
+      "albumTitle": "Ultraviolence",
+      "duration": 182,
+      "releaseDate": "2014-06-13T12:00:00Z"
+    },
+    {
+      "id": "michael-buble--sway",
+      "title": "Sway",
+      "artistName": "Michael Bublé",
+      "artistSlug": "michael-buble",
+      "rank": 16,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/cf/4a/92cf4a07-aac7-eb44-2883-87e1b5c79caa/mzaf_7230369138937167834.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/97/639d9783-4ff1-806a-9900-2c92e560547e/093624942719.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/97/639d9783-4ff1-806a-9900-2c92e560547e/093624942719.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/9d/97/639d9783-4ff1-806a-9900-2c92e560547e/093624942719.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Michael+Bubl%C3%A9/_/Sway",
+        "itunes": "https://music.apple.com/us/album/sway/668403420?i=668403430&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0e33f158-4a34-3ec3-8c58-ce65a65c004b",
+      "artistMbid": "611700cf-27f0-4dc9-ae80-c513a767853e",
+      "albumTitle": "Michael Bublé",
+      "duration": 189,
+      "releaseDate": "2003-02-11T08:00:00Z"
+    },
+    {
+      "id": "louis-armstrong--what-a-wonderful-world",
+      "title": "What a Wonderful World",
+      "artistName": "Louis Armstrong",
+      "artistSlug": "louis-armstrong",
+      "rank": 17,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/9e/03/809e03c7-a40f-b225-0288-8e7026bcea7f/mzaf_9728252713200166685.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/8c/2f/2e8c2f46-4148-d40d-61dc-2cc8e2493aab/12UMGIM11012.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/8c/2f/2e8c2f46-4148-d40d-61dc-2cc8e2493aab/12UMGIM11012.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/8c/2f/2e8c2f46-4148-d40d-61dc-2cc8e2493aab/12UMGIM11012.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Louis+Armstrong/_/What+a+Wonderful+World",
+        "itunes": "https://music.apple.com/us/album/what-a-wonderful-world/1440787250?i=1440787254&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "006d620f-1f5f-494e-94ae-94d29ed82d93",
+      "artistMbid": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "albumTitle": "What a Wonderful World",
+      "duration": 139,
+      "releaseDate": "1967-09-01T12:00:00Z"
+    },
+    {
+      "id": "nina-simone--feeling-good",
+      "title": "Feeling Good",
+      "artistName": "Nina Simone",
+      "artistSlug": "nina-simone",
+      "rank": 18,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/c0/0d/d4c00d15-ef31-ad3d-3001-35c09f0d778d/mzaf_6914791605613796270.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/db/05/18db0507-f276-d93d-a4a7-e856a3f1590a/13UAAIM08283.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/db/05/18db0507-f276-d93d-a4a7-e856a3f1590a/13UAAIM08283.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/db/05/18db0507-f276-d93d-a4a7-e856a3f1590a/13UAAIM08283.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Nina+Simone/_/Feeling+Good",
+        "itunes": "https://music.apple.com/us/album/feeling-good/1445667726?i=1445668114&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0059965b-8561-3889-a050-f49bcc3a8c62",
+      "artistMbid": "2944824d-4c26-476f-a981-be849081942f",
+      "albumTitle": "I Put a Spell On You",
+      "duration": 178,
+      "releaseDate": "1965-06-01T07:00:00Z"
+    },
+    {
+      "id": "ray-charles--hit-the-road-jack",
+      "title": "Hit the Road Jack",
+      "artistName": "Ray Charles",
+      "artistSlug": "ray-charles",
+      "rank": 19,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cf/1e/9a/cf1e9a3a-42c9-07a7-ed31-fa77969a62d8/mzaf_15565412750101856381.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/e5/52/c4e55257-be51-8173-e218-73f2af1bcb52/3663729161383_cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/e5/52/c4e55257-be51-8173-e218-73f2af1bcb52/3663729161383_cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/e5/52/c4e55257-be51-8173-e218-73f2af1bcb52/3663729161383_cover.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ray+Charles/_/Hit+the+Road+Jack",
+        "itunes": "https://music.apple.com/us/album/hit-the-road-jack/1569552576?i=1569553330&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00567f15-abcc-3e44-b29f-62db5cdbf6ad",
+      "artistMbid": "2ce02909-598b-44ef-a456-151ba0a3bd70",
+      "albumTitle": "True Genius",
+      "duration": 120,
+      "releaseDate": "2021-06-04T07:00:00Z"
+    },
+    {
+      "id": "the-seatbelts--tank",
+      "title": "Tank!",
+      "artistName": "The Seatbelts",
+      "artistSlug": "the-seatbelts",
+      "rank": 20,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/41/04/fa41047a-2eba-7b11-1ca5-74bbbc709bd8/mzaf_11134654358432867890.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/bb/df/5abbdf28-bf0e-0530-e5f8-0f0ca3150e0a/195081633657.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/bb/df/5abbdf28-bf0e-0530-e5f8-0f0ca3150e0a/195081633657.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/bb/df/5abbdf28-bf0e-0530-e5f8-0f0ca3150e0a/195081633657.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/The+Seatbelts/_/Tank%21",
+        "itunes": "https://music.apple.com/us/album/tank/1521453383?i=1521453384&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "16fed850-02f1-4488-9dea-ee12aaef23dd",
+      "artistMbid": "af67bfd5-26c2-4d66-a77a-5c66b43b8faa",
+      "albumTitle": "COWBOY BEBOP (Original Motion Picture Soundtrack)",
+      "duration": 210,
+      "releaseDate": "1998-05-21T12:00:00Z"
+    },
+    {
+      "id": "amy-winehouse--tears-dry-on-their-own",
+      "title": "Tears Dry on Their Own",
+      "artistName": "Amy Winehouse",
+      "artistSlug": "amy-winehouse",
+      "rank": 21,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/95/46/da9546e7-19e0-a4b6-67bb-d8f7d8e8b0a1/mzaf_7162230293325845022.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cf/3f/09/cf3f0994-980d-d8ed-088d-ae89af256b73/15UMGIM24224.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cf/3f/09/cf3f0994-980d-d8ed-088d-ae89af256b73/15UMGIM24224.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cf/3f/09/cf3f0994-980d-d8ed-088d-ae89af256b73/15UMGIM24224.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Amy+Winehouse/_/Tears+Dry+on+Their+Own",
+        "itunes": "https://music.apple.com/us/album/tears-dry-on-their-own/1440856219?i=1440856230&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "03ae0863-f3a3-4aa1-ac73-589d786fdd1b",
+      "artistMbid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
+      "albumTitle": "Back to Black",
+      "duration": 186,
+      "releaseDate": "2006-10-27T12:00:00Z"
+    },
+    {
+      "id": "billie-holiday--solitude",
+      "title": "Solitude",
+      "artistName": "Billie Holiday",
+      "artistSlug": "billie-holiday",
+      "rank": 22,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/77/a0/6a77a030-214a-9a50-3720-ef0ef3769b25/mzaf_16046472419982557780.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/b3/81/7eb381e7-9bb2-aa3f-c9b9-4491efebdd21/15UMGIM13434.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/b3/81/7eb381e7-9bb2-aa3f-c9b9-4491efebdd21/15UMGIM13434.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/b3/81/7eb381e7-9bb2-aa3f-c9b9-4491efebdd21/15UMGIM13434.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Billie+Holiday/_/Solitude",
+        "itunes": "https://music.apple.com/us/album/solitude/1469584029?i=1469584259&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0038152f-07de-3455-bfdb-af9650abd0fc",
+      "artistMbid": "d59c4cda-11d9-48db-8bfe-b557ee602aed",
+      "albumTitle": "Solitude",
+      "duration": 208,
+      "releaseDate": "1956-01-01T12:00:00Z"
+    },
+    {
+      "id": "billie-holiday--ill-be-seeing-you",
+      "title": "I'll Be Seeing You",
+      "artistName": "Billie Holiday",
+      "artistSlug": "billie-holiday",
+      "rank": 23,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a3/53/9c/a3539c28-cbb2-1aba-8f57-5fbefa13c249/mzaf_328628322467703483.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/65/ed/6965ed9b-32bd-6366-a462-d2b6ec83db78/15UMGIM13908.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/65/ed/6965ed9b-32bd-6366-a462-d2b6ec83db78/15UMGIM13908.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/65/ed/6965ed9b-32bd-6366-a462-d2b6ec83db78/15UMGIM13908.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Billie+Holiday/_/I%27ll+Be+Seeing+You",
+        "itunes": "https://music.apple.com/us/album/ill-be-seeing-you/1469578841?i=1469579245&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "047c2831-41ec-4383-b354-62e5f901979a",
+      "artistMbid": "d59c4cda-11d9-48db-8bfe-b557ee602aed",
+      "albumTitle": "Billie Holiday",
+      "duration": 212,
+      "releaseDate": "1947-01-01T12:00:00Z"
+    },
+    {
+      "id": "nat-king-cole--l-o-v-e",
+      "title": "L-O-V-E",
+      "artistName": "Nat King Cole",
+      "artistSlug": "nat-king-cole",
+      "rank": 24,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Nat+King+Cole/_/L-O-V-E"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "00a5535e-1188-3825-8744-7b172c8dc5d0",
+      "artistMbid": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "duration": 153
+    },
+    {
+      "id": "bill-evans-trio--my-foolish-heart",
+      "title": "My Foolish Heart",
+      "artistName": "Bill Evans Trio",
+      "artistSlug": "bill-evans-trio",
+      "rank": 25,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Bill+Evans+Trio/_/My+Foolish+Heart"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "0232edc1-3fc6-4c3d-9694-56761f22f6ba",
+      "artistMbid": "d0630a08-3b40-4cb4-9f48-7d525262c1f6",
+      "duration": 297
+    },
+    {
+      "id": "miles-davis-quintet--it-never-entered-my-mind",
+      "title": "It Never Entered My Mind",
+      "artistName": "Miles Davis Quintet",
+      "artistSlug": "miles-davis-quintet",
+      "rank": 26,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/92/99/2d92992e-b6db-3257-7863-b979f1abf251/mzaf_5940980406604308665.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/0f/af/620faff2-f75f-1273-8f1d-8bcf1bc28ede/24UMGIM54129.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/0f/af/620faff2-f75f-1273-8f1d-8bcf1bc28ede/24UMGIM54129.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/0f/af/620faff2-f75f-1273-8f1d-8bcf1bc28ede/24UMGIM54129.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Miles+Davis+Quintet/_/It+Never+Entered+My+Mind",
+        "itunes": "https://music.apple.com/us/album/it-never-entered-my-mind/1746480173?i=1746481087&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "03b2c89e-af5e-46ec-b68a-6a6da02b9259",
+      "artistMbid": "fe7245e7-d734-4ca1-8e26-691883f58201",
+      "albumTitle": "On Prestige",
+      "duration": 323,
+      "releaseDate": "1959-01-01T12:00:00Z"
+    },
+    {
+      "id": "etta-james--at-last",
+      "title": "At Last",
+      "artistName": "Etta James",
+      "artistSlug": "etta-james",
+      "rank": 27,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Etta+James/_/At+Last"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "009ff243-fcfd-4d9d-897f-961b275d28f3",
+      "artistMbid": "e22d2f66-881e-41ca-9356-544697ee5f90",
+      "duration": 182
+    },
+    {
+      "id": "grover-washington-jr--just-the-two-of-us",
+      "title": "Just The Two Of Us",
+      "artistName": "Grover Washington, Jr.",
+      "artistSlug": "grover-washington-jr",
+      "rank": 28,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/87/e8/a287e81a-65b9-b6fe-e93f-6ade694a479b/mzaf_4068924294170598814.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/74/bc/84/74bc8404-2438-8dea-8e55-1be0d7d68149/mzi.slifsmno.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/74/bc/84/74bc8404-2438-8dea-8e55-1be0d7d68149/mzi.slifsmno.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/74/bc/84/74bc8404-2438-8dea-8e55-1be0d7d68149/mzi.slifsmno.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Grover+Washington,+Jr./_/Just+The+Two+Of+Us",
+        "itunes": "https://music.apple.com/us/album/just-the-two-of-us-feat-bill-withers/310527525?i=310527535&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "2924d4b6-f74b-47a8-a2bf-991c83acabeb",
+      "artistMbid": "c60e178f-36f1-4169-9c03-84addbdbf104",
+      "albumTitle": "Love Songs",
+      "duration": 438,
+      "releaseDate": "1980-01-01T08:00:00Z"
+    },
+    {
+      "id": "nina-simone--i-put-a-spell-on-you",
+      "title": "I Put a Spell on You",
+      "artistName": "Nina Simone",
+      "artistSlug": "nina-simone",
+      "rank": 29,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/37/8b/1e/378b1e80-7522-9729-67b1-0a96e6f52ac2/mzaf_16404233394995913326.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/db/05/18db0507-f276-d93d-a4a7-e856a3f1590a/13UAAIM08283.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/db/05/18db0507-f276-d93d-a4a7-e856a3f1590a/13UAAIM08283.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/db/05/18db0507-f276-d93d-a4a7-e856a3f1590a/13UAAIM08283.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Nina+Simone/_/I+Put+a+Spell+on+You",
+        "itunes": "https://music.apple.com/us/album/i-put-a-spell-on-you/1445667726?i=1445667962&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00221eeb-f9d4-4d70-a514-2b4cd6f1811b",
+      "artistMbid": "2944824d-4c26-476f-a981-be849081942f",
+      "albumTitle": "I Put a Spell On You",
+      "duration": 157,
+      "releaseDate": "1965-06-01T07:00:00Z"
+    },
+    {
+      "id": "frank-sinatra--it-had-to-be-you",
+      "title": "It Had to Be You",
+      "artistName": "Frank Sinatra",
+      "artistSlug": "frank-sinatra",
+      "rank": 30,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7d/d2/a3/7dd2a393-0267-e249-0c4d-24f3c1ba2350/mzaf_14724885795298425782.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/3e/eb/413eebab-c72f-5970-f207-d51bf152e139/15UMGIM08561.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/3e/eb/413eebab-c72f-5970-f207-d51bf152e139/15UMGIM08561.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/3e/eb/413eebab-c72f-5970-f207-d51bf152e139/15UMGIM08561.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Frank+Sinatra/_/It+Had+to+Be+You",
+        "itunes": "https://music.apple.com/us/album/it-had-to-be-you/1440948281?i=1440952991&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "044eafce-3630-4799-8faa-8313797284f7",
+      "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d",
+      "albumTitle": "Ultimate Sinatra: The Centennial Collection",
+      "duration": 233,
+      "releaseDate": "2009-01-01T12:00:00Z"
+    },
+    {
+      "id": "stan-getz--the-girl-from-ipanema",
+      "title": "The Girl From Ipanema",
+      "artistName": "Stan Getz",
+      "artistSlug": "stan-getz",
+      "rank": 31,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/e4/9d/03e49ddf-a1f8-0fc2-3ffd-b66875f315b6/mzaf_14664684074021255598.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/04/b8/5404b8fd-3dbf-9fe1-0513-4611c4dec84e/06UMGIM14182.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/04/b8/5404b8fd-3dbf-9fe1-0513-4611c4dec84e/06UMGIM14182.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/04/b8/5404b8fd-3dbf-9fe1-0513-4611c4dec84e/06UMGIM14182.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Stan+Getz/_/The+Girl+From+Ipanema",
+        "itunes": "https://music.apple.com/us/album/the-girl-from-ipanema/1422655717?i=1422656474&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "001ad868-dcec-4657-b10a-814638e9d4a9",
+      "artistMbid": "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+      "albumTitle": "Getz/Gilberto",
+      "duration": 318,
+      "releaseDate": "1964-03-01T12:00:00Z"
+    },
+    {
+      "id": "amy-winehouse--rehab",
+      "title": "Rehab",
+      "artistName": "Amy Winehouse",
+      "artistSlug": "amy-winehouse",
+      "rank": 32,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/7f/37/c07f37f1-a8e1-b093-f643-9e3bae02589b/mzaf_10374144630525520706.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Amy+Winehouse/_/Rehab",
+        "itunes": "https://music.apple.com/us/album/rehab/1422677780?i=1422677781&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0069438f-4393-4cdd-a01c-f1fe42ad90cf",
+      "artistMbid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
+      "albumTitle": "Back to Black",
+      "duration": 215,
+      "releaseDate": "2006-10-23T07:00:00Z"
+    },
+    {
+      "id": "sade--kiss-of-life",
+      "title": "Kiss Of Life",
+      "artistName": "Sade",
+      "artistSlug": "sade",
+      "rank": 33,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sade/_/Kiss+Of+Life"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "00408f71-1551-336b-8398-0e3805ca3d10",
+      "artistMbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
+      "duration": 351
+    },
+    {
+      "id": "stan-getz--corcovado-quiet-nights-of-quiet-stars",
+      "title": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "artistName": "Stan Getz",
+      "artistSlug": "stan-getz",
+      "rank": 34,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/9a/40/589a40f4-3a6e-99ee-e9c7-bc2fff30ff82/mzaf_55579851764794936.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/04/b8/5404b8fd-3dbf-9fe1-0513-4611c4dec84e/06UMGIM14182.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/04/b8/5404b8fd-3dbf-9fe1-0513-4611c4dec84e/06UMGIM14182.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/04/b8/5404b8fd-3dbf-9fe1-0513-4611c4dec84e/06UMGIM14182.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars)",
+        "itunes": "https://music.apple.com/us/album/corcovado-quiet-nights-of-quiet-stars/1422655717?i=1422656591&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00aa156d-d6e6-36e5-8399-cd32de2630b8",
+      "artistMbid": "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+      "albumTitle": "Getz/Gilberto",
+      "duration": 260,
+      "releaseDate": "1964-03-01T08:00:00Z"
+    },
+    {
+      "id": "billie-holiday--blue-moon",
+      "title": "Blue Moon",
+      "artistName": "Billie Holiday",
+      "artistSlug": "billie-holiday",
+      "rank": 35,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/78/ed/2178ed1e-a1c0-9e50-8207-8db3ef148339/mzaf_7097726171691415361.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/b3/81/7eb381e7-9bb2-aa3f-c9b9-4491efebdd21/15UMGIM13434.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/b3/81/7eb381e7-9bb2-aa3f-c9b9-4491efebdd21/15UMGIM13434.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/b3/81/7eb381e7-9bb2-aa3f-c9b9-4491efebdd21/15UMGIM13434.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Billie+Holiday/_/Blue+Moon",
+        "itunes": "https://music.apple.com/us/album/blue-moon/1469584029?i=1469584036&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0055a2fa-f20e-3372-a4f1-889b708778c8",
+      "artistMbid": "d59c4cda-11d9-48db-8bfe-b557ee602aed",
+      "albumTitle": "Solitude",
+      "duration": 208,
+      "releaseDate": "1956-01-01T12:00:00Z"
+    },
+    {
+      "id": "amy-winehouse--me-and-mr-jones",
+      "title": "Me & Mr Jones",
+      "artistName": "Amy Winehouse",
+      "artistSlug": "amy-winehouse",
+      "rank": 36,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/39/16/6d/39166d69-9f63-3886-9da7-d972d9cf08af/mzaf_16068563076100282897.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cf/3f/09/cf3f0994-980d-d8ed-088d-ae89af256b73/15UMGIM24224.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cf/3f/09/cf3f0994-980d-d8ed-088d-ae89af256b73/15UMGIM24224.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cf/3f/09/cf3f0994-980d-d8ed-088d-ae89af256b73/15UMGIM24224.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Amy+Winehouse/_/Me+&+Mr+Jones",
+        "itunes": "https://music.apple.com/us/album/me-mr-jones/1440856219?i=1440856224&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "04d6b8ca-0fbc-3a4c-b4a8-0aa3913a6214",
+      "artistMbid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
+      "albumTitle": "Back to Black",
+      "duration": 153,
+      "releaseDate": "2006-10-27T12:00:00Z"
+    },
+    {
+      "id": "chet-baker--that-old-feeling",
+      "title": "That Old Feeling",
+      "artistName": "Chet Baker",
+      "artistSlug": "chet-baker",
+      "rank": 37,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Chet+Baker/_/That+Old+Feeling"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "043b0de3-9d23-465c-8676-f19646fa0c32",
+      "artistMbid": "1ba1d493-7114-45e2-b163-a36d49a0c065",
+      "duration": 183
+    },
+    {
+      "id": "amy-winehouse--love-is-a-losing-game",
+      "title": "Love Is a Losing Game",
+      "artistName": "Amy Winehouse",
+      "artistSlug": "amy-winehouse",
+      "rank": 38,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/a7/95/7fa795ad-e3ce-7f0a-e0b5-abefc99db5c6/mzaf_8043863505583913601.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5a/72/3f/5a723fec-965d-3483-89f8-d66b79f88419/15UMGIM24224.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Amy+Winehouse/_/Love+Is+a+Losing+Game",
+        "itunes": "https://music.apple.com/us/album/love-is-a-losing-game/1422677780?i=1422677786&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "008f636e-3fa4-4e1d-a185-f5dbc10f45a3",
+      "artistMbid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
+      "albumTitle": "Back to Black",
+      "duration": 155,
+      "releaseDate": "2006-10-27T12:00:00Z"
+    },
+    {
+      "id": "norah-jones--sunrise",
+      "title": "Sunrise",
+      "artistName": "Norah Jones",
+      "artistSlug": "norah-jones",
+      "rank": 39,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Norah+Jones/_/Sunrise"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "02f86eeb-9bdd-4857-ad3e-0dd3bae2b9f9",
+      "artistMbid": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+      "duration": 200
+    },
+    {
+      "id": "the-ink-spots--i-dont-want-to-set-the-world-on-fire",
+      "title": "I Don't Want to Set the World on Fire",
+      "artistName": "The Ink Spots",
+      "artistSlug": "the-ink-spots",
+      "rank": 40,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/28/c5/4928c554-1ae6-d0a7-c7b0-95d1625c13c2/mzaf_5785168487378997923.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/79/00/d5/7900d584-6c65-c59c-e2d7-7ef610584fe6/00602567849216.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/79/00/d5/7900d584-6c65-c59c-e2d7-7ef610584fe6/00602567849216.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/79/00/d5/7900d584-6c65-c59c-e2d7-7ef610584fe6/00602567849216.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/The+Ink+Spots/_/I+Don%27t+Want+to+Set+the+World+on+Fire",
+        "itunes": "https://music.apple.com/us/album/i-dont-want-to-set-the-world-on-fire/1425152124?i=1425152942&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00a022bc-0ae4-3823-89ef-058d736e211d",
+      "artistMbid": "75f47650-8a52-494a-8334-c5279bc6db09",
+      "albumTitle": "The Anthology",
+      "duration": 181,
+      "releaseDate": "1941-01-01T12:00:00Z"
+    },
+    {
+      "id": "amy-winehouse--stronger-than-me",
+      "title": "Stronger Than Me",
+      "artistName": "Amy Winehouse",
+      "artistSlug": "amy-winehouse",
+      "rank": 41,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/b3/37/b0b33742-02bf-2f22-0717-7e732f2b4b7a/mzaf_17451584481128516537.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/6f/ad/756fad44-4db8-bf8a-c645-6b689c138668/15UMGIM53725.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/6f/ad/756fad44-4db8-bf8a-c645-6b689c138668/15UMGIM53725.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/6f/ad/756fad44-4db8-bf8a-c645-6b689c138668/15UMGIM53725.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Amy+Winehouse/_/Stronger+Than+Me",
+        "itunes": "https://music.apple.com/us/album/stronger-than-me/1440827079?i=1440827265&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "064fedbb-70a6-4512-a0aa-308a2eab7995",
+      "artistMbid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
+      "albumTitle": "Amy (Original Motion Picture Soundtrack)",
+      "duration": 214,
+      "releaseDate": "2003-10-06T12:00:00Z"
+    },
+    {
+      "id": "radiohead--life-in-a-glasshouse",
+      "title": "Life in a Glasshouse",
+      "artistName": "Radiohead",
+      "artistSlug": "radiohead",
+      "rank": 42,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2c/51/68/2c5168fd-0d95-ee74-4fe4-24abd7785540/mzaf_16110509892322053309.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/d8/ec/43d8ec17-0e96-dba9-21d9-4cdf9d98f2bf/634904078362.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/d8/ec/43d8ec17-0e96-dba9-21d9-4cdf9d98f2bf/634904078362.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/43/d8/ec/43d8ec17-0e96-dba9-21d9-4cdf9d98f2bf/634904078362.png/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Radiohead/_/Life+in+a+Glasshouse",
+        "itunes": "https://music.apple.com/us/album/life-in-a-glasshouse/1097864180?i=1097865056&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "07a09200-8e38-3d3c-8a73-492520e408db",
+      "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "albumTitle": "Amnesiac",
+      "duration": 277,
+      "releaseDate": "2001-06-04T07:00:00Z"
+    },
+    {
+      "id": "john-coltrane-quartet--its-easy-to-remember",
+      "title": "It's Easy To Remember",
+      "artistName": "John Coltrane Quartet",
+      "artistSlug": "john-coltrane-quartet",
+      "rank": 43,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/b7/26/bab726e1-cb02-5543-1db5-4293a5a6b463/mzaf_3997800848511432955.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/70/7d/a1707d60-d5ac-d08c-e9e8-a548c6729c72/06UMGIM00755.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/70/7d/a1707d60-d5ac-d08c-e9e8-a548c6729c72/06UMGIM00755.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/70/7d/a1707d60-d5ac-d08c-e9e8-a548c6729c72/06UMGIM00755.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/John+Coltrane+Quartet/_/It%27s+Easy+To+Remember",
+        "itunes": "https://music.apple.com/us/album/its-easy-to-remember/1445755868?i=1445756594&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "06575f06-26b6-34bf-b082-87c49dbde739",
+      "artistMbid": "a43270af-bc4a-4552-847e-617b11f38d7b",
+      "albumTitle": "The Classic Quartet-Complete Impulse! Studio Recordings",
+      "duration": 169,
+      "releaseDate": "1962-01-01T12:00:00Z"
+    },
+    {
+      "id": "john-coltrane-quartet--say-it-over-and-over-again",
+      "title": "Say It (Over And Over Again)",
+      "artistName": "John Coltrane Quartet",
+      "artistSlug": "john-coltrane-quartet",
+      "rank": 44,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/d8/c6/93d8c615-089d-0f76-dacf-e927ef902c35/mzaf_7317323657817566403.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/de/d9/0fded95c-7b53-a8c0-55e6-8ad020b80348/06UMGIM00754.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/de/d9/0fded95c-7b53-a8c0-55e6-8ad020b80348/06UMGIM00754.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/de/d9/0fded95c-7b53-a8c0-55e6-8ad020b80348/06UMGIM00754.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/John+Coltrane+Quartet/_/Say+It+(Over+And+Over+Again)",
+        "itunes": "https://music.apple.com/us/album/say-it-over-and-over-again/1440747672?i=1440747690&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "028110df-fb20-4099-bbfe-019e31087ef1",
+      "artistMbid": "a43270af-bc4a-4552-847e-617b11f38d7b",
+      "albumTitle": "Ballads",
+      "duration": 258,
+      "releaseDate": "1963-01-15T08:00:00Z"
+    },
+    {
+      "id": "art-blakey-and-the-jazz-messengers--moanin",
+      "title": "Moanin'",
+      "artistName": "Art Blakey & The Jazz Messengers",
+      "artistSlug": "art-blakey-and-the-jazz-messengers",
+      "rank": 45,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Art+Blakey+&+The+Jazz+Messengers/_/Moanin%27"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "00854ea3-d88e-49be-aafe-64030476f527",
+      "artistMbid": "209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee",
+      "duration": 467
+    },
+    {
+      "id": "erroll-garner--misty",
+      "title": "Misty",
+      "artistName": "Erroll Garner",
+      "artistSlug": "erroll-garner",
+      "rank": 46,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/33/5d/a7/335da78d-6651-dd22-b75f-7e554aafdea0/mzaf_15900572932398837178.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f7/92/0ff792e5-9309-6684-f8c5-06d92bb6ed56/00042283491021.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f7/92/0ff792e5-9309-6684-f8c5-06d92bb6ed56/00042283491021.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f7/92/0ff792e5-9309-6684-f8c5-06d92bb6ed56/00042283491021.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Erroll+Garner/_/Misty",
+        "itunes": "https://music.apple.com/us/album/misty/1443144342?i=1443144347&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "1c4d3cde-d54e-429c-bdb1-48b17fca0675",
+      "artistMbid": "75bd5186-9d89-4da9-95de-fce055c28895",
+      "albumTitle": "The Original Misty",
+      "duration": 169,
+      "releaseDate": "1954-07-01T12:00:00Z"
+    },
+    {
+      "id": "sade--the-sweetest-taboo",
+      "title": "The Sweetest Taboo",
+      "artistName": "Sade",
+      "artistSlug": "sade",
+      "rank": 47,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Sade/_/The+Sweetest+Taboo"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "0100dba5-2644-4eb4-889a-92b33a0eb3cd",
+      "artistMbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
+      "duration": 265
+    },
+    {
+      "id": "nat-king-cole--i-love-you-for-sentimental-reasons",
+      "title": "(I Love You) for Sentimental Reasons",
+      "artistName": "Nat King Cole",
+      "artistSlug": "nat-king-cole",
+      "rank": 48,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/fc/a2/a1fca272-15c5-4909-42c7-d4683c9e01a1/mzaf_13311758336968175658.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/66/cf/3066cf5e-d0ad-d373-842e-29197c0902c8/13UABIM74014.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/66/cf/3066cf5e-d0ad-d373-842e-29197c0902c8/13UABIM74014.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/66/cf/3066cf5e-d0ad-d373-842e-29197c0902c8/13UABIM74014.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Nat+King+Cole/_/(I+Love+You)+for+Sentimental+Reasons",
+        "itunes": "https://music.apple.com/us/album/i-love-you-for-sentimental-reasons/724184066?i=724184793&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "031bfe5b-72ca-38c2-a6d8-9812534d8f11",
+      "artistMbid": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "albumTitle": "The World of Nat King Cole",
+      "duration": 175,
+      "releaseDate": "1946-01-01T12:00:00Z"
+    },
+    {
+      "id": "frank-sinatra--fly-me-to-the-moon-in-other-words",
+      "title": "Fly Me to the Moon (In Other Words)",
+      "artistName": "Frank Sinatra",
+      "artistSlug": "frank-sinatra",
+      "rank": 49,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/e5/fd/e6e5fdcf-f2de-18d2-3c52-849d49e3f35c/mzaf_13405155240929120898.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/e1/9f/e9e19f17-813e-41ed-4aa9-04d76498895d/18UMGIM61659.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/e1/9f/e9e19f17-813e-41ed-4aa9-04d76498895d/18UMGIM61659.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/e1/9f/e9e19f17-813e-41ed-4aa9-04d76498895d/18UMGIM61659.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Frank+Sinatra/_/Fly+Me+to+the+Moon+(In+Other+Words)",
+        "itunes": "https://music.apple.com/us/album/fly-me-to-the-moon-in-other-words/1436866850?i=1436866861&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "04d273fe-0fcf-4a27-9fc3-aae909d17219",
+      "artistMbid": "197450cd-0124-4164-b723-3c22dd16494d",
+      "albumTitle": "Quincy: A Life Beyond Measure (Music From The Netflix Original Documentary)",
+      "duration": 151,
+      "releaseDate": "1964-08-01T12:00:00Z"
+    },
+    {
+      "id": "louis-armstrong--dream-a-little-dream-of-me",
+      "title": "Dream a Little Dream of Me",
+      "artistName": "Louis Armstrong",
+      "artistSlug": "louis-armstrong",
+      "rank": 50,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/f8/c8/70f8c87b-5de9-d752-32a1-8c7d51b33e3e/mzaf_1488014473433964867.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/a7/0c/fda70c9b-1e6a-8915-b8db-71f8456d034e/18UMGIM13490.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/a7/0c/fda70c9b-1e6a-8915-b8db-71f8456d034e/18UMGIM13490.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/a7/0c/fda70c9b-1e6a-8915-b8db-71f8456d034e/18UMGIM13490.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Louis+Armstrong/_/Dream+a+Little+Dream+of+Me",
+        "itunes": "https://music.apple.com/us/album/dream-a-little-dream-of-me/1359340014?i=1359341569&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "67cd8784-53f1-42ec-93e4-e67e6e081c02",
+      "artistMbid": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "albumTitle": "Cheek To Cheek: The Complete Duet Recordings",
+      "duration": 188,
+      "releaseDate": "1950-01-01T12:00:00Z"
+    }
+  ],
+  "lastUpdated": "2026-03-02T00:34:02.567Z",
+  "totalTracks": 50,
+  "coverColor": "#f59e0b",
+  "genre": "jazz",
+  "genreColor": "--genre-jazz"
+}

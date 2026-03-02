@@ -1,0 +1,1592 @@
+{
+  "id": "genre-hip-hop",
+  "slug": "genre-hip-hop",
+  "name": "Hip-Hop",
+  "type": "genre",
+  "description": "Top Hip-Hop tracks worldwide, updated daily from Last.fm.",
+  "tracks": [
+    {
+      "id": "kanye-west--flashing-lights",
+      "title": "Flashing Lights",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 1,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/c6/c6/c3c6c652-2f19-1511-c8e9-e9caf9b6b4ac/mzaf_8110172512846397285.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Flashing+Lights",
+        "itunes": "https://music.apple.com/us/album/flashing-lights/1442845779?i=1442846712&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0064b08f-45d3-314e-bfcc-5f641e431319",
+      "albumTitle": "Graduation",
+      "duration": 237,
+      "releaseDate": "2007-09-05T12:00:00Z"
+    },
+    {
+      "id": "a-ap-rocky--fashion-killa",
+      "title": "Fashion Killa",
+      "artistName": "A$AP Rocky",
+      "artistSlug": "a-ap-rocky",
+      "rank": 2,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/81/d7/c8/81d7c8b5-326f-508d-1ce9-967265d878bd/mzaf_13045921125239262827.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/9b/4c/9f9b4cbc-5910-51fb-8486-adf3b89bc973/886444594837.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/9b/4c/9f9b4cbc-5910-51fb-8486-adf3b89bc973/886444594837.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/9b/4c/9f9b4cbc-5910-51fb-8486-adf3b89bc973/886444594837.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/A$AP+Rocky/_/Fashion+Killa",
+        "itunes": "https://music.apple.com/us/album/excuse-me/994721471?i=994721493&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "01bde3f7-eb82-4961-902d-07f21e7699e7",
+      "artistMbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+      "albumTitle": "AT.LONG.LAST.A$AP",
+      "duration": 238,
+      "releaseDate": "2015-05-26T07:00:00Z"
+    },
+    {
+      "id": "childish-gambino--heartbeat",
+      "title": "Heartbeat",
+      "artistName": "Childish Gambino",
+      "artistSlug": "childish-gambino",
+      "rank": 3,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/02/71/52027175-88dc-f74d-4240-051cf23cd3c5/mzaf_15152450390755382933.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/23/b8/8f23b822-dd02-573a-60d7-b20226819fd1/0892038002411_Cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/23/b8/8f23b822-dd02-573a-60d7-b20226819fd1/0892038002411_Cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/23/b8/8f23b822-dd02-573a-60d7-b20226819fd1/0892038002411_Cover.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Childish+Gambino/_/Heartbeat",
+        "itunes": "https://music.apple.com/us/album/heartbeat/1771705793?i=1771705799&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "055794b8-fa2a-3d3d-b689-36275e764b75",
+      "artistMbid": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+      "albumTitle": "Camp",
+      "duration": 266,
+      "releaseDate": "2011-11-15T12:00:00Z"
+    },
+    {
+      "id": "fetty-wap--trap-queen",
+      "title": "Trap Queen",
+      "artistName": "Fetty Wap",
+      "artistSlug": "fetty-wap",
+      "rank": 4,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d1/38/35/d13835c9-cb2b-da81-1e01-8ef2cad6c6c6/mzaf_17792521326544950434.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b3/df/c5/b3dfc5e2-3980-7b7c-f227-7022c846f5dd/814908020219.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b3/df/c5/b3dfc5e2-3980-7b7c-f227-7022c846f5dd/814908020219.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b3/df/c5/b3dfc5e2-3980-7b7c-f227-7022c846f5dd/814908020219.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Fetty+Wap/_/Trap+Queen",
+        "itunes": "https://music.apple.com/us/album/trap-queen/1039540785?i=1039540875&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "138b62ad-2ff2-4528-bed4-223bff732fa9",
+      "artistMbid": "e3492ea0-5997-4241-a7bf-2fd7fb1bfad1",
+      "albumTitle": "Fetty Wap",
+      "duration": 221,
+      "releaseDate": "2014-04-22T07:00:00Z"
+    },
+    {
+      "id": "kanye-west--touch-the-sky",
+      "title": "Touch the Sky",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 5,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ec/72/00/ec72002a-713f-f1eb-8ddb-30d2e66a631c/mzaf_14256312986443673368.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Touch+the+Sky",
+        "itunes": "https://music.apple.com/us/album/touch-the-sky-feat-lupe-fiasco/1440763821?i=1440763831&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0542ff55-2d44-37f0-b33e-60dbedac4b29",
+      "albumTitle": "Late Registration",
+      "duration": 237,
+      "releaseDate": "2005-08-29T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--all-falls-down",
+      "title": "All Falls Down",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 6,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/47/a1/3b/47a13ba2-6f63-ced7-24f0-0c3307ee6218/mzaf_6552050600916041999.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/All+Falls+Down",
+        "itunes": "https://music.apple.com/us/album/all-falls-down-feat-syleena-johnson/1437467864?i=1437467875&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "16d60975-4d06-315d-8d11-be7538bead90",
+      "albumTitle": "The College Dropout",
+      "duration": 224,
+      "releaseDate": "2004-02-10T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--i-wonder",
+      "title": "I Wonder",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 7,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/03/f4/d5/03f4d5de-1c09-33eb-7852-279a71ac989f/mzaf_15614695934438135653.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/I+Wonder",
+        "itunes": "https://music.apple.com/us/album/i-wonder/1442845779?i=1442846336&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "1703056f-6417-4226-9bc1-0d770389c5c2",
+      "albumTitle": "Graduation",
+      "duration": 243,
+      "releaseDate": "2007-09-05T12:00:00Z"
+    },
+    {
+      "id": "kendrick-lamar--swimming-pools-drank",
+      "title": "Swimming Pools (Drank)",
+      "artistName": "Kendrick Lamar",
+      "artistSlug": "kendrick-lamar",
+      "rank": 8,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/8b/69/6c8b6925-647d-db57-2846-8cff9d02d565/mzaf_3261562986439060143.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/Swimming+Pools+(Drank)",
+        "itunes": "https://music.apple.com/us/album/swimming-pools-drank-extended-version/1440860389?i=1440860408&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0423bee4-5367-4189-b91e-00cfac3645f4",
+      "artistMbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "albumTitle": "good kid, m.A.A.d city (Deluxe Version)",
+      "duration": 314,
+      "releaseDate": "2012-07-31T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--stronger",
+      "title": "Stronger",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 9,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/96/f2/25/96f225f2-cd07-3639-4133-0910aa9725c0/mzaf_13857358519708863745.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Stronger",
+        "itunes": "https://music.apple.com/us/album/stronger/1442845779?i=1442846328&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00b157a4-d5f6-490d-873b-973ce46b0d7d",
+      "albumTitle": "Graduation",
+      "duration": 312,
+      "releaseDate": "2007-07-31T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--homecoming",
+      "title": "Homecoming",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 10,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/b6/ac/a0b6ac24-9509-19e7-85a7-0be507d17c02/mzaf_5643812388289006313.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Homecoming",
+        "itunes": "https://music.apple.com/us/album/homecoming-feat-chris-martin/1442845779?i=1442846735&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0b242edf-ccf6-331b-a863-feed3b220834",
+      "albumTitle": "Graduation",
+      "duration": 204,
+      "releaseDate": "2007-09-05T12:00:00Z"
+    },
+    {
+      "id": "outkast--ms-jackson",
+      "title": "Ms. Jackson",
+      "artistName": "OutKast",
+      "artistSlug": "outkast",
+      "rank": 11,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/dd/36/73dd36ec-eaaa-83cd-1a7b-71de28541ced/mzaf_16514838695000151630.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/21/fb/d621fbde-c099-6794-7102-2692f10c4dbb/886448814283.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/21/fb/d621fbde-c099-6794-7102-2692f10c4dbb/886448814283.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/21/fb/d621fbde-c099-6794-7102-2692f10c4dbb/886448814283.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/OutKast/_/Ms.+Jackson",
+        "itunes": "https://music.apple.com/us/album/ms-jackson-radio-mix/1536683935?i=1536684150&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00532a1d-1dfb-4163-8182-2b1561cbf2c5",
+      "artistMbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
+      "albumTitle": "Stankonia",
+      "duration": 270,
+      "releaseDate": "2000-05-31T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--gold-digger",
+      "title": "Gold Digger",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 12,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/78/93/bc/7893bc15-95e4-0c58-1fae-027a9691847a/mzaf_15320798854648677885.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6b/c2/f76bc2b0-525b-9889-7244-ff6109931be5/a7e5ead5-2439-4981-9a6a-e2b99ad3ed0a.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6b/c2/f76bc2b0-525b-9889-7244-ff6109931be5/a7e5ead5-2439-4981-9a6a-e2b99ad3ed0a.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/6b/c2/f76bc2b0-525b-9889-7244-ff6109931be5/a7e5ead5-2439-4981-9a6a-e2b99ad3ed0a.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Gold+Digger",
+        "itunes": "https://music.apple.com/us/album/gold-digger-feat-jamie-foxx-remix-mixed/1798588683?i=1798588697&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "007af6d9-8693-3c57-b437-3842ec08c01c",
+      "albumTitle": "Third Floor Sounds, Vol. 9: TEE EM DEE (DJ Mix)",
+      "duration": 119,
+      "releaseDate": "2025-02-01T12:00:00Z"
+    },
+    {
+      "id": "drake--headlines",
+      "title": "Headlines",
+      "artistName": "Drake",
+      "artistSlug": "drake",
+      "rank": 13,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/94/a2/3a/94a23acc-d113-2230-bc3d-ec2ef7e5678c/mzaf_17932877066675051484.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/53/62/d2536245-b94c-b3fd-7168-9512f655f6d4/00602527899091.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/53/62/d2536245-b94c-b3fd-7168-9512f655f6d4/00602527899091.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/53/62/d2536245-b94c-b3fd-7168-9512f655f6d4/00602527899091.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Drake/_/Headlines",
+        "itunes": "https://music.apple.com/us/album/headlines/1440745498?i=1440745890&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "09da4d70-a268-4481-abae-a73b576248b0",
+      "artistMbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "albumTitle": "Take Care (Deluxe Version)",
+      "duration": 236,
+      "releaseDate": "2011-08-09T12:00:00Z"
+    },
+    {
+      "id": "soulja-boy--kiss-me-thru-the-phone",
+      "title": "Kiss Me Thru The Phone",
+      "artistName": "Soulja Boy",
+      "artistSlug": "soulja-boy",
+      "rank": 14,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/9c/89/409c8921-5d6d-4dad-ad7d-341110c510e5/mzaf_16094735068113565146.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/ff/16/e6ff169f-6d4b-5e31-e95c-8ffcaaaabd20/08UMGIM27746.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/ff/16/e6ff169f-6d4b-5e31-e95c-8ffcaaaabd20/08UMGIM27746.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/ff/16/e6ff169f-6d4b-5e31-e95c-8ffcaaaabd20/08UMGIM27746.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Soulja+Boy/_/Kiss+Me+Thru+The+Phone",
+        "itunes": "https://music.apple.com/us/album/kiss-me-thru-the-phone-feat-sammie/1443711617?i=1443711628&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "435c4b44-6853-4001-a56a-bfe173b05868",
+      "artistMbid": "29eead4d-3793-4625-8727-c03edbb38b8b",
+      "albumTitle": "iSouljaBoyTellem (Deluxe Version)",
+      "duration": 193,
+      "releaseDate": "2008-01-01T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--cant-tell-me-nothing",
+      "title": "Can't Tell Me Nothing",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 15,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/68/6d/91686d7a-3032-d619-bc96-6d47a638923e/mzaf_2195214387826453312.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing",
+        "itunes": "https://music.apple.com/us/album/cant-tell-me-nothing/1442845779?i=1442846473&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0d647081-637a-4051-ab02-0e36726d20a5",
+      "albumTitle": "Graduation",
+      "duration": 272,
+      "releaseDate": "2007-05-15T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--runaway",
+      "title": "Runaway",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 16,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/71/6b/1c/716b1cc9-373f-16b5-9407-ffefa257b103/mzaf_12754007498418561566.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Runaway",
+        "itunes": "https://music.apple.com/us/album/runaway-feat-pusha-t/1443160553?i=1443160699&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0a2fee07-c076-4941-b273-1d4583f65b72",
+      "albumTitle": "My Beautiful Dark Twisted Fantasy",
+      "duration": 548,
+      "releaseDate": "2010-01-01T12:00:00Z"
+    },
+    {
+      "id": "50-cent--21-questions",
+      "title": "21 Questions",
+      "artistName": "50 Cent",
+      "artistSlug": "50-cent",
+      "rank": 17,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/ce/18/69ce18bd-e640-b606-d229-3458ad6a9298/mzaf_17503495486647640546.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/50+Cent/_/21+Questions",
+        "itunes": "https://music.apple.com/us/album/21-questions-feat-nate-dogg/1440907378?i=1440907566&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "043edf79-4fc4-461f-9962-7c2691c90f37",
+      "artistMbid": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+      "albumTitle": "Get Rich or Die Tryin' (Bonus Track Version)",
+      "duration": 224,
+      "releaseDate": "2003-02-06T08:00:00Z"
+    },
+    {
+      "id": "kanye-west--power",
+      "title": "POWER",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 18,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/75/a0/6b/75a06b55-7898-7f38-3af5-47575303edcf/mzaf_9134049976334830572.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/POWER",
+        "itunes": "https://music.apple.com/us/album/power/1443160553?i=1443160563&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0e3faca8-a444-36fc-918c-19a489912df2",
+      "albumTitle": "My Beautiful Dark Twisted Fantasy",
+      "duration": 292,
+      "releaseDate": "2010-05-28T12:00:00Z"
+    },
+    {
+      "id": "kid-cudi--pursuit-of-happiness-nightmare",
+      "title": "Pursuit of Happiness (Nightmare)",
+      "artistName": "Kid Cudi",
+      "artistSlug": "kid-cudi",
+      "rank": 19,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9f/96/a3/9f96a3f7-921c-08dd-b99e-8360f0ac2768/mzaf_5554590330721672539.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e1/cb/32/e1cb3268-1ba1-2c11-2f47-92ee469fac6a/09UMGIM33420.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e1/cb/32/e1cb3268-1ba1-2c11-2f47-92ee469fac6a/09UMGIM33420.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e1/cb/32/e1cb3268-1ba1-2c11-2f47-92ee469fac6a/09UMGIM33420.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kid+Cudi/_/Pursuit+of+Happiness+(Nightmare)",
+        "itunes": "https://music.apple.com/us/album/pursuit-of-happiness-nightmare-feat-mgmt-ratatat/1443483575?i=1443484271&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0a9c6d04-3474-3dcf-9574-b577b29308fc",
+      "artistMbid": "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+      "albumTitle": "Man On the Moon: The End of Day (Deluxe Version)",
+      "duration": 295,
+      "releaseDate": "2009-09-11T12:00:00Z"
+    },
+    {
+      "id": "black-eyed-peas--meet-me-halfway",
+      "title": "Meet Me Halfway",
+      "artistName": "Black Eyed Peas",
+      "artistSlug": "black-eyed-peas",
+      "rank": 20,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2c/b1/81/2cb181c2-7770-654a-6af5-e4992a621c3e/mzaf_3889740457518008008.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/fc/47/42fc4794-3c69-8c00-e528-1c7e92b5ac93/09UMGIM13833.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/fc/47/42fc4794-3c69-8c00-e528-1c7e92b5ac93/09UMGIM13833.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/fc/47/42fc4794-3c69-8c00-e528-1c7e92b5ac93/09UMGIM13833.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Black+Eyed+Peas/_/Meet+Me+Halfway",
+        "itunes": "https://music.apple.com/us/album/meet-me-halfway/1440768902?i=1440769131&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "03a413d2-0c31-4952-af34-d5af4212906a",
+      "artistMbid": "d5be5333-4171-427e-8e12-732087c6b78e",
+      "albumTitle": "THE E.N.D. (THE ENERGY NEVER DIES)",
+      "duration": 284,
+      "releaseDate": "2009-06-03T07:00:00Z"
+    },
+    {
+      "id": "timbaland--the-way-i-are",
+      "title": "The Way I Are",
+      "artistName": "Timbaland",
+      "artistSlug": "timbaland",
+      "rank": 21,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/7e/7d/9e7e7d28-d45e-1a8f-1e98-8f2acd968be3/mzaf_17088396386058051519.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/95/c0/a495c0cf-6e6a-7af5-308d-1cf8c9931fd6/07UMGIM03315.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/95/c0/a495c0cf-6e6a-7af5-308d-1cf8c9931fd6/07UMGIM03315.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/95/c0/a495c0cf-6e6a-7af5-308d-1cf8c9931fd6/07UMGIM03315.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Timbaland/_/The+Way+I+Are",
+        "itunes": "https://music.apple.com/us/album/the-way-i-are-feat-keri-hilson-d-o-e/1440748593?i=1440748894&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00833a9a-0545-42ee-a39d-3e25df9dd4b1",
+      "artistMbid": "daa09819-5da5-4c7a-8bef-eb372bb27ff1",
+      "albumTitle": "Shock Value",
+      "duration": 179,
+      "releaseDate": "2007-04-02T07:00:00Z"
+    },
+    {
+      "id": "kendrick-lamar--alright",
+      "title": "Alright",
+      "artistName": "Kendrick Lamar",
+      "artistSlug": "kendrick-lamar",
+      "rank": 22,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/45/26/fa/4526fa9f-f70d-abc6-25bf-1594b9dfdb13/mzaf_14854083311939736968.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/a6/91/b5a69171-5232-3d5b-9c15-8963802f83dd/15UMGIM15814.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/a6/91/b5a69171-5232-3d5b-9c15-8963802f83dd/15UMGIM15814.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/a6/91/b5a69171-5232-3d5b-9c15-8963802f83dd/15UMGIM15814.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/Alright",
+        "itunes": "https://music.apple.com/us/album/alright/1440871877?i=1440871886&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0058fb89-d413-43b7-9fc5-d82319e96a3b",
+      "artistMbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "albumTitle": "To Pimp a Butterfly",
+      "duration": 219,
+      "releaseDate": "2015-03-15T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--dark-fantasy",
+      "title": "Dark Fantasy",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 23,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f6/0a/6b/f60a6b14-d805-03f6-b912-981a2b3ca932/mzaf_2386471894255481337.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/da/7c/37da7cc5-2b6f-9bb8-30ba-8a8c3be3e16a/00602527584973.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/da/7c/37da7cc5-2b6f-9bb8-30ba-8a8c3be3e16a/00602527584973.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/da/7c/37da7cc5-2b6f-9bb8-30ba-8a8c3be3e16a/00602527584973.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Dark+Fantasy",
+        "itunes": "https://music.apple.com/us/album/dark-fantasy/1445865909?i=1445866130&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "02a4b4ec-38c7-45c9-85fa-d003ee69f4f5",
+      "albumTitle": "My Beautiful Dark Twisted Fantasy (Deluxe Edition)",
+      "duration": 281,
+      "releaseDate": "2010-11-22T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--all-of-the-lights",
+      "title": "All of the Lights",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 24,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/6e/05/5c6e05cf-7dfb-8ade-073a-ce283c7b6819/mzaf_12823917616239521881.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/74/da/d174dacf-5782-dfe2-19f7-ce037dcd0237/00602527584935.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/All+of+the+Lights",
+        "itunes": "https://music.apple.com/us/album/all-of-the-lights/1443160553?i=1443160568&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "074ceeb6-d946-47f2-a5de-e427e725adcb",
+      "albumTitle": "My Beautiful Dark Twisted Fantasy",
+      "duration": 300,
+      "releaseDate": "2010-11-22T12:00:00Z"
+    },
+    {
+      "id": "eminem--without-me",
+      "title": "Without Me",
+      "artistName": "Eminem",
+      "artistSlug": "eminem",
+      "rank": 25,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7d/38/ff/7d38ff16-b52c-063a-a34d-767e836befcc/mzaf_13413071545825673354.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/5c/e6/dd5ce621-f7d2-f767-7a08-e7a7eaa7870b/00602537526994.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/5c/e6/dd5ce621-f7d2-f767-7a08-e7a7eaa7870b/00602537526994.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/5c/e6/dd5ce621-f7d2-f767-7a08-e7a7eaa7870b/00602537526994.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Eminem/_/Without+Me",
+        "itunes": "https://music.apple.com/us/album/without-me/1440821542?i=1440821643&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00ee35e9-29fb-442d-9bd3-d8669d23f4f3",
+      "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+      "albumTitle": "The Eminem Show",
+      "duration": 290,
+      "releaseDate": "2002-05-14T07:00:00Z"
+    },
+    {
+      "id": "kanye-west--champion",
+      "title": "Champion",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 26,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c6/b0/c4/c6b0c48e-ee0d-adaf-2de2-2eb3030e207c/mzaf_12936690838015566050.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Champion",
+        "itunes": "https://music.apple.com/us/album/champion/1442845779?i=1442846321&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0f83f4c4-ae89-3d41-8d0f-ebc7a9b97117",
+      "albumTitle": "Graduation",
+      "duration": 168,
+      "releaseDate": "2007-09-05T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--everything-i-am",
+      "title": "Everything I Am",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 27,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/22/c8/1f22c8ad-ee46-556a-4954-fc6e144e8cdd/mzaf_6785579153574032848.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Everything+I+Am",
+        "itunes": "https://music.apple.com/us/album/everything-i-am-feat-dj-premier/1442845779?i=1442846717&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "5060882c-3895-40aa-8f2c-e09aa86f386b",
+      "albumTitle": "Graduation",
+      "duration": 227,
+      "releaseDate": "2007-09-05T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--good-life",
+      "title": "Good Life",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 28,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/86/ee/43/86ee4336-6faf-b797-ea65-d5d7b50a1448/mzaf_2392976759773928581.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Good+Life",
+        "itunes": "https://music.apple.com/us/album/good-life-feat-t-pain/1442845779?i=1442846347&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "2512302a-2e10-3027-9669-9e17fe1705ea",
+      "albumTitle": "Graduation",
+      "duration": 207,
+      "releaseDate": "2007-09-05T12:00:00Z"
+    },
+    {
+      "id": "jay-z--empire-state-of-mind",
+      "title": "Empire State of Mind",
+      "artistName": "JAY-Z",
+      "artistSlug": "jay-z",
+      "rank": 29,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c1/e1/cb/c1e1cb71-b781-09a2-4d77-48016cdb200a/mzaf_14532239971242282964.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/4a/a7/174aa7ea-0116-6240-1187-1efb51552833/00602527586502.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/4a/a7/174aa7ea-0116-6240-1187-1efb51552833/00602527586502.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/4a/a7/174aa7ea-0116-6240-1187-1efb51552833/00602527586502.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/JAY-Z/_/Empire+State+of+Mind",
+        "itunes": "https://music.apple.com/us/album/empire-state-of-mind-feat-alicia-keys/1440776162?i=1440777015&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "21ba6df4-1777-466f-b73f-dba00624a1d3",
+      "albumTitle": "The Hits Collection Volume One (Edited Version)",
+      "duration": 277,
+      "releaseDate": "2009-09-08T12:00:00Z"
+    },
+    {
+      "id": "wiz-khalifa--black-and-yellow",
+      "title": "Black and Yellow",
+      "artistName": "Wiz Khalifa",
+      "artistSlug": "wiz-khalifa",
+      "rank": 30,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/dd/e9/52dde9d0-d93a-8c45-ffa3-3a5987188951/mzaf_5778739946408815207.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/94/a5/f994a581-9a92-93b8-545c-bff0cfc8bb21/mzi.aaflurfx.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/94/a5/f994a581-9a92-93b8-545c-bff0cfc8bb21/mzi.aaflurfx.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/94/a5/f994a581-9a92-93b8-545c-bff0cfc8bb21/mzi.aaflurfx.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Wiz+Khalifa/_/Black+and+Yellow",
+        "itunes": "https://music.apple.com/us/album/black-and-yellow/426754280?i=426754283&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0180f5e8-bea4-37f0-9bf7-822eda288e6f",
+      "artistMbid": "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+      "albumTitle": "Rolling Papers (Deluxe Version)",
+      "duration": 218,
+      "releaseDate": "2010-09-14T07:00:00Z"
+    },
+    {
+      "id": "m-i-a--paper-planes",
+      "title": "Paper Planes",
+      "artistName": "M.I.A.",
+      "artistSlug": "m-i-a",
+      "rank": 31,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/18/c1/28/18c128c5-55a2-8cce-1485-7e4c9c0819e5/mzaf_14329776023466908430.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/e8/17/48e81730-12af-700b-6ee5-f7a7d2fe959b/634904228163.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/e8/17/48e81730-12af-700b-6ee5-f7a7d2fe959b/634904228163.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/e8/17/48e81730-12af-700b-6ee5-f7a7d2fe959b/634904228163.png/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/M.I.A./_/Paper+Planes",
+        "itunes": "https://music.apple.com/us/album/paper-planes/296393419?i=296393515&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "09f03130-4b30-46d8-a2cd-81f8ef9bb97b",
+      "artistMbid": "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
+      "albumTitle": "Kala",
+      "duration": 205,
+      "releaseDate": "2007-08-08T07:00:00Z"
+    },
+    {
+      "id": "50-cent--in-da-club",
+      "title": "In Da Club",
+      "artistName": "50 Cent",
+      "artistSlug": "50-cent",
+      "rank": 32,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/15/89/7e/15897ea5-b0a0-4c1f-3f64-559533df42b1/mzaf_10604019280667552271.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/50+Cent/_/In+Da+Club",
+        "itunes": "https://music.apple.com/us/album/in-da-club/1440907378?i=1440907550&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "00f49fbc-78a4-3771-9e2d-893cfb3835d1",
+      "artistMbid": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+      "albumTitle": "Get Rich or Die Tryin' (Bonus Track Version)",
+      "duration": 193,
+      "releaseDate": "2003-01-07T12:00:00Z"
+    },
+    {
+      "id": "kendrick-lamar--bitch-don-t-kill-my-vibe",
+      "title": "Bitch, Don’t Kill My Vibe",
+      "artistName": "Kendrick Lamar",
+      "artistSlug": "kendrick-lamar",
+      "rank": 33,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/4f/cf/d34fcf45-3059-5cd8-fd05-6c0f1070b39b/mzaf_1329962993872108634.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe",
+        "itunes": "https://music.apple.com/us/album/bitch-dont-kill-my-vibe/1440860389?i=1440860396&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "artistMbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "albumTitle": "good kid, m.A.A.d city (Deluxe Version)",
+      "duration": 311,
+      "releaseDate": "2012-10-22T12:00:00Z"
+    },
+    {
+      "id": "flo-rida--low-feat-t-pain",
+      "title": "Low (feat. T-Pain)",
+      "artistName": "Flo Rida",
+      "artistSlug": "flo-rida",
+      "rank": 34,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/b3/43/c5b343e2-2c02-976d-b6ec-a1ad0f6e6973/mzaf_16574700494757128460.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/42/a0/1442a084-36ea-09a0-ff87-d5aea0cc19f8/mzi.ktgesuhn.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/42/a0/1442a084-36ea-09a0-ff87-d5aea0cc19f8/mzi.ktgesuhn.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/42/a0/1442a084-36ea-09a0-ff87-d5aea0cc19f8/mzi.ktgesuhn.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Flo+Rida/_/Low+(feat.+T-Pain)",
+        "itunes": "https://music.apple.com/us/album/low-feat-t-pain/275496110?i=275496141&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "5143178b-d103-40cb-8e88-904a5fda6043",
+      "artistMbid": "4593d49a-7f67-46ba-9ec0-126bd676286f",
+      "albumTitle": "Mail On Sunday",
+      "duration": 231,
+      "releaseDate": "2007-10-09T07:00:00Z"
+    },
+    {
+      "id": "black-eyed-peas--pump-it",
+      "title": "Pump It",
+      "artistName": "Black Eyed Peas",
+      "artistSlug": "black-eyed-peas",
+      "rank": 35,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/fb/69/83fb6917-19a5-78a1-1120-15d910a54891/mzaf_1569911826648558644.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/67/39/b6673987-b974-c579-325d-6df068e3eadc/25UMGIM77774.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/67/39/b6673987-b974-c579-325d-6df068e3eadc/25UMGIM77774.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/67/39/b6673987-b974-c579-325d-6df068e3eadc/25UMGIM77774.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Black+Eyed+Peas/_/Pump+It",
+        "itunes": "https://music.apple.com/us/album/pump-it-travis-barker-remix-version/1817288712?i=1817289012&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "01b98223-7951-33fb-8732-10860f0e0205",
+      "artistMbid": "d5be5333-4171-427e-8e12-732087c6b78e",
+      "albumTitle": "Monkey Business (20th Anniversary Edition)",
+      "duration": 216,
+      "releaseDate": "2006-02-13T08:00:00Z"
+    },
+    {
+      "id": "mf-doom--one-beer",
+      "title": "One Beer",
+      "artistName": "MF DOOM",
+      "artistSlug": "mf-doom",
+      "rank": 36,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/42/c8/14/42c8146c-554e-a73a-d549-be561b010860/mzaf_1039856952164378670.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/9a/b6/6f9ab6ef-6622-128d-f5fa-2700b7d2434b/cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/9a/b6/6f9ab6ef-6622-128d-f5fa-2700b7d2434b/cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/9a/b6/6f9ab6ef-6622-128d-f5fa-2700b7d2434b/cover.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/MF+DOOM/_/One+Beer",
+        "itunes": "https://music.apple.com/us/album/one-beer-mf-doom-tribute-live/1611770885?i=1611771308&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "087ad995-8477-4f49-9f06-bedcc956e346",
+      "artistMbid": "188711ed-c99b-439c-844a-ca831f63a727",
+      "albumTitle": "Karu live at Commerce",
+      "duration": 318,
+      "releaseDate": "2022-03-11T12:00:00Z"
+    },
+    {
+      "id": "the-game--hate-it-or-love-it",
+      "title": "Hate It Or Love It",
+      "artistName": "The Game",
+      "artistSlug": "the-game",
+      "rank": 37,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/65/aa/34/65aa348a-cf18-8627-1fd2-1ccd8e7eb8bf/mzaf_10035387710954635413.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fe/d1/3b/fed13b47-091c-a793-56ad-b2bbc677e92a/00602498641453.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fe/d1/3b/fed13b47-091c-a793-56ad-b2bbc677e92a/00602498641453.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fe/d1/3b/fed13b47-091c-a793-56ad-b2bbc677e92a/00602498641453.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/The+Game/_/Hate+It+Or+Love+It",
+        "itunes": "https://music.apple.com/us/album/hate-it-or-love-it-feat-50-cent/1443202876?i=1443202892&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "21f68431-568f-3cf3-b0fe-39e64ebfb3eb",
+      "artistMbid": "07cc14fb-4784-4a25-804b-2686ed5ef52c",
+      "albumTitle": "The Documentary (Edited Version)",
+      "duration": 206,
+      "releaseDate": "2005-01-18T12:00:00Z"
+    },
+    {
+      "id": "akon--smack-that",
+      "title": "Smack That",
+      "artistName": "Akon",
+      "artistSlug": "akon",
+      "rank": 38,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/dd/b4/96ddb45d-8048-604b-3497-be0606f72d65/mzaf_4333715066996463386.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/8e/f6/1a8ef635-e359-c8d6-bee3-7a720c56e52a/21UMGIM80636.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/8e/f6/1a8ef635-e359-c8d6-bee3-7a720c56e52a/21UMGIM80636.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/8e/f6/1a8ef635-e359-c8d6-bee3-7a720c56e52a/21UMGIM80636.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Akon/_/Smack+That",
+        "itunes": "https://music.apple.com/us/album/smack-that-live-aol-session/1610800313?i=1610801501&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0070aa9a-2bab-43f6-9f24-654fb1e8b070",
+      "artistMbid": "1138a764-2212-4d0a-b02d-0dc14df91e08",
+      "albumTitle": "Konvicted (Complete Edition)",
+      "duration": 147,
+      "releaseDate": "2006-11-14T12:00:00Z"
+    },
+    {
+      "id": "kanye-west--through-the-wire",
+      "title": "Through the Wire",
+      "artistName": "Kanye West",
+      "artistSlug": "kanye-west",
+      "rank": 39,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/5c/ea/2d5cea77-a56f-50ec-c6dc-f74a04d832dd/mzaf_822615455610190516.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kanye+West/_/Through+the+Wire",
+        "itunes": "https://music.apple.com/us/album/through-the-wire/1437467864?i=1437467903&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "01a5c04c-c3e4-3bab-afea-2fe3d691a439",
+      "albumTitle": "The College Dropout",
+      "duration": 221,
+      "releaseDate": "2003-09-30T07:00:00Z"
+    },
+    {
+      "id": "kendrick-lamar--poetic-justice",
+      "title": "Poetic Justice",
+      "artistName": "Kendrick Lamar",
+      "artistSlug": "kendrick-lamar",
+      "rank": 40,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/b8/95/4db89510-6982-e8b5-b1d2-30111ffaafc8/mzaf_8751827411005037629.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9a/50/a1/9a50a1d8-01c2-2504-8d99-3f2fc7e5c2ff/12UMGIM52988.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9a/50/a1/9a50a1d8-01c2-2504-8d99-3f2fc7e5c2ff/12UMGIM52988.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9a/50/a1/9a50a1d8-01c2-2504-8d99-3f2fc7e5c2ff/12UMGIM52988.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/Poetic+Justice",
+        "itunes": "https://music.apple.com/us/album/poetic-justice-feat-drake/1471277623?i=1471277630&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "103d152e-4a20-43eb-bc1b-c4f4631fec6b",
+      "artistMbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "albumTitle": "good kid, m.A.A.d city",
+      "duration": 300,
+      "releaseDate": "2012-10-22T12:00:00Z"
+    },
+    {
+      "id": "mac-miller--the-spins",
+      "title": "The Spins",
+      "artistName": "Mac Miller",
+      "artistSlug": "mac-miller",
+      "rank": 41,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/51/1d/d2/511dd226-7b89-0968-1220-f1cad2351629/mzaf_1862604703482231715.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/86/c6/fa86c648-146e-02a0-09f5-166dfb07b076/Long_Story_Short_Apple.png/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Mac+Miller/_/The+Spins",
+        "itunes": "https://music.apple.com/us/album/the-spins-ben-gerrans-remix-mixed/1695955523?i=1695955735&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "27e6f690-8478-4cbd-bd3d-d3ff9942e507",
+      "artistMbid": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+      "albumTitle": "Group Chat Club: Long Story Short in Los Angeles, 2023 (DJ Mix)",
+      "duration": 96,
+      "releaseDate": "2023-05-25T12:00:00Z"
+    },
+    {
+      "id": "gym-class-heroes--stereo-hearts-feat-adam-levine",
+      "title": "Stereo Hearts (feat. Adam Levine)",
+      "artistName": "Gym Class Heroes",
+      "artistSlug": "gym-class-heroes",
+      "rank": 42,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/71/37/8c7137c7-c4d6-45e6-367a-312a7c69783c/mzaf_13157621948290062056.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/dc/f0/93/mzi.stzaqjgi.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/dc/f0/93/mzi.stzaqjgi.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/dc/f0/93/mzi.stzaqjgi.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Gym+Class+Heroes/_/Stereo+Hearts+(feat.+Adam+Levine)",
+        "itunes": "https://music.apple.com/us/album/stereo-hearts-feat-adam-levine/477341011?i=477341015&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "04de5e93-3739-3a20-a9ba-b03c24ef4657",
+      "artistMbid": "f4d4b515-0b74-423f-a161-db184330c37c",
+      "albumTitle": "The Papercut Chronicles II",
+      "duration": 211,
+      "releaseDate": "2011-06-14T07:00:00Z"
+    },
+    {
+      "id": "kendrick-lamar--humble",
+      "title": "HUMBLE.",
+      "artistName": "Kendrick Lamar",
+      "artistSlug": "kendrick-lamar",
+      "rank": 43,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE."
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "004ced5f-7c64-42aa-9dd4-5f7542dedcca",
+      "artistMbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "duration": 199
+    },
+    {
+      "id": "eminem--the-real-slim-shady",
+      "title": "The Real Slim Shady",
+      "artistName": "Eminem",
+      "artistSlug": "eminem",
+      "rank": 44,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/3d/00/1b3d00b2-c867-7209-b71b-77999824f5c2/mzaf_14827913920639981715.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/79/d5/2779d529-ff10-c15d-1c50-08cd46dd1237/06UMGIM17625.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/79/d5/2779d529-ff10-c15d-1c50-08cd46dd1237/06UMGIM17625.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/79/d5/2779d529-ff10-c15d-1c50-08cd46dd1237/06UMGIM17625.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Eminem/_/The+Real+Slim+Shady",
+        "itunes": "https://music.apple.com/us/album/the-real-slim-shady/1440723318?i=1440723739&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "016d3b63-ac5c-388b-9df8-1c5b7c872e28",
+      "artistMbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+      "albumTitle": "Curtain Call: The Hits",
+      "duration": 284,
+      "releaseDate": "2000-04-15T12:00:00Z"
+    },
+    {
+      "id": "rihanna--needed-me",
+      "title": "Needed Me",
+      "artistName": "Rihanna",
+      "artistSlug": "rihanna",
+      "rank": 45,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/5c/32/fb5c3280-56fa-1220-1e2e-b2630468a7dd/mzaf_3466718676461151808.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/da/90/9cda90c9-df1a-078b-319c-bdf2801e8d1f/16UMGIM03373.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/da/90/9cda90c9-df1a-078b-319c-bdf2801e8d1f/16UMGIM03373.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/da/90/9cda90c9-df1a-078b-319c-bdf2801e8d1f/16UMGIM03373.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Rihanna/_/Needed+Me",
+        "itunes": "https://music.apple.com/us/album/needed-me/1440924615?i=1440925067&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "08311fcd-e21a-4576-8128-fe32ca4dc459",
+      "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+      "albumTitle": "ANTI (Deluxe)",
+      "duration": 192,
+      "releaseDate": "2016-01-28T08:00:00Z"
+    },
+    {
+      "id": "kendrick-lamar--swimming-pools-drank-extended-version",
+      "title": "Swimming Pools (Drank) (extended version)",
+      "artistName": "Kendrick Lamar",
+      "artistSlug": "kendrick-lamar",
+      "rank": 46,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/8b/69/6c8b6925-647d-db57-2846-8cff9d02d565/mzaf_3261562986439060143.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/Swimming+Pools+(Drank)+(extended+version)",
+        "itunes": "https://music.apple.com/us/album/swimming-pools-drank-extended-version/1440860389?i=1440860408&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "06f1c44e-e3dc-4fed-ac63-833608c675e3",
+      "artistMbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "albumTitle": "good kid, m.A.A.d city (Deluxe Version)",
+      "duration": 314,
+      "releaseDate": "2012-07-31T12:00:00Z"
+    },
+    {
+      "id": "ice-cube--it-was-a-good-day",
+      "title": "It Was A Good Day",
+      "artistName": "Ice Cube",
+      "artistSlug": "ice-cube",
+      "rank": 47,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/5f/ff/745fff56-4dc0-663e-87b8-38d6f928f690/mzaf_3586390593116478943.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/03/14/b5/0314b5e3-55ef-17ae-3425-2f0a88550f37/21UM1IM24971.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/03/14/b5/0314b5e3-55ef-17ae-3425-2f0a88550f37/21UM1IM24971.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/03/14/b5/0314b5e3-55ef-17ae-3425-2f0a88550f37/21UM1IM24971.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day",
+        "itunes": "https://music.apple.com/us/album/it-was-a-good-day/1589494941?i=1589495533&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "012d2589-fdba-4710-a107-3ae205394699",
+      "artistMbid": "1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2",
+      "albumTitle": "Grand Theft Radio",
+      "duration": 261,
+      "releaseDate": "2021-04-13T12:00:00Z"
+    },
+    {
+      "id": "outkast--so-fresh-so-clean",
+      "title": "So Fresh, So Clean",
+      "artistName": "OutKast",
+      "artistSlug": "outkast",
+      "rank": 48,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d7/48/2f/d7482f21-d97c-1c34-749d-4e8ece413fb5/mzaf_3500995787535680451.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/81/75/mzi.ysellawn.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/81/75/mzi.ysellawn.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/c7/81/75/mzi.ysellawn.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/OutKast/_/So+Fresh,+So+Clean",
+        "itunes": "https://music.apple.com/us/album/so-fresh-so-clean/253093029?i=253093063&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "07f2ccd5-a231-30f0-8f8e-9e0bb5fa5287",
+      "artistMbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
+      "albumTitle": "The New Guy (Music from the Motion Picture)",
+      "duration": 238,
+      "releaseDate": "1999-11-01T12:00:00Z"
+    },
+    {
+      "id": "kendrick-lamar--a-d-h-d",
+      "title": "A.D.H.D",
+      "artistName": "Kendrick Lamar",
+      "artistSlug": "kendrick-lamar",
+      "rank": 49,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/be/7f/2f/be7f2fe2-41dd-6b9a-4957-a10ac5c62989/mzaf_17460900856492630846.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/86/ec/3686ec99-dec4-0a01-8b74-2d8a9a0263a7/12UMGIM52988.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/A.D.H.D",
+        "itunes": "https://music.apple.com/us/album/money-trees-feat-jay-rock/1440860389?i=1440860400&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "0574da72-5d37-4d70-9b4e-cde26d15584d",
+      "artistMbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "albumTitle": "good kid, m.A.A.d city (Deluxe Version)",
+      "duration": 387,
+      "releaseDate": "2012-10-22T12:00:00Z"
+    },
+    {
+      "id": "m-i-a--bad-girls",
+      "title": "Bad Girls",
+      "artistName": "M.I.A.",
+      "artistSlug": "m-i-a",
+      "rank": 50,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 0,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e3/2a/f5/e32af5f4-aa86-ad77-e6ca-23346f2db6b3/mzaf_7234173646335995092.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/8a/5d/6a8a5d47-7a78-4a9f-978a-59152d02c14e/13UAEIM09178.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/8a/5d/6a8a5d47-7a78-4a9f-978a-59152d02c14e/13UAEIM09178.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/8a/5d/6a8a5d47-7a78-4a9f-978a-59152d02c14e/13UAEIM09178.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/M.I.A./_/Bad+Girls",
+        "itunes": "https://music.apple.com/us/album/bad-girls/1469585732?i=1469586252&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "mbid": "074057f3-d366-4701-88ae-da78f01c7d18",
+      "artistMbid": "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
+      "albumTitle": "Matangi",
+      "duration": 228,
+      "releaseDate": "2012-01-31T08:00:00Z"
+    }
+  ],
+  "lastUpdated": "2026-03-02T00:28:29.254Z",
+  "totalTracks": 50,
+  "coverColor": "#f97316",
+  "genre": "hip-hop",
+  "genreColor": "--genre-hip-hop"
+}
