@@ -11,7 +11,7 @@
       "artistName": "Erik Satie",
       "artistSlug": "erik-satie",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "up",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/6e/cb/fe6ecb1e-22f2-423b-f4c4-9a13877977fb/mzaf_10663462282757651821.plus.aac.p.m4a",
@@ -35,6 +35,8 @@
       "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
       "albumTitle": "Gymnopedie No.1 - Single",
       "duration": 191,
+      "previousRank": 18,
+      "rankDelta": 17,
       "releaseDate": "2012-03-28T12:00:00Z"
     },
     {
@@ -43,7 +45,7 @@
       "artistName": "Claude Debussy",
       "artistSlug": "claude-debussy",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/68/35/c36835b6-9cb3-a20a-088b-6c7d39e39636/mzaf_484141242926915999.plus.aac.p.m4a",
@@ -67,6 +69,8 @@
       "artistMbid": "be50643c-0377-4968-b48c-47e06b2e2a3b",
       "albumTitle": "Clair de Lune - Single",
       "duration": 218,
+      "previousRank": 2,
+      "rankDelta": 0,
       "releaseDate": "2011-06-16T12:00:00Z"
     },
     {
@@ -75,7 +79,7 @@
       "artistName": "Camille Saint-Saëns",
       "artistSlug": "camille-saint-saens",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/3d/60/673d6059-0a91-c061-1d0d-6b707e77d2cb/mzaf_17467694915562420660.plus.aac.p.m4a",
@@ -97,6 +101,8 @@
       ],
       "albumTitle": "Saint-Saens: Carnival of the Animals (Remastered)",
       "duration": 186,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "1978-01-01T08:00:00Z"
     },
     {
@@ -105,7 +111,7 @@
       "artistName": "Claude Debussy",
       "artistSlug": "claude-debussy",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/68/35/c36835b6-9cb3-a20a-088b-6c7d39e39636/mzaf_484141242926915999.plus.aac.p.m4a",
@@ -128,6 +134,8 @@
       "artistMbid": "be50643c-0377-4968-b48c-47e06b2e2a3b",
       "albumTitle": "Clair de Lune - Single",
       "duration": 218,
+      "previousRank": 4,
+      "rankDelta": 0,
       "releaseDate": "2011-06-16T12:00:00Z"
     },
     {
@@ -136,7 +144,7 @@
       "artistName": "Max Richter",
       "artistSlug": "max-richter",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e4/ce/be/e4cebe4d-e128-c149-d3c3-e863c12e5b03/mzaf_3541492753066162998.plus.aac.p.m4a",
@@ -160,6 +168,8 @@
       "artistMbid": "509f20b2-5df3-4aec-9bbc-002131fb3f99",
       "albumTitle": "The Blue Notebooks (15 Years)",
       "duration": 372,
+      "previousRank": 5,
+      "rankDelta": 0,
       "releaseDate": "2004-02-23T12:00:00Z"
     },
     {
@@ -168,7 +178,7 @@
       "artistName": "Gustav Holst",
       "artistSlug": "gustav-holst",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/d2/a1/bdd2a148-390b-aef4-3a96-040df7d6ec50/mzaf_15729240983447196847.plus.aac.p.m4a",
@@ -192,6 +202,8 @@
       "artistMbid": "3ba68671-e3b5-4263-81dc-76b16b29bbc6",
       "albumTitle": "Holst: The Planets",
       "duration": 483,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2006-01-01T12:00:00Z"
     },
     {
@@ -200,7 +212,7 @@
       "artistName": "Samuel Barber",
       "artistSlug": "samuel-barber",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/74/f5/21/74f521ee-a804-634a-7b6c-a96c4d8ed0e5/mzaf_14993792612292566696.plus.aac.p.m4a",
@@ -224,6 +236,8 @@
       "artistMbid": "74ed34ce-ee95-44e9-a87d-4d2d5056c24a",
       "albumTitle": "Barber: Adagio for Strings - Copland: Appalachian Spring, Rodeo & Billy the Kid",
       "duration": 599,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "2013-01-28T12:00:00Z"
     },
     {
@@ -232,7 +246,7 @@
       "artistName": "Ludwig van Beethoven",
       "artistSlug": "ludwig-van-beethoven",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/45/f6/a4/45f6a498-2f1e-e963-f727-ef3b9d8f9dd6/mzaf_3951712077166694275.plus.aac.p.m4a",
@@ -256,6 +270,8 @@
       "artistMbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
       "albumTitle": "Beethoven: The Complete Symphony Collection",
       "duration": 499,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "1955-05-09T12:00:00Z"
     },
     {
@@ -264,7 +280,7 @@
       "artistName": "Giuseppe Verdi",
       "artistSlug": "giuseppe-verdi",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/83/c1/4a/83c14aa1-bace-2bd6-f434-72b698cb0424/mzaf_6663738685468385999.plus.aac.p.m4a",
@@ -288,6 +304,8 @@
       "artistMbid": "f1bedf1f-4445-4651-9c35-f4a3f3860a13",
       "albumTitle": "Verdi Requiem",
       "duration": 135,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "2010-01-01T12:00:00Z"
     },
     {
@@ -296,7 +314,7 @@
       "artistName": "Ludwig van Beethoven",
       "artistSlug": "ludwig-van-beethoven",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4a/c0/01/4ac001fc-8070-4d5f-ac75-14f4df7321e5/mzaf_1236335642423734923.plus.aac.p.m4a",
@@ -320,6 +338,8 @@
       "artistMbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
       "albumTitle": "Piano and Organ Works / Mozart: Turkish March - Sonata Facile / Pachelbel: Canon in D Major / Beethoven: Fur Elise - Moonlight Sonata / Bach: Jesu, Joy of Man's Desiring / Rinaldi: Piano Works / Mendelssohn: Wedding March / Bridal Chorus / Ave Maria",
       "duration": 161,
+      "previousRank": 10,
+      "rankDelta": 0,
       "releaseDate": "2011-10-11T12:00:00Z"
     },
     {
@@ -328,7 +348,7 @@
       "artistName": "Erik Satie",
       "artistSlug": "erik-satie",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/5f/10/78/5f10781a-9889-6430-ad24-b4ca67ae09aa/mzaf_15750646473257692189.plus.aac.p.m4a",
@@ -352,6 +372,8 @@
       "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
       "albumTitle": "3 Gnossiennes and 3 Gymnopédies - EP",
       "duration": 176,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "1994-01-01T12:00:00Z"
     },
     {
@@ -360,7 +382,7 @@
       "artistName": "Johann Sebastian Bach",
       "artistSlug": "johann-sebastian-bach",
       "rank": 12,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/55/96/c2/5596c2e6-3f39-8d61-9bfe-94ee8faba662/mzaf_13294780678548004318.plus.aac.p.m4a",
@@ -384,6 +406,8 @@
       "artistMbid": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
       "albumTitle": "Pachelbel: Canon In D - Bach: Air On a G String - Handel: Largo from 'Xerxes' - Hallelujah Chorus - Clarke: Trumpet Voluntary",
       "duration": 205,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2005-10-11T07:00:00Z"
     },
     {
@@ -392,7 +416,7 @@
       "artistName": "Andrea Bocelli",
       "artistSlug": "andrea-bocelli",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2b/92/f0/2b92f06d-4ce7-5659-322e-4815f2aad0f2/mzaf_8362649659153462242.plus.aac.p.m4a",
@@ -415,6 +439,8 @@
       "artistMbid": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
       "albumTitle": "Bocelli",
       "duration": 250,
+      "previousRank": 13,
+      "rankDelta": 0,
       "releaseDate": "1995-01-01T12:00:00Z"
     },
     {
@@ -423,7 +449,7 @@
       "artistName": "Camille Saint-Saëns",
       "artistSlug": "camille-saint-saens",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/d6/93/76d6931b-5a15-9592-3376-74dc01dbd7e3/mzaf_17410620681759260216.plus.aac.p.m4a",
@@ -445,6 +471,8 @@
       ],
       "albumTitle": "The Best of Saint-Saëns",
       "duration": 432,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "1988-11-25T12:00:00Z"
     },
     {
@@ -453,7 +481,7 @@
       "artistName": "Johannes Brahms",
       "artistSlug": "johannes-brahms",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/34/03/41/340341ee-d86f-b5ed-d3e4-adcdb94e7794/mzaf_16933060522027993682.plus.aac.p.m4a",
@@ -477,6 +505,8 @@
       "artistMbid": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
       "albumTitle": "Chromium x Classics, Vol. II",
       "duration": 103,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "2021-12-03T12:00:00Z"
     },
     {
@@ -485,7 +515,7 @@
       "artistName": "Wolfgang Amadeus Mozart",
       "artistSlug": "wolfgang-amadeus-mozart",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/31/fe/9731fea8-e50b-3208-bc1e-de9916e19357/mzaf_14529199425360378947.plus.aac.p.m4a",
@@ -509,6 +539,8 @@
       "artistMbid": "b972f589-fb0e-474e-b64a-803b0364fa75",
       "albumTitle": "Mozart: Symphonies Nos. 38-41",
       "duration": 426,
+      "previousRank": 16,
+      "rankDelta": 0,
       "releaseDate": "2008-01-07T12:00:00Z"
     },
     {
@@ -517,7 +549,7 @@
       "artistName": "Frédéric Chopin",
       "artistSlug": "frederic-chopin",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a9/23/4e/a9234e42-5f3a-fa4e-574e-b172874f55b5/mzaf_13700572600159818013.plus.aac.p.m4a",
@@ -540,6 +572,8 @@
       "mbid": "03b2bad7-f51d-3090-97cd-fcb3176900a8",
       "albumTitle": "Chopin: Ballade No. 1 & 24 Preludes",
       "duration": 596,
+      "previousRank": 17,
+      "rankDelta": 0,
       "releaseDate": "2019-03-20T12:00:00Z"
     },
     {
@@ -548,7 +582,7 @@
       "artistName": "Erik Satie",
       "artistSlug": "erik-satie",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": null,
@@ -568,7 +602,9 @@
       ],
       "mbid": "d72b4b62-cdd0-458c-9e85-a11ba4a926d3",
       "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
-      "duration": 200
+      "duration": 200,
+      "previousRank": 18,
+      "rankDelta": 0
     },
     {
       "id": "ludovico-einaudi--una-mattina",
@@ -576,7 +612,7 @@
       "artistName": "Ludovico Einaudi",
       "artistSlug": "ludovico-einaudi",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/64/30/3f64303f-dbda-23e4-6b23-64e8df7eb5e7/mzaf_12817939629152130724.plus.aac.p.m4a",
@@ -600,6 +636,8 @@
       "artistMbid": "fa34b363-79df-434f-a5b8-be4e6898543f",
       "albumTitle": "Una Mattina",
       "duration": 204,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2004-01-01T12:00:00Z"
     },
     {
@@ -608,7 +646,7 @@
       "artistName": "Wolfgang Amadeus Mozart",
       "artistSlug": "wolfgang-amadeus-mozart",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f2/9b/18/f29b1859-9173-3d77-84bf-3c3b04034462/mzaf_30066150052473400.plus.aac.p.m4a",
@@ -632,6 +670,8 @@
       "artistMbid": "b972f589-fb0e-474e-b64a-803b0364fa75",
       "albumTitle": "Sir Neville Marriner Conducts Mozart",
       "duration": 467,
+      "previousRank": 20,
+      "rankDelta": 0,
       "releaseDate": "1972-01-01T12:00:00Z"
     },
     {
@@ -640,7 +680,7 @@
       "artistName": "Erik Satie",
       "artistSlug": "erik-satie",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/33/8f/55338f04-5400-2b0b-96f6-16a89fe99a82/mzaf_15318214017527145229.plus.aac.p.m4a",
@@ -664,6 +704,8 @@
       "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
       "albumTitle": "Satie: Gymnopédie No. 3 - Single",
       "duration": 141,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "2022-05-04T12:00:00Z"
     },
     {
@@ -672,7 +714,7 @@
       "artistName": "Johann Pachelbel",
       "artistSlug": "johann-pachelbel",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/49/a4/ab49a40f-3626-820f-d7c8-105682a4b19e/mzaf_5300589687375651611.plus.aac.p.m4a",
@@ -696,6 +738,8 @@
       "artistMbid": "2251b277-2dfb-4cf1-83f3-27e29f902440",
       "albumTitle": "Pachelbel: Canon In D - Bach: Air On a G String - Handel: Largo from 'Xerxes' - Hallelujah Chorus - Clarke: Trumpet Voluntary",
       "duration": 377,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2007-11-26T12:00:00Z"
     },
     {
@@ -704,7 +748,7 @@
       "artistName": "Johann Sebastian Bach",
       "artistSlug": "johann-sebastian-bach",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/2e/40/5a2e40c1-58fe-f4e0-75ea-f284675ccdaa/mzaf_11048458762235492451.plus.aac.p.m4a",
@@ -728,6 +772,8 @@
       "artistMbid": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
       "albumTitle": "Great Organ Classics",
       "duration": 567,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "1997-11-14T12:00:00Z"
     },
     {
@@ -736,7 +782,7 @@
       "artistName": "Ludwig van Beethoven",
       "artistSlug": "ludwig-van-beethoven",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/43/a8/db43a84a-25ef-0f8e-3d5b-3105b4c751c1/mzaf_8045662846047167663.plus.aac.p.m4a",
@@ -760,6 +806,8 @@
       "artistMbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
       "albumTitle": "Ultimate Classics",
       "duration": 509,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2026-02-28T08:00:00Z"
     },
     {
@@ -768,7 +816,7 @@
       "artistName": "Sarah Brightman",
       "artistSlug": "sarah-brightman",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/60/23/58/602358a9-9d95-8959-f91e-588baff6390b/mzaf_8117642416684439941.plus.aac.p.m4a",
@@ -792,6 +840,8 @@
       "artistMbid": "896f0194-8ab2-4278-81e0-c56a0444b569",
       "albumTitle": "Hymn",
       "duration": 255,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "2018-11-09T12:00:00Z"
     },
     {
@@ -800,7 +850,7 @@
       "artistName": "Ludovico Einaudi",
       "artistSlug": "ludovico-einaudi",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b7/7a/57/b77a57ce-e9af-f73a-4292-8e8663ed9c61/mzaf_7878684706193626416.plus.aac.p.m4a",
@@ -824,6 +874,8 @@
       "artistMbid": "fa34b363-79df-434f-a5b8-be4e6898543f",
       "albumTitle": "Divenire",
       "duration": 442,
+      "previousRank": 26,
+      "rankDelta": 0,
       "releaseDate": "2006-01-01T12:00:00Z"
     },
     {
@@ -832,7 +884,7 @@
       "artistName": "Richard Wagner",
       "artistSlug": "richard-wagner",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b1/9c/5a/b19c5a55-58ce-7fd6-478b-9442f264a620/mzaf_299010490123583463.plus.aac.p.m4a",
@@ -856,6 +908,8 @@
       "artistMbid": "eefd7c1e-abcf-4ccc-ba60-0fd435c9061f",
       "albumTitle": "Classical Lines",
       "duration": 282,
+      "previousRank": 27,
+      "rankDelta": 0,
       "releaseDate": "1989-12-08T12:00:00Z"
     },
     {
@@ -864,7 +918,7 @@
       "artistName": "Maurice Ravel",
       "artistSlug": "maurice-ravel",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/75/ef/d9/75efd9cd-6803-c63b-bca9-ebe8c7e4444d/mzaf_9235049110807391068.plus.aac.p.m4a",
@@ -888,6 +942,8 @@
       "artistMbid": "6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a",
       "albumTitle": "Debussy: La Mer, Prélude à l'après-midi - Ravel: Pavane, Daphnis et Chloé No. 2",
       "duration": 433,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "1986-01-01T12:00:00Z"
     },
     {
@@ -896,7 +952,7 @@
       "artistName": "Sergei Rachmaninoff",
       "artistSlug": "sergei-rachmaninoff",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/79/6c/ad/796cad08-2570-58f2-c61a-23610c09e4ff/mzaf_15956390103766769224.plus.aac.p.m4a",
@@ -919,6 +975,8 @@
       "mbid": "0000f1a0-039c-42d4-9f66-6a7822deb887",
       "albumTitle": "Rachmaninoff: Piano Concertos Nos. 2 & 3",
       "duration": 600,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "2017-02-10T12:00:00Z"
     },
     {
@@ -927,7 +985,7 @@
       "artistName": "Franz Liszt",
       "artistSlug": "franz-liszt",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/1d/3f/011d3f37-538c-e08c-41b6-3e194ce88e52/mzaf_14685519828361086688.plus.aac.p.m4a",
@@ -951,6 +1009,8 @@
       "artistMbid": "2cd475bb-1abd-40c4-9904-6d4b691c752c",
       "albumTitle": "Liszt: The Essentials",
       "duration": 279,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "1981-01-01T12:00:00Z"
     },
     {
@@ -959,7 +1019,7 @@
       "artistName": "Erik Satie",
       "artistSlug": "erik-satie",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/fc/94/96fc9426-4e32-0df9-dcb2-ace8d4cf9815/mzaf_10320768391928069927.plus.aac.p.m4a",
@@ -983,6 +1043,8 @@
       "artistMbid": "e1d521ea-5b97-4981-987c-ba988b2a87d7",
       "albumTitle": "Satie: 3 Gymnopédies",
       "duration": 314,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "1984-05-02T12:00:00Z"
     },
     {
@@ -991,7 +1053,7 @@
       "artistName": "Sergei Rachmaninoff",
       "artistSlug": "sergei-rachmaninoff",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ba/c2/6a/bac26adb-2438-6cc2-1be8-5f91dee79106/mzaf_8899914285506202465.plus.aac.p.m4a",
@@ -1014,6 +1076,8 @@
       "mbid": "0004e1b7-4808-41da-9fe1-ec4057b8313e",
       "albumTitle": "Rachmaninoff: Piano Concertos Nos. 2 & 3",
       "duration": 655,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2017-03-10T12:00:00Z"
     },
     {
@@ -1022,7 +1086,7 @@
       "artistName": "Ralph Vaughan Williams",
       "artistSlug": "ralph-vaughan-williams",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/83/b7/e0/83b7e0f5-a6b2-2f7e-4347-06634fc9d0c1/mzaf_17829623488197527515.plus.aac.p.m4a",
@@ -1046,6 +1110,8 @@
       "artistMbid": "4f3b96ed-f1f1-4a68-be73-0e0657837096",
       "albumTitle": "Elgar: Enigma Variations - Vaughan Williams: Fantasia on Greensleeves [2011 - Remaster] (2011 - Remaster)",
       "duration": 282,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "2012-03-09T12:00:00Z"
     },
     {
@@ -1054,7 +1120,7 @@
       "artistName": "Ralph Vaughan Williams",
       "artistSlug": "ralph-vaughan-williams",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/ef/a5/67efa525-3c6a-2612-abf3-b0e3f4540639/mzaf_3320800354257153760.plus.aac.p.m4a",
@@ -1078,6 +1144,8 @@
       "artistMbid": "4f3b96ed-f1f1-4a68-be73-0e0657837096",
       "albumTitle": "Vaughan Williams: The Lark Ascending, Fantasia On A Theme By Thomas Tallis, Symphony No. 5",
       "duration": 969,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "1972-10-01T12:00:00Z"
     },
     {
@@ -1086,7 +1154,7 @@
       "artistName": "George Gershwin",
       "artistSlug": "george-gershwin",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/6a/ee/356aee65-dcfe-44d4-fa73-345ca564f6fe/mzaf_9978999284495888727.plus.aac.p.m4a",
@@ -1110,6 +1178,8 @@
       "artistMbid": "65744963-191a-44ef-a3c7-b693a808a158",
       "albumTitle": "Gershwin Plays Gershwin: The Piano Rolls",
       "duration": 865,
+      "previousRank": 35,
+      "rankDelta": 0,
       "releaseDate": "1993-01-01T12:00:00Z"
     },
     {
@@ -1118,7 +1188,7 @@
       "artistName": "Charles Gounod",
       "artistSlug": "charles-gounod",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/ed/e7/0bede7f6-3b37-14a2-99f1-5dec76c0a0a8/mzaf_16855991253602716454.plus.aac.p.m4a",
@@ -1142,6 +1212,8 @@
       "artistMbid": "cd4636e1-06a3-41fc-848a-624b84bbb023",
       "albumTitle": "J.S. Bach, Gounod: Ave Maria (Musical Moments) - Single",
       "duration": 183,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "2020-11-13T12:00:00Z"
     },
     {
@@ -1150,7 +1222,7 @@
       "artistName": "Gabriel Fauré",
       "artistSlug": "gabriel-faure",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e5/10/5d/e5105dbe-6ec8-a101-b66e-a9171a934e30/mzaf_1020000499361770483.plus.aac.p.m4a",
@@ -1174,6 +1246,8 @@
       "artistMbid": "fa19a8b6-e7f4-40d4-af15-7a7c41ac7d8f",
       "albumTitle": "Vaughan Williams: Fantasia on a Theme by Thomas Tallis - Barber: Adagio for Strings - Grainger: Irish Tune from County Derry - Satie: Gymnopédies Nos. 1 & 3 - Fauré: Pavane",
       "duration": 345,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "1983-09-01T12:00:00Z"
     },
     {
@@ -1182,7 +1256,7 @@
       "artistName": "Pietro Mascagni",
       "artistSlug": "pietro-mascagni",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/22/97/c822979e-776b-610f-2e14-097d8e0ef756/mzaf_3599737398248236504.plus.aac.p.m4a",
@@ -1206,6 +1280,8 @@
       "artistMbid": "95f7c24e-2879-4abb-ba35-906c467fc704",
       "albumTitle": "Mascagni: Cavalleria Rusticana & Leoncavallo: Pagliacci",
       "duration": 190,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "1978-12-03T12:00:00Z"
     },
     {
@@ -1214,7 +1290,7 @@
       "artistName": "Sir Edward Elgar",
       "artistSlug": "sir-edward-elgar",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/fd/57/fffd5762-4916-e700-0420-0c4c81aba202/mzaf_1337098699071598019.plus.aac.p.m4a",
@@ -1237,6 +1313,8 @@
       "mbid": "02aeeb35-80f4-3984-8e04-701e6f50e6f2",
       "albumTitle": "Prokofiev: Symphony No. 1, Op. 25 \"Classical Symphony\"; Britten: Simple Symphony, Op. 4; Bizet: Symphony in C Major; Elgar: Salut d'amour, Op. 12",
       "duration": 183,
+      "previousRank": 39,
+      "rankDelta": 0,
       "releaseDate": "1996-01-01T12:00:00Z"
     },
     {
@@ -1245,7 +1323,7 @@
       "artistName": "Pyotr Ilyich Tchaikovsky",
       "artistSlug": "pyotr-ilyich-tchaikovsky",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/a2/37/6ba237bd-d7c3-e7ad-19dc-41edecd25aac/mzaf_2724674515904699368.plus.aac.p.m4a",
@@ -1268,6 +1346,8 @@
       "mbid": "0958ea71-79e7-4cbd-9854-aebcfc4073a9",
       "albumTitle": "Classical Lines",
       "duration": 121,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "1989-12-08T12:00:00Z"
     },
     {
@@ -1276,7 +1356,7 @@
       "artistName": "Andrea Bocelli",
       "artistSlug": "andrea-bocelli",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/9e/9d/8e9e9d86-51dd-10c2-7a8d-8997fe626bb6/mzaf_14159137208938150472.plus.aac.p.m4a",
@@ -1300,6 +1380,8 @@
       "artistMbid": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
       "albumTitle": "The Best of Andrea Bocelli: Vivere",
       "duration": 266,
+      "previousRank": 41,
+      "rankDelta": 0,
       "releaseDate": "1995-01-01T12:00:00Z"
     },
     {
@@ -1308,7 +1390,7 @@
       "artistName": "Pyotr Ilyich Tchaikovsky",
       "artistSlug": "pyotr-ilyich-tchaikovsky",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/74/ef/5f/74ef5f66-9a4c-53bc-7063-d6bef560916d/mzaf_3954256042523450257.plus.aac.p.m4a",
@@ -1331,6 +1413,8 @@
       "mbid": "08c44d52-87e8-46cd-a9ef-57d899682b25",
       "albumTitle": "Swan Lake - Single",
       "duration": 207,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2021-12-03T12:00:00Z"
     },
     {
@@ -1339,7 +1423,7 @@
       "artistName": "Wolfgang Amadeus Mozart",
       "artistSlug": "wolfgang-amadeus-mozart",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/e8/65/cd/e865cdd7-112d-d6c9-c8b6-bd9f306fb777/mzaf_3153622389964450288.plus.aac.p.m4a",
@@ -1363,6 +1447,8 @@
       "artistMbid": "b972f589-fb0e-474e-b64a-803b0364fa75",
       "albumTitle": "Piano Classics",
       "duration": 226,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "2011-07-01T12:00:00Z"
     },
     {
@@ -1371,7 +1457,7 @@
       "artistName": "Gioacchino Rossini",
       "artistSlug": "gioacchino-rossini",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/0f/32/84/0f328482-4fa5-dc7b-78c1-e8f14f6e2c7c/mzaf_105700719636223745.plus.aac.p.m4a",
@@ -1394,6 +1480,8 @@
       "mbid": "0186f668-526e-39f1-94b5-85b987e6e518",
       "albumTitle": "Orchestral Excerpts for Cello",
       "duration": 223,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "1997-01-14T12:00:00Z"
     },
     {
@@ -1402,7 +1490,7 @@
       "artistName": "Ludovico Einaudi",
       "artistSlug": "ludovico-einaudi",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/7e/37/4a7e3771-0b91-806b-66a1-1a166d2a0ceb/mzaf_16913843404009221634.plus.aac.p.m4a",
@@ -1426,6 +1514,8 @@
       "artistMbid": "fa34b363-79df-434f-a5b8-be4e6898543f",
       "albumTitle": "Divenire (Bonus Track Version)",
       "duration": 402,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "2006-01-01T12:00:00Z"
     },
     {
@@ -1434,7 +1524,7 @@
       "artistName": "Gabriel Fauré",
       "artistSlug": "gabriel-faure",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/5a/98/3a/5a983a87-5738-2b36-de53-bd6f62030519/mzaf_12386991218361947136.plus.aac.p.m4a",
@@ -1458,6 +1548,8 @@
       "artistMbid": "fa19a8b6-e7f4-40d4-af15-7a7c41ac7d8f",
       "albumTitle": "Sacred Arias",
       "duration": 194,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "2008-01-01T12:00:00Z"
     },
     {
@@ -1466,7 +1558,7 @@
       "artistName": "Tomaso Giovanni Albinoni",
       "artistSlug": "tomaso-giovanni-albinoni",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/d2/a1/d4d2a160-5691-59c5-adbd-16103b5f06a4/mzaf_9614909248470802997.plus.aac.p.m4a",
@@ -1490,6 +1582,8 @@
       "artistMbid": "83903121-f611-4875-984c-673ae7173e56",
       "albumTitle": "Albinoni: Adagio in G Minor & 3 Concerti à cinque, Op. 7 - EP",
       "duration": 542,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "1996-01-01T12:00:00Z"
     },
     {
@@ -1498,7 +1592,7 @@
       "artistName": "Johann Sebastian Bach",
       "artistSlug": "johann-sebastian-bach",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/33/06/983306e4-f12f-e8fc-a524-01008dbd95a3/mzaf_11403262865323014925.plus.aac.p.m4a",
@@ -1522,6 +1616,8 @@
       "artistMbid": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
       "albumTitle": "Wedding: Music & Words",
       "duration": 187,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "2005-09-15T12:00:00Z"
     },
     {
@@ -1530,7 +1626,7 @@
       "artistName": "Ludwig van Beethoven",
       "artistSlug": "ludwig-van-beethoven",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/52/a4/c4/52a4c4ab-c8ff-edc2-1d9e-6d6207e3df36/mzaf_10898931435537392814.plus.aac.p.m4a",
@@ -1554,6 +1650,8 @@
       "artistMbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
       "albumTitle": "With Love... From Beethoven",
       "duration": 319,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2011-01-11T12:00:00Z"
     },
     {
@@ -1562,7 +1660,7 @@
       "artistName": "Carl Orff",
       "artistSlug": "carl-orff",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7d/c2/b4/7dc2b461-52a2-ce99-29fc-d1c09021e2b7/mzaf_4900988731167134594.plus.aac.p.m4a",
@@ -1586,10 +1684,12 @@
       "artistMbid": "0b3ee6cd-a2df-4144-adf9-7807ee7ecc4f",
       "albumTitle": "Carl Orff, Carmina Burana",
       "duration": 173,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2005-01-01T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:34:24.427Z",
+  "lastUpdated": "2026-03-02T00:52:08.311Z",
   "totalTracks": 50,
   "coverColor": "#a78bfa",
   "genre": "classical",

@@ -11,7 +11,7 @@
       "artistName": "Gorillaz",
       "artistSlug": "gorillaz",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/1a/87/621a8716-c619-33e0-d47d-e0d698cf359e/mzaf_10328858384956916010.plus.aac.p.m4a",
@@ -35,6 +35,8 @@
       "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
       "albumTitle": "Plastic Beach",
       "duration": 234,
+      "previousRank": 1,
+      "rankDelta": 0,
       "releaseDate": "2010-03-03T08:00:00Z"
     },
     {
@@ -43,7 +45,7 @@
       "artistName": "Daft Punk",
       "artistSlug": "daft-punk",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1a/3b/90/1a3b90d2-b984-b042-1822-e19f388524e0/mzaf_7080651603608009369.plus.aac.p.m4a",
@@ -67,6 +69,8 @@
       "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
       "albumTitle": "Random Access Memories",
       "duration": 338,
+      "previousRank": 2,
+      "rankDelta": 0,
       "releaseDate": "2013-05-17T07:00:00Z"
     },
     {
@@ -75,7 +79,7 @@
       "artistName": "Empire of the Sun",
       "artistSlug": "empire-of-the-sun",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/33/71/1f337152-3283-de6b-45f5-c3b4028c0998/mzaf_11304312529559775009.plus.aac.p.m4a",
@@ -99,6 +103,8 @@
       "artistMbid": "ac7e838c-3d95-47c2-92a9-81767ad7c217",
       "albumTitle": "Walking On a Dream (Special Edition)",
       "duration": 267,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "2008-09-20T07:00:00Z"
     },
     {
@@ -107,7 +113,7 @@
       "artistName": "Gorillaz",
       "artistSlug": "gorillaz",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/8f/8d/638f8d73-cce2-923c-1dee-5fec273ab2b4/mzaf_4710951047781627570.plus.aac.p.m4a",
@@ -131,6 +137,8 @@
       "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
       "albumTitle": "Work Grind",
       "duration": 223,
+      "previousRank": 4,
+      "rankDelta": 0,
       "releaseDate": "2005-05-09T12:00:00Z"
     },
     {
@@ -139,7 +147,7 @@
       "artistName": "Empire of the Sun",
       "artistSlug": "empire-of-the-sun",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/32/28/ff322824-bf6c-f621-5c2e-32dcb237edca/mzaf_15258983271916273742.plus.aac.p.m4a",
@@ -163,6 +171,8 @@
       "artistMbid": "ac7e838c-3d95-47c2-92a9-81767ad7c217",
       "albumTitle": "Walking On a Dream (Special Edition)",
       "duration": 198,
+      "previousRank": 5,
+      "rankDelta": 0,
       "releaseDate": "2008-08-30T07:00:00Z"
     },
     {
@@ -171,7 +181,7 @@
       "artistName": "Kavinsky",
       "artistSlug": "kavinsky",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/de/fd/0adefd5b-145a-1cc9-f3b5-be89fd0232b9/mzaf_4322553693875273982.plus.aac.p.m4a",
@@ -195,6 +205,8 @@
       "artistMbid": "eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa",
       "albumTitle": "Nightcall",
       "duration": 258,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2010-03-26T12:00:00Z"
     },
     {
@@ -203,7 +215,7 @@
       "artistName": "MGMT",
       "artistSlug": "mgmt",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/8b/d5/508bd543-36a8-f2b1-54ea-c35a6c47828a/mzaf_95659004074468778.plus.aac.p.m4a",
@@ -227,6 +239,8 @@
       "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
       "albumTitle": "Oracular Spectacular",
       "duration": 303,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "2007-10-02T07:00:00Z"
     },
     {
@@ -235,7 +249,7 @@
       "artistName": "Zedd",
       "artistSlug": "zedd",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/19/9d/3d199db0-f98a-65c9-f5b6-b04e845d50b6/mzaf_16026405419014533897.plus.aac.p.m4a",
@@ -259,6 +273,8 @@
       "artistMbid": "56c4b861-0922-4c3a-a9b9-3bfcb00f8274",
       "albumTitle": "Clarity",
       "duration": 272,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2012-10-02T12:00:00Z"
     },
     {
@@ -267,7 +283,7 @@
       "artistName": "Gorillaz",
       "artistSlug": "gorillaz",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/2d/d5/a02dd510-fd60-2bc2-674d-f2537eb8aee1/mzaf_8937359565574483372.plus.aac.p.m4a",
@@ -291,6 +307,8 @@
       "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
       "albumTitle": "Plastic Beach (Deluxe Version)",
       "duration": 200,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "2010-03-03T12:00:00Z"
     },
     {
@@ -299,7 +317,7 @@
       "artistName": "Calvin Harris",
       "artistSlug": "calvin-harris",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/14/88/02/1488029f-506a-e77e-2f58-34bcc0795ad1/mzaf_2015721280503636210.plus.aac.p.m4a",
@@ -323,6 +341,8 @@
       "artistMbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
       "albumTitle": "Feel So Close",
       "duration": 208,
+      "previousRank": 10,
+      "rankDelta": 0,
       "releaseDate": "2011-08-22T07:00:00Z"
     },
     {
@@ -331,7 +351,7 @@
       "artistName": "Crystal Castles",
       "artistSlug": "crystal-castles",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/df/cb/a9dfcbef-21d1-3a1a-01e7-1ba719561d30/mzaf_7810791800647027877.plus.aac.p.m4a",
@@ -355,6 +375,8 @@
       "artistMbid": "b1570544-93ab-4b2b-8398-131735394202",
       "albumTitle": "Crystal Castles",
       "duration": 258,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2007-08-13T12:00:00Z"
     },
     {
@@ -363,7 +385,7 @@
       "artistName": "Imogen Heap",
       "artistSlug": "imogen-heap",
       "rank": 12,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/93/c1/bd93c199-bff3-d467-b483-a078e2631472/mzaf_16026483049165360773.plus.aac.p.m4a",
@@ -387,6 +409,8 @@
       "artistMbid": "328d146c-79f1-4eb6-9e40-8ee5710c14e5",
       "albumTitle": "Speak for Yourself",
       "duration": 215,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2005-07-18T12:00:00Z"
     },
     {
@@ -395,27 +419,33 @@
       "artistName": "MGMT",
       "artistSlug": "mgmt",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/92/85/8e9285d6-709f-e8ec-06ba-a8ce0581ede1/mzaf_14509651326128706139.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/d8/08/66d808c0-24c9-9223-5692-7e4759ab207d/196871101424.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/d8/08/66d808c0-24c9-9223-5692-7e4759ab207d/196871101424.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/d8/08/66d808c0-24c9-9223-5692-7e4759ab207d/196871101424.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+        "lastfm": "https://www.last.fm/music/MGMT/_/Electric+Feel",
+        "itunes": "https://music.apple.com/us/album/electric-feel/1687386073?i=1687386390&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "01218288-d146-4071-836d-5c9240a4c494",
       "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
-      "duration": 229
+      "albumTitle": "Hot Summer Party Mix",
+      "duration": 230,
+      "previousRank": 13,
+      "rankDelta": 0,
+      "releaseDate": "2007-10-02T12:00:00Z"
     },
     {
       "id": "daft-punk--one-more-time",
@@ -423,7 +453,7 @@
       "artistName": "Daft Punk",
       "artistSlug": "daft-punk",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/98/96/f6/9896f638-8b47-3f76-c47e-19e43b53677c/mzaf_15900001332254520801.plus.aac.p.m4a",
@@ -447,6 +477,8 @@
       "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
       "albumTitle": "Discovery",
       "duration": 320,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "2000-11-30T08:00:00Z"
     },
     {
@@ -455,27 +487,33 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/3b/91/ab3b91fa-9c5c-1a4a-8e1d-63f94aa64be2/mzaf_13376265056463113320.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/c8/49/dcc849a3-33f9-a51d-bdba-644e20053387/artwork.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/c8/49/dcc849a3-33f9-a51d-bdba-644e20053387/artwork.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/c8/49/dcc849a3-33f9-a51d-bdba-644e20053387/artwork.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Weeknd/_/House+of+Balloons+%2F+Glass+Table+Girls"
+        "lastfm": "https://www.last.fm/music/The+Weeknd/_/House+of+Balloons+%2F+Glass+Table+Girls",
+        "itunes": "https://music.apple.com/us/album/house-of-balloons-glass-table-girls/1502366903?i=1502366904&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "001c4b89-4cd1-45ca-92c9-196cfe71c9f0",
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-      "duration": 405
+      "albumTitle": "Soundcastle Sessions - Single",
+      "duration": 315,
+      "previousRank": 15,
+      "rankDelta": 0,
+      "releaseDate": "2020-03-13T12:00:00Z"
     },
     {
       "id": "crystal-castles--vanished",
@@ -483,7 +521,7 @@
       "artistName": "Crystal Castles",
       "artistSlug": "crystal-castles",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/c8/3d/5ac83da7-f942-d504-1a17-fd5bdae696cc/mzaf_852756193334387036.plus.aac.p.m4a",
@@ -507,6 +545,8 @@
       "artistMbid": "b1570544-93ab-4b2b-8398-131735394202",
       "albumTitle": "Crystal Castles",
       "duration": 243,
+      "previousRank": 16,
+      "rankDelta": 0,
       "releaseDate": "2008-03-16T12:00:00Z"
     },
     {
@@ -515,7 +555,7 @@
       "artistName": "Depeche Mode",
       "artistSlug": "depeche-mode",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2f/ed/58/2fed5854-1c88-31ec-0e98-66b9706dd42d/mzaf_11845437215964282853.plus.aac.p.m4a",
@@ -539,6 +579,8 @@
       "artistMbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
       "albumTitle": "Violator  The 12\" Singles",
       "duration": 258,
+      "previousRank": 17,
+      "rankDelta": 0,
       "releaseDate": "1990-01-01T12:00:00Z"
     },
     {
@@ -547,7 +589,7 @@
       "artistName": "Calvin Harris",
       "artistSlug": "calvin-harris",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/1d/67/a91d67ff-f6ed-9854-293b-6464a403c032/mzaf_7782381657554339456.plus.aac.p.m4a",
@@ -570,6 +612,8 @@
       "artistMbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
       "albumTitle": "Motion",
       "duration": 227,
+      "previousRank": 18,
+      "rankDelta": 0,
       "releaseDate": "2014-10-20T07:00:00Z"
     },
     {
@@ -578,7 +622,7 @@
       "artistName": "Clean Bandit",
       "artistSlug": "clean-bandit",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0e/79/7f/0e797ff4-0094-4053-39af-2255898e804c/mzaf_8292168751841826927.plus.aac.p.m4a",
@@ -602,6 +646,8 @@
       "artistMbid": "dacc2d64-7e59-42a8-87a9-10c53919aff2",
       "albumTitle": "I Cry When I Laugh",
       "duration": 228,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2014-01-17T08:00:00Z"
     },
     {
@@ -610,7 +656,7 @@
       "artistName": "Radiohead",
       "artistSlug": "radiohead",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bd/05/e4/bd05e458-59dc-d46d-ea33-ea9c44523f57/mzaf_3986687910331329159.plus.aac.p.m4a",
@@ -634,6 +680,8 @@
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
       "albumTitle": "Kid A",
       "duration": 251,
+      "previousRank": 20,
+      "rankDelta": 0,
       "releaseDate": "2000-10-02T07:00:00Z"
     },
     {
@@ -642,7 +690,7 @@
       "artistName": "Daft Punk",
       "artistSlug": "daft-punk",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/7b/be/42/7bbe42b9-f4a1-4c5e-b040-6ecdefa3eef6/mzaf_1812693728187480506.plus.aac.p.m4a",
@@ -666,6 +714,8 @@
       "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
       "albumTitle": "Discovery",
       "duration": 233,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "2001-02-26T08:00:00Z"
     },
     {
@@ -674,7 +724,7 @@
       "artistName": "MGMT",
       "artistSlug": "mgmt",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/63/a8/19/63a819cb-938a-3f82-49c9-d898d52a1d67/mzaf_8967626079243486198.plus.aac.p.m4a",
@@ -698,6 +748,8 @@
       "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
       "albumTitle": "Oracular Spectacular",
       "duration": 263,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2007-10-02T07:00:00Z"
     },
     {
@@ -706,7 +758,7 @@
       "artistName": "Daft Punk",
       "artistSlug": "daft-punk",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7a/f8/4d/7af84d3a-fc7b-1569-766b-8adf13dab451/mzaf_3503155761614342520.plus.aac.p.m4a",
@@ -730,6 +782,8 @@
       "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
       "albumTitle": "Discovery",
       "duration": 345,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "2001-02-26T08:00:00Z"
     },
     {
@@ -738,7 +792,7 @@
       "artistName": "Daft Punk",
       "artistSlug": "daft-punk",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/bf/a6/1b/bfa61b15-a797-ec2d-ef44-bf9bfb9fab10/mzaf_9377760837375603436.plus.aac.p.m4a",
@@ -762,6 +816,8 @@
       "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
       "albumTitle": "Discovery",
       "duration": 225,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2001-02-26T08:00:00Z"
     },
     {
@@ -770,7 +826,7 @@
       "artistName": "Passion Pit",
       "artistSlug": "passion-pit",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/33/cd/05/33cd05ab-afcb-597c-df0a-940d4e0df85a/mzaf_14407020666078378320.plus.aac.p.m4a",
@@ -794,6 +850,8 @@
       "artistMbid": "daeec599-bf5d-4428-994a-e76ba5f86e2f",
       "albumTitle": "Manners (Bonus Track Version)",
       "duration": 175,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "2008-09-08T07:00:00Z"
     },
     {
@@ -802,7 +860,7 @@
       "artistName": "Santigold",
       "artistSlug": "santigold",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/18/89/8e188913-1e16-0ccc-9b2f-092d68b1c0ec/mzaf_8010931873864046371.plus.aac.p.m4a",
@@ -826,6 +884,8 @@
       "artistMbid": "97b20fe3-0924-4a5f-9955-d0b5c5f9587f",
       "albumTitle": "Master of My Make-Believe (Deluxe Version)",
       "duration": 284,
+      "previousRank": 26,
+      "rankDelta": 0,
       "releaseDate": "2012-02-14T12:00:00Z"
     },
     {
@@ -834,7 +894,7 @@
       "artistName": "M83",
       "artistSlug": "m83",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/71/5c/80/715c80fc-ebe4-e713-487c-5bdefee6c6f3/mzaf_3698387428135478316.plus.aac.p.m4a",
@@ -858,6 +918,8 @@
       "artistMbid": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
       "albumTitle": "Hurry Up, We're Dreaming",
       "duration": 241,
+      "previousRank": 27,
+      "rankDelta": 0,
       "releaseDate": "2011-07-19T07:00:00Z"
     },
     {
@@ -866,7 +928,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/70/c8/0b70c898-ec23-3131-5d17-aa7417045013/mzaf_3059117378996578649.plus.aac.p.m4a",
@@ -890,6 +952,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "Beauty Behind the Madness",
       "duration": 242,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "2015-05-27T12:00:00Z"
     },
     {
@@ -898,7 +962,7 @@
       "artistName": "Owl City",
       "artistSlug": "owl-city",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/12/64/7012647c-9251-a012-f5d4-6dd804197fae/mzaf_9158487417358931156.plus.aac.p.m4a",
@@ -922,6 +986,8 @@
       "artistMbid": "ad279295-653f-42e1-9aaa-b731df2e78ba",
       "albumTitle": "Ocean Eyes",
       "duration": 228,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "2009-01-01T12:00:00Z"
     },
     {
@@ -930,7 +996,7 @@
       "artistName": "Phantogram",
       "artistSlug": "phantogram",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/ed/b6/73edb62e-f69c-3327-2310-846a89afcf89/mzaf_15546871347246020589.plus.aac.p.m4a",
@@ -954,6 +1020,8 @@
       "artistMbid": "dfe78af2-779e-4137-826a-3073a16e3278",
       "albumTitle": "Voices",
       "duration": 224,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "2013-12-10T12:00:00Z"
     },
     {
@@ -962,7 +1030,7 @@
       "artistName": "Gorillaz",
       "artistSlug": "gorillaz",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6e/e8/f1/6ee8f1ef-55f2-1e89-bd93-e42c354f19b8/mzaf_1935759633047149975.plus.aac.p.m4a",
@@ -986,6 +1054,8 @@
       "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
       "albumTitle": "G Sides",
       "duration": 292,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "2001-03-05T08:00:00Z"
     },
     {
@@ -994,7 +1064,7 @@
       "artistName": "Avicii",
       "artistSlug": "avicii",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/1e/60/681e601f-e1f2-4ebb-37de-adf00bdf57b6/mzaf_8266263075137964740.plus.aac.p.m4a",
@@ -1018,6 +1088,8 @@
       "artistMbid": "c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5",
       "albumTitle": "True",
       "duration": 250,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2013-06-17T12:00:00Z"
     },
     {
@@ -1026,7 +1098,7 @@
       "artistName": "LCD Soundsystem",
       "artistSlug": "lcd-soundsystem",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/4f/ed/734fed68-b930-0f46-99fd-05d87663e61e/mzaf_14538867047064898061.plus.aac.p.m4a",
@@ -1050,6 +1122,8 @@
       "artistMbid": "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
       "albumTitle": "This Is Happening",
       "duration": 536,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "2010-05-17T07:00:00Z"
     },
     {
@@ -1058,7 +1132,7 @@
       "artistName": "Crystal Castles",
       "artistSlug": "crystal-castles",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/98/fe/44/98fe44d7-7eca-70e7-fb8b-93d4f37a8a90/mzaf_11174601412582346646.plus.aac.p.m4a",
@@ -1082,6 +1156,8 @@
       "artistMbid": "b1570544-93ab-4b2b-8398-131735394202",
       "albumTitle": "(III)",
       "duration": 192,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "2012-11-07T08:00:00Z"
     },
     {
@@ -1090,7 +1166,7 @@
       "artistName": "Massive Attack",
       "artistSlug": "massive-attack",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/76/46/7e/76467e19-3983-192a-406f-43cd30f8fe63/mzaf_7454703089470620689.plus.aac.p.m4a",
@@ -1114,6 +1190,8 @@
       "artistMbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
       "albumTitle": "Mezzanine",
       "duration": 380,
+      "previousRank": 35,
+      "rankDelta": 0,
       "releaseDate": "1998-04-20T07:00:00Z"
     },
     {
@@ -1122,7 +1200,7 @@
       "artistName": "3OH!3",
       "artistSlug": "3oh-3",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/25/41/70/254170a1-5706-d8ee-a678-b8979c1c4c5f/mzaf_12088316866899937918.plus.aac.p.m4a",
@@ -1146,6 +1224,8 @@
       "artistMbid": "125948ec-7f91-4d1a-8b83-accbf50fae3d",
       "albumTitle": "Want",
       "duration": 194,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "2008-06-01T07:00:00Z"
     },
     {
@@ -1154,7 +1234,7 @@
       "artistName": "Björk",
       "artistSlug": "bjork",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/13/98/e113989e-5155-be2e-db69-6345f490e60f/mzaf_948457787749352695.plus.aac.p.m4a",
@@ -1178,6 +1258,8 @@
       "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
       "albumTitle": "Post",
       "duration": 234,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "1995-04-24T07:00:00Z"
     },
     {
@@ -1186,7 +1268,7 @@
       "artistName": "Daft Punk",
       "artistSlug": "daft-punk",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9a/10/16/9a101659-7e2b-2af5-47ca-2399aa11d41d/mzaf_2308252532029859970.plus.aac.p.m4a",
@@ -1210,6 +1292,8 @@
       "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
       "albumTitle": "Discovery",
       "duration": 301,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "2001-02-26T08:00:00Z"
     },
     {
@@ -1218,7 +1302,7 @@
       "artistName": "Aphex Twin",
       "artistSlug": "aphex-twin",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e3/e9/5a/e3e95ae3-4a98-5cdd-8ccf-9a39c6c218db/mzaf_5612360604185831326.plus.aac.p.m4a",
@@ -1242,6 +1326,8 @@
       "artistMbid": "f22942a1-6f70-4f48-866e-238cb2308fbd",
       "albumTitle": "Selected Ambient Works 85-92",
       "duration": 228,
+      "previousRank": 39,
+      "rankDelta": 0,
       "releaseDate": "1992-02-12T12:00:00Z"
     },
     {
@@ -1250,7 +1336,7 @@
       "artistName": "Clams Casino",
       "artistSlug": "clams-casino",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4d/7a/35/4d7a3567-fab1-3dda-c37d-83cf093455f7/mzaf_15501880589590036149.plus.aac.p.m4a",
@@ -1274,6 +1360,8 @@
       "artistMbid": "772a0eb3-fe31-4a08-b583-690296f44900",
       "albumTitle": "Instrumental Relics",
       "duration": 278,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "2020-04-24T12:00:00Z"
     },
     {
@@ -1282,7 +1370,7 @@
       "artistName": "Crystal Castles",
       "artistSlug": "crystal-castles",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4e/67/bb/4e67bb6a-157b-89b3-82fd-613767674414/mzaf_6910265193211473233.plus.aac.p.m4a",
@@ -1306,6 +1394,8 @@
       "artistMbid": "b1570544-93ab-4b2b-8398-131735394202",
       "albumTitle": "(II)",
       "duration": 250,
+      "previousRank": 41,
+      "rankDelta": 0,
       "releaseDate": "2010-04-23T12:00:00Z"
     },
     {
@@ -1314,7 +1404,7 @@
       "artistName": "Aphex Twin",
       "artistSlug": "aphex-twin",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/88/07/1d/88071df2-b7b3-dca3-0cb1-e4cc6b036674/mzaf_1785616371015459389.plus.aac.p.m4a",
@@ -1338,6 +1428,8 @@
       "artistMbid": "f22942a1-6f70-4f48-866e-238cb2308fbd",
       "albumTitle": "Selected Ambient Works 85-92",
       "duration": 294,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "1992-02-12T12:00:00Z"
     },
     {
@@ -1346,7 +1438,7 @@
       "artistName": "Lana Del Rey",
       "artistSlug": "lana-del-rey",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/ab/c9/86abc949-717d-b99e-ccc1-2d06a10e01d6/mzaf_13331833199397738074.plus.aac.p.m4a",
@@ -1370,6 +1462,8 @@
       "artistMbid": "b7539c32-53e7-4908-bda3-81449c367da6",
       "albumTitle": "Norman Fucking Rockwell!",
       "duration": 301,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "2019-08-30T07:00:00Z"
     },
     {
@@ -1378,7 +1472,7 @@
       "artistName": "Black Eyed Peas",
       "artistSlug": "black-eyed-peas",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/3d/4d/ea3d4dd2-e02a-454a-23c4-4c22ea3847ec/mzaf_15707960469995077041.plus.aac.p.m4a",
@@ -1402,6 +1496,8 @@
       "artistMbid": "d5be5333-4171-427e-8e12-732087c6b78e",
       "albumTitle": "THE E.N.D. (THE ENERGY NEVER DIES)",
       "duration": 269,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "2009-06-03T07:00:00Z"
     },
     {
@@ -1410,7 +1506,7 @@
       "artistName": "Air",
       "artistSlug": "air",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/43/5e/09/435e094d-4b3c-07a4-5484-f81467ca7cb3/mzaf_13111533954141408106.plus.aac.p.m4a",
@@ -1434,6 +1530,8 @@
       "artistMbid": "14b22b4b-06d5-4b82-8284-29d29b58945f",
       "albumTitle": "Moon Safari",
       "duration": 298,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "1998-01-16T08:00:00Z"
     },
     {
@@ -1442,7 +1540,7 @@
       "artistName": "Ellie Goulding",
       "artistSlug": "ellie-goulding",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/51/3a/8d/513a8dab-5cd2-0403-42c3-71a0d91f8f6b/mzaf_1437937186823466848.plus.aac.p.m4a",
@@ -1466,6 +1564,8 @@
       "artistMbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
       "albumTitle": "Lights (Deluxe)",
       "duration": 246,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "2010-01-01T12:00:00Z"
     },
     {
@@ -1474,7 +1574,7 @@
       "artistName": "Daft Punk",
       "artistSlug": "daft-punk",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0e/b2/23/0eb22374-414f-2bd4-50b9-edbd6b41a16e/mzaf_8302881708192750211.plus.aac.p.m4a",
@@ -1498,6 +1598,8 @@
       "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
       "albumTitle": "Discovery",
       "duration": 213,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "2001-02-26T08:00:00Z"
     },
     {
@@ -1506,7 +1608,7 @@
       "artistName": "Radiohead",
       "artistSlug": "radiohead",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/62/54/4f/62544f47-6dcf-f1c6-94aa-6c33a56bd254/mzaf_7303879598402754582.plus.aac.p.m4a",
@@ -1530,6 +1632,8 @@
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
       "albumTitle": "Kid A",
       "duration": 200,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "2000-10-02T07:00:00Z"
     },
     {
@@ -1538,7 +1642,7 @@
       "artistName": "M.I.A.",
       "artistSlug": "m-i-a",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/18/c1/28/18c128c5-55a2-8cce-1485-7e4c9c0819e5/mzaf_14329776023466908430.plus.aac.p.m4a",
@@ -1562,6 +1666,8 @@
       "artistMbid": "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
       "albumTitle": "Kala",
       "duration": 205,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2007-08-08T07:00:00Z"
     },
     {
@@ -1570,7 +1676,7 @@
       "artistName": "Daft Punk",
       "artistSlug": "daft-punk",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ee/22/1a/ee221ab0-02dd-7290-47e7-383ad9c81e3b/mzaf_912969547193259322.plus.aac.p.m4a",
@@ -1594,10 +1700,12 @@
       "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
       "albumTitle": "Homework",
       "duration": 430,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "1997-01-20T08:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:29:09.990Z",
+  "lastUpdated": "2026-03-02T00:51:02.128Z",
   "totalTracks": 50,
   "coverColor": "#06b6d4",
   "genre": "electronic",

@@ -11,7 +11,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/37/98/e33798c6-ab13-4203-8092-87a2e638d60b/mzaf_6127986664630820149.plus.aac.p.m4a",
@@ -35,6 +35,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "The Highlights",
       "duration": 316,
+      "previousRank": 1,
+      "rankDelta": 0,
       "releaseDate": "2011-03-21T07:00:00Z"
     },
     {
@@ -43,7 +45,7 @@
       "artistName": "Tinashe",
       "artistSlug": "tinashe",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/1c/53/771c53be-73b5-25f8-97bb-8ecd51ca19cb/mzaf_17932394896412121778.plus.aac.p.m4a",
@@ -66,6 +68,8 @@
       "artistMbid": "396a9525-0994-4542-b480-c4587feeb476",
       "albumTitle": "Pure Throwback Radio: Get Right Party (DJ Mix)",
       "duration": 129,
+      "previousRank": 2,
+      "rankDelta": 0,
       "releaseDate": "2024-08-09T12:00:00Z"
     },
     {
@@ -74,7 +78,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/a8/be/2fa8be8c-4dd8-5b72-a100-855acf921275/mzaf_9274276073018723273.plus.aac.p.m4a",
@@ -98,6 +102,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "The Highlights",
       "duration": 324,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "2011-03-21T07:00:00Z"
     },
     {
@@ -106,7 +112,7 @@
       "artistName": "Beyoncé",
       "artistSlug": "beyonce",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1a/19/27/1a1927cf-35a8-573e-3897-2a6e7013cbc6/mzaf_15744090567851932481.plus.aac.p.m4a",
@@ -129,6 +135,8 @@
       "artistMbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
       "albumTitle": "Beyoncé (Deluxe)",
       "duration": 323,
+      "previousRank": 4,
+      "rankDelta": 0,
       "releaseDate": "2013-12-13T08:00:00Z"
     },
     {
@@ -137,7 +145,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/64/7a/4b/647a4b8e-ebaa-17af-7da0-85d378d77ff3/mzaf_9137541395783905292.plus.aac.p.m4a",
@@ -161,6 +169,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "Where It's At",
       "duration": 196,
+      "previousRank": 5,
+      "rankDelta": 0,
       "releaseDate": "2014-09-09T12:00:00Z"
     },
     {
@@ -169,7 +179,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/86/ef/7b/86ef7b65-1697-bf86-90d2-7d4da15972ce/mzaf_11995524161420522844.plus.aac.p.m4a",
@@ -193,6 +203,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "Beauty Behind the Madness",
       "duration": 249,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2014-07-31T12:00:00Z"
     },
     {
@@ -201,7 +213,7 @@
       "artistName": "Frank Ocean",
       "artistSlug": "frank-ocean",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8a/2c/35/8a2c35f6-ac70-560c-0a1c-516e105c6af8/mzaf_13522699475931524613.plus.aac.p.m4a",
@@ -225,6 +237,8 @@
       "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
       "albumTitle": "channel ORANGE",
       "duration": 201,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "2012-04-17T07:00:00Z"
     },
     {
@@ -233,7 +247,7 @@
       "artistName": "Frank Ocean",
       "artistSlug": "frank-ocean",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/75/bd/22/75bd222f-2d7c-670d-065b-d85830f3de2f/mzaf_13118491895806362699.plus.aac.p.m4a",
@@ -257,6 +271,8 @@
       "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
       "albumTitle": "Novacane - Single",
       "duration": 303,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2011-02-16T12:00:00Z"
     },
     {
@@ -265,7 +281,7 @@
       "artistName": "Frank Ocean",
       "artistSlug": "frank-ocean",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/df/32/7d/df327dad-dd74-11c1-4a84-107b84fd4171/mzaf_12915604616312430632.plus.aac.p.m4a",
@@ -289,6 +305,8 @@
       "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
       "albumTitle": "Swim Good Radio, Ep. 011 (DJ Mix)",
       "duration": 233,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "2022-10-08T12:00:00Z"
     },
     {
@@ -297,7 +315,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/aa/e7/d8aae726-31d9-3274-1980-641be2548b70/mzaf_9886385114410573383.plus.aac.p.m4a",
@@ -321,6 +339,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "Trilogy",
       "duration": 249,
+      "previousRank": 10,
+      "rankDelta": 0,
       "releaseDate": "2011-03-21T12:00:00Z"
     },
     {
@@ -329,7 +349,7 @@
       "artistName": "Miguel",
       "artistSlug": "miguel",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/cf/c7/1ecfc7c2-20f0-f745-2794-c71cafa5e24c/mzaf_570552830413006796.plus.aac.p.m4a",
@@ -353,6 +373,8 @@
       "artistMbid": "285e1285-aecc-478f-a8da-0c8cf69e1217",
       "albumTitle": "All I Want Is You",
       "duration": 195,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2010-11-26T08:00:00Z"
     },
     {
@@ -361,7 +383,7 @@
       "artistName": "Zendaya",
       "artistSlug": "zendaya",
       "rank": 12,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/5e/ad/905eade3-210b-52c5-d87c-d31dffcf5190/mzaf_10893098181928710492.plus.aac.p.m4a",
@@ -385,6 +407,8 @@
       "artistMbid": "5b946a83-b395-4016-b67f-c71690f9a866",
       "albumTitle": "Zendaya",
       "duration": 209,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2013-07-16T12:00:00Z"
     },
     {
@@ -393,7 +417,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/19/4a/d3194ac4-730a-b12b-b04f-e95bab0416a4/mzaf_4133956479160019549.plus.aac.p.m4a",
@@ -417,6 +441,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "Trilogy",
       "duration": 295,
+      "previousRank": 13,
+      "rankDelta": 0,
       "releaseDate": "2011-03-21T12:00:00Z"
     },
     {
@@ -425,7 +451,7 @@
       "artistName": "Jeremih",
       "artistSlug": "jeremih",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/f2/df/eaf2df4b-edba-718f-f2fe-d683f6f5e43d/mzaf_1329616471525204682.plus.aac.p.m4a",
@@ -449,6 +475,8 @@
       "artistMbid": "1c009a08-74d1-4682-bc56-8bfbe9e66b62",
       "albumTitle": "Late Nights: The Album",
       "duration": 238,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "2015-10-30T12:00:00Z"
     },
     {
@@ -457,7 +485,7 @@
       "artistName": "Usher",
       "artistSlug": "usher",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/b8/0a/a1b80a65-84ea-9a95-bd2e-d356683ac29d/mzaf_4617626773713579369.plus.aac.p.m4a",
@@ -481,6 +509,8 @@
       "artistMbid": "3414d446-735a-443c-931f-10634f57e5b9",
       "albumTitle": "Raymond v Raymond (Expanded Edition)",
       "duration": 224,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "2009-12-08T12:00:00Z"
     },
     {
@@ -489,7 +519,7 @@
       "artistName": "Miguel",
       "artistSlug": "miguel",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/66/13/51/661351bf-a3a1-3c96-4c66-04cd3144a19a/mzaf_13243965223855913867.plus.aac.p.m4a",
@@ -513,6 +543,8 @@
       "artistMbid": "285e1285-aecc-478f-a8da-0c8cf69e1217",
       "albumTitle": "Kaleidoscope Dream",
       "duration": 193,
+      "previousRank": 16,
+      "rankDelta": 0,
       "releaseDate": "2012-08-07T07:00:00Z"
     },
     {
@@ -521,7 +553,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/4d/65/e04d6546-d5ae-28bf-51fa-e4e54d737c2f/mzaf_17329746342766146939.plus.aac.p.m4a",
@@ -545,6 +577,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "Beauty Behind the Madness",
       "duration": 214,
+      "previousRank": 17,
+      "rankDelta": 0,
       "releaseDate": "2015-06-05T12:00:00Z"
     },
     {
@@ -553,7 +587,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a2/08/56/a20856b1-68a2-2b92-6d78-f245514bde19/mzaf_6361295436295872562.plus.aac.p.m4a",
@@ -577,6 +611,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "Piano Dreamers Play the Weeknd",
       "duration": 188,
+      "previousRank": 18,
+      "rankDelta": 0,
       "releaseDate": "2016-01-29T12:00:00Z"
     },
     {
@@ -585,7 +621,7 @@
       "artistName": "Frank Ocean",
       "artistSlug": "frank-ocean",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3d/9b/0e/3d9b0ead-8207-8d08-e5dd-a0e334613d3d/mzaf_7882569404908467417.plus.aac.p.m4a",
@@ -609,6 +645,8 @@
       "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
       "albumTitle": "channel ORANGE",
       "duration": 175,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2012-07-10T07:00:00Z"
     },
     {
@@ -617,7 +655,7 @@
       "artistName": "Miguel",
       "artistSlug": "miguel",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/76/4f/5c764f13-36da-d47b-1fe1-d895f0d42636/mzaf_14479033350538581906.plus.aac.p.m4a",
@@ -640,6 +678,8 @@
       "artistMbid": "285e1285-aecc-478f-a8da-0c8cf69e1217",
       "albumTitle": "All I Want Is You",
       "duration": 296,
+      "previousRank": 20,
+      "rankDelta": 0,
       "releaseDate": "2010-05-25T07:00:00Z"
     },
     {
@@ -648,7 +688,7 @@
       "artistName": "Soulja Boy",
       "artistSlug": "soulja-boy",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/9c/89/409c8921-5d6d-4dad-ad7d-341110c510e5/mzaf_16094735068113565146.plus.aac.p.m4a",
@@ -672,6 +712,8 @@
       "artistMbid": "29eead4d-3793-4625-8727-c03edbb38b8b",
       "albumTitle": "iSouljaBoyTellem (Deluxe Version)",
       "duration": 193,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "2008-01-01T12:00:00Z"
     },
     {
@@ -680,7 +722,7 @@
       "artistName": "Ne-Yo",
       "artistSlug": "ne-yo",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/50/e9/0950e9cf-d283-0d63-2e84-0a37d5ca3195/mzaf_14393928464647354794.plus.aac.p.m4a",
@@ -703,6 +745,8 @@
       "mbid": "2c2edc8a-9ae2-4fce-8a6f-913656f3e521",
       "albumTitle": "Because of You",
       "duration": 267,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2007-03-27T12:00:00Z"
     },
     {
@@ -711,7 +755,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/70/c8/0b70c898-ec23-3131-5d17-aa7417045013/mzaf_3059117378996578649.plus.aac.p.m4a",
@@ -735,6 +779,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "Beauty Behind the Madness",
       "duration": 242,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "2015-05-27T12:00:00Z"
     },
     {
@@ -743,7 +789,7 @@
       "artistName": "Ne-Yo",
       "artistSlug": "ne-yo",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/38/27/02382744-fbdb-a43d-47c2-f7bcb6e33fe2/mzaf_8317695257565968264.plus.aac.p.m4a",
@@ -766,6 +812,8 @@
       "mbid": "b4b875a9-9737-49c7-8010-5a4282f991fa",
       "albumTitle": "Year of the Gentleman (Deluxe Edition)",
       "duration": 232,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2008-07-18T07:00:00Z"
     },
     {
@@ -774,7 +822,7 @@
       "artistName": "Ariana Grande",
       "artistSlug": "ariana-grande",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/37/3c/54373c47-96a6-51e5-2e26-2e73f7b77b02/mzaf_11815172795047734465.plus.aac.p.m4a",
@@ -798,6 +846,8 @@
       "artistMbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
       "albumTitle": "Yours Truly",
       "duration": 198,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "2013-07-22T07:00:00Z"
     },
     {
@@ -806,7 +856,7 @@
       "artistName": "Doja Cat",
       "artistSlug": "doja-cat",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/06/ff/1c/06ff1c5c-0152-9f12-954d-bfe730c508bd/mzaf_9085849311451433064.plus.aac.p.m4a",
@@ -830,6 +880,8 @@
       "artistMbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
       "albumTitle": "Purrr! - EP",
       "duration": 200,
+      "previousRank": 26,
+      "rankDelta": 0,
       "releaseDate": "2014-08-05T12:00:00Z"
     },
     {
@@ -838,7 +890,7 @@
       "artistName": "Miguel",
       "artistSlug": "miguel",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c4/87/7a/c4877ad6-789e-63c2-6d95-e958271abdd7/mzaf_13898040098840831133.plus.aac.p.m4a",
@@ -862,6 +914,8 @@
       "artistMbid": "285e1285-aecc-478f-a8da-0c8cf69e1217",
       "albumTitle": "Kaleidoscope Dream",
       "duration": 273,
+      "previousRank": 27,
+      "rankDelta": 0,
       "releaseDate": "2012-09-25T07:00:00Z"
     },
     {
@@ -870,7 +924,7 @@
       "artistName": "Usher",
       "artistSlug": "usher",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/52/3c/94523c88-f5f9-16f4-dbd7-f284ca168048/mzaf_7184891920196479048.plus.aac.p.m4a",
@@ -893,6 +947,8 @@
       "artistMbid": "3414d446-735a-443c-931f-10634f57e5b9",
       "albumTitle": "Confessions (Expanded Edition)",
       "duration": 250,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "2004-01-10T08:00:00Z"
     },
     {
@@ -901,7 +957,7 @@
       "artistName": "Frank Ocean",
       "artistSlug": "frank-ocean",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/08/a6/13/08a61334-ceba-5701-958e-ba25e9940c57/mzaf_9271411015986175346.plus.aac.p.m4a",
@@ -925,6 +981,8 @@
       "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
       "albumTitle": "Swim Good - Single",
       "duration": 257,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "2011-02-16T12:00:00Z"
     },
     {
@@ -933,7 +991,7 @@
       "artistName": "Rihanna",
       "artistSlug": "rihanna",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/6a/f9/256af959-c0bc-c99b-3c1b-86c4a6234820/mzaf_2770308483348181381.plus.aac.p.m4a",
@@ -956,6 +1014,8 @@
       "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
       "albumTitle": "ANTI (Deluxe)",
       "duration": 161,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "2016-01-28T08:00:00Z"
     },
     {
@@ -964,7 +1024,7 @@
       "artistName": "Beyoncé",
       "artistSlug": "beyonce",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/c6/81/aac681cc-7d5e-c666-7c96-92d8855a69dd/mzaf_4731002743406288958.plus.aac.p.m4a",
@@ -988,6 +1048,8 @@
       "artistMbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
       "albumTitle": "BEYONCÉ (Platinum Edition)",
       "duration": 310,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "2013-12-13T08:00:00Z"
     },
     {
@@ -996,7 +1058,7 @@
       "artistName": "Trey Songz",
       "artistSlug": "trey-songz",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7d/45/cf/7d45cf05-92bb-7153-2232-ce9e4e39c380/mzaf_4906502614605264321.plus.aac.p.m4a",
@@ -1020,6 +1082,8 @@
       "artistMbid": "4d7304f6-7fe3-4959-9d98-01a5af84afe6",
       "albumTitle": "Passion, Pain & Pleasure (Deluxe Version)",
       "duration": 244,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2010-09-14T12:00:00Z"
     },
     {
@@ -1028,7 +1092,7 @@
       "artistName": "Beyoncé",
       "artistSlug": "beyonce",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/85/7a/0f/857a0fa7-8004-a029-b868-73ad740ebdc6/mzaf_2183155558535363804.plus.aac.p.m4a",
@@ -1052,6 +1116,8 @@
       "artistMbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
       "albumTitle": "Beyoncé (Deluxe)",
       "duration": 258,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "2013-12-13T08:00:00Z"
     },
     {
@@ -1060,7 +1126,7 @@
       "artistName": "Beyoncé",
       "artistSlug": "beyonce",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b3/60/99/b3609976-6063-32aa-32dc-ccb8d0562942/mzaf_9314376840175232734.plus.aac.p.m4a",
@@ -1084,6 +1150,8 @@
       "artistMbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
       "albumTitle": "BEYONCÉ",
       "duration": 216,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "2013-12-13T08:00:00Z"
     },
     {
@@ -1092,7 +1160,7 @@
       "artistName": "Jay Sean",
       "artistSlug": "jay-sean",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7f/68/a8/7f68a83f-5c9f-70a7-149c-aa8cf5730338/mzaf_5106748025047640095.plus.aac.p.m4a",
@@ -1116,6 +1184,8 @@
       "artistMbid": "e03cf5b6-d2ec-4465-adee-226b518bcfcd",
       "albumTitle": "My Own Way (Deluxe)",
       "duration": 190,
+      "previousRank": 35,
+      "rankDelta": 0,
       "releaseDate": "2008-01-21T12:00:00Z"
     },
     {
@@ -1124,7 +1194,7 @@
       "artistName": "Tinashe",
       "artistSlug": "tinashe",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/06/dc/3906dce9-7471-00b3-bdb0-2fceee620b6a/mzaf_15871232243208709255.plus.aac.p.m4a",
@@ -1148,6 +1218,8 @@
       "artistMbid": "396a9525-0994-4542-b480-c4587feeb476",
       "albumTitle": "Aquarius",
       "duration": 221,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "2014-10-03T07:00:00Z"
     },
     {
@@ -1156,7 +1228,7 @@
       "artistName": "Justin Timberlake",
       "artistSlug": "justin-timberlake",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/37/fe/3737fe32-32d0-365e-8156-6a6aa05dee98/mzaf_756686812560023386.plus.aac.p.m4a",
@@ -1180,6 +1252,8 @@
       "artistMbid": "596ffa74-3d08-44ef-b113-765d43d12738",
       "albumTitle": "The 20/20 Experience (Deluxe Version)",
       "duration": 482,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2013-03-15T12:00:00Z"
     },
     {
@@ -1188,7 +1262,7 @@
       "artistName": "Ne-Yo",
       "artistSlug": "ne-yo",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/28/9b/c6289b7b-41a7-f22d-4035-36f5c83e2d92/mzaf_11214686431870971603.plus.aac.p.m4a",
@@ -1211,6 +1285,8 @@
       "mbid": "8b646c19-06a0-49d1-b02b-0fc0cae2229b",
       "albumTitle": "Year of the Gentleman (Deluxe Edition)",
       "duration": 255,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "2008-09-16T07:00:00Z"
     },
     {
@@ -1219,7 +1295,7 @@
       "artistName": "Tory Lanez",
       "artistSlug": "tory-lanez",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/12/28/25/12282569-83ee-e62f-9b05-480be0a03a9c/mzaf_15219827712367353837.plus.aac.p.m4a",
@@ -1243,6 +1319,8 @@
       "artistMbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
       "albumTitle": "I Told You",
       "duration": 238,
+      "previousRank": 39,
+      "rankDelta": 0,
       "releaseDate": "2015-10-23T12:00:00Z"
     },
     {
@@ -1251,7 +1329,7 @@
       "artistName": "Ciara",
       "artistSlug": "ciara",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/74/36/147436fe-c296-4bb1-47a2-48e0aa8c770a/mzaf_5770196566134546782.plus.aac.p.m4a",
@@ -1275,6 +1353,8 @@
       "artistMbid": "03172286-f7ed-4864-a4db-459cd5ca9790",
       "albumTitle": "Ciara",
       "duration": 234,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "2013-03-08T08:00:00Z"
     },
     {
@@ -1283,7 +1363,7 @@
       "artistName": "Frank Ocean",
       "artistSlug": "frank-ocean",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3d/9b/0e/3d9b0ead-8207-8d08-e5dd-a0e334613d3d/mzaf_7882569404908467417.plus.aac.p.m4a",
@@ -1307,6 +1387,8 @@
       "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
       "albumTitle": "channel ORANGE",
       "duration": 175,
+      "previousRank": 41,
+      "rankDelta": 0,
       "releaseDate": "2012-07-10T07:00:00Z"
     },
     {
@@ -1315,7 +1397,7 @@
       "artistName": "Justin Timberlake",
       "artistSlug": "justin-timberlake",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/c5/a3/90c5a3e3-dcef-3b38-b09a-500a26f55881/mzaf_15986149368255685189.plus.aac.p.m4a",
@@ -1339,6 +1421,8 @@
       "artistMbid": "596ffa74-3d08-44ef-b113-765d43d12738",
       "albumTitle": "TKO (Radio Edit) - Single",
       "duration": 289,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2013-09-20T07:00:00Z"
     },
     {
@@ -1347,7 +1431,7 @@
       "artistName": "Ciara",
       "artistSlug": "ciara",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/12/66/4f1266ae-d85e-2824-d6bd-31c193b084a5/mzaf_8828668328324087561.plus.aac.p.m4a",
@@ -1370,6 +1454,8 @@
       "artistMbid": "03172286-f7ed-4864-a4db-459cd5ca9790",
       "albumTitle": "The Evolution (Bonus Track Edition)",
       "duration": 262,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "2006-07-25T07:00:00Z"
     },
     {
@@ -1378,7 +1464,7 @@
       "artistName": "The Weeknd",
       "artistSlug": "the-weeknd",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/4b/d8/144bd87a-126b-d595-da75-e9bf4869e2b5/mzaf_2056726508237426543.plus.aac.p.m4a",
@@ -1402,6 +1488,8 @@
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
       "albumTitle": "Trilogy",
       "duration": 343,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "2011-03-21T12:00:00Z"
     },
     {
@@ -1410,7 +1498,7 @@
       "artistName": "Justin Timberlake",
       "artistSlug": "justin-timberlake",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d1/ea/7e/d1ea7e37-3567-e255-681b-5f15e26501b5/mzaf_13611209322918922013.plus.aac.p.m4a",
@@ -1434,6 +1522,8 @@
       "artistMbid": "596ffa74-3d08-44ef-b113-765d43d12738",
       "albumTitle": "The 20/20 Experience (Deluxe Version)",
       "duration": 407,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "2013-03-15T12:00:00Z"
     },
     {
@@ -1442,7 +1532,7 @@
       "artistName": "Aaliyah",
       "artistSlug": "aaliyah",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/a7/94/e6a79465-5288-fd08-c77c-636b40deeb52/mzaf_1527643245109379762.plus.aac.p.m4a",
@@ -1466,6 +1556,8 @@
       "artistMbid": "bc85da58-52d9-457d-ae8d-5d8d4ec870a9",
       "albumTitle": "Ultimate Aaliyah",
       "duration": 257,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "2000-03-28T12:00:00Z"
     },
     {
@@ -1474,7 +1566,7 @@
       "artistName": "PARTYNEXTDOOR",
       "artistSlug": "partynextdoor",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/61/a7/f1/61a7f125-0cb5-b961-381c-92f611ae9d69/mzaf_17905438165659239937.plus.aac.p.m4a",
@@ -1497,6 +1589,8 @@
       "artistMbid": "f23ef341-33bd-47c1-b83c-846a78581f05",
       "albumTitle": "PARTYNEXTDOOR TWO",
       "duration": 311,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "2014-07-29T12:00:00Z"
     },
     {
@@ -1505,7 +1599,7 @@
       "artistName": "Rihanna",
       "artistSlug": "rihanna",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/35/f9/88/35f98845-9d21-3a5b-c5ac-5c4ce979c328/mzaf_3751491420467703681.plus.aac.p.m4a",
@@ -1529,6 +1623,8 @@
       "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
       "albumTitle": "Def Jam 40: R&B, Lovers (DJ Mix)",
       "duration": 108,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "2024-02-16T12:00:00Z"
     },
     {
@@ -1537,7 +1633,7 @@
       "artistName": "Beyoncé",
       "artistSlug": "beyonce",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/2d/e2/e9/2de2e9bd-f7fe-2402-673b-d0b4a4313d46/mzaf_2220946249864182868.plus.aac.p.m4a",
@@ -1561,6 +1657,8 @@
       "artistMbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
       "albumTitle": "Dangerously in Love",
       "duration": 293,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2003-06-23T07:00:00Z"
     },
     {
@@ -1569,7 +1667,7 @@
       "artistName": "Ray J",
       "artistSlug": "ray-j",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a9/7b/16/a97b1649-8612-5f94-d9c8-d4e3313cc67b/mzaf_6828136440435046454.plus.aac.p.m4a",
@@ -1593,10 +1691,12 @@
       "artistMbid": "9a07de5c-37e5-4907-ac77-ba9674a9bd6a",
       "albumTitle": "Raydiation",
       "duration": 338,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2005-09-05T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:29:20.517Z",
+  "lastUpdated": "2026-03-02T00:51:12.620Z",
   "totalTracks": 50,
   "coverColor": "#8b5cf6",
   "genre": "r&b",

@@ -11,27 +11,33 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/05/f3/7c/05f37c83-a7d3-7cca-b4b0-21dd92082308/mzaf_2099096839449406905.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e8/a7/f8/e8a7f897-1390-365d-cc31-d41599beecba/00602527398549.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e8/a7/f8/e8a7f897-1390-365d-cc31-d41599beecba/00602527398549.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e8/a7/f8/e8a7f897-1390-365d-cc31-d41599beecba/00602527398549.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sido/_/Augen+auf"
+        "lastfm": "https://www.last.fm/music/Sido/_/Augen+auf",
+        "itunes": "https://music.apple.com/us/album/augen-auf-feat-canzonetta-kinderchor-unplugged-version/1442684533?i=1442685642&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "10aa8ca1-bdf1-392b-90e0-62ea8926fcc4",
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
-      "duration": 231
+      "albumTitle": "MTV Unplugged Live aus'm MV",
+      "duration": 235,
+      "previousRank": 1,
+      "rankDelta": 0,
+      "releaseDate": "2010-05-21T12:00:00Z"
     },
     {
       "id": "bushido--sonnenbank-flavour",
@@ -39,7 +45,7 @@
       "artistName": "Bushido",
       "artistSlug": "bushido",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": null,
@@ -59,7 +65,9 @@
       ],
       "mbid": "00e871d7-a0b6-385f-9cef-744783529ff5",
       "artistMbid": "13246906-ec3b-4ec5-bc2f-f7ca802facea",
-      "duration": 222
+      "duration": 222,
+      "previousRank": 2,
+      "rankDelta": 0
     },
     {
       "id": "sido--herz",
@@ -67,7 +75,7 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6f/e5/43/6fe54390-9c24-0eae-fa5f-4b9276ed1d6c/mzaf_13735100472360741587.plus.aac.p.m4a",
@@ -91,6 +99,8 @@
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
       "albumTitle": "Mit Dir - Single",
       "duration": 170,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "2021-11-18T12:00:00Z"
     },
     {
@@ -99,7 +109,7 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": null,
@@ -119,7 +129,9 @@
       ],
       "mbid": "15b4a83e-c6f0-3ab4-abb0-595406c102c9",
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
-      "duration": 228
+      "duration": 228,
+      "previousRank": 4,
+      "rankDelta": 0
     },
     {
       "id": "k-i-z--hahnenkampf",
@@ -127,7 +139,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6b/f7/1f/6bf71f60-8330-0b21-9ee4-7daff44ad789/mzaf_9307162679345103321.plus.aac.p.m4a",
@@ -150,6 +162,8 @@
       "mbid": "33564ac0-ae19-4f60-bed7-0d1a799267bf",
       "albumTitle": "Hahnenkampf",
       "duration": 233,
+      "previousRank": 5,
+      "rankDelta": 0,
       "releaseDate": "2007-01-01T12:00:00Z"
     },
     {
@@ -158,7 +172,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d6/61/ff/d661ff34-5a58-b307-9a0b-01eb1ec4d92a/mzaf_1547583348196465416.plus.aac.p.m4a",
@@ -181,6 +195,8 @@
       "mbid": "00739a3c-1f67-4798-a192-900b2135039e",
       "albumTitle": "Hahnenkampf",
       "duration": 260,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2007-01-01T12:00:00Z"
     },
     {
@@ -189,7 +205,7 @@
       "artistName": "Kool Savas",
       "artistSlug": "kool-savas",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/63/13/13/6313136f-cdde-f311-5bcd-b4ec5467d186/mzaf_6880473358296071396.plus.aac.p.m4a",
@@ -213,6 +229,8 @@
       "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
       "albumTitle": "Die John Bello Story",
       "duration": 335,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "2005-03-14T08:00:00Z"
     },
     {
@@ -221,7 +239,7 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/75/2a/32/752a3293-ee04-3d70-246b-8639a46703c8/mzaf_13803793348066211359.plus.aac.p.m4a",
@@ -245,6 +263,8 @@
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
       "albumTitle": "Schlechtes Vorbild - EP",
       "duration": 206,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2006-12-01T12:00:00Z"
     },
     {
@@ -253,7 +273,7 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/dc/5a/fcdc5a8e-a34c-7d46-981b-fcc3b87863e3/mzaf_13484013003048468306.plus.aac.p.m4a",
@@ -277,6 +297,8 @@
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
       "albumTitle": "MTV Unplugged Live aus'm MV",
       "duration": 190,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "2010-05-21T12:00:00Z"
     },
     {
@@ -285,7 +307,7 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/fd/7b/df/fd7bdf32-6a98-cbf9-0da0-926d7e5ad502/mzaf_5228006619888052335.plus.aac.p.m4a",
@@ -309,6 +331,8 @@
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
       "albumTitle": "Ich (Premium Edition)",
       "duration": 253,
+      "previousRank": 10,
+      "rankDelta": 0,
       "releaseDate": "2006-12-01T12:00:00Z"
     },
     {
@@ -317,7 +341,7 @@
       "artistName": "Bausa",
       "artistSlug": "bausa",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/10/43/ab/1043ab56-caae-9c6d-32ac-6112ba45ad76/mzaf_7030068956618894615.plus.aac.p.m4a",
@@ -341,6 +365,8 @@
       "artistMbid": "34739a84-b388-4cea-9e77-2609fadd8bb7",
       "albumTitle": "Was Du Liebe nennst - Single",
       "duration": 204,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2017-09-01T12:00:00Z"
     },
     {
@@ -349,7 +375,7 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 12,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/6b/1e/c5/6b1ec5d0-82a7-0d90-4233-8e6ec00a8986/mzaf_15178162059973366408.plus.aac.p.m4a",
@@ -373,6 +399,8 @@
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
       "albumTitle": "Mein Block (Remixes)",
       "duration": 299,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2004-04-05T12:00:00Z"
     },
     {
@@ -381,7 +409,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ff/e4/bc/ffe4bcfa-cdc6-0b5b-bd8f-f13e35b49846/mzaf_12783195866707886830.plus.aac.p.m4a",
@@ -404,6 +432,8 @@
       "mbid": "13014217-fc4c-4b44-8b7d-fef67581ce37",
       "albumTitle": "Hahnenkampf (Live)",
       "duration": 240,
+      "previousRank": 13,
+      "rankDelta": 0,
       "releaseDate": "2007-01-01T12:00:00Z"
     },
     {
@@ -412,27 +442,33 @@
       "artistName": "Kool Savas",
       "artistSlug": "kool-savas",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9b/2d/f5/9b2df583-eb75-ad72-ac22-a8a2cc57041e/mzaf_10094282516119957252.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/0e/36/310e36ab-19a8-49ff-0b74-c2c4529cded3/888880333964.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/0e/36/310e36ab-19a8-49ff-0b74-c2c4529cded3/888880333964.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/0e/36/310e36ab-19a8-49ff-0b74-c2c4529cded3/888880333964.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kool+Savas/_/Tot+oder+lebendig"
+        "lastfm": "https://www.last.fm/music/Kool+Savas/_/Tot+oder+lebendig",
+        "itunes": "https://music.apple.com/us/album/tot-oder-lebendig/267625281?i=267625608&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "5bf9cc8d-df81-4f4e-b27b-843d29a54266",
       "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
-      "duration": 241
+      "albumTitle": "Tot oder lebendig",
+      "duration": 241,
+      "previousRank": 14,
+      "rankDelta": 0,
+      "releaseDate": "2007-11-02T12:00:00Z"
     },
     {
       "id": "sido--ein-teil-von-mir",
@@ -440,7 +476,7 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/f2/69/62/f26962fe-d596-09fa-9af2-f075aa382748/mzaf_587226310802215224.plus.aac.p.m4a",
@@ -464,6 +500,8 @@
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
       "albumTitle": "Ich (Premium Edition)",
       "duration": 213,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "2006-12-01T12:00:00Z"
     },
     {
@@ -472,27 +510,33 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/20/de/86/20de86fa-1492-2c22-5cf0-d79d8cb6ad76/mzaf_17957575076766361171.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e8/a7/f8/e8a7f897-1390-365d-cc31-d41599beecba/00602527398549.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e8/a7/f8/e8a7f897-1390-365d-cc31-d41599beecba/00602527398549.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e8/a7/f8/e8a7f897-1390-365d-cc31-d41599beecba/00602527398549.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sido/_/Mein+Testament"
+        "lastfm": "https://www.last.fm/music/Sido/_/Mein+Testament",
+        "itunes": "https://music.apple.com/us/album/mein-testament-unplugged-version/1442684533?i=1442685911&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "05270b14-f8c8-33ed-9416-81af546a114e",
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
-      "duration": 259
+      "albumTitle": "MTV Unplugged Live aus'm MV",
+      "duration": 291,
+      "previousRank": 16,
+      "rankDelta": 0,
+      "releaseDate": "2010-05-21T12:00:00Z"
     },
     {
       "id": "sido--nein-feat-doreen",
@@ -500,7 +544,7 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/fa/55/4ffa55c8-fda8-06a8-c167-47bcac4a41db/mzaf_7986446269038891445.plus.aac.p.m4a",
@@ -523,6 +567,8 @@
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
       "albumTitle": "MTV Unplugged Live aus'm MV",
       "duration": 273,
+      "previousRank": 17,
+      "rankDelta": 0,
       "releaseDate": "2010-05-21T12:00:00Z"
     },
     {
@@ -531,7 +577,7 @@
       "artistName": "Bushido",
       "artistSlug": "bushido",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b4/b3/7c/b4b37c14-aa36-209f-87f1-94b7557d4329/mzaf_6525970510782547156.plus.aac.p.m4a",
@@ -555,6 +601,8 @@
       "artistMbid": "13246906-ec3b-4ec5-bc2f-f7ca802facea",
       "albumTitle": "Heavy Metal Payback (Live)",
       "duration": 129,
+      "previousRank": 18,
+      "rankDelta": 0,
       "releaseDate": "2009-01-12T12:00:00Z"
     },
     {
@@ -563,7 +611,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": null,
@@ -582,7 +630,9 @@
         "lastfm"
       ],
       "mbid": "43ab5bbf-34b5-3572-a6f3-fa72ab5405be",
-      "duration": 247
+      "duration": 247,
+      "previousRank": 19,
+      "rankDelta": 0
     },
     {
       "id": "alligatoah--amnesie",
@@ -590,7 +640,7 @@
       "artistName": "Alligatoah",
       "artistSlug": "alligatoah",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e0/74/25/e0742583-df78-5701-6fdb-da26a39fd76a/mzaf_13910599129815185948.plus.aac.p.m4a",
@@ -614,6 +664,8 @@
       "artistMbid": "ebf76ca6-a2c5-4d3a-8e84-7fa3be9e22ab",
       "albumTitle": "Triebwerke (Premium Edition)",
       "duration": 242,
+      "previousRank": 20,
+      "rankDelta": 0,
       "releaseDate": "2013-08-02T12:00:00Z"
     },
     {
@@ -622,7 +674,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": null,
@@ -641,7 +693,9 @@
         "lastfm"
       ],
       "mbid": "5ff85ff6-65fb-49f0-9dcc-8482e57e0f5b",
-      "duration": 239
+      "duration": 239,
+      "previousRank": 21,
+      "rankDelta": 0
     },
     {
       "id": "massiv--wenn-der-mond-in-mein-ghetto-kracht",
@@ -649,7 +703,7 @@
       "artistName": "Massiv",
       "artistSlug": "massiv",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ae/5a/de/ae5adedb-849d-9c8f-c80a-49a4f3684539/mzaf_11850033826046877224.plus.aac.p.m4a",
@@ -673,6 +727,8 @@
       "artistMbid": "3b0c9154-8933-43c2-85dc-494feed4b034",
       "albumTitle": "Ein Mann ein Wort 2 (Premium Edition)",
       "duration": 169,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2015-05-29T12:00:00Z"
     },
     {
@@ -681,26 +737,32 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d6/42/9f/d6429f26-2d31-009e-729f-26f99b09c911/mzaf_14044479516751823796.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6d/9c/69/6d9c6941-9fca-4f25-dd4c-bc3148a939cc/00602527715223.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6d/9c/69/6d9c6941-9fca-4f25-dd4c-bc3148a939cc/00602527715223.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6d/9c/69/6d9c6941-9fca-4f25-dd4c-bc3148a939cc/00602527715223.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/K.I.Z./_/Urlaub+f%C3%BCrs+Gehirn"
+        "lastfm": "https://www.last.fm/music/K.I.Z./_/Urlaub+f%C3%BCrs+Gehirn",
+        "itunes": "https://music.apple.com/us/album/urlaub-f%C3%BCrs-gehirn/1440779234?i=1440779446&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0e4e647a-9381-4fe5-ae09-7a3163edf254",
-      "duration": 242
+      "albumTitle": "Urlaub fürs Gehirn",
+      "duration": 242,
+      "previousRank": 23,
+      "rankDelta": 0,
+      "releaseDate": "2011-01-01T12:00:00Z"
     },
     {
       "id": "k-i-z--walpurgisnacht",
@@ -708,7 +770,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b2/71/79/b2717907-6bab-7754-84d1-fc7cb9b9cb54/mzaf_1145267453976503430.plus.aac.p.m4a",
@@ -731,6 +793,8 @@
       "mbid": "103e0c64-ef21-4d17-86a2-902e86065c21",
       "albumTitle": "Hahnenkampf",
       "duration": 301,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2007-01-01T12:00:00Z"
     },
     {
@@ -739,7 +803,7 @@
       "artistName": "SXTN",
       "artistSlug": "sxtn",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6c/fc/d2/6cfcd23f-eb74-ccf3-dd77-ab6baa2b97cf/mzaf_7702746498557768568.plus.aac.p.m4a",
@@ -763,6 +827,8 @@
       "artistMbid": "a13271fa-1c00-4685-b963-6ecbbf32784d",
       "albumTitle": "Leben am Limit",
       "duration": 287,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "2017-06-02T12:00:00Z"
     },
     {
@@ -771,7 +837,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d6/61/ff/d661ff34-5a58-b307-9a0b-01eb1ec4d92a/mzaf_1547583348196465416.plus.aac.p.m4a",
@@ -794,6 +860,8 @@
       "mbid": "08095996-24a7-42ae-b06c-db14f2d2a892",
       "albumTitle": "Hahnenkampf",
       "duration": 260,
+      "previousRank": 26,
+      "rankDelta": 0,
       "releaseDate": "2007-01-01T12:00:00Z"
     },
     {
@@ -802,7 +870,7 @@
       "artistName": "Hanybal",
       "artistSlug": "hanybal",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": null,
@@ -821,7 +889,9 @@
         "lastfm"
       ],
       "artistMbid": "85a61172-e8df-4887-b10e-d4873727161f",
-      "duration": 200
+      "duration": 200,
+      "previousRank": 27,
+      "rankDelta": 0
     },
     {
       "id": "bushido--outro",
@@ -829,7 +899,7 @@
       "artistName": "Bushido",
       "artistSlug": "bushido",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5d/8f/3c/5d8f3cd2-d035-f42d-e1e1-83150ce8ddb7/mzaf_3472354334879837098.plus.aac.p.m4a",
@@ -853,6 +923,8 @@
       "artistMbid": "13246906-ec3b-4ec5-bc2f-f7ca802facea",
       "albumTitle": "Heavy Metal Payback",
       "duration": 109,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "2008-10-10T12:00:00Z"
     },
     {
@@ -861,7 +933,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/18/19/c51819b8-b9fd-0de3-a302-6b8aa9a7c83a/mzaf_13809429040525937669.plus.aac.p.m4a",
@@ -884,6 +956,8 @@
       "mbid": "02647b68-f462-3044-a530-bb752ba2fc8c",
       "albumTitle": "Hahnenkampf",
       "duration": 232,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "2007-01-01T12:00:00Z"
     },
     {
@@ -892,7 +966,7 @@
       "artistName": "Sido",
       "artistSlug": "sido",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/12/23/be/1223be89-cc2b-5f29-b765-d71be9d40626/mzaf_9844538568424224332.plus.aac.p.m4a",
@@ -916,6 +990,8 @@
       "artistMbid": "3caf69c1-fdd8-44bc-b0a5-8af3ad8a47cd",
       "albumTitle": "Scheiss drauf! (Mallorca ist nur einmal im Jahr) - Single",
       "duration": 212,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "2013-06-14T12:00:00Z"
     },
     {
@@ -924,7 +1000,7 @@
       "artistName": "Kool Savas",
       "artistSlug": "kool-savas",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e1/85/cf/e185cfbf-b6e3-274e-23b0-f41af9877cd5/mzaf_10239662113822442164.plus.aac.p.m4a",
@@ -948,6 +1024,8 @@
       "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
       "albumTitle": "Aura (Deluxe Version)",
       "duration": 168,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "2011-10-21T07:00:00Z"
     },
     {
@@ -956,7 +1034,7 @@
       "artistName": "Dardan",
       "artistSlug": "dardan",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": null,
@@ -976,7 +1054,9 @@
       ],
       "mbid": "2dc43458-f477-401e-9e85-8e463584b124",
       "artistMbid": "a6a38c17-ba87-428d-9a87-6ca95e87b89f",
-      "duration": 193
+      "duration": 193,
+      "previousRank": 32,
+      "rankDelta": 0
     },
     {
       "id": "sxtn--von-party-zu-party",
@@ -984,7 +1064,7 @@
       "artistName": "SXTN",
       "artistSlug": "sxtn",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ff/ac/7d/ffac7d77-a98c-157b-f6d8-8351fce318e7/mzaf_11796100571288829295.plus.aac.p.m4a",
@@ -1008,6 +1088,8 @@
       "artistMbid": "a13271fa-1c00-4685-b963-6ecbbf32784d",
       "albumTitle": "Leben am Limit",
       "duration": 224,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "2017-06-02T12:00:00Z"
     },
     {
@@ -1016,7 +1098,7 @@
       "artistName": "Prinz Pi",
       "artistSlug": "prinz-pi",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b8/1f/1e/b81f1ef1-7fc1-3b73-84be-113ad2bd4789/mzaf_7317354110514590801.plus.aac.p.m4a",
@@ -1040,6 +1122,8 @@
       "artistMbid": "8e4e1dff-978a-482f-8d18-30d7998dd209",
       "albumTitle": "Du bist - EP",
       "duration": 240,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "2011-01-14T12:00:00Z"
     },
     {
@@ -1048,7 +1132,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/57/f3/1f/57f31f09-6e0b-876e-fcde-9c7aa941ee4e/mzaf_6137911254315700714.plus.aac.p.m4a",
@@ -1071,6 +1155,8 @@
       "mbid": "2c155732-3862-46d0-a955-5a03df9b8d4c",
       "albumTitle": "Hahnenkampf",
       "duration": 189,
+      "previousRank": 35,
+      "rankDelta": 0,
       "releaseDate": "2007-01-01T12:00:00Z"
     },
     {
@@ -1079,7 +1165,7 @@
       "artistName": "Kool Savas",
       "artistSlug": "kool-savas",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/92/ec/a6/92eca6f5-e368-bf67-4054-9a6416237a30/mzaf_9307940196701612621.plus.aac.p.m4a",
@@ -1103,6 +1189,8 @@
       "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
       "albumTitle": "Der beste Tag meines Lebens",
       "duration": 207,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "2002-11-04T12:00:00Z"
     },
     {
@@ -1111,7 +1199,7 @@
       "artistName": "Kontra K",
       "artistSlug": "kontra-k",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/16/b8/7d/16b87d6c-682a-2400-f02e-667b7de4ef0a/mzaf_12309064481268802297.plus.aac.p.m4a",
@@ -1135,6 +1223,8 @@
       "artistMbid": "6b25f301-8144-4e5b-80b9-0b23ce6dbab7",
       "albumTitle": "Wölfe - EP",
       "duration": 234,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2014-07-04T07:00:00Z"
     },
     {
@@ -1143,7 +1233,7 @@
       "artistName": "Kitty Kat",
       "artistSlug": "kitty-kat",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/92/a7/67/92a76757-b005-7098-e37c-21fe388764cb/mzaf_18316556975115546613.plus.aac.p.m4a",
@@ -1167,6 +1257,8 @@
       "artistMbid": "5def9b38-6ed9-4268-a4c8-20d88b744b8d",
       "albumTitle": "MIYO!",
       "duration": 198,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "2009-09-04T12:00:00Z"
     },
     {
@@ -1175,27 +1267,33 @@
       "artistName": "Die Firma",
       "artistSlug": "die-firma",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/36/4b/cd/364bcdce-beda-7bb6-d50e-cc4b3e214e04/mzaf_15195322311735377886.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ca/45/47/ca454706-9c87-a257-18e3-447a68d8598b/cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ca/45/47/ca454706-9c87-a257-18e3-447a68d8598b/cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ca/45/47/ca454706-9c87-a257-18e3-447a68d8598b/cover.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Die+Firma/_/Gl%C3%BCcksprinzip"
+        "lastfm": "https://www.last.fm/music/Die+Firma/_/Gl%C3%BCcksprinzip",
+        "itunes": "https://music.apple.com/us/album/gl%C3%BCcksprinzip/1515960902?i=1515961345&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0edf58ab-04c6-3c63-9f71-d75558d8e219",
       "artistMbid": "59167929-4f18-49d3-b62d-45ff782249ee",
-      "duration": 218
+      "albumTitle": "Goldene Zeiten",
+      "duration": 218,
+      "previousRank": 39,
+      "rankDelta": 0,
+      "releaseDate": "2007-08-03T12:00:00Z"
     },
     {
       "id": "trailerpark--sterben-kannst-du-uberall",
@@ -1203,7 +1301,7 @@
       "artistName": "Trailerpark",
       "artistSlug": "trailerpark",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": null,
@@ -1223,7 +1321,9 @@
       ],
       "mbid": "1adb968a-fa92-466c-8dd4-4708b4b78a2b",
       "artistMbid": "64d73a2c-714e-48d5-95ab-bc1f406bcc71",
-      "duration": 247
+      "duration": 247,
+      "previousRank": 40,
+      "rankDelta": 0
     },
     {
       "id": "trailerpark--fledermausland-bonus-track",
@@ -1231,7 +1331,7 @@
       "artistName": "Trailerpark",
       "artistSlug": "trailerpark",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": null,
@@ -1249,7 +1349,9 @@
       "dataSources": [
         "lastfm"
       ],
-      "artistMbid": "64d73a2c-714e-48d5-95ab-bc1f406bcc71"
+      "artistMbid": "64d73a2c-714e-48d5-95ab-bc1f406bcc71",
+      "previousRank": 41,
+      "rankDelta": 0
     },
     {
       "id": "k-i-z--freiwild",
@@ -1257,7 +1359,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/55/93/2c/55932c5f-9f87-03b1-a819-221858860b72/mzaf_5466813453689720445.plus.aac.p.m4a",
@@ -1280,6 +1382,8 @@
       "mbid": "1783d81d-9f6f-4e0d-a829-6f9c2db15c37",
       "albumTitle": "Hahnenkampf (Live)",
       "duration": 235,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2007-01-01T12:00:00Z"
     },
     {
@@ -1288,7 +1392,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e2/ec/1a/e2ec1aeb-394b-fa81-bb83-b8d1eb907c00/mzaf_5359813197208029560.plus.aac.p.m4a",
@@ -1311,6 +1415,8 @@
       "mbid": "0b9e1a31-0cc4-3306-96ea-87bae9a60b92",
       "albumTitle": "Hahnenkampf",
       "duration": 252,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "2007-01-01T12:00:00Z"
     },
     {
@@ -1319,7 +1425,7 @@
       "artistName": "Kool Savas",
       "artistSlug": "kool-savas",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/97/6f/ca/976fcab7-3864-b65e-8755-2018bc232bb8/mzaf_12748572779404837041.plus.aac.p.m4a",
@@ -1343,6 +1449,8 @@
       "artistMbid": "2e0d05e0-d147-46e6-be51-8ffed2a9e0da",
       "albumTitle": "Tot oder lebendig",
       "duration": 126,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "2003-11-01T12:00:00Z"
     },
     {
@@ -1351,7 +1459,7 @@
       "artistName": "Bushido",
       "artistSlug": "bushido",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/87/0f/07/870f0787-2d05-c9ae-9f63-39ec8dbf0448/mzaf_8906113738118330546.plus.aac.p.m4a",
@@ -1375,6 +1483,8 @@
       "artistMbid": "13246906-ec3b-4ec5-bc2f-f7ca802facea",
       "albumTitle": "Jupiterring - Single",
       "duration": 240,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "2022-10-21T12:00:00Z"
     },
     {
@@ -1383,7 +1493,7 @@
       "artistName": "K.I.Z.",
       "artistSlug": "k-i-z",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": null,
@@ -1402,7 +1512,9 @@
         "lastfm"
       ],
       "mbid": "90bc839f-9c9c-4628-8474-4d2e1da46343",
-      "duration": 230
+      "duration": 230,
+      "previousRank": 46,
+      "rankDelta": 0
     },
     {
       "id": "trailerpark--bleib-in-der-schule",
@@ -1410,7 +1522,7 @@
       "artistName": "Trailerpark",
       "artistSlug": "trailerpark",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/10/27/a2/1027a21b-f56c-3c02-913b-0e617c337eae/mzaf_7753958056240962002.plus.aac.p.m4a",
@@ -1434,6 +1546,8 @@
       "artistMbid": "64d73a2c-714e-48d5-95ab-bc1f406bcc71",
       "albumTitle": "Bleib in der Schule (Live at Wacken 2019) - Single",
       "duration": 274,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "2019-08-15T12:00:00Z"
     },
     {
@@ -1442,7 +1556,7 @@
       "artistName": "23",
       "artistSlug": "23",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5e/23/46/5e23468b-50d4-e082-10d7-363538fcb212/mzaf_1831245559059264690.plus.aac.p.m4a",
@@ -1466,6 +1580,8 @@
       "artistMbid": "7244c5d4-5980-4acd-9103-c5e7c25906e9",
       "albumTitle": "23 (Deluxe Edition)",
       "duration": 220,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "2011-09-30T12:00:00Z"
     },
     {
@@ -1474,7 +1590,7 @@
       "artistName": "Bushido",
       "artistSlug": "bushido",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ac/cc/0c/accc0cb5-6f29-e699-f5a1-1b85a0e7e81d/mzaf_2069174957035770006.plus.aac.p.m4a",
@@ -1498,6 +1614,8 @@
       "artistMbid": "13246906-ec3b-4ec5-bc2f-f7ca802facea",
       "albumTitle": "Heavy Metal Payback",
       "duration": 225,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2008-10-10T12:00:00Z"
     },
     {
@@ -1506,7 +1624,7 @@
       "artistName": "Juju",
       "artistSlug": "juju",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/a1/d8/fea1d881-9b69-a408-5cd8-755d8af7b503/mzaf_4330683902926412067.plus.aac.p.m4a",
@@ -1530,10 +1648,12 @@
       "artistMbid": "f3791955-e519-4953-a201-60deb24e84b7",
       "albumTitle": "Bling Bling - Single",
       "duration": 150,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2019-04-12T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:38:19.855Z",
+  "lastUpdated": "2026-03-02T00:52:49.142Z",
   "totalTracks": 50,
   "coverColor": "#64748b",
   "genre": "deutschrap",

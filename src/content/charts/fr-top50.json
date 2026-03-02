@@ -11,7 +11,7 @@
       "artistName": "Disiz",
       "artistSlug": "disiz",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 5398,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/32/f9/c032f9e3-0c69-0c3a-30a3-d22a7a94a567/mzaf_8347826294282543556.plus.aac.p.m4a",
@@ -34,6 +34,8 @@
       "artistMbid": "daba3096-88f2-4322-9b00-10938b0220b8",
       "albumTitle": "melodrama - Single",
       "duration": 176,
+      "previousRank": 1,
+      "rankDelta": 0,
       "releaseDate": "2025-09-26T12:00:00Z"
     },
     {
@@ -42,7 +44,7 @@
       "artistName": "PinkPantheress",
       "artistSlug": "pinkpantheress",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 5012,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/0b/8e/5e0b8e5f-1a32-7f1f-3b77-1d008e6e0c1e/mzaf_17111867416921804819.plus.aac.p.m4a",
@@ -66,6 +68,8 @@
       "artistMbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
       "albumTitle": "Fancy Some More?",
       "duration": 185,
+      "previousRank": 2,
+      "rankDelta": 0,
       "releaseDate": "2025-10-10T12:00:00Z"
     },
     {
@@ -74,7 +78,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 3681,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
@@ -98,6 +102,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "DeBÍ TiRAR MáS FOToS",
       "duration": 184,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "2025-01-05T12:00:00Z"
     },
     {
@@ -106,7 +112,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 3569,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
@@ -130,6 +136,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "DeBÍ TiRAR MáS FOToS",
       "duration": 184,
+      "previousRank": 4,
+      "rankDelta": 0,
       "releaseDate": "2025-01-05T12:00:00Z"
     },
     {
@@ -138,7 +146,7 @@
       "artistName": "Theodora",
       "artistSlug": "theodora",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 3550,
       "previewUrl": null,
@@ -156,7 +164,9 @@
       "dataSources": [
         "lastfm"
       ],
-      "artistMbid": "e560c294-b11a-4076-8005-fff78e876a2c"
+      "artistMbid": "e560c294-b11a-4076-8005-fff78e876a2c",
+      "previousRank": 5,
+      "rankDelta": 0
     },
     {
       "id": "plk--sex-model",
@@ -164,7 +174,7 @@
       "artistName": "PLK",
       "artistSlug": "plk",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 3121,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8f/65/be/8f65bef5-178a-df7f-ba2a-43785a7a563b/mzaf_4603962292518341311.plus.aac.p.m4a",
@@ -187,6 +197,8 @@
       "artistMbid": "120df9bb-6660-4e11-80b2-7ec9adaafa80",
       "albumTitle": "Grand Garçon",
       "duration": 167,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2026-02-20T08:00:00Z"
     },
     {
@@ -195,7 +207,7 @@
       "artistName": "RAYE",
       "artistSlug": "raye",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2922,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/16/34/c716348b-2768-3e4f-75d6-136bbb11ce6b/mzaf_17115623893667689076.plus.aac.p.m4a",
@@ -219,6 +231,8 @@
       "artistMbid": "8be564c3-dfba-440b-af8c-4ffbceeef45e",
       "albumTitle": "WHERE IS MY HUSBAND! - Single",
       "duration": 197,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "2025-09-19T12:00:00Z"
     },
     {
@@ -227,7 +241,7 @@
       "artistName": "Theodora",
       "artistSlug": "theodora",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2880,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/dd/2a/47dd2a78-ad43-6150-e827-d16176e0c4ff/mzaf_8418041663499528083.plus.aac.p.m4a",
@@ -251,6 +265,8 @@
       "artistMbid": "e560c294-b11a-4076-8005-fff78e876a2c",
       "albumTitle": "Fashion Designa - Single",
       "duration": 226,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2025-04-11T12:00:00Z"
     },
     {
@@ -259,7 +275,7 @@
       "artistName": "Angèle",
       "artistSlug": "angele",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2841,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/31/9f/c2/319fc247-a740-4cdb-baac-a766c2818b4b/mzaf_4986749353889383693.plus.aac.p.m4a",
@@ -282,6 +298,8 @@
       "artistMbid": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
       "albumTitle": "Legally Blonde the Musical (Original Broadway Cast Recording)",
       "duration": 488,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "2007-07-17T12:00:00Z"
     },
     {
@@ -290,7 +308,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2798,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/2c/26/852c262a-d446-3343-26c9-a48b679e65f8/mzaf_10568200496426777792.plus.aac.p.m4a",
@@ -314,6 +332,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "DeBÍ TiRAR Más FOToS (Piano Version)",
       "duration": 127,
+      "previousRank": 10,
+      "rankDelta": 0,
       "releaseDate": "2025-06-27T12:00:00Z"
     },
     {
@@ -322,7 +342,7 @@
       "artistName": "Rambo goyard",
       "artistSlug": "rambo-goyard",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2703,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ed/7a/6c/ed7a6c9a-6311-fa77-2c8f-bfb928ae2dc1/mzaf_3712313059106729840.plus.aac.p.m4a",
@@ -344,6 +364,8 @@
       ],
       "albumTitle": "B M S (By my Side) - Single",
       "duration": 185,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2022-03-26T12:00:00Z"
     },
     {
@@ -352,7 +374,7 @@
       "artistName": "Djo",
       "artistSlug": "djo",
       "rank": 12,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2649,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/df/af/6edfaf58-f901-e9b5-840b-9ac9e37f34b7/mzaf_8465065510938624101.plus.aac.p.m4a",
@@ -376,6 +398,8 @@
       "artistMbid": "83cedfd0-a118-48eb-ad71-72f4c2f95fd2",
       "albumTitle": "DECIDE",
       "duration": 159,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2024-03-01T12:00:00Z"
     },
     {
@@ -384,7 +408,7 @@
       "artistName": "Nono La Grinta",
       "artistSlug": "nono-la-grinta",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2637,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/25/9e/38259e7d-bb09-ab06-2e25-0787dbb36d6c/mzaf_15730229424074462755.plus.aac.p.m4a",
@@ -406,6 +430,8 @@
       ],
       "albumTitle": "LA QUOI ? (Basstrick Remix) - Single",
       "duration": 162,
+      "previousRank": 13,
+      "rankDelta": 0,
       "releaseDate": "2024-04-19T12:00:00Z"
     },
     {
@@ -414,7 +440,7 @@
       "artistName": "Addison Rae",
       "artistSlug": "addison-rae",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2522,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/d2/12/e2d21293-079d-5cfb-6504-cde60d2043b4/mzaf_12881942189562714208.plus.aac.p.m4a",
@@ -438,6 +464,8 @@
       "artistMbid": "610b71d9-fa78-47d6-9073-083922e73840",
       "albumTitle": "Addison",
       "duration": 183,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "2025-05-30T07:00:00Z"
     },
     {
@@ -446,7 +474,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2478,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/61/8e/2d/618e2d09-d6e5-1864-92b3-b5ea326bc1a9/mzaf_18353592973487747406.plus.aac.p.m4a",
@@ -470,6 +498,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "ARTZ Basel Miami Mix (DJ Mix)",
       "duration": 111,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "2023-01-27T12:00:00Z"
     },
     {
@@ -478,7 +508,7 @@
       "artistName": "La Rvfleuze",
       "artistSlug": "la-rvfleuze",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2418,
       "previewUrl": null,
@@ -495,7 +525,9 @@
       "genres": [],
       "dataSources": [
         "lastfm"
-      ]
+      ],
+      "previousRank": 16,
+      "rankDelta": 0
     },
     {
       "id": "theodora--zou-bisou",
@@ -503,7 +535,7 @@
       "artistName": "Theodora",
       "artistSlug": "theodora",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2365,
       "previewUrl": null,
@@ -521,7 +553,9 @@
       "dataSources": [
         "lastfm"
       ],
-      "artistMbid": "e560c294-b11a-4076-8005-fff78e876a2c"
+      "artistMbid": "e560c294-b11a-4076-8005-fff78e876a2c",
+      "previousRank": 17,
+      "rankDelta": 0
     },
     {
       "id": "taylor-swift--the-fate-of-ophelia",
@@ -529,7 +563,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2363,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/1c/6b/fa1c6be0-8f12-52fa-3b36-5465d32ac602/mzaf_13774232611391010550.plus.aac.p.m4a",
@@ -553,6 +587,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "The Life of a Showgirl",
       "duration": 226,
+      "previousRank": 18,
+      "rankDelta": 0,
       "releaseDate": "2025-10-03T12:00:00Z"
     },
     {
@@ -561,7 +597,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2341,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
@@ -585,6 +621,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "DeBÍ TiRAR MáS FOToS",
       "duration": 184,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2025-01-05T12:00:00Z"
     },
     {
@@ -593,7 +631,7 @@
       "artistName": "Zara Larsson",
       "artistSlug": "zara-larsson",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2300,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/52/6a/77526a57-f53f-b8ba-bdc7-e74e242c7c55/mzaf_11538198025885549610.plus.aac.p.m4a",
@@ -617,6 +655,8 @@
       "artistMbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
       "albumTitle": "So Good",
       "duration": 201,
+      "previousRank": 20,
+      "rankDelta": 0,
       "releaseDate": "2017-03-17T07:00:00Z"
     },
     {
@@ -625,7 +665,7 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2226,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/b3/6b/cbb36b26-061d-af60-2cdf-353f3afa8463/mzaf_6164418099715201202.plus.aac.p.m4a",
@@ -649,6 +689,8 @@
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
       "albumTitle": "JUMP - Single",
       "duration": 165,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "2025-07-11T12:00:00Z"
     },
     {
@@ -657,7 +699,7 @@
       "artistName": "Zara Larsson",
       "artistSlug": "zara-larsson",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2177,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/69/bb/0369bb27-0c58-9c65-ad6b-d86c77a38f42/mzaf_13731575429992521229.plus.aac.p.m4a",
@@ -681,6 +723,8 @@
       "artistMbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
       "albumTitle": "Midnight Sun",
       "duration": 190,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2025-06-13T12:00:00Z"
     },
     {
@@ -689,7 +733,7 @@
       "artistName": "RnBoi",
       "artistSlug": "rnboi",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2153,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/0a/43/dc0a4328-2089-3619-acab-fca484251ce4/mzaf_4324562248580872862.plus.aac.p.m4a",
@@ -712,6 +756,8 @@
       "artistMbid": "cbcf3a20-6178-4837-a37f-f4b6daaabd16",
       "albumTitle": "MON BÉBÉ - Single",
       "duration": 131,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "2025-10-24T12:00:00Z"
     },
     {
@@ -720,7 +766,7 @@
       "artistName": "Tame Impala",
       "artistSlug": "tame-impala",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 2050,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/e0/26/93e02611-d12e-86e8-595a-b6d20a7847dc/mzaf_12540017880660395875.plus.aac.p.m4a",
@@ -744,6 +790,8 @@
       "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
       "albumTitle": "Dracula - Single",
       "duration": 205,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2025-09-24T12:00:00Z"
     },
     {
@@ -752,7 +800,7 @@
       "artistName": "Tame Impala",
       "artistSlug": "tame-impala",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1994,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/e0/26/93e02611-d12e-86e8-595a-b6d20a7847dc/mzaf_12540017880660395875.plus.aac.p.m4a",
@@ -776,6 +824,8 @@
       "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
       "albumTitle": "Dracula - Single",
       "duration": 205,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "2025-09-24T12:00:00Z"
     },
     {
@@ -784,7 +834,7 @@
       "artistName": "Tame Impala",
       "artistSlug": "tame-impala",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1987,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/55/f3/8b55f3a3-3204-8930-f156-82843546950e/mzaf_9370328603131228430.plus.aac.p.m4a",
@@ -808,6 +858,8 @@
       "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
       "albumTitle": "The Less I Know The Better - Single",
       "duration": 176,
+      "previousRank": 26,
+      "rankDelta": 0,
       "releaseDate": "2025-02-28T12:00:00Z"
     },
     {
@@ -816,7 +868,7 @@
       "artistName": "Charli xcx",
       "artistSlug": "charli-xcx",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1932,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/c5/e2/fbc5e2b7-69b9-eb8f-ea86-773ca8cf290a/mzaf_13689117863235539113.plus.aac.p.m4a",
@@ -840,6 +892,8 @@
       "artistMbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
       "albumTitle": "Wuthering Heights",
       "duration": 182,
+      "previousRank": 27,
+      "rankDelta": 0,
       "releaseDate": "2026-02-13T12:00:00Z"
     },
     {
@@ -848,7 +902,7 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1919,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/fd/e5/18fde538-ee69-7c27-e7ad-fa08c6d5771d/mzaf_11997872270699265606.plus.aac.p.m4a",
@@ -871,6 +925,8 @@
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
       "albumTitle": "DEADLINE - EP",
       "duration": 195,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "2026-02-26T12:00:00Z"
     },
     {
@@ -879,7 +935,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1909,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7b/99/86/7b9986f8-8bea-60b1-5e67-9040d772093d/mzaf_6463369324599609324.plus.aac.p.m4a",
@@ -903,6 +959,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "Super Bowl LX Halftime Show (Live) - EP",
       "duration": 821,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "2026-02-08T12:00:00Z"
     },
     {
@@ -911,7 +969,7 @@
       "artistName": "Bruno Mars",
       "artistSlug": "bruno-mars",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1876,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/29/70/4c2970ab-d1c0-344b-53c7-b1624a14ac36/mzaf_9879015910950364057.plus.aac.p.m4a",
@@ -935,6 +993,8 @@
       "artistMbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
       "albumTitle": "The Romantic",
       "duration": 213,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "2026-01-09T08:00:00Z"
     },
     {
@@ -943,7 +1003,7 @@
       "artistName": "Gorillaz",
       "artistSlug": "gorillaz",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1870,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/8f/8d/638f8d73-cce2-923c-1dee-5fec273ab2b4/mzaf_4710951047781627570.plus.aac.p.m4a",
@@ -967,6 +1027,8 @@
       "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
       "albumTitle": "Work Grind",
       "duration": 223,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "2005-05-09T12:00:00Z"
     },
     {
@@ -975,7 +1037,7 @@
       "artistName": "sombr",
       "artistSlug": "sombr",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1848,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d7/63/7d/d7637dec-cf2d-1455-3398-f1a6340359d0/mzaf_88927986796632454.plus.aac.p.m4a",
@@ -999,6 +1061,8 @@
       "artistMbid": "502cf908-9921-48bc-bf0e-265c881c0156",
       "albumTitle": "back to friends - Single",
       "duration": 199,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2024-12-27T12:00:00Z"
     },
     {
@@ -1007,7 +1071,7 @@
       "artistName": "Dominic Fike",
       "artistSlug": "dominic-fike",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1835,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b9/00/5c/b9005c47-45de-a5cb-e9ac-f8af66d69f33/mzaf_18175355208890397177.plus.aac.p.m4a",
@@ -1031,6 +1095,8 @@
       "artistMbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
       "albumTitle": "Don't Forget About Me, Demos - EP",
       "duration": 98,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "2018-10-16T12:00:00Z"
     },
     {
@@ -1039,7 +1105,7 @@
       "artistName": "Theodora",
       "artistSlug": "theodora",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1814,
       "previewUrl": null,
@@ -1058,7 +1124,9 @@
         "lastfm"
       ],
       "artistMbid": "e560c294-b11a-4076-8005-fff78e876a2c",
-      "duration": 164
+      "duration": 164,
+      "previousRank": 34,
+      "rankDelta": 0
     },
     {
       "id": "katseye--gabriela",
@@ -1066,7 +1134,7 @@
       "artistName": "KATSEYE",
       "artistSlug": "katseye",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1786,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/02/e6/e102e60f-e529-c7af-0a99-afadea88e0cf/mzaf_4063426124739522501.plus.aac.p.m4a",
@@ -1090,6 +1158,8 @@
       "artistMbid": "abbf7d85-9a7f-4a6c-80bd-bf71f2c7d520",
       "albumTitle": "BEAUTIFUL CHAOS - EP",
       "duration": 197,
+      "previousRank": 35,
+      "rankDelta": 0,
       "releaseDate": "2025-06-26T12:00:00Z"
     },
     {
@@ -1098,7 +1168,7 @@
       "artistName": "The Marías",
       "artistSlug": "the-marias",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1775,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/59/68/465968ed-5c6d-0f97-167d-6f53b74793fc/mzaf_12576584058255046082.plus.aac.p.m4a",
@@ -1122,6 +1192,8 @@
       "artistMbid": "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3",
       "albumTitle": "Submarine",
       "duration": 237,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "2024-05-03T07:00:00Z"
     },
     {
@@ -1130,7 +1202,7 @@
       "artistName": "Bruno Mars",
       "artistSlug": "bruno-mars",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1731,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/49/8c/5b498caf-e3a4-8d48-20ae-0f51cf0a0d6e/mzaf_16238111096439911115.plus.aac.p.m4a",
@@ -1154,6 +1226,8 @@
       "artistMbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
       "albumTitle": "The Romantic",
       "duration": 204,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2026-02-27T08:00:00Z"
     },
     {
@@ -1162,7 +1236,7 @@
       "artistName": "Twenty One Pilots",
       "artistSlug": "twenty-one-pilots",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1688,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/e1/8d/5ce18dc7-92e0-c437-1c4c-3eb133a7dad3/mzaf_16869785547693954708.plus.aac.p.m4a",
@@ -1186,6 +1260,8 @@
       "artistMbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
       "albumTitle": "Drag Path - Single",
       "duration": 224,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "2025-09-12T12:00:00Z"
     },
     {
@@ -1194,7 +1270,7 @@
       "artistName": "The Cure",
       "artistSlug": "the-cure",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1686,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/18/35/3f/18353f65-c7d9-f4be-7557-4f7159ac5cb8/mzaf_12144965791397797836.plus.aac.p.m4a",
@@ -1218,6 +1294,8 @@
       "artistMbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
       "albumTitle": "Greatest Hits",
       "duration": 157,
+      "previousRank": 39,
+      "rankDelta": 0,
       "releaseDate": "1979-06-15T12:00:00Z"
     },
     {
@@ -1226,7 +1304,7 @@
       "artistName": "Ravyn Lenae",
       "artistSlug": "ravyn-lenae",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1676,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/56/cd/e456cd7c-d289-553a-9c39-98ca08ca0b4b/mzaf_14810478461288819548.plus.aac.p.m4a",
@@ -1250,6 +1328,8 @@
       "artistMbid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
       "albumTitle": "Bird's Eye",
       "duration": 213,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "2024-05-03T12:00:00Z"
     },
     {
@@ -1258,7 +1338,7 @@
       "artistName": "Theodora",
       "artistSlug": "theodora",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1656,
       "previewUrl": null,
@@ -1278,7 +1358,9 @@
       ],
       "mbid": "194a6eb7-c323-4998-9e24-9690101ef880",
       "artistMbid": "e560c294-b11a-4076-8005-fff78e876a2c",
-      "duration": 147
+      "duration": 147,
+      "previousRank": 41,
+      "rankDelta": 0
     },
     {
       "id": "blackpink--me-and-my",
@@ -1286,7 +1368,7 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1649,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/ce/45/4ece4520-80a2-56fb-cfc4-031cb0834ef1/mzaf_16459329004404659791.plus.aac.p.m4a",
@@ -1309,6 +1391,8 @@
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
       "albumTitle": "DEADLINE - EP",
       "duration": 172,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2026-02-26T12:00:00Z"
     },
     {
@@ -1317,7 +1401,7 @@
       "artistName": "Radiohead",
       "artistSlug": "radiohead",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1629,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8d/e0/bb/8de0bb10-0593-83cc-4d2c-4e9f6ea9b575/mzaf_16440589638018943894.plus.aac.p.m4a",
@@ -1341,6 +1425,8 @@
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
       "albumTitle": "Creep - EP",
       "duration": 259,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "1992-09-21T12:00:00Z"
     },
     {
@@ -1349,7 +1435,7 @@
       "artistName": "Billie Eilish",
       "artistSlug": "billie-eilish",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1604,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/31/d3/3431d34e-847f-5d66-df83-0bce688d997e/mzaf_18106743962423782018.plus.aac.p.m4a",
@@ -1373,6 +1459,8 @@
       "artistMbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
       "albumTitle": "HIT ME HARD AND SOFT",
       "duration": 210,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "2024-05-17T12:00:00Z"
     },
     {
@@ -1381,7 +1469,7 @@
       "artistName": "Theodora",
       "artistSlug": "theodora",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1598,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c1/7d/ab/c17dabc8-83de-4392-623f-a582bd719dc9/mzaf_8278929649747419250.plus.aac.p.m4a",
@@ -1404,6 +1492,8 @@
       "artistMbid": "e560c294-b11a-4076-8005-fff78e876a2c",
       "albumTitle": "Yellowstone Season 2 (Original Series Soundtrack)",
       "duration": 191,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "2019-08-09T12:00:00Z"
     },
     {
@@ -1412,7 +1502,7 @@
       "artistName": "The Neighbourhood",
       "artistSlug": "the-neighbourhood",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1590,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/37/20/8c372047-2727-8054-9411-0e4867643dd8/mzaf_10169659262182214119.plus.aac.p.m4a",
@@ -1436,6 +1526,8 @@
       "artistMbid": "53b06622-ec51-4924-a554-58b0affde6b5",
       "albumTitle": "I Love You.",
       "duration": 240,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "2012-12-03T08:00:00Z"
     },
     {
@@ -1444,7 +1536,7 @@
       "artistName": "Sabrina Carpenter",
       "artistSlug": "sabrina-carpenter",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1573,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0f/b9/7d/0fb97d62-b093-2c58-a6d4-c20d987dd2c9/mzaf_9158363594364887027.plus.aac.p.m4a",
@@ -1468,6 +1560,8 @@
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
       "albumTitle": "Manchild - Single",
       "duration": 214,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "2025-06-05T12:00:00Z"
     },
     {
@@ -1476,7 +1570,7 @@
       "artistName": "R2",
       "artistSlug": "r2",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1569,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/a1/9a/e6a19aff-5dcf-243b-b4e2-bd90621b5029/mzaf_596550495654341385.plus.aac.p.m4a",
@@ -1500,6 +1594,8 @@
       "artistMbid": "2d73aa1e-d8b1-4b8e-ab0d-96aed173336c",
       "albumTitle": "RUINART ET TANA - Single",
       "duration": 132,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "2025-09-27T12:00:00Z"
     },
     {
@@ -1508,7 +1604,7 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1560,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/b5/cf/0bb5cf8b-e2f0-c807-17b0-374b710a4104/mzaf_16687956431689216528.plus.aac.p.m4a",
@@ -1531,6 +1627,8 @@
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
       "albumTitle": "DEADLINE - EP",
       "duration": 173,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2026-02-27T12:00:00Z"
     },
     {
@@ -1539,7 +1637,7 @@
       "artistName": "Jennie",
       "artistSlug": "jennie",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 1560,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/dc/06/42dc069a-1683-2d2b-6442-b3655f2b2a97/mzaf_15363406353889961611.plus.aac.p.m4a",
@@ -1563,10 +1661,12 @@
       "artistMbid": "d32de3a1-01f0-430e-859a-72307724041c",
       "albumTitle": "Ruby",
       "duration": 124,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2025-03-05T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:26:02.459Z",
+  "lastUpdated": "2026-03-02T00:49:35.946Z",
   "totalTracks": 50,
   "coverColor": "#3b82f6",
   "country": "fr",

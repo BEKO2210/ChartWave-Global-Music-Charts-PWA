@@ -11,7 +11,7 @@
       "artistName": "NewJeans",
       "artistSlug": "newjeans",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/72/66/8572665a-d35f-ce5d-43c5-9ae4b69b4b46/mzaf_2317272666428796662.plus.aac.p.m4a",
@@ -35,6 +35,8 @@
       "artistMbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
       "albumTitle": "Ditto - Single",
       "duration": 186,
+      "previousRank": 1,
+      "rankDelta": 0,
       "releaseDate": "2022-12-19T12:00:00Z"
     },
     {
@@ -43,7 +45,7 @@
       "artistName": "BTS",
       "artistSlug": "bts",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/bd/24/e0bd2430-f87c-be3b-d73e-2c1831f3632e/mzaf_10103330059683055122.plus.aac.p.m4a",
@@ -67,6 +69,8 @@
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
       "albumTitle": "Love Yourself 結 'Answer'",
       "duration": 223,
+      "previousRank": 2,
+      "rankDelta": 0,
       "releaseDate": "2017-09-18T12:00:00Z"
     },
     {
@@ -75,7 +79,7 @@
       "artistName": "TWICE",
       "artistSlug": "twice",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ca/fe/1d/cafe1df9-e706-1538-bf34-238efafe7f60/mzaf_5940680492365100371.plus.aac.p.m4a",
@@ -99,6 +103,8 @@
       "artistMbid": "8da127cc-c432-418f-b356-ef36210d82ac",
       "albumTitle": "FANCY YOU - EP",
       "duration": 214,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "2019-04-22T12:00:00Z"
     },
     {
@@ -107,27 +113,33 @@
       "artistName": "LE SSERAFIM",
       "artistSlug": "le-sserafim",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/5b/33/9c5b33cb-f6c0-1cf5-61c4-ac465bce2b7b/mzaf_16974808219393622487.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/79/da/c879dadf-db1e-95a5-caf5-b18c7c81d2b6/192641874413_Cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/79/da/c879dadf-db1e-95a5-caf5-b18c7c81d2b6/192641874413_Cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/79/da/c879dadf-db1e-95a5-caf5-b18c7c81d2b6/192641874413_Cover.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE"
+        "lastfm": "https://www.last.fm/music/LE+SSERAFIM/_/ANTIFRAGILE",
+        "itunes": "https://music.apple.com/us/album/antifragile/1647830231?i=1647830390&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "5bf956f1-c656-444f-b9f3-9b08332bcc70",
       "artistMbid": "1ee37742-1e3d-4e61-84d2-bc85f4c1459a",
-      "duration": 184
+      "albumTitle": "ANTIFRAGILE - EP",
+      "duration": 184,
+      "previousRank": 4,
+      "rankDelta": 0,
+      "releaseDate": "2022-10-17T12:00:00Z"
     },
     {
       "id": "twice--the-feels",
@@ -135,7 +147,7 @@
       "artistName": "TWICE",
       "artistSlug": "twice",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/09/06/16090679-d33d-14e3-2d1f-338f459b8eec/mzaf_9506922916768796625.plus.aac.p.m4a",
@@ -159,6 +171,8 @@
       "artistMbid": "8da127cc-c432-418f-b356-ef36210d82ac",
       "albumTitle": "The Feels - Single",
       "duration": 198,
+      "previousRank": 5,
+      "rankDelta": 0,
       "releaseDate": "2021-10-01T12:00:00Z"
     },
     {
@@ -167,7 +181,7 @@
       "artistName": "소녀시대",
       "artistSlug": "",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c6/9e/fa/c69efa2d-cac1-a131-39c6-a2b98a70d245/mzaf_10391037118527938646.plus.aac.p.m4a",
@@ -190,6 +204,8 @@
       "mbid": "01d0fcca-b341-447c-9b0d-672da14bbea2",
       "albumTitle": "Gee - EP",
       "duration": 202,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2009-01-05T08:00:00Z"
     },
     {
@@ -198,7 +214,7 @@
       "artistName": "BTS",
       "artistSlug": "bts",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/54/05/4f/54054fbe-eaf8-c54b-4e66-244581a8b49a/mzaf_7282883797011218140.plus.aac.p.m4a",
@@ -222,6 +238,8 @@
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
       "albumTitle": "Love Yourself 結 'Answer'",
       "duration": 242,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "2018-05-18T12:00:00Z"
     },
     {
@@ -230,7 +248,7 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/17/54/b51754e6-8bd1-9d97-8934-e713b68f82a0/mzaf_605229577143140327.plus.aac.p.m4a",
@@ -254,6 +272,8 @@
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
       "albumTitle": "Pink Venom - Single",
       "duration": 187,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2022-08-19T12:00:00Z"
     },
     {
@@ -262,27 +282,33 @@
       "artistName": "TWICE",
       "artistSlug": "twice",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c9/67/30/c9673025-135c-e508-571b-122c268d7a28/mzaf_11330238921094968350.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/41/69/7e4169e8-8358-27ff-66b4-1564ec800abd/00602508875137_Cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/41/69/7e4169e8-8358-27ff-66b4-1564ec800abd/00602508875137_Cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/41/69/7e4169e8-8358-27ff-66b4-1564ec800abd/00602508875137_Cover.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/TWICE/_/What+is+Love%3F"
+        "lastfm": "https://www.last.fm/music/TWICE/_/What+is+Love%3F",
+        "itunes": "https://music.apple.com/us/album/what-is-love/1555390082?i=1555390083&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0f80564b-8f8e-4697-82a8-e32a4a09c117",
       "artistMbid": "8da127cc-c432-418f-b356-ef36210d82ac",
-      "duration": 209
+      "albumTitle": "What is Love? - EP",
+      "duration": 208,
+      "previousRank": 9,
+      "rankDelta": 0,
+      "releaseDate": "2018-04-09T12:00:00Z"
     },
     {
       "id": "bts--boy-with-luv-feat-halsey",
@@ -290,7 +316,7 @@
       "artistName": "BTS",
       "artistSlug": "bts",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/8d/84/0b8d84e5-5273-ae21-0c6e-591af6097294/mzaf_16252906211188582302.plus.aac.p.m4a",
@@ -313,6 +339,8 @@
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
       "albumTitle": "MAP OF THE SOUL : PERSONA",
       "duration": 230,
+      "previousRank": 10,
+      "rankDelta": 0,
       "releaseDate": "2019-04-12T12:00:00Z"
     },
     {
@@ -321,27 +349,33 @@
       "artistName": "Wonder Girls",
       "artistSlug": "wonder-girls",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1b/3e/9d/1b3e9dbc-3669-8bdb-7aba-bc99b6a709d1/mzaf_3383264225877575682.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/f6/bb/9cf6bb20-1217-299b-795f-dab1a344b450/8804775027727_Cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/f6/bb/9cf6bb20-1217-299b-795f-dab1a344b450/8804775027727_Cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/f6/bb/9cf6bb20-1217-299b-795f-dab1a344b450/8804775027727_Cover.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Wonder+Girls/_/Tell+Me"
+        "lastfm": "https://www.last.fm/music/Wonder+Girls/_/Tell+Me",
+        "itunes": "https://music.apple.com/us/album/tell-me/1698696987?i=1698697000&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "06f74a8a-a6ad-46f9-b6b7-8752943fc5df",
       "artistMbid": "fcc7e9c8-3474-4221-b83a-27890982e0fa",
-      "duration": 217
+      "albumTitle": "The Wonder Years",
+      "duration": 217,
+      "previousRank": 11,
+      "rankDelta": 0,
+      "releaseDate": "2007-09-05T12:00:00Z"
     },
     {
       "id": "--the-boys",
@@ -349,7 +383,7 @@
       "artistName": "소녀시대",
       "artistSlug": "",
       "rank": 12,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c2/70/07/c2700791-55d0-b674-7800-a80165db5864/mzaf_8873884505420429292.plus.aac.p.m4a",
@@ -372,6 +406,8 @@
       "mbid": "20aa63f8-6d53-378f-b990-cc8bc95d715b",
       "albumTitle": "The Boys - The 3rd Album",
       "duration": 229,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2011-10-18T12:00:00Z"
     },
     {
@@ -380,7 +416,7 @@
       "artistName": "소녀시대",
       "artistSlug": "",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0d/53/7d/0d537d58-8100-c1c7-24f5-4f500cb150dd/mzaf_715832534791500985.plus.aac.p.m4a",
@@ -403,6 +439,8 @@
       "mbid": "004eddcf-6577-4021-84fa-83a56a511717",
       "albumTitle": "Genie - EP",
       "duration": 229,
+      "previousRank": 13,
+      "rankDelta": 0,
       "releaseDate": "2009-06-25T07:00:00Z"
     },
     {
@@ -411,27 +449,33 @@
       "artistName": "BTS",
       "artistSlug": "bts",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/13/6c/db136c1b-07ae-96e9-6d71-965bc1874a99/mzaf_6334159972478972132.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BTS/_/RUN"
+        "lastfm": "https://www.last.fm/music/BTS/_/RUN",
+        "itunes": "https://music.apple.com/us/album/run/1598661880?i=1598661903&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "02076df3-6638-4d91-9089-ea69e3af0ad7",
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
-      "duration": 237
+      "albumTitle": "The Most Beautiful Moment in Life: Young Forever",
+      "duration": 236,
+      "previousRank": 14,
+      "rankDelta": 0,
+      "releaseDate": "2015-11-30T08:00:00Z"
     },
     {
       "id": "blackpink--as-if-its-your-last",
@@ -439,7 +483,7 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/97/44/12/974412d8-624e-7a85-25b5-a4a0ac135299/mzaf_10160984043858145771.plus.aac.p.m4a",
@@ -463,6 +507,8 @@
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
       "albumTitle": "AS IF IT'S YOUR LAST - Single",
       "duration": 215,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "2017-06-22T12:00:00Z"
     },
     {
@@ -471,7 +517,7 @@
       "artistName": "HUNTR/X",
       "artistSlug": "huntr-x",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/68/32/3868327b-f83f-71c7-0a0c-1813edf2b73e/mzaf_9475346657459209500.plus.aac.p.m4a",
@@ -494,6 +540,8 @@
       "mbid": "f40cee59-ae8b-45cf-98e8-9c7278dbd821",
       "albumTitle": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
       "duration": 195,
+      "previousRank": 16,
+      "rankDelta": 0,
       "releaseDate": "2025-06-19T12:00:00Z"
     },
     {
@@ -502,27 +550,33 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/10/8b/37108b15-6634-df07-dadf-f20f6525dceb/mzaf_3091360070584533991.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/2a/db/d62adbe1-6994-581c-b3b2-aeacafa35c1d/19UMGIM30819.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/2a/db/d62adbe1-6994-581c-b3b2-aeacafa35c1d/19UMGIM30819.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d6/2a/db/d62adbe1-6994-581c-b3b2-aeacafa35c1d/19UMGIM30819.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BLACKPINK/_/Kill+This+Love"
+        "lastfm": "https://www.last.fm/music/BLACKPINK/_/Kill+This+Love",
+        "itunes": "https://music.apple.com/us/album/kill-this-love/1551479989?i=1551479992&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00e5da80-7021-4372-82bb-f66c46b96b8f",
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
-      "duration": 191
+      "albumTitle": "KILL THIS LOVE - EP",
+      "duration": 191,
+      "previousRank": 17,
+      "rankDelta": 0,
+      "releaseDate": "2019-04-04T12:00:00Z"
     },
     {
       "id": "bts--idol",
@@ -530,7 +584,7 @@
       "artistName": "BTS",
       "artistSlug": "bts",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/37/53/b1375312-71f9-d10b-63e6-eafca99c4dfa/mzaf_11406803283003618823.plus.aac.p.m4a",
@@ -554,6 +608,8 @@
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
       "albumTitle": "Love Yourself 結 'Answer'",
       "duration": 223,
+      "previousRank": 18,
+      "rankDelta": 0,
       "releaseDate": "2018-08-24T12:00:00Z"
     },
     {
@@ -562,7 +618,7 @@
       "artistName": "TWICE",
       "artistSlug": "twice",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e4/cc/4e/e4cc4e0c-da0c-4246-5d42-9b238879d438/mzaf_9387232076906136205.plus.aac.p.m4a",
@@ -586,6 +642,8 @@
       "artistMbid": "8da127cc-c432-418f-b356-ef36210d82ac",
       "albumTitle": "Twicetagram",
       "duration": 208,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2017-10-30T12:00:00Z"
     },
     {
@@ -594,7 +652,7 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a0/3b/89/a03b89a2-1820-96d9-8616-7aa42f79abba/mzaf_14904791120408388190.plus.aac.p.m4a",
@@ -618,6 +676,8 @@
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
       "albumTitle": "SQUARE ONE - Single",
       "duration": 243,
+      "previousRank": 20,
+      "rankDelta": 0,
       "releaseDate": "2016-11-01T12:00:00Z"
     },
     {
@@ -626,7 +686,7 @@
       "artistName": "Exo",
       "artistSlug": "exo",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8d/97/43/8d9743bb-53cb-ed50-a60b-9b2149c4f1e3/mzaf_13524117932247674480.plus.aac.p.m4a",
@@ -650,6 +710,8 @@
       "artistMbid": "6ab10aaf-8812-41eb-b59f-f07b42468f22",
       "albumTitle": "The 2nd Album ‘EXODUS’",
       "duration": 211,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "2015-03-30T07:00:00Z"
     },
     {
@@ -658,7 +720,7 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1f/19/0b/1f190b1d-4279-9eb9-8485-0f4342b84090/mzaf_5657825060835883930.plus.aac.p.m4a",
@@ -682,6 +744,8 @@
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
       "albumTitle": "SQUARE UP - EP",
       "duration": 211,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2018-06-15T12:00:00Z"
     },
     {
@@ -690,7 +754,7 @@
       "artistName": "BTS",
       "artistSlug": "bts",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/80/ff/5680fff2-9a20-dc6d-4f8e-4ec611541b37/mzaf_899563692285928094.plus.aac.p.m4a",
@@ -714,6 +778,8 @@
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
       "albumTitle": "The Most Beautiful Moment in Life: Young Forever",
       "duration": 197,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "2016-05-02T07:00:00Z"
     },
     {
@@ -722,7 +788,7 @@
       "artistName": "aespa",
       "artistSlug": "aespa",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/1e/0a/431e0a24-2c04-e738-2632-87462a20984d/mzaf_3158159453623406671.plus.aac.p.m4a",
@@ -746,6 +812,8 @@
       "artistMbid": "b51c672b-85e0-48fe-8648-470a2422229f",
       "albumTitle": "Next Level - Single",
       "duration": 222,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2021-05-17T12:00:00Z"
     },
     {
@@ -754,25 +822,32 @@
       "artistName": "소녀시대",
       "artistSlug": "",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/19/d2/0a/19d20a84-4117-2ec6-50ba-8c650bddc3e0/mzaf_16570646879639757908.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c9/15/32c9152b-cf16-3cf0-d550-1fa21abacb71/Girls_Generation_Cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c9/15/32c9152b-cf16-3cf0-d550-1fa21abacb71/Girls_Generation_Cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/c9/15/32c9152b-cf16-3cf0-d550-1fa21abacb71/Girls_Generation_Cover.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80/_/I+Got+a+Boy"
+        "lastfm": "https://www.last.fm/music/%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80/_/I+Got+a+Boy",
+        "itunes": "https://music.apple.com/us/album/i-got-a-boy/905850557?i=905850558&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
-      "mbid": "80149b84-7e3b-442d-9916-0b262416c082"
+      "mbid": "80149b84-7e3b-442d-9916-0b262416c082",
+      "albumTitle": "The 4th Album 'I Got a Boy'",
+      "duration": 271,
+      "previousRank": 25,
+      "rankDelta": 0,
+      "releaseDate": "2013-01-01T08:00:00Z"
     },
     {
       "id": "aespa--supernova",
@@ -780,27 +855,33 @@
       "artistName": "aespa",
       "artistSlug": "aespa",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/cc/58/f6cc5863-c60a-caac-e7f8-bd66b414a917/mzaf_8631809138360097160.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/aespa/_/Supernova"
+        "lastfm": "https://www.last.fm/music/aespa/_/Supernova",
+        "itunes": "https://music.apple.com/us/album/supernova/1773694541?i=1773694544&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "4d037b0c-bd99-4352-8fb7-43993597f109",
       "artistMbid": "b51c672b-85e0-48fe-8648-470a2422229f",
-      "duration": 178
+      "albumTitle": "Armageddon - The 1st Album",
+      "duration": 179,
+      "previousRank": 26,
+      "rankDelta": 0,
+      "releaseDate": "2024-05-13T07:00:00Z"
     },
     {
       "id": "blackpink--playing-with-fire",
@@ -808,7 +889,7 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0c/67/aa/0c67aa79-38de-8f7b-4d3d-74ece17c912c/mzaf_10581937183195367059.plus.aac.p.m4a",
@@ -832,6 +913,8 @@
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
       "albumTitle": "SQUARE TWO - EP",
       "duration": 199,
+      "previousRank": 27,
+      "rankDelta": 0,
       "releaseDate": "2016-11-01T12:00:00Z"
     },
     {
@@ -840,7 +923,7 @@
       "artistName": "K/DA",
       "artistSlug": "k-da",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/d5/c6/39d5c6eb-270c-38d4-08ba-d8f715e91c97/mzaf_14205870540354479011.plus.aac.p.m4a",
@@ -863,6 +946,8 @@
       "artistMbid": "35f3e736-e27b-4a26-892c-c00179d163d5",
       "albumTitle": "POP/STARS (feat. Jaira Burns & League of Legends Music) - Single",
       "duration": 191,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "2018-11-03T12:00:00Z"
     },
     {
@@ -871,27 +956,33 @@
       "artistName": "Jennie",
       "artistSlug": "jennie",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/07/2d/78/072d781a-cc43-ed37-71b0-05024934e765/mzaf_10147715758979437465.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8c/5e/2b/8c5e2bd9-38a8-5bc2-9a87-9bcd4011c2a7/00191222003792.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8c/5e/2b/8c5e2bd9-38a8-5bc2-9a87-9bcd4011c2a7/00191222003792.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/8c/5e/2b/8c5e2bd9-38a8-5bc2-9a87-9bcd4011c2a7/00191222003792.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Jennie/_/SOLO"
+        "lastfm": "https://www.last.fm/music/Jennie/_/SOLO",
+        "itunes": "https://music.apple.com/us/album/solo/1441819348?i=1441819350&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "2c2494e2-a385-4b73-b8c1-c551e47fdaaf",
       "artistMbid": "d32de3a1-01f0-430e-859a-72307724041c",
-      "duration": 170
+      "albumTitle": "SOLO - Single",
+      "duration": 170,
+      "previousRank": 29,
+      "rankDelta": 0,
+      "releaseDate": "2018-11-12T12:00:00Z"
     },
     {
       "id": "red-velvet--kingdom-come",
@@ -899,7 +990,7 @@
       "artistName": "Red Velvet",
       "artistSlug": "red-velvet",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/df/4b/b8df4b9b-0cfe-516e-a7e5-af7b2a77ccc8/mzaf_8792966095403894727.plus.aac.p.m4a",
@@ -923,6 +1014,8 @@
       "artistMbid": "4f0cb3b7-6c06-4317-ae35-ddf3106a17ee",
       "albumTitle": "Perfect Velvet - The 2nd Album",
       "duration": 210,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "2017-11-17T12:00:00Z"
     },
     {
@@ -931,7 +1024,7 @@
       "artistName": "소녀시대",
       "artistSlug": "",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/eb/10/7ceb1052-44f5-81e0-dab3-19e80c03ac61/mzaf_3793375742620578513.plus.aac.p.m4a",
@@ -954,6 +1047,8 @@
       "mbid": "0f3eaed6-ea88-4108-85ff-2b7b854c8546",
       "albumTitle": "Oh!",
       "duration": 188,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "2010-01-25T08:00:00Z"
     },
     {
@@ -962,7 +1057,7 @@
       "artistName": "Stray Kids",
       "artistSlug": "stray-kids",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/68/2b/8c/682b8cee-5d50-c9a8-7246-1970eb842cc8/mzaf_403092209817779548.plus.aac.p.m4a",
@@ -986,6 +1081,8 @@
       "artistMbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9",
       "albumTitle": "ODDINARY",
       "duration": 183,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2022-03-18T12:00:00Z"
     },
     {
@@ -994,7 +1091,7 @@
       "artistName": "Wonder Girls",
       "artistSlug": "wonder-girls",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/72/57/ee/7257ee96-fdec-c810-1e67-a04d04f1ff21/mzaf_9447747137171024101.plus.aac.p.m4a",
@@ -1018,6 +1115,8 @@
       "artistMbid": "fcc7e9c8-3474-4221-b83a-27890982e0fa",
       "albumTitle": "So Hot - EP",
       "duration": 181,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "2008-06-02T12:00:00Z"
     },
     {
@@ -1026,7 +1125,7 @@
       "artistName": "NewJeans",
       "artistSlug": "newjeans",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/f3/08/85f30899-e93c-35e2-4742-df57fc2d3552/mzaf_14134842621180071043.plus.aac.p.m4a",
@@ -1050,6 +1149,8 @@
       "artistMbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
       "albumTitle": "NewJeans 1st EP 'New Jeans'",
       "duration": 179,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "2022-08-01T12:00:00Z"
     },
     {
@@ -1058,7 +1159,7 @@
       "artistName": "Orange Caramel",
       "artistSlug": "orange-caramel",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5b/88/47/5b8847a9-21eb-2393-8d6a-8f37108da2e3/mzaf_16072264406110905806.plus.aac.p.m4a",
@@ -1082,6 +1183,8 @@
       "artistMbid": "27b9a365-56c2-4471-b886-d4af635b1fb0",
       "albumTitle": "The Third Single Catallena - Single",
       "duration": 193,
+      "previousRank": 35,
+      "rankDelta": 0,
       "releaseDate": "2014-03-12T12:00:00Z"
     },
     {
@@ -1090,7 +1193,7 @@
       "artistName": "Psy",
       "artistSlug": "psy",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3d/65/ae/3d65ae0a-7b2c-f14d-5680-cdafaa8cfb2d/mzaf_11206445915046452880.plus.aac.p.m4a",
@@ -1113,6 +1216,8 @@
       "mbid": "023535cc-21a0-4b3a-bc7d-fa3d1eb39ff2",
       "albumTitle": "Gangnam Style - Single",
       "duration": 219,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "2012-07-15T07:00:00Z"
     },
     {
@@ -1121,7 +1226,7 @@
       "artistName": "소녀시대",
       "artistSlug": "",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1c/63/5c/1c635c57-332a-01dd-3216-b06c085dcb75/mzaf_14597265102357636182.plus.aac.p.m4a",
@@ -1144,6 +1249,8 @@
       "mbid": "0e5b65ae-0e84-4602-8475-c271240eaf39",
       "albumTitle": "Girls' Generation 4th Mini Album 'Mr. Mr.' - EP",
       "duration": 235,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2014-02-24T08:00:00Z"
     },
     {
@@ -1152,7 +1259,7 @@
       "artistName": "BTS",
       "artistSlug": "bts",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/cd/c2/7d/cdc27d5f-2374-940d-6593-5e3c5cf627c7/mzaf_7565347435522299212.plus.aac.p.m4a",
@@ -1176,6 +1283,8 @@
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
       "albumTitle": "2 COOL 4 SKOOL",
       "duration": 222,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "2013-06-12T12:00:00Z"
     },
     {
@@ -1184,27 +1293,33 @@
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/17/20/9a/17209a19-79c9-ce93-6419-d03ceb2f895a/mzaf_2198006393721854225.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/5d/c3/5e5dc3a6-797b-dee5-9f51-2dcbf447c48e/19UMGIM05046.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/5d/c3/5e5dc3a6-797b-dee5-9f51-2dcbf447c48e/19UMGIM05046.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/5d/c3/5e5dc3a6-797b-dee5-9f51-2dcbf447c48e/19UMGIM05046.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BLACKPINK/_/Forever+Young"
+        "lastfm": "https://www.last.fm/music/BLACKPINK/_/Forever+Young",
+        "itunes": "https://music.apple.com/us/album/forever-young/1551479990?i=1551480140&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "082c796b-9916-48be-9da5-1b358f2f36f9",
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
-      "duration": 237
+      "albumTitle": "SQUARE UP - EP",
+      "duration": 239,
+      "previousRank": 39,
+      "rankDelta": 0,
+      "releaseDate": "2018-06-15T12:00:00Z"
     },
     {
       "id": "newjeans--super-shy",
@@ -1212,7 +1327,7 @@
       "artistName": "NewJeans",
       "artistSlug": "newjeans",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/0c/47/a00c4790-3bbe-c669-fc8b-d8779508b512/mzaf_4170831274187670095.plus.aac.p.m4a",
@@ -1236,6 +1351,8 @@
       "artistMbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
       "albumTitle": "NewJeans 'Super Shy' - Single",
       "duration": 155,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "2023-07-07T12:00:00Z"
     },
     {
@@ -1244,7 +1361,7 @@
       "artistName": "SHINee",
       "artistSlug": "shinee",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/95/d7/8a/95d78a23-5e91-6787-98f2-7647fd006b8f/mzaf_5185315953319707907.plus.aac.p.m4a",
@@ -1268,6 +1385,8 @@
       "artistMbid": "70e5098b-c4ae-4cd7-9799-3c1b9b57c753",
       "albumTitle": "The 2nd Album 'Lucifer'",
       "duration": 234,
+      "previousRank": 41,
+      "rankDelta": 0,
       "releaseDate": "2010-07-19T07:00:00Z"
     },
     {
@@ -1276,7 +1395,7 @@
       "artistName": "Lisa",
       "artistSlug": "lisa",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/10/49/f5104946-08c2-cb9c-4b8a-aa52bafa093d/mzaf_5120615441669569555.plus.aac.p.m4a",
@@ -1300,6 +1419,8 @@
       "artistMbid": "70198b37-f6c7-4cc7-a728-4224e860a15f",
       "albumTitle": "LALISA - Single",
       "duration": 201,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2021-09-10T12:00:00Z"
     },
     {
@@ -1308,7 +1429,7 @@
       "artistName": "TWICE",
       "artistSlug": "twice",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/5d/8d/6b5d8dd0-5d86-bcbe-a05f-9e44a22f1ef6/mzaf_16229273177106518739.plus.aac.p.m4a",
@@ -1332,6 +1453,8 @@
       "artistMbid": "8da127cc-c432-418f-b356-ef36210d82ac",
       "albumTitle": "Page Two - EP",
       "duration": 209,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "2016-04-25T12:00:00Z"
     },
     {
@@ -1340,7 +1463,7 @@
       "artistName": "BTS",
       "artistSlug": "bts",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/4e/15/3c4e153c-49c5-ced8-6e60-f3875b54f146/mzaf_6284533139996866017.plus.aac.p.m4a",
@@ -1364,6 +1487,8 @@
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
       "albumTitle": "Love Yourself 轉 'Tear'",
       "duration": 233,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "2018-05-18T07:00:00Z"
     },
     {
@@ -1372,27 +1497,33 @@
       "artistName": "BTS",
       "artistSlug": "bts",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/59/0b/d9590b42-5a96-944c-ee1e-3f3e438834ed/mzaf_15839037800491988071.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/d4/93/40d493e3-ac9e-1746-8d4c-f380f27c97cb/193483706238_Cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/d4/93/40d493e3-ac9e-1746-8d4c-f380f27c97cb/193483706238_Cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/d4/93/40d493e3-ac9e-1746-8d4c-f380f27c97cb/193483706238_Cover.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BTS/_/Jamais+Vu"
+        "lastfm": "https://www.last.fm/music/BTS/_/Jamais+Vu",
+        "itunes": "https://music.apple.com/us/album/jamais-vu/1599171924?i=1599172232&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "389e46c1-b7b3-4e0f-a1f5-a5f24f3be44e",
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
-      "duration": 227
+      "albumTitle": "MAP OF THE SOUL : PERSONA",
+      "duration": 227,
+      "previousRank": 45,
+      "rankDelta": 0,
+      "releaseDate": "2019-04-12T12:00:00Z"
     },
     {
       "id": "brown-eyed-girls--abracadabra",
@@ -1400,7 +1531,7 @@
       "artistName": "Brown Eyed Girls",
       "artistSlug": "brown-eyed-girls",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/ed/36/6eed36fd-ae84-9718-f4fa-e6cc3883e5aa/mzaf_10471661715250465195.plus.aac.p.m4a",
@@ -1424,6 +1555,8 @@
       "artistMbid": "66004b32-d662-49b2-bacf-e913a3b589fc",
       "albumTitle": "Sound G.",
       "duration": 184,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "2009-07-21T07:00:00Z"
     },
     {
@@ -1432,7 +1565,7 @@
       "artistName": "Red Velvet",
       "artistSlug": "red-velvet",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/69/fc/52/69fc528f-593c-9108-e1f7-a1d28e978296/mzaf_4978886415344685537.plus.aac.p.m4a",
@@ -1456,6 +1589,8 @@
       "artistMbid": "4f0cb3b7-6c06-4317-ae35-ddf3106a17ee",
       "albumTitle": "The Perfect Red Velvet - The 2nd Album Repackage - EP",
       "duration": 211,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "2018-01-29T12:00:00Z"
     },
     {
@@ -1464,7 +1599,7 @@
       "artistName": "소녀시대",
       "artistSlug": "",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2d/07/dd/2d07ddcc-8106-b6d4-c3ae-798deba03b39/mzaf_17642325294622168677.plus.aac.p.m4a",
@@ -1487,6 +1622,8 @@
       "mbid": "17a47611-7cc1-33ed-a488-d0ed2dffff11",
       "albumTitle": "Run Devil Run",
       "duration": 201,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "2010-03-17T07:00:00Z"
     },
     {
@@ -1495,7 +1632,7 @@
       "artistName": "Psy",
       "artistSlug": "psy",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/18/9a/4c/189a4c7b-a76f-d278-75b3-ca6fcd36540e/mzaf_3198082389744370474.plus.aac.p.m4a",
@@ -1518,6 +1655,8 @@
       "mbid": "00464d5b-93e1-4418-a2ee-56ec2b754b7b",
       "albumTitle": "Gentleman - Single",
       "duration": 194,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2013-04-12T12:00:00Z"
     },
     {
@@ -1526,7 +1665,7 @@
       "artistName": "BTS",
       "artistSlug": "bts",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/74/6c/75746cf7-9467-6206-7995-68df4a8017e1/mzaf_9811441997857270353.plus.aac.p.m4a",
@@ -1550,10 +1689,12 @@
       "artistMbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
       "albumTitle": "Love Yourself 轉 'Tear'",
       "duration": 230,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2018-05-18T07:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:37:33.053Z",
+  "lastUpdated": "2026-03-02T00:52:38.923Z",
   "totalTracks": 50,
   "coverColor": "#e879f9",
   "genre": "k-pop",

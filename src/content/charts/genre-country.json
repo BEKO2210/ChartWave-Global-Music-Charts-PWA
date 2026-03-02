@@ -11,7 +11,7 @@
       "artistName": "Buck Owens",
       "artistSlug": "buck-owens",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/9d/a3/3d/9da33d6e-261f-d6f3-2e2f-c82200a0c283/mzaf_17420725704827652019.plus.aac.p.m4a",
@@ -35,6 +35,8 @@
       "artistMbid": "13cb0fb4-7f7f-4116-a282-905c675c39ef",
       "albumTitle": "The Complete Capitol Singles: 1971-1975",
       "duration": 165,
+      "previousRank": 1,
+      "rankDelta": 0,
       "releaseDate": "1992-07-14T12:00:00Z"
     },
     {
@@ -43,7 +45,7 @@
       "artistName": "Lady Antebellum",
       "artistSlug": "lady-antebellum",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/bf/e6/5ebfe6d2-5cce-c801-11cf-5e885a6a2adf/mzaf_7332504426986884692.plus.aac.p.m4a",
@@ -66,6 +68,8 @@
       "mbid": "00e4d90d-1305-4944-a98a-13b4e0fc2733",
       "albumTitle": "Need You Now",
       "duration": 278,
+      "previousRank": 2,
+      "rankDelta": 0,
       "releaseDate": "2009-08-11T07:00:00Z"
     },
     {
@@ -74,7 +78,7 @@
       "artistName": "Brooks & Dunn",
       "artistSlug": "brooks-and-dunn",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/81/ac/0181acfe-4c48-7f95-a1a9-436a0464f127/mzaf_5980241208633522129.plus.aac.p.m4a",
@@ -98,6 +102,8 @@
       "artistMbid": "f30118c5-f783-4969-8427-f3c096378267",
       "albumTitle": "The Greatest Hits Collection",
       "duration": 261,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "1991-08-13T07:00:00Z"
     },
     {
@@ -106,7 +112,7 @@
       "artistName": "Beyoncé",
       "artistSlug": "beyonce",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/b6/d0/7fb6d036-cb17-cf78-49cb-55dbef9704a2/mzaf_6828473469451839772.plus.aac.p.m4a",
@@ -130,6 +136,8 @@
       "artistMbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
       "albumTitle": "COWBOY CARTER",
       "duration": 233,
+      "previousRank": 4,
+      "rankDelta": 0,
       "releaseDate": "2024-02-11T08:00:00Z"
     },
     {
@@ -138,27 +146,33 @@
       "artistName": "Glen Campbell",
       "artistSlug": "glen-campbell",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/af/eb/3c/afeb3c7e-740a-3d42-3655-0694288d8adb/mzaf_17445450633999791994.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/88/92/e7889207-ad41-e1c6-633e-d2ed0987e9fc/13UABIM51538.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/88/92/e7889207-ad41-e1c6-633e-d2ed0987e9fc/13UABIM51538.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/88/92/e7889207-ad41-e1c6-633e-d2ed0987e9fc/13UABIM51538.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Glen+Campbell/_/Southern+Nights"
+        "lastfm": "https://www.last.fm/music/Glen+Campbell/_/Southern+Nights",
+        "itunes": "https://music.apple.com/us/album/southern-nights/714642542?i=714642568&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "025a19d4-71c9-3822-bf9f-ebc430ee6077",
       "artistMbid": "57976431-1a5c-4968-a422-b92c5e9b0d4f",
-      "duration": 179
+      "albumTitle": "Southern Nights",
+      "duration": 180,
+      "previousRank": 5,
+      "rankDelta": 0,
+      "releaseDate": "1977-01-17T08:00:00Z"
     },
     {
       "id": "darius-rucker--wagon-wheel",
@@ -166,7 +180,7 @@
       "artistName": "Darius Rucker",
       "artistSlug": "darius-rucker",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/55/f6/45/55f645d7-e263-2396-4e50-d0492c0a51ad/mzaf_11131290710291072927.plus.aac.p.m4a",
@@ -190,6 +204,8 @@
       "artistMbid": "3ae70f76-ea53-4cc5-906e-d47a384202a1",
       "albumTitle": "True Believers",
       "duration": 298,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2013-01-07T12:00:00Z"
     },
     {
@@ -198,7 +214,7 @@
       "artistName": "Carrie Underwood",
       "artistSlug": "carrie-underwood",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/f9/89/0df98967-9b3b-0c52-66ba-d4934e546868/mzaf_1648549687321884445.plus.aac.p.m4a",
@@ -222,6 +238,8 @@
       "artistMbid": "70f0e309-5418-49b6-a130-666e2f76eecd",
       "albumTitle": "Some Hearts",
       "duration": 200,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "2005-11-15T08:00:00Z"
     },
     {
@@ -230,7 +248,7 @@
       "artistName": "Beyoncé",
       "artistSlug": "beyonce",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f0/44/df/f044df06-be9c-8b84-abe8-7f547abb0312/mzaf_11890922409492082367.plus.aac.p.m4a",
@@ -254,6 +272,8 @@
       "artistMbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
       "albumTitle": "16 CARRIAGES - Single",
       "duration": 227,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2024-02-11T08:00:00Z"
     },
     {
@@ -262,7 +282,7 @@
       "artistName": "Dolly Parton",
       "artistSlug": "dolly-parton",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/43/ef/95/43ef956b-4a1c-8ab1-a843-4ac691dc45d9/mzaf_17631698820105622615.plus.aac.p.m4a",
@@ -286,6 +306,8 @@
       "artistMbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856",
       "albumTitle": "Jolene",
       "duration": 163,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "1973-10-15T07:00:00Z"
     },
     {
@@ -294,7 +316,7 @@
       "artistName": "Rascal Flatts",
       "artistSlug": "rascal-flatts",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/21/7c/48217c37-b997-7486-d563-bfe5e469d341/mzaf_11299818800209664892.plus.aac.p.m4a",
@@ -318,6 +340,8 @@
       "artistMbid": "6e0ae159-8449-4262-bba5-18ec87fa529f",
       "albumTitle": "Cars (Original Motion Picture Soundtrack)",
       "duration": 276,
+      "previousRank": 10,
+      "rankDelta": 0,
       "releaseDate": "2006-06-06T12:00:00Z"
     },
     {
@@ -326,7 +350,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/42/8d/38428d9c-28f3-2b6b-51c3-3574e63243cd/mzaf_4136650510022149351.plus.aac.p.m4a",
@@ -350,6 +374,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "Taylor Swift (Bonus Track Version)",
       "duration": 201,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2006-10-24T12:00:00Z"
     },
     {
@@ -358,27 +384,33 @@
       "artistName": "Dolly Parton",
       "artistSlug": "dolly-parton",
       "rank": 12,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c3/0d/44/c30d44ae-fae5-e5fa-b07e-5131534b9d3b/mzaf_2062219622500186385.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/37/fa/d1/mzi.ecmonpil.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/37/fa/d1/mzi.ecmonpil.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/37/fa/d1/mzi.ecmonpil.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Dolly+Parton/_/9+to+5"
+        "lastfm": "https://www.last.fm/music/Dolly+Parton/_/9+to+5",
+        "itunes": "https://music.apple.com/us/album/9-to-5/282883573?i=282883590&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00fdaab2-dbd7-4c62-a379-3c5f25e2a94d",
       "artistMbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856",
-      "duration": 165
+      "albumTitle": "Ultimate Dolly Parton",
+      "duration": 181,
+      "previousRank": 12,
+      "rankDelta": 0,
+      "releaseDate": "1980-11-05T08:00:00Z"
     },
     {
       "id": "dolly-parton--islands-in-the-stream",
@@ -386,7 +418,7 @@
       "artistName": "Dolly Parton",
       "artistSlug": "dolly-parton",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1b/1e/36/1b1e36d6-c2fe-c442-1c1f-8048ad016e3a/mzaf_4014302009250642730.plus.aac.p.m4a",
@@ -410,6 +442,8 @@
       "artistMbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856",
       "albumTitle": "Ultimate Dolly Parton",
       "duration": 249,
+      "previousRank": 13,
+      "rankDelta": 0,
       "releaseDate": "1983-07-01T07:00:00Z"
     },
     {
@@ -418,7 +452,7 @@
       "artistName": "Luke Bryan",
       "artistSlug": "luke-bryan",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/9d/f4/c89df4ca-36a7-ae78-b685-d2ad79cb5f49/mzaf_9766439164727040261.plus.aac.p.m4a",
@@ -442,6 +476,8 @@
       "artistMbid": "aab35942-f176-4f77-bbf9-1d6aa98ccf3f",
       "albumTitle": "Tailgates & Tanlines",
       "duration": 226,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "2011-03-14T12:00:00Z"
     },
     {
@@ -450,7 +486,7 @@
       "artistName": "Marty Robbins",
       "artistSlug": "marty-robbins",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/1f/7d/b81f7d7f-a9f7-e7c7-c28d-11df87908d67/mzaf_8165689133429583263.plus.aac.p.m4a",
@@ -474,6 +510,8 @@
       "artistMbid": "2c2add7c-9a99-4812-a20e-870d331f01fd",
       "albumTitle": "Gunfighter Ballads and Trail Songs",
       "duration": 236,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "1959-01-01T08:00:00Z"
     },
     {
@@ -482,7 +520,7 @@
       "artistName": "Shania Twain",
       "artistSlug": "shania-twain",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/0a/20/3c0a20c5-7fce-adf6-cb4e-95c76f3f13b9/mzaf_8666447038678467880.plus.aac.p.m4a",
@@ -506,6 +544,8 @@
       "artistMbid": "faabb55d-3c9e-4c23-8779-732ac2ee2c0d",
       "albumTitle": "Come On Over",
       "duration": 212,
+      "previousRank": 16,
+      "rankDelta": 0,
       "releaseDate": "1997-11-04T12:00:00Z"
     },
     {
@@ -514,7 +554,7 @@
       "artistName": "Eric Church",
       "artistSlug": "eric-church",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/8f/27/608f2726-6ff7-672b-520b-46e089153381/mzaf_4724250643593689447.plus.aac.p.m4a",
@@ -538,6 +578,8 @@
       "artistMbid": "15856215-cc51-4423-879c-9ac955ccb11a",
       "albumTitle": "Chief",
       "duration": 263,
+      "previousRank": 17,
+      "rankDelta": 0,
       "releaseDate": "2011-07-26T07:00:00Z"
     },
     {
@@ -546,7 +588,7 @@
       "artistName": "Luke Bryan",
       "artistSlug": "luke-bryan",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/68/27/96/6827969d-d4de-8d23-841e-8a2a542a2606/mzaf_11605396583939746768.plus.aac.p.m4a",
@@ -570,6 +612,8 @@
       "artistMbid": "aab35942-f176-4f77-bbf9-1d6aa98ccf3f",
       "albumTitle": "Tailgates & Tanlines",
       "duration": 220,
+      "previousRank": 18,
+      "rankDelta": 0,
       "releaseDate": "2011-08-09T12:00:00Z"
     },
     {
@@ -578,7 +622,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/6e/b8/2c6eb87b-a89c-98b0-f4c3-94846613b36b/mzaf_10934143866669182930.plus.aac.p.m4a",
@@ -602,6 +646,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "Fearless",
       "duration": 231,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2008-11-11T08:00:00Z"
     },
     {
@@ -610,7 +656,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/40/93/22/4093227b-5416-0f84-2026-6f46e0684037/mzaf_10638365799445615051.plus.aac.p.m4a",
@@ -634,6 +680,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "Taylor Swift (Bonus Track Version)",
       "duration": 173,
+      "previousRank": 20,
+      "rankDelta": 0,
       "releaseDate": "2006-10-24T12:00:00Z"
     },
     {
@@ -642,7 +690,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/44/8a/a4/448aa432-42ae-8075-fe00-5f2deffe9896/mzaf_13232029737890307916.plus.aac.p.m4a",
@@ -666,6 +714,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "Fearless",
       "duration": 235,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "2008-09-12T12:00:00Z"
     },
     {
@@ -674,7 +724,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/74/3c/e9/743ce91a-fa0d-1b7a-8558-85c4004022d2/mzaf_16021923754792372642.plus.aac.p.m4a",
@@ -698,6 +748,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "Speak Now",
       "duration": 352,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2010-10-25T07:00:00Z"
     },
     {
@@ -706,7 +758,7 @@
       "artistName": "Johnny Cash",
       "artistSlug": "johnny-cash",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/12/68/2c126894-fd6b-b37c-d556-6d91bd8c0875/mzaf_17832761364720403968.plus.aac.p.m4a",
@@ -730,6 +782,8 @@
       "artistMbid": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
       "albumTitle": "The Essential Johnny Cash",
       "duration": 156,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "1963-04-19T08:00:00Z"
     },
     {
@@ -738,7 +792,7 @@
       "artistName": "Tim McGraw",
       "artistSlug": "tim-mcgraw",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1e/23/f3/1e23f31d-f00e-7501-24a0-b63572389f17/mzaf_18166898930226745514.plus.aac.p.m4a",
@@ -762,6 +816,8 @@
       "artistMbid": "7e5cfc9a-e9e1-46f1-b81a-861b12049488",
       "albumTitle": "Two Lanes of Freedom (Accelerated Deluxe)",
       "duration": 279,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2013-02-05T12:00:00Z"
     },
     {
@@ -770,7 +826,7 @@
       "artistName": "Randy Travis",
       "artistSlug": "randy-travis",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/87/52/89/8752897d-8488-c3bb-4eeb-5204b47e61d6/mzaf_16742547115796160031.plus.aac.p.m4a",
@@ -794,6 +850,8 @@
       "artistMbid": "09b697e3-a849-4670-ae49-e0b821a6271a",
       "albumTitle": "I Told You So: The Ultimate Hits of Randy Travis",
       "duration": 213,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "1987-04-04T08:00:00Z"
     },
     {
@@ -802,7 +860,7 @@
       "artistName": "Alan Jackson",
       "artistSlug": "alan-jackson",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ec/11/ec/ec11ecd3-4946-98e0-8ba0-90f81e993d04/mzaf_5199410270864542322.plus.aac.p.m4a",
@@ -826,6 +884,8 @@
       "artistMbid": "7291957b-c463-4275-a41c-a104c9e2337f",
       "albumTitle": "Alan Jackson: 16 Biggest Hits",
       "duration": 237,
+      "previousRank": 26,
+      "rankDelta": 0,
       "releaseDate": "1992-10-06T07:00:00Z"
     },
     {
@@ -834,7 +894,7 @@
       "artistName": "Zac Brown Band",
       "artistSlug": "zac-brown-band",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dd/23/56/dd2356f5-ce82-1177-69b8-3edef21e2522/mzaf_595517625678627906.plus.aac.p.m4a",
@@ -858,6 +918,8 @@
       "artistMbid": "507226f4-0842-4f43-950e-81a7017230ec",
       "albumTitle": "The Foundation",
       "duration": 238,
+      "previousRank": 27,
+      "rankDelta": 0,
       "releaseDate": "2008-06-16T12:00:00Z"
     },
     {
@@ -866,7 +928,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/63/0f/9d630fe9-1922-69b6-afe4-7ed5317845f0/mzaf_407946806506252314.plus.aac.p.m4a",
@@ -890,6 +952,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "Speak Now",
       "duration": 217,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "2010-10-25T07:00:00Z"
     },
     {
@@ -898,7 +962,7 @@
       "artistName": "Toby Keith",
       "artistSlug": "toby-keith",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/c0/59/e5c059f0-1c79-c5e4-a115-6894e984f75f/mzaf_13452595667558320264.plus.aac.p.m4a",
@@ -922,6 +986,8 @@
       "artistMbid": "2f951906-5629-4fef-a260-5033151c162a",
       "albumTitle": "Should've Been a Cowboy (25th Anniversary Edition)",
       "duration": 210,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "1993-04-20T07:00:00Z"
     },
     {
@@ -930,7 +996,7 @@
       "artistName": "Kenny Rogers",
       "artistSlug": "kenny-rogers",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/10/af/de10af94-69c5-aede-f2f5-2939de823064/mzaf_1653661081429854804.plus.aac.p.m4a",
@@ -954,6 +1020,8 @@
       "artistMbid": "c3d14b41-a48d-488f-bfed-ce0597bb0b1f",
       "albumTitle": "The Gambler",
       "duration": 211,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "1978-11-15T12:00:00Z"
     },
     {
@@ -962,7 +1030,7 @@
       "artistName": "Brooks & Dunn",
       "artistSlug": "brooks-and-dunn",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/10/2f/e0102f51-d0f2-1ee1-4b9e-df15bc43eace/mzaf_12054107205001751592.plus.aac.p.m4a",
@@ -986,6 +1054,8 @@
       "artistMbid": "f30118c5-f783-4969-8427-f3c096378267",
       "albumTitle": "Brand New Man",
       "duration": 198,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "1991-08-13T07:00:00Z"
     },
     {
@@ -994,27 +1064,33 @@
       "artistName": "Johnny Cash",
       "artistSlug": "johnny-cash",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2c/0d/06/2c0d06a0-ba56-5a16-1091-76e741f8af52/mzaf_191467376579052128.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9f/b0/3c/9fb03c5a-28f5-9609-a5fa-8471b6b32fc1/00602498613351.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9f/b0/3c/9fb03c5a-28f5-9609-a5fa-8471b6b32fc1/00602498613351.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9f/b0/3c/9fb03c5a-28f5-9609-a5fa-8471b6b32fc1/00602498613351.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Johnny+Cash/_/Hurt"
+        "lastfm": "https://www.last.fm/music/Johnny+Cash/_/Hurt",
+        "itunes": "https://music.apple.com/us/album/hurt/1452873181?i=1452875626&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0768262d-7992-3b05-9c37-9e77ddc0b325",
       "artistMbid": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
-      "duration": 216
+      "albumTitle": "Unearthed (Box Set)",
+      "duration": 217,
+      "previousRank": 32,
+      "rankDelta": 0,
+      "releaseDate": "2002-11-04T12:00:00Z"
     },
     {
       "id": "beyonce--daddy-lessons",
@@ -1022,7 +1098,7 @@
       "artistName": "Beyoncé",
       "artistSlug": "beyonce",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1e/50/56/1e505685-fcbf-1ac6-907b-df1324d69e06/mzaf_6227773728692292870.plus.aac.p.m4a",
@@ -1046,6 +1122,8 @@
       "artistMbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
       "albumTitle": "Lemonade",
       "duration": 288,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "2016-04-23T07:00:00Z"
     },
     {
@@ -1054,27 +1132,33 @@
       "artistName": "Miranda Lambert",
       "artistSlug": "miranda-lambert",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/48/17/ff/4817ffee-3915-b1c9-6122-de6d99694222/mzaf_6671809692209728780.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ec/23/a2/ec23a27b-c220-60f9-819a-ddf1f5cec07f/mzi.vribnyar.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ec/23/a2/ec23a27b-c220-60f9-819a-ddf1f5cec07f/mzi.vribnyar.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ec/23/a2/ec23a27b-c220-60f9-819a-ddf1f5cec07f/mzi.vribnyar.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Miranda+Lambert/_/Mama%27s+Broken+Heart"
+        "lastfm": "https://www.last.fm/music/Miranda+Lambert/_/Mama%27s+Broken+Heart",
+        "itunes": "https://music.apple.com/us/album/mamas-broken-heart/466581398?i=466581404&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "04f1ddfa-5f7e-472b-8468-7c40741344b4",
       "artistMbid": "4eca1aa0-c79f-481b-af8a-4a2d6c41aa5c",
-      "duration": 178
+      "albumTitle": "Four the Record",
+      "duration": 179,
+      "previousRank": 34,
+      "rankDelta": 0,
+      "releaseDate": "2011-11-01T07:00:00Z"
     },
     {
       "id": "john-denver--take-me-home-country-roads",
@@ -1082,7 +1166,7 @@
       "artistName": "John Denver",
       "artistSlug": "john-denver",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/1b/9e/4f1b9e3e-c21b-9991-ca27-6d16ee3dee62/mzaf_11503774327656204559.plus.aac.p.m4a",
@@ -1106,6 +1190,8 @@
       "artistMbid": "34e10b51-b5c6-4bc1-b70e-f05f141eda1e",
       "albumTitle": "The Windstar Greatest Hits",
       "duration": 196,
+      "previousRank": 35,
+      "rankDelta": 0,
       "releaseDate": "1971-04-01T12:00:00Z"
     },
     {
@@ -1114,7 +1200,7 @@
       "artistName": "The Handsome Family",
       "artistSlug": "the-handsome-family",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1c/d7/c8/1cd7c886-6968-00c6-accf-67748f9f08a0/mzaf_7337324030631223557.plus.aac.p.m4a",
@@ -1138,6 +1224,8 @@
       "artistMbid": "195ddaa1-f1e4-4960-a107-58d26cb058a2",
       "albumTitle": "Singing Bones",
       "duration": 166,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "2003-09-29T12:00:00Z"
     },
     {
@@ -1146,7 +1234,7 @@
       "artistName": "The Band Perry",
       "artistSlug": "the-band-perry",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/75/e9/0475e914-5c2d-803e-b99a-6462c96ad82c/mzaf_7750825999196033660.plus.aac.p.m4a",
@@ -1170,6 +1258,8 @@
       "artistMbid": "28955336-2348-488a-9381-e3a7b0107343",
       "albumTitle": "The Band Perry",
       "duration": 223,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2010-06-08T12:00:00Z"
     },
     {
@@ -1178,7 +1268,7 @@
       "artistName": "The Nitty Gritty Dirt Band",
       "artistSlug": "the-nitty-gritty-dirt-band",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/6a/69/a76a69f4-1e5b-0491-f042-4a15b36d5b6d/mzaf_9103478631877894772.plus.aac.p.m4a",
@@ -1201,6 +1291,8 @@
       "mbid": "16755c00-6b3c-46e7-8435-3df25447879a",
       "albumTitle": "Hype Country Songs",
       "duration": 203,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "1987-05-01T12:00:00Z"
     },
     {
@@ -1209,7 +1301,7 @@
       "artistName": "The Highwaymen",
       "artistSlug": "the-highwaymen",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/3f/55/113f5526-63fd-9045-1b7a-3868bcb24680/mzaf_10293302546841579207.plus.aac.p.m4a",
@@ -1233,6 +1325,8 @@
       "artistMbid": "c685765c-b778-4ed6-9035-8f7088431765",
       "albumTitle": "Highwayman",
       "duration": 184,
+      "previousRank": 39,
+      "rankDelta": 0,
       "releaseDate": "1985-10-25T07:00:00Z"
     },
     {
@@ -1241,7 +1335,7 @@
       "artistName": "Johnny Cash",
       "artistSlug": "johnny-cash",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d2/84/49/d284490c-b05d-f11f-fdd8-eb54ded6aebc/mzaf_9799533559330908646.plus.aac.p.m4a",
@@ -1265,6 +1359,8 @@
       "artistMbid": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
       "albumTitle": "Johnny Cash with His Hot and Blue Guitar! (Definitive Expanded Remastered Edition)",
       "duration": 154,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "1957-10-11T12:00:00Z"
     },
     {
@@ -1273,7 +1369,7 @@
       "artistName": "George Strait",
       "artistSlug": "george-strait",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a3/31/8a/a3318a2b-a723-a84b-415e-423396d76dfe/mzaf_17148189386114213850.plus.aac.p.m4a",
@@ -1297,6 +1393,8 @@
       "artistMbid": "5ab2cf34-517e-48eb-b3a5-34e1cbcd600a",
       "albumTitle": "Greatest Hits",
       "duration": 174,
+      "previousRank": 41,
+      "rankDelta": 0,
       "releaseDate": "1982-06-01T12:00:00Z"
     },
     {
@@ -1305,7 +1403,7 @@
       "artistName": "Toby Keith",
       "artistSlug": "toby-keith",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/54/37/f65437de-ceac-7538-7711-b6c8d7f41004/mzaf_13191749381059141754.plus.aac.p.m4a",
@@ -1329,6 +1427,8 @@
       "artistMbid": "2f951906-5629-4fef-a260-5033151c162a",
       "albumTitle": "35 Biggest Hits",
       "duration": 228,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2005-05-09T12:00:00Z"
     },
     {
@@ -1337,7 +1437,7 @@
       "artistName": "Big & Rich",
       "artistSlug": "big-and-rich",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/71/5a/62/715a6261-d379-a737-7523-d12f56cf3bd9/mzaf_13916260220882986562.plus.aac.p.m4a",
@@ -1361,6 +1461,8 @@
       "artistMbid": "9c76170f-0d77-4aa3-b3c9-52f1ce07b9ec",
       "albumTitle": "Greatest Hits (Audio Version)",
       "duration": 200,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "2003-12-15T12:00:00Z"
     },
     {
@@ -1369,27 +1471,33 @@
       "artistName": "Josh Turner",
       "artistSlug": "josh-turner",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/74/78/6c7478d3-1135-075f-4b93-1063dc14659f/mzaf_11466304298188183218.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/17/35/551735cc-91d9-1152-5bff-44028c26766f/06UMGIM12578.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/17/35/551735cc-91d9-1152-5bff-44028c26766f/06UMGIM12578.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/17/35/551735cc-91d9-1152-5bff-44028c26766f/06UMGIM12578.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Josh+Turner/_/Your+Man"
+        "lastfm": "https://www.last.fm/music/Josh+Turner/_/Your+Man",
+        "itunes": "https://music.apple.com/us/album/your-man/1440725726?i=1440726015&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "027819e3-3174-3291-a43b-96dc789d1de4",
       "artistMbid": "3c418647-3aa0-4f0b-b043-306f47855f52",
-      "duration": 211
+      "albumTitle": "Your Man",
+      "duration": 212,
+      "previousRank": 44,
+      "rankDelta": 0,
+      "releaseDate": "2005-07-26T12:00:00Z"
     },
     {
       "id": "taylor-swift--shouldve-said-no",
@@ -1397,7 +1505,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/5c/da/ea5cda50-e74b-c90a-d934-57455ac46d8e/mzaf_13731495979733963023.plus.aac.p.m4a",
@@ -1421,6 +1529,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "Taylor Swift (Bonus Track Version)",
       "duration": 242,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "2006-10-24T12:00:00Z"
     },
     {
@@ -1429,27 +1539,33 @@
       "artistName": "Johnny Cash",
       "artistSlug": "johnny-cash",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9e/25/5d/9e255d48-9468-ffd8-98ec-1e28d85a98f3/mzaf_16092528148426862596.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d7/4b/b6/d74bb621-7319-d6a7-6f69-b43249253c60/LM00177737.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d7/4b/b6/d74bb621-7319-d6a7-6f69-b43249253c60/LM00177737.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d7/4b/b6/d74bb621-7319-d6a7-6f69-b43249253c60/LM00177737.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Johnny+Cash/_/Folsom+Prison+Blues"
+        "lastfm": "https://www.last.fm/music/Johnny+Cash/_/Folsom+Prison+Blues",
+        "itunes": "https://music.apple.com/us/album/folsom-prison-blues/1290122967?i=1290122979&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "013edf35-2fdb-4bc2-9513-296f0d9549e9",
       "artistMbid": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
-      "duration": 166
+      "albumTitle": "All Aboard the Blue Train (Definitive Expanded Remastered Edition)",
+      "duration": 167,
+      "previousRank": 46,
+      "rankDelta": 0,
+      "releaseDate": "1955-12-15T12:00:00Z"
     },
     {
       "id": "shania-twain--man-i-feel-like-a-woman",
@@ -1457,7 +1573,7 @@
       "artistName": "Shania Twain",
       "artistSlug": "shania-twain",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/5a/c9/995ac911-a854-5116-97c4-c497380c0de3/mzaf_17795781825956372203.plus.aac.p.m4a",
@@ -1481,6 +1597,8 @@
       "artistMbid": "faabb55d-3c9e-4c23-8779-732ac2ee2c0d",
       "albumTitle": "Come On Over",
       "duration": 234,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "1997-11-04T12:00:00Z"
     },
     {
@@ -1489,7 +1607,7 @@
       "artistName": "Charlie Daniels Band",
       "artistSlug": "charlie-daniels-band",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cd/c6/0d/cdc60d45-7f77-ba2c-7a64-af47d797af83/mzaf_152608937764688585.plus.aac.p.m4a",
@@ -1512,6 +1630,8 @@
       "mbid": "00391435-52c7-445f-ac18-e3867e53f501",
       "albumTitle": "Million Mile Reflections",
       "duration": 215,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "1979-04-20T08:00:00Z"
     },
     {
@@ -1520,7 +1640,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/23/f8/3c23f8f0-f470-7297-face-dd95e6092aff/mzaf_3771431232214548520.plus.aac.p.m4a",
@@ -1544,6 +1664,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "Speak Now",
       "duration": 293,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2010-10-25T07:00:00Z"
     },
     {
@@ -1552,7 +1674,7 @@
       "artistName": "Jason Aldean",
       "artistSlug": "jason-aldean",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c3/0e/9c/c30e9c2c-6036-0a3f-d0ab-347adecb767f/mzaf_8700410394099634655.plus.aac.p.m4a",
@@ -1576,10 +1698,12 @@
       "artistMbid": "f24df11a-7e35-4979-a4db-a3b2a170ce27",
       "albumTitle": "My Kinda Party",
       "duration": 229,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2010-11-02T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:36:15.104Z",
+  "lastUpdated": "2026-03-02T00:52:28.550Z",
   "totalTracks": 50,
   "coverColor": "#d97706",
   "genre": "country",

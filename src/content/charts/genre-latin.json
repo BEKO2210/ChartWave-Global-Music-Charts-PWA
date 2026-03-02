@@ -11,7 +11,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
@@ -35,6 +35,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "DeBÍ TiRAR MáS FOToS",
       "duration": 184,
+      "previousRank": 1,
+      "rankDelta": 0,
       "releaseDate": "2025-01-05T12:00:00Z"
     },
     {
@@ -43,7 +45,7 @@
       "artistName": "Shakira",
       "artistSlug": "shakira",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/af/c7/21afc7b3-b9e2-ab59-6792-77d090423d2c/mzaf_14460439641377453329.plus.aac.p.m4a",
@@ -67,6 +69,8 @@
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
       "albumTitle": "Oral Fixation, Vol. 2 (Expanded Edition)",
       "duration": 220,
+      "previousRank": 2,
+      "rankDelta": 0,
       "releaseDate": "2005-11-28T12:00:00Z"
     },
     {
@@ -75,7 +79,7 @@
       "artistName": "Shakira",
       "artistSlug": "shakira",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/c8/74/e0c87403-334f-e711-47d0-909f1bb192df/mzaf_10846901357548759630.plus.aac.p.m4a",
@@ -98,6 +102,8 @@
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
       "albumTitle": "El Dorado",
       "duration": 196,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "2016-10-28T07:00:00Z"
     },
     {
@@ -106,7 +112,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/26/dd/2326dd0b-f117-306c-8454-be8934ffb402/mzaf_18297346266039659444.plus.aac.p.m4a",
@@ -130,6 +136,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "Un Verano Sin Ti",
       "duration": 173,
+      "previousRank": 4,
+      "rankDelta": 0,
       "releaseDate": "2022-05-06T12:00:00Z"
     },
     {
@@ -138,7 +146,7 @@
       "artistName": "Don Omar",
       "artistSlug": "don-omar",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/79/d1/1379d1f5-0c47-8df7-7e21-ef6225854d2d/mzaf_3711008858921440324.plus.aac.p.m4a",
@@ -162,6 +170,8 @@
       "artistMbid": "afbdfac9-2955-4404-ae22-c08bf1c1b51e",
       "albumTitle": "Meet The Orphans (Deluxe Edition)",
       "duration": 199,
+      "previousRank": 5,
+      "rankDelta": 0,
       "releaseDate": "2010-08-15T07:00:00Z"
     },
     {
@@ -170,7 +180,7 @@
       "artistName": "Aventura",
       "artistSlug": "aventura",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/7f/29/7c7f293a-bab2-7741-50a9-6639895bea26/mzaf_18419148381556148823.plus.aac.p.m4a",
@@ -194,6 +204,8 @@
       "artistMbid": "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
       "albumTitle": "We Broke the Rules",
       "duration": 255,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2002-07-02T07:00:00Z"
     },
     {
@@ -202,27 +214,33 @@
       "artistName": "Ricky Martin",
       "artistSlug": "ricky-martin",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/a7/cb/08a7cb6d-0618-3c01-6b80-2b92aaca7406/mzaf_15654413058067067771.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/3c/ed/ab3cedd0-03a6-0802-ec42-2f48c4eb118c/074646989128.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/3c/ed/ab3cedd0-03a6-0802-ec42-2f48c4eb118c/074646989128.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/3c/ed/ab3cedd0-03a6-0802-ec42-2f48c4eb118c/074646989128.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Ricky+Martin/_/Livin%27+La+Vida+Loca"
+        "lastfm": "https://www.last.fm/music/Ricky+Martin/_/Livin%27+La+Vida+Loca",
+        "itunes": "https://music.apple.com/us/album/livin-la-vida-loca/192821565?i=192821659&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00ba02ec-22b8-4211-9128-0690ac01e02f",
       "artistMbid": "70ea63ea-70dc-4b63-951a-2c249d2b3b0a",
-      "duration": 243
+      "albumTitle": "Ricky Martin",
+      "duration": 243,
+      "previousRank": 7,
+      "rankDelta": 0,
+      "releaseDate": "1999-03-27T08:00:00Z"
     },
     {
       "id": "manu-chao--me-gustas-tu",
@@ -230,7 +248,7 @@
       "artistName": "Manu Chao",
       "artistSlug": "manu-chao",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/db/64/d5/db64d51c-04b7-6735-d961-f1d411192e95/mzaf_4506090995790508151.plus.aac.p.m4a",
@@ -254,6 +272,8 @@
       "artistMbid": "7570a0dd-5a67-401b-b19a-261eee01a284",
       "albumTitle": "Próxima Estación: Esperanza",
       "duration": 240,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2001-05-14T12:00:00Z"
     },
     {
@@ -262,7 +282,7 @@
       "artistName": "Shakira",
       "artistSlug": "shakira",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/58/fb/00/58fb0037-12fe-a89a-4464-aa880e5523c2/mzaf_15679822080935636948.plus.aac.p.m4a",
@@ -286,6 +306,8 @@
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
       "albumTitle": "Sale el Sol (Bonus Track Edition)",
       "duration": 184,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "2010-09-10T07:00:00Z"
     },
     {
@@ -294,27 +316,33 @@
       "artistName": "Daddy Yankee",
       "artistSlug": "daddy-yankee",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6c/56/33/6c5633cf-a5f0-d489-f3e2-4fdd9b821ef3/mzaf_417409533127729756.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/66/f0/2f66f0f1-c3c2-9dc0-8391-04804cabc8cf/24CRGIM46808.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/66/f0/2f66f0f1-c3c2-9dc0-8391-04804cabc8cf/24CRGIM46808.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/66/f0/2f66f0f1-c3c2-9dc0-8391-04804cabc8cf/24CRGIM46808.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Daddy+Yankee/_/Gasolina"
+        "lastfm": "https://www.last.fm/music/Daddy+Yankee/_/Gasolina",
+        "itunes": "https://music.apple.com/us/album/gasolina/1785999696?i=1786000124&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00725818-5e29-41a0-a35b-0792d5172834",
       "artistMbid": "2f522f5c-111c-4ce8-8bd0-d82e97c227ad",
-      "duration": 111
+      "albumTitle": "Barrio Fino (Deluxe Version)",
+      "duration": 193,
+      "previousRank": 10,
+      "rankDelta": 0,
+      "releaseDate": "2004-01-01T12:00:00Z"
     },
     {
       "id": "juanes--la-camisa-negra",
@@ -322,7 +350,7 @@
       "artistName": "Juanes",
       "artistSlug": "juanes",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/de/46/84de46ef-f9f8-c6ad-fb6e-f6d5ca7571b7/mzaf_17789816509198950478.plus.aac.p.m4a",
@@ -346,6 +374,8 @@
       "artistMbid": "8b0f05ce-354e-4121-9e0b-8b4732ea844f",
       "albumTitle": "Mi Sangre",
       "duration": 217,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2004-08-26T12:00:00Z"
     },
     {
@@ -354,7 +384,7 @@
       "artistName": "Shawn Mendes",
       "artistSlug": "shawn-mendes",
       "rank": 12,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/06/d6/cf06d6fd-f7a0-2898-8363-67688df6c14f/mzaf_8234301186390421644.plus.aac.p.m4a",
@@ -378,6 +408,8 @@
       "artistMbid": "b7d92248-97e3-4450-8057-6fe06738f735",
       "albumTitle": "Señorita - Single",
       "duration": 191,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2019-06-21T12:00:00Z"
     },
     {
@@ -386,27 +418,33 @@
       "artistName": "Juanes",
       "artistSlug": "juanes",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/41/ae/2141ae62-3273-fb78-d146-ebc409b81da0/mzaf_2002473520653017788.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/b1/5d/8fb15d20-491c-5232-e939-ca4ddbd07a9d/06UMGIM13859.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/b1/5d/8fb15d20-491c-5232-e939-ca4ddbd07a9d/06UMGIM13859.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8f/b1/5d/8fb15d20-491c-5232-e939-ca4ddbd07a9d/06UMGIM13859.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Juanes/_/Es+Por+Ti"
+        "lastfm": "https://www.last.fm/music/Juanes/_/Es+Por+Ti",
+        "itunes": "https://music.apple.com/us/album/es-por-ti/1440785045?i=1440785267&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "21ae6ec3-0218-3881-8875-01786dc80deb",
       "artistMbid": "8b0f05ce-354e-4121-9e0b-8b4732ea844f",
-      "duration": 251
+      "albumTitle": "Un Día Normal",
+      "duration": 251,
+      "previousRank": 13,
+      "rankDelta": 0,
+      "releaseDate": "2002-05-21T12:00:00Z"
     },
     {
       "id": "aventura--el-perdedor",
@@ -414,7 +452,7 @@
       "artistName": "Aventura",
       "artistSlug": "aventura",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8c/30/24/8c3024c2-5d1d-19b0-8f64-0a8ae638bbfb/mzaf_8648682391541433644.plus.aac.p.m4a",
@@ -438,6 +476,8 @@
       "artistMbid": "5f2cb99a-7e59-429f-a44d-3a880edccfb1",
       "albumTitle": "Todavía Me Amas: Lo Mejor de Aventura (Deluxe Edition)",
       "duration": 215,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "2006-12-19T12:00:00Z"
     },
     {
@@ -446,7 +486,7 @@
       "artistName": "Buena Vista Social Club",
       "artistSlug": "buena-vista-social-club",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9f/b3/bb/9fb3bb95-dce9-bd65-7d91-4e9c4322dbc0/mzaf_17702336458070202791.plus.aac.p.m4a",
@@ -470,6 +510,8 @@
       "artistMbid": "2a85ecff-41e9-4be1-aca6-c87054a4c334",
       "albumTitle": "Buena Vista Social Club",
       "duration": 259,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "1997-06-23T12:00:00Z"
     },
     {
@@ -478,7 +520,7 @@
       "artistName": "Elvis Crespo",
       "artistSlug": "elvis-crespo",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/f4/b4/42f4b497-cbfb-a982-788d-69294bd119ef/mzaf_4406960368277173940.plus.aac.p.m4a",
@@ -502,6 +544,8 @@
       "artistMbid": "776b2c10-31fe-4c4b-9982-f408279b80a9",
       "albumTitle": "Suavemente",
       "duration": 267,
+      "previousRank": 16,
+      "rankDelta": 0,
       "releaseDate": "1998-04-04T08:00:00Z"
     },
     {
@@ -510,26 +554,32 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/ae/81/72ae81c2-4ef3-b998-40b6-563c0609509f/mzaf_12868850384306577273.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/Ojitos+Lindos"
+        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/Ojitos+Lindos",
+        "itunes": "https://music.apple.com/us/album/ojitos-lindos/1622045624?i=1622045962&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
-      "duration": 258
+      "albumTitle": "Un Verano Sin Ti",
+      "duration": 258,
+      "previousRank": 17,
+      "rankDelta": 0,
+      "releaseDate": "2022-05-06T12:00:00Z"
     },
     {
       "id": "juanes--a-dios-le-pido",
@@ -537,7 +587,7 @@
       "artistName": "Juanes",
       "artistSlug": "juanes",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/64/52/416452dc-fc37-bb03-d5b9-6cad57b4fe8c/mzaf_13731390409657648314.plus.aac.p.m4a",
@@ -561,6 +611,8 @@
       "artistMbid": "8b0f05ce-354e-4121-9e0b-8b4732ea844f",
       "albumTitle": "Un Día Normal",
       "duration": 205,
+      "previousRank": 18,
+      "rankDelta": 0,
       "releaseDate": "2002-06-06T12:00:00Z"
     },
     {
@@ -569,7 +621,7 @@
       "artistName": "Shakira",
       "artistSlug": "shakira",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/ca/d7/aacad747-f168-13c1-5829-994ad79b75d9/mzaf_14673391289377486777.plus.aac.p.m4a",
@@ -593,6 +645,8 @@
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
       "albumTitle": "Sale el Sol (Bonus Track Edition)",
       "duration": 147,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2010-10-19T07:00:00Z"
     },
     {
@@ -601,27 +655,33 @@
       "artistName": "Selena",
       "artistSlug": "selena",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/aa/e3/5baae3ac-7c0e-9bb4-34a3-714d5f197865/mzaf_8398886671722301215.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/b4/dc/5eb4dc73-cb56-5aaa-761e-04f2bcf16100/13UABIM54244.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/b4/dc/5eb4dc73-cb56-5aaa-761e-04f2bcf16100/13UABIM54244.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/b4/dc/5eb4dc73-cb56-5aaa-761e-04f2bcf16100/13UABIM54244.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Selena/_/Amor+Prohibido"
+        "lastfm": "https://www.last.fm/music/Selena/_/Amor+Prohibido",
+        "itunes": "https://music.apple.com/us/album/amor-prohibido/714819386?i=714819656&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00228b80-f91b-3c57-9922-5f916b98207b",
       "artistMbid": "03746227-c9f9-4b3b-b2c6-9b31f79564f7",
-      "duration": 175
+      "albumTitle": "Ones",
+      "duration": 171,
+      "previousRank": 20,
+      "rankDelta": 0,
+      "releaseDate": "1994-03-22T08:00:00Z"
     },
     {
       "id": "selena--como-la-flor",
@@ -629,7 +689,7 @@
       "artistName": "Selena",
       "artistSlug": "selena",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/52/1e/0d521e49-37a0-1c8b-fa55-8fb45327be55/mzaf_17182552118831304591.plus.aac.p.m4a",
@@ -653,6 +713,8 @@
       "artistMbid": "03746227-c9f9-4b3b-b2c6-9b31f79564f7",
       "albumTitle": "Dreaming Of You",
       "duration": 185,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "1992-01-01T12:00:00Z"
     },
     {
@@ -661,7 +723,7 @@
       "artistName": "Maná",
       "artistSlug": "mana",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/09/91/0d099178-b36f-a40a-d463-10b3d7d765ac/mzaf_10007740171693326730.plus.aac.p.m4a",
@@ -685,6 +747,8 @@
       "artistMbid": "55441123-89a2-49ab-ae3f-df7a3e86835a",
       "albumTitle": "Sueños Líquidos",
       "duration": 352,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "1997-10-10T12:00:00Z"
     },
     {
@@ -693,7 +757,7 @@
       "artistName": "Jennifer Lopez",
       "artistSlug": "jennifer-lopez",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/83/67/b6/8367b6c9-409f-5715-297a-8ae487eb810b/mzaf_490135022279424240.plus.aac.p.m4a",
@@ -717,6 +781,8 @@
       "artistMbid": "f0602f55-1770-483d-89bd-4bae0d0ac086",
       "albumTitle": "On The 6",
       "duration": 239,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "1999-06-01T07:00:00Z"
     },
     {
@@ -725,7 +791,7 @@
       "artistName": "Buena Vista Social Club",
       "artistSlug": "buena-vista-social-club",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bd/34/41/bd344167-c1cb-2a1e-42d9-888378bf6e7c/mzaf_9310046282393426452.plus.aac.p.m4a",
@@ -749,6 +815,8 @@
       "artistMbid": "2a85ecff-41e9-4be1-aca6-c87054a4c334",
       "albumTitle": "Buena Vista Social Club",
       "duration": 184,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "1997-09-16T12:00:00Z"
     },
     {
@@ -757,7 +825,7 @@
       "artistName": "Manu Chao",
       "artistSlug": "manu-chao",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/80/e5/9480e56b-d1bf-e6f8-af0a-5d3bb5a4b35c/mzaf_916047728900147163.plus.aac.p.m4a",
@@ -781,6 +849,8 @@
       "artistMbid": "7570a0dd-5a67-401b-b19a-261eee01a284",
       "albumTitle": "Clandestino",
       "duration": 158,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "1998-10-06T12:00:00Z"
     },
     {
@@ -789,7 +859,7 @@
       "artistName": "Bacilos",
       "artistSlug": "bacilos",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/5b/5b/a65b5bcd-75c1-4d4a-7f56-716206a6036a/mzaf_10165567574457335884.plus.aac.p.m4a",
@@ -813,6 +883,8 @@
       "artistMbid": "f69d655c-ffd6-4bee-8c2a-3086b2be2fc6",
       "albumTitle": "Caraluna",
       "duration": 266,
+      "previousRank": 26,
+      "rankDelta": 0,
       "releaseDate": "2002-07-16T07:00:00Z"
     },
     {
@@ -821,7 +893,7 @@
       "artistName": "Shakira",
       "artistSlug": "shakira",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/40/cd/cb/40cdcbad-d448-9d9d-64b8-14e9f747dba5/mzaf_7678153032536636652.plus.aac.p.m4a",
@@ -845,6 +917,8 @@
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
       "albumTitle": "Dónde Están Los Ladrones",
       "duration": 268,
+      "previousRank": 27,
+      "rankDelta": 0,
       "releaseDate": "1998-09-29T07:00:00Z"
     },
     {
@@ -853,7 +927,7 @@
       "artistName": "Santana",
       "artistSlug": "santana",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/6f/57/ae6f5713-449c-20f5-3669-e44c771205d6/mzaf_2675737261861707703.plus.aac.p.m4a",
@@ -877,6 +951,8 @@
       "artistMbid": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
       "albumTitle": "Ultimate Santana",
       "duration": 236,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "1969-08-01T07:00:00Z"
     },
     {
@@ -885,7 +961,7 @@
       "artistName": "Los Lobos",
       "artistSlug": "los-lobos",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/cd/2c/e3cd2c50-f2ed-fca0-4c7d-9512d0d1c21c/mzaf_6337186935789110712.plus.aac.p.m4a",
@@ -909,6 +985,8 @@
       "artistMbid": "2b9967c7-3246-4658-a561-ded5408dd9af",
       "albumTitle": "La Bamba (Original Motion Picture Soundtrack)",
       "duration": 174,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "1987-01-01T12:00:00Z"
     },
     {
@@ -917,7 +995,7 @@
       "artistName": "Julieta Venegas",
       "artistSlug": "julieta-venegas",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/7c/8c/977c8cf0-7f84-5e3e-ccab-9bc5248d4d63/mzaf_4490880708136941263.plus.aac.p.m4a",
@@ -941,6 +1019,8 @@
       "artistMbid": "601f8530-9009-4f73-94fb-a355b4497b70",
       "albumTitle": "Limón y Sal",
       "duration": 205,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "2006-05-25T12:00:00Z"
     },
     {
@@ -949,7 +1029,7 @@
       "artistName": "Shakira",
       "artistSlug": "shakira",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/32/b8/a3/32b8a349-4fcb-9211-6b96-c3f0083425a5/mzaf_1933709628490808457.plus.aac.p.m4a",
@@ -973,6 +1053,8 @@
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
       "albumTitle": "Nostalgia Pop: Lo Mejor del Ayer en Español",
       "duration": 173,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "2005-06-03T12:00:00Z"
     },
     {
@@ -981,7 +1063,7 @@
       "artistName": "Julieta Venegas",
       "artistSlug": "julieta-venegas",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a7/6e/d5/a76ed5a3-f433-9f51-d1e7-aabab61b8272/mzaf_8879423193797349785.plus.aac.p.m4a",
@@ -1005,6 +1087,8 @@
       "artistMbid": "601f8530-9009-4f73-94fb-a355b4497b70",
       "albumTitle": "Sí",
       "duration": 239,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2003-11-18T08:00:00Z"
     },
     {
@@ -1013,7 +1097,7 @@
       "artistName": "Alejandro Sanz",
       "artistSlug": "alejandro-sanz",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/11/8a/b5/118ab52d-7f9c-6821-3222-334583347ee7/mzaf_7063687902650814927.plus.aac.p.m4a",
@@ -1037,6 +1121,8 @@
       "artistMbid": "9bacf78f-9132-43da-8873-8a9eb49da0e9",
       "albumTitle": "Más (Bonus Version)",
       "duration": 343,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "1997-09-09T07:00:00Z"
     },
     {
@@ -1045,7 +1131,7 @@
       "artistName": "Bacilos",
       "artistSlug": "bacilos",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/76/00/e5/7600e545-6500-82b4-c05a-946155e4f5f5/mzaf_18280724728476739620.plus.aac.p.m4a",
@@ -1069,6 +1155,8 @@
       "artistMbid": "f69d655c-ffd6-4bee-8c2a-3086b2be2fc6",
       "albumTitle": "Caraluna",
       "duration": 237,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "2002-07-16T07:00:00Z"
     },
     {
@@ -1077,7 +1165,7 @@
       "artistName": "Wisin & Yandel",
       "artistSlug": "wisin-and-yandel",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/68/ac/a768acef-9856-8d69-04ac-dcb6a42f4bec/mzaf_14292085367836190925.plus.aac.p.m4a",
@@ -1101,6 +1189,8 @@
       "artistMbid": "3deeb747-c228-4d33-9892-f0aa081783c3",
       "albumTitle": "La Revolución - Evolution",
       "duration": 180,
+      "previousRank": 35,
+      "rankDelta": 0,
       "releaseDate": "2002-01-01T12:00:00Z"
     },
     {
@@ -1109,7 +1199,7 @@
       "artistName": "Santana",
       "artistSlug": "santana",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1c/ba/87/1cba87e2-2d36-cb55-40bc-e7e1e0a55604/mzaf_14636445199027856789.plus.aac.p.m4a",
@@ -1133,6 +1223,8 @@
       "artistMbid": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
       "albumTitle": "Abraxas",
       "duration": 260,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "1970-09-23T07:00:00Z"
     },
     {
@@ -1141,7 +1233,7 @@
       "artistName": "Shakira",
       "artistSlug": "shakira",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/85/ae/3c85ae22-09b5-f8a6-8b6b-d486499cbcc1/mzaf_12565913371623351315.plus.aac.p.m4a",
@@ -1165,6 +1257,8 @@
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
       "albumTitle": "Laundry Service",
       "duration": 194,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2001-08-27T07:00:00Z"
     },
     {
@@ -1173,7 +1267,7 @@
       "artistName": "Buena Vista Social Club",
       "artistSlug": "buena-vista-social-club",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/4a/4c/13/4a4c1338-4e93-9b56-29ca-d194da85b9e2/mzaf_2250836669478022053.plus.aac.p.m4a",
@@ -1197,6 +1291,8 @@
       "artistMbid": "2a85ecff-41e9-4be1-aca6-c87054a4c334",
       "albumTitle": "Buena Vista Social Club",
       "duration": 329,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "1997-09-16T12:00:00Z"
     },
     {
@@ -1205,7 +1301,7 @@
       "artistName": "Shakira",
       "artistSlug": "shakira",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/c7/9c/9cc79c4a-e0d7-d06d-a6e6-20b1ed5f7eae/mzaf_15842536259989854614.plus.aac.p.m4a",
@@ -1229,6 +1325,8 @@
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
       "albumTitle": "Pies Descalzos",
       "duration": 232,
+      "previousRank": 39,
+      "rankDelta": 0,
       "releaseDate": "1995-10-06T07:00:00Z"
     },
     {
@@ -1237,7 +1335,7 @@
       "artistName": "Reik",
       "artistSlug": "reik",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5e/10/ae/5e10ae26-04d4-45d0-15a5-2935c19153f2/mzaf_3255678903551646253.plus.aac.p.m4a",
@@ -1261,6 +1359,8 @@
       "artistMbid": "04cff564-a2e3-4560-8e7e-bc2539e7b46c",
       "albumTitle": "Un Día Más (Edición Especial)",
       "duration": 223,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "2008-07-02T12:00:00Z"
     },
     {
@@ -1269,7 +1369,7 @@
       "artistName": "Manu Chao",
       "artistSlug": "manu-chao",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/46/b2/da46b268-f42c-d5b0-b804-d7f6a3c5fc77/mzaf_15617900667614410608.plus.aac.p.m4a",
@@ -1293,6 +1393,8 @@
       "artistMbid": "7570a0dd-5a67-401b-b19a-261eee01a284",
       "albumTitle": "Clandestino",
       "duration": 227,
+      "previousRank": 41,
+      "rankDelta": 0,
       "releaseDate": "1998-10-06T12:00:00Z"
     },
     {
@@ -1301,7 +1403,7 @@
       "artistName": "Monchy & Alexandra",
       "artistSlug": "monchy-and-alexandra",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0f/91/73/0f91735b-9e21-f822-9531-82ec79ead0aa/mzaf_8627209571806726949.plus.aac.p.m4a",
@@ -1325,6 +1427,8 @@
       "artistMbid": "4694e9a3-bc35-4a5c-be15-0fa6ba9abd70",
       "albumTitle": "Confesiones...",
       "duration": 247,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2002-05-03T12:00:00Z"
     },
     {
@@ -1333,7 +1437,7 @@
       "artistName": "Buena Vista Social Club",
       "artistSlug": "buena-vista-social-club",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0a/24/3c/0a243cbb-cbe2-1b35-78f0-6fcc870fbc4c/mzaf_14148970201482044057.plus.aac.p.m4a",
@@ -1357,6 +1461,8 @@
       "artistMbid": "2a85ecff-41e9-4be1-aca6-c87054a4c334",
       "albumTitle": "Buena Vista Social Club",
       "duration": 445,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "1997-09-16T12:00:00Z"
     },
     {
@@ -1365,7 +1471,7 @@
       "artistName": "Molotov",
       "artistSlug": "molotov",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/18/32/e2/1832e22a-d94d-e0a5-5158-ea3d05906b43/mzaf_14909275802511695456.plus.aac.p.m4a",
@@ -1389,6 +1495,8 @@
       "artistMbid": "4f8916d6-a7d2-43e9-96b6-ce3168c39c84",
       "albumTitle": "Festimad '03",
       "duration": 210,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "2003-01-01T12:00:00Z"
     },
     {
@@ -1397,7 +1505,7 @@
       "artistName": "Celia Cruz",
       "artistSlug": "celia-cruz",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/2d/98/c52d98d8-05ea-43dc-f3ff-273c44e074be/mzaf_11588820671180151337.plus.aac.p.m4a",
@@ -1421,6 +1529,8 @@
       "artistMbid": "7b8e1188-9ca4-4aa5-8393-172de6fa04de",
       "albumTitle": "La Vida Es un Carnaval: Baile Total",
       "duration": 277,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "1998-01-01T12:00:00Z"
     },
     {
@@ -1429,7 +1539,7 @@
       "artistName": "Juanes",
       "artistSlug": "juanes",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/da/6a/2f/da6a2f7d-3b38-cbe9-54e0-8aefe793784c/mzaf_9849024552104924484.plus.aac.p.m4a",
@@ -1453,6 +1563,8 @@
       "artistMbid": "8b0f05ce-354e-4121-9e0b-8b4732ea844f",
       "albumTitle": "La Vída…Es Un Ratico (Bonus Track Version)",
       "duration": 193,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "2007-09-03T12:00:00Z"
     },
     {
@@ -1461,7 +1573,7 @@
       "artistName": "Buena Vista Social Club",
       "artistSlug": "buena-vista-social-club",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f2/83/7b/f2837b6d-ecb5-28e6-bf3b-d559de61bb8a/mzaf_5621311498780230702.plus.aac.p.m4a",
@@ -1485,6 +1597,8 @@
       "artistMbid": "2a85ecff-41e9-4be1-aca6-c87054a4c334",
       "albumTitle": "Buena Vista Social Club",
       "duration": 212,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "1997-09-16T12:00:00Z"
     },
     {
@@ -1493,7 +1607,7 @@
       "artistName": "Manu Chao",
       "artistSlug": "manu-chao",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/54/ed/ef54ed93-66d0-a9dd-4702-fb50b4c33022/mzaf_10063871963872945354.plus.aac.p.m4a",
@@ -1517,6 +1631,8 @@
       "artistMbid": "7570a0dd-5a67-401b-b19a-261eee01a284",
       "albumTitle": "Clandestino",
       "duration": 149,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "1998-10-06T12:00:00Z"
     },
     {
@@ -1525,27 +1641,33 @@
       "artistName": "Shakira",
       "artistSlug": "shakira",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/07/18/f4/0718f466-498e-371b-f7b0-859b86ace33d/mzaf_14344544916716246213.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/6d/96/e56d9688-0239-7c8f-f907-7614c0f9860b/mzi.uffuznlo.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/6d/96/e56d9688-0239-7c8f-f907-7614c0f9860b/mzi.uffuznlo.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/6d/96/e56d9688-0239-7c8f-f907-7614c0f9860b/mzi.uffuznlo.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Shakira/_/Inevitable"
+        "lastfm": "https://www.last.fm/music/Shakira/_/Inevitable",
+        "itunes": "https://music.apple.com/us/album/inevitable/192682818?i=192683028&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "080deefb-87ba-393c-8451-b14be30c1d88",
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
-      "duration": 195
+      "albumTitle": "Dónde Están Los Ladrones",
+      "duration": 193,
+      "previousRank": 49,
+      "rankDelta": 0,
+      "releaseDate": "1998-09-29T07:00:00Z"
     },
     {
       "id": "shakira--te-aviso-te-anuncio-tango",
@@ -1553,7 +1675,7 @@
       "artistName": "Shakira",
       "artistSlug": "shakira",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/16/6b/8e/166b8ede-41dc-6db7-72a9-6a3b992e6166/mzaf_5633233080480028402.plus.aac.p.m4a",
@@ -1577,10 +1699,12 @@
       "artistMbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
       "albumTitle": "Laundry Service",
       "duration": 223,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2001-11-13T08:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:35:17.888Z",
+  "lastUpdated": "2026-03-02T00:52:18.415Z",
   "totalTracks": 50,
   "coverColor": "#f43f5e",
   "genre": "latin",

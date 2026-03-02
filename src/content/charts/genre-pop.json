@@ -11,7 +11,7 @@
       "artistName": "Bruno Mars",
       "artistSlug": "bruno-mars",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f4/37/44/f4374481-e6e8-54d1-32ad-893ec2f4d495/mzaf_3915415747653767603.plus.aac.p.m4a",
@@ -35,6 +35,8 @@
       "artistMbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
       "albumTitle": "Unorthodox Jukebox",
       "duration": 233,
+      "previousRank": 1,
+      "rankDelta": 0,
       "releaseDate": "2012-10-01T07:00:00Z"
     },
     {
@@ -43,7 +45,7 @@
       "artistName": "Selena Gomez & the Scene",
       "artistSlug": "selena-gomez-and-the-scene",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/17/fa/b417fa88-aa26-9403-0bb2-a68d2729b202/mzaf_13834207080501465184.plus.aac.p.m4a",
@@ -67,6 +69,8 @@
       "artistMbid": "37d0a847-32d3-480f-bd1e-101f50a3d332",
       "albumTitle": "Love You Like A Love Song, And More",
       "duration": 188,
+      "previousRank": 2,
+      "rankDelta": 0,
       "releaseDate": "2011-06-17T12:00:00Z"
     },
     {
@@ -75,7 +79,7 @@
       "artistName": "t.A.T.u.",
       "artistSlug": "t-a-t-u",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/ef/b7/04efb7c0-63b8-0164-cdd9-f7d7a93c1372/mzaf_15885597228946383675.plus.aac.p.m4a",
@@ -99,6 +103,8 @@
       "artistMbid": "7c20f558-d664-42bd-b6f1-81acf9dbb72d",
       "albumTitle": "200 KM/H In the Wrong Lane",
       "duration": 214,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "2002-08-19T12:00:00Z"
     },
     {
@@ -107,7 +113,7 @@
       "artistName": "Zara Larsson",
       "artistSlug": "zara-larsson",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/52/6a/77526a57-f53f-b8ba-bdc7-e74e242c7c55/mzaf_11538198025885549610.plus.aac.p.m4a",
@@ -131,6 +137,8 @@
       "artistMbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
       "albumTitle": "So Good",
       "duration": 201,
+      "previousRank": 4,
+      "rankDelta": 0,
       "releaseDate": "2017-03-17T07:00:00Z"
     },
     {
@@ -139,7 +147,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/79/81/c7798117-a0f6-0695-275f-95fd3ef4fdf4/mzaf_9965434137419857797.plus.aac.p.m4a",
@@ -163,6 +171,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "1989 (Deluxe Edition)",
       "duration": 231,
+      "previousRank": 5,
+      "rankDelta": 0,
       "releaseDate": "2014-10-27T07:00:00Z"
     },
     {
@@ -171,7 +181,7 @@
       "artistName": "Chappell Roan",
       "artistSlug": "chappell-roan",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/52/be/fc52be82-306b-6da5-286b-61056757c008/mzaf_1618848737251148796.plus.aac.p.m4a",
@@ -195,6 +205,8 @@
       "artistMbid": "56a55378-f155-48de-80a5-d80104221267",
       "albumTitle": "Pink Pony Club - Single",
       "duration": 258,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2020-04-03T12:00:00Z"
     },
     {
@@ -203,7 +215,7 @@
       "artistName": "Ariana Grande",
       "artistSlug": "ariana-grande",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/7c/53/7f7c53d4-8bd9-ae3c-6213-9b16dd2e39af/mzaf_7147033395907843228.plus.aac.p.m4a",
@@ -227,6 +239,8 @@
       "artistMbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
       "albumTitle": "Sweetener",
       "duration": 206,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "2018-04-20T07:00:00Z"
     },
     {
@@ -235,7 +249,7 @@
       "artistName": "Britney Spears",
       "artistSlug": "britney-spears",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/c4/7f/aec47f56-842d-49b4-558b-7a7523fd6728/mzaf_6693111381462300599.plus.aac.p.m4a",
@@ -259,6 +273,8 @@
       "artistMbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
       "albumTitle": "In the Zone",
       "duration": 199,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2003-11-15T08:00:00Z"
     },
     {
@@ -267,7 +283,7 @@
       "artistName": "Lady Gaga",
       "artistSlug": "lady-gaga",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/41/d4/ef41d4db-feb1-6ef2-92e2-eb7d1913f0dc/mzaf_13924161903266158213.plus.aac.p.m4a",
@@ -291,6 +307,8 @@
       "artistMbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
       "albumTitle": "Born This Way (Special Edition)",
       "duration": 249,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "2011-04-15T07:00:00Z"
     },
     {
@@ -299,7 +317,7 @@
       "artistName": "Ariana Grande",
       "artistSlug": "ariana-grande",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/85/f8/b685f80a-3cb7-3383-b216-43bfec0f5588/mzaf_9599402187517170197.plus.aac.p.m4a",
@@ -323,6 +341,8 @@
       "artistMbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
       "albumTitle": "thank u, next",
       "duration": 207,
+      "previousRank": 10,
+      "rankDelta": 0,
       "releaseDate": "2018-11-03T07:00:00Z"
     },
     {
@@ -331,7 +351,7 @@
       "artistName": "Katy Perry",
       "artistSlug": "katy-perry",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/d0/bf/9cd0bf4f-46b0-e887-f5ae-a1f9e19ff703/mzaf_11827369852171832648.plus.aac.p.m4a",
@@ -355,6 +375,8 @@
       "artistMbid": "122d63fc-8671-43e4-9752-34e846d62a9c",
       "albumTitle": "Teenage Dream",
       "duration": 227,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2010-08-24T07:00:00Z"
     },
     {
@@ -363,7 +385,7 @@
       "artistName": "Sabrina Carpenter",
       "artistSlug": "sabrina-carpenter",
       "rank": 12,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/da/ff/99daffce-cdde-59c6-5ae0-7f922ce411a8/mzaf_5621292401829922816.plus.aac.p.m4a",
@@ -387,8 +409,8 @@
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
       "albumTitle": "Short n' Sweet",
       "duration": 175,
-      "previousRank": 1,
-      "rankDelta": -11,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2024-06-14T07:00:00Z"
     },
     {
@@ -397,27 +419,33 @@
       "artistName": "Nelly Furtado",
       "artistSlug": "nelly-furtado",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/28/a1/12/28a11253-216f-bd03-4a9a-b64d92ec5fb7/mzaf_4476127170752265606.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/f2/be/20f2be1f-716d-a2df-913e-1aff99c08619/06UMGIM31170.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/f2/be/20f2be1f-716d-a2df-913e-1aff99c08619/06UMGIM31170.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/f2/be/20f2be1f-716d-a2df-913e-1aff99c08619/06UMGIM31170.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Nelly+Furtado/_/Maneater"
+        "lastfm": "https://www.last.fm/music/Nelly+Furtado/_/Maneater",
+        "itunes": "https://music.apple.com/us/album/maneater/1442463545?i=1442463828&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0092a4d7-6c9e-4e56-aa73-bef085749798",
       "artistMbid": "13655113-cd16-4b43-9dca-cadbbf26ee05",
-      "duration": 267
+      "albumTitle": "Loose",
+      "duration": 259,
+      "previousRank": 13,
+      "rankDelta": 0,
+      "releaseDate": "2006-05-26T07:00:00Z"
     },
     {
       "id": "lady-gaga--telephone-feat-beyonce",
@@ -425,7 +453,7 @@
       "artistName": "Lady Gaga",
       "artistSlug": "lady-gaga",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/c6/ec/60c6ec3d-c089-1c8c-66db-81ab1e590bce/mzaf_17102914453623960694.plus.aac.p.m4a",
@@ -449,6 +477,8 @@
       "artistMbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
       "albumTitle": "The Fame Monster (Deluxe Edition)",
       "duration": 221,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "2009-11-18T08:00:00Z"
     },
     {
@@ -457,27 +487,33 @@
       "artistName": "Katy Perry",
       "artistSlug": "katy-perry",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/0d/b9/130db986-7a57-0346-775b-9b5a9fb1aa30/mzaf_17843671471644574578.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/97/31/759731eb-b429-dfe3-c41f-34435998d102/13UABIM57845.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+(T.G.I.F.)"
+        "lastfm": "https://www.last.fm/music/Katy+Perry/_/Last+Friday+Night+(T.G.I.F.)",
+        "itunes": "https://music.apple.com/us/album/last-friday-night-t-g-i-f/1013032931?i=1013032939&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "04a96a79-54b0-33e9-9ae2-adf76f659a37",
       "artistMbid": "122d63fc-8671-43e4-9752-34e846d62a9c",
-      "duration": 230
+      "albumTitle": "Teenage Dream (Deluxe Edition)",
+      "duration": 231,
+      "previousRank": 15,
+      "rankDelta": 0,
+      "releaseDate": "2010-08-24T07:00:00Z"
     },
     {
       "id": "bruno-mars--grenade",
@@ -485,7 +521,7 @@
       "artistName": "Bruno Mars",
       "artistSlug": "bruno-mars",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/eb/e3/11/ebe3111c-31c8-db50-53fe-b4b84615b94e/mzaf_122558449473593076.plus.aac.p.m4a",
@@ -509,6 +545,8 @@
       "artistMbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
       "albumTitle": "Doo-Wops & Hooligans",
       "duration": 222,
+      "previousRank": 16,
+      "rankDelta": 0,
       "releaseDate": "2010-09-28T07:00:00Z"
     },
     {
@@ -517,7 +555,7 @@
       "artistName": "Lady Gaga",
       "artistSlug": "lady-gaga",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dc/07/67/dc076711-3085-fbf8-d579-b8d9df8b3af9/mzaf_15457018618275719095.plus.aac.p.m4a",
@@ -541,6 +579,8 @@
       "artistMbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
       "albumTitle": "Kids Birthday Party",
       "duration": 208,
+      "previousRank": 17,
+      "rankDelta": 0,
       "releaseDate": "2008-08-19T12:00:00Z"
     },
     {
@@ -549,27 +589,33 @@
       "artistName": "Britney Spears",
       "artistSlug": "britney-spears",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/ee/68/7eee68a9-5dc7-0494-21a4-43313867422b/mzaf_16697977695852128424.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ff/c8/65/ffc865df-848c-fbd5-45f9-d150bb09327f/196589263506.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ff/c8/65/ffc865df-848c-fbd5-45f9-d150bb09327f/196589263506.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ff/c8/65/ffc865df-848c-fbd5-45f9-d150bb09327f/196589263506.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Britney+Spears/_/Gimme+More"
+        "lastfm": "https://www.last.fm/music/Britney+Spears/_/Gimme+More",
+        "itunes": "https://music.apple.com/us/album/gimme-more/1635636172?i=1635637376&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "004ec59f-1b1d-366b-b009-25cf6a2aa1bb",
       "artistMbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
-      "duration": 251
+      "albumTitle": "O Melhor do Pop Internacional",
+      "duration": 251,
+      "previousRank": 18,
+      "rankDelta": 0,
+      "releaseDate": "2007-09-20T12:00:00Z"
     },
     {
       "id": "britney-spears--oops-i-did-it-again",
@@ -577,7 +623,7 @@
       "artistName": "Britney Spears",
       "artistSlug": "britney-spears",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/fa/77/d8fa770b-a342-c0e9-9af2-8807c8e236b8/mzaf_16428789446546576226.plus.aac.p.m4a",
@@ -601,6 +647,8 @@
       "artistMbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
       "albumTitle": "Oops!...I Did It Again",
       "duration": 211,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2000-04-11T07:00:00Z"
     },
     {
@@ -609,27 +657,33 @@
       "artistName": "Justin Timberlake",
       "artistSlug": "justin-timberlake",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/79/9e/8d799ece-78b0-fb56-c69f-4e35bc298f00/mzaf_11814588662793621020.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/76/d2/f976d242-4e68-1919-6576-ef4c869c077a/dj.umvqrvup.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/76/d2/f976d242-4e68-1919-6576-ef4c869c077a/dj.umvqrvup.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/76/d2/f976d242-4e68-1919-6576-ef4c869c077a/dj.umvqrvup.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Justin+Timberlake/_/Rock+Your+Body"
+        "lastfm": "https://www.last.fm/music/Justin+Timberlake/_/Rock+Your+Body",
+        "itunes": "https://music.apple.com/us/album/rock-your-body/252606580?i=252606598&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00b4811a-85f3-3e47-ba55-2e09cf359f52",
       "artistMbid": "596ffa74-3d08-44ef-b113-765d43d12738",
-      "duration": 267
+      "albumTitle": "Justified",
+      "duration": 267,
+      "previousRank": 20,
+      "rankDelta": 0,
+      "releaseDate": "2002-11-05T08:00:00Z"
     },
     {
       "id": "britney-spears--womanizer",
@@ -637,7 +691,7 @@
       "artistName": "Britney Spears",
       "artistSlug": "britney-spears",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/44/a9/7f44a91f-7cc5-58df-0c55-1fb844c876d8/mzaf_7874757597549015233.plus.aac.p.m4a",
@@ -661,6 +715,8 @@
       "artistMbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
       "albumTitle": "Circus (Deluxe Version)",
       "duration": 224,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "2008-09-26T07:00:00Z"
     },
     {
@@ -669,7 +725,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/55/b1/7955b10c-6cb6-462a-861c-8e5cbcacfb76/mzaf_3395570742482345989.plus.aac.p.m4a",
@@ -693,6 +749,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "1989 (Deluxe Edition)",
       "duration": 232,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2014-10-27T07:00:00Z"
     },
     {
@@ -701,7 +759,7 @@
       "artistName": "Justin Bieber",
       "artistSlug": "justin-bieber",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/eb/29/66eb29c0-c2f9-d9df-8af3-3bf2562c9d7c/mzaf_4099789285264521999.plus.aac.p.m4a",
@@ -725,6 +783,8 @@
       "artistMbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
       "albumTitle": "Purpose (Deluxe)",
       "duration": 201,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "2015-10-23T12:00:00Z"
     },
     {
@@ -733,7 +793,7 @@
       "artistName": "Ariana Grande",
       "artistSlug": "ariana-grande",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1a/3f/58/1a3f582e-a247-907f-b224-44dfe317bdef/mzaf_14285853839836368782.plus.aac.p.m4a",
@@ -757,6 +817,8 @@
       "artistMbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
       "albumTitle": "Dangerous Woman (Bonus Videos Edition)",
       "duration": 244,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2016-05-06T07:00:00Z"
     },
     {
@@ -765,7 +827,7 @@
       "artistName": "Justin Bieber",
       "artistSlug": "justin-bieber",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/66/9d/db669d1d-7051-5fbd-1ddb-cf6d0b06758a/mzaf_15223103171846878304.plus.aac.p.m4a",
@@ -789,6 +851,8 @@
       "artistMbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
       "albumTitle": "Believe (Deluxe Edition)",
       "duration": 228,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "2012-06-15T12:00:00Z"
     },
     {
@@ -797,7 +861,7 @@
       "artistName": "Lady Gaga",
       "artistSlug": "lady-gaga",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/54/f0/1b54f0b7-db6a-1a40-6af8-4ae4650d8d6d/mzaf_2782647211171496826.plus.aac.p.m4a",
@@ -821,6 +885,8 @@
       "artistMbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
       "albumTitle": "The Fame Monster (Deluxe Edition)",
       "duration": 295,
+      "previousRank": 26,
+      "rankDelta": 0,
       "releaseDate": "2009-10-26T07:00:00Z"
     },
     {
@@ -829,7 +895,7 @@
       "artistName": "Lady Gaga",
       "artistSlug": "lady-gaga",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/aa/0c/99/aa0c99d5-216b-8fb4-afac-7045983890a4/mzaf_2955331233441591766.plus.aac.p.m4a",
@@ -853,6 +919,8 @@
       "artistMbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
       "albumTitle": "Girl Power",
       "duration": 239,
+      "previousRank": 27,
+      "rankDelta": 0,
       "releaseDate": "2008-08-19T12:00:00Z"
     },
     {
@@ -861,7 +929,7 @@
       "artistName": "Carly Rae Jepsen",
       "artistSlug": "carly-rae-jepsen",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/0b/c4/5e0bc4b4-51fb-c992-4953-8cc13ecfb773/mzaf_4904797060238555261.plus.aac.p.m4a",
@@ -885,6 +953,8 @@
       "artistMbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1",
       "albumTitle": "Kiss (Deluxe Version)",
       "duration": 193,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "2011-09-20T12:00:00Z"
     },
     {
@@ -893,7 +963,7 @@
       "artistName": "Nelly Furtado",
       "artistSlug": "nelly-furtado",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/41/e2/0341e2ae-d84b-20bf-7179-204867c7907a/mzaf_1787596399060792567.plus.aac.p.m4a",
@@ -917,6 +987,8 @@
       "artistMbid": "13655113-cd16-4b43-9dca-cadbbf26ee05",
       "albumTitle": "Loose (Expanded Edition)",
       "duration": 242,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "2006-04-25T12:00:00Z"
     },
     {
@@ -925,7 +997,7 @@
       "artistName": "Justin Bieber",
       "artistSlug": "justin-bieber",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/d1/be/8cd1be3e-0a5f-b460-1e8d-3651197fbc1d/mzaf_4014152438661039186.plus.aac.p.m4a",
@@ -949,6 +1021,8 @@
       "artistMbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
       "albumTitle": "Purpose (Deluxe)",
       "duration": 206,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "2015-08-28T12:00:00Z"
     },
     {
@@ -957,7 +1031,7 @@
       "artistName": "Nelly Furtado",
       "artistSlug": "nelly-furtado",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0a/30/b7/0a30b7af-6624-e880-9e25-ac1754f3d183/mzaf_11689621448438519627.plus.aac.p.m4a",
@@ -981,6 +1055,8 @@
       "artistMbid": "13655113-cd16-4b43-9dca-cadbbf26ee05",
       "albumTitle": "Loose",
       "duration": 223,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "2006-06-07T07:00:00Z"
     },
     {
@@ -989,7 +1065,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/26/64/3b26645a-2c49-f0c7-fa6d-be6ad83b0ae9/mzaf_4194244291813253017.plus.aac.p.m4a",
@@ -1013,6 +1089,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "reputation",
       "duration": 212,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2017-08-24T12:00:00Z"
     },
     {
@@ -1021,7 +1099,7 @@
       "artistName": "Maroon 5",
       "artistSlug": "maroon-5",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/b6/5f/a2b65f9c-ee14-59db-8738-57b7e349ece9/mzaf_9296646680963365786.plus.aac.p.m4a",
@@ -1045,6 +1123,8 @@
       "artistMbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
       "albumTitle": "Overexposed (Deluxe Version)",
       "duration": 219,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "2012-06-18T12:00:00Z"
     },
     {
@@ -1053,7 +1133,7 @@
       "artistName": "Zayn",
       "artistSlug": "zayn",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/3a/82/7c/3a827ca7-b4a7-a417-ef71-7c3136f71b27/mzaf_13646852002983681091.plus.aac.p.m4a",
@@ -1076,6 +1156,8 @@
       "mbid": "09e34570-efef-492e-ad0e-609f508815e0",
       "albumTitle": "Mind Of Mine (Deluxe Edition)",
       "duration": 203,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "2016-01-29T08:00:00Z"
     },
     {
@@ -1084,7 +1166,7 @@
       "artistName": "Tate McRae",
       "artistSlug": "tate-mcrae",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/86/08/3b860886-596f-66a8-6681-e7ff87600959/mzaf_4836637305805666758.plus.aac.p.m4a",
@@ -1108,6 +1190,8 @@
       "artistMbid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
       "albumTitle": "So Close To What",
       "duration": 165,
+      "previousRank": 35,
+      "rankDelta": 0,
       "releaseDate": "2025-01-24T08:00:00Z"
     },
     {
@@ -1116,7 +1200,7 @@
       "artistName": "Britney Spears",
       "artistSlug": "britney-spears",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/6a/b2/496ab286-3c2d-91f9-2d83-2dc2d7d0ed39/mzaf_9080140052391941165.plus.aac.p.m4a",
@@ -1140,6 +1224,8 @@
       "artistMbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
       "albumTitle": "...Baby One More Time (Deluxe Version)",
       "duration": 211,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "1998-09-29T07:00:00Z"
     },
     {
@@ -1148,7 +1234,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/90/67/b5/9067b561-f437-d4ce-1f2f-ac3913339d72/mzaf_9669199482319820236.plus.aac.p.m4a",
@@ -1172,6 +1258,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "THE TORTURED POETS DEPARTMENT",
       "duration": 229,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2024-04-19T12:00:00Z"
     },
     {
@@ -1180,7 +1268,7 @@
       "artistName": "Sabrina Carpenter",
       "artistSlug": "sabrina-carpenter",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/57/a6/2657a620-c596-e0e4-efa2-e814f3572d1c/mzaf_5475540510703120797.plus.aac.p.m4a",
@@ -1204,6 +1292,8 @@
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
       "albumTitle": "Short n' Sweet",
       "duration": 157,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "2024-08-23T12:00:00Z"
     },
     {
@@ -1212,7 +1302,7 @@
       "artistName": "Taylor Swift",
       "artistSlug": "taylor-swift",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/36/bf/8536bfc1-0cfe-1aaf-1840-9e1c4efcd279/mzaf_1848296208075340895.plus.aac.p.m4a",
@@ -1236,6 +1326,8 @@
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
       "albumTitle": "THE TORTURED POETS DEPARTMENT",
       "duration": 254,
+      "previousRank": 39,
+      "rankDelta": 0,
       "releaseDate": "2024-04-19T12:00:00Z"
     },
     {
@@ -1244,7 +1336,7 @@
       "artistName": "Olivia Rodrigo",
       "artistSlug": "olivia-rodrigo",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/5a/c2/835ac220-f31a-006f-b6a9-2acd29eb60d0/mzaf_13621843495437485054.plus.aac.p.m4a",
@@ -1268,6 +1360,8 @@
       "artistMbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
       "albumTitle": "SOUR",
       "duration": 216,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "2021-04-01T07:00:00Z"
     },
     {
@@ -1276,7 +1370,7 @@
       "artistName": "Justin Timberlake",
       "artistSlug": "justin-timberlake",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/07/47/cc/0747ccec-20fe-0617-3639-4381c4910e44/mzaf_16058569210401542525.plus.aac.p.m4a",
@@ -1300,6 +1394,8 @@
       "artistMbid": "596ffa74-3d08-44ef-b113-765d43d12738",
       "albumTitle": "The 20/20 Experience (Deluxe Version)",
       "duration": 486,
+      "previousRank": 41,
+      "rankDelta": 0,
       "releaseDate": "2013-02-11T12:00:00Z"
     },
     {
@@ -1308,7 +1404,7 @@
       "artistName": "Sabrina Carpenter",
       "artistSlug": "sabrina-carpenter",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/97/06/58/97065890-7970-725a-1595-5045d4b110b1/mzaf_7668784443609724903.plus.aac.p.m4a",
@@ -1332,6 +1428,8 @@
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
       "albumTitle": "Short n' Sweet",
       "duration": 186,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2024-06-14T07:00:00Z"
     },
     {
@@ -1340,7 +1438,7 @@
       "artistName": "Charlie Puth",
       "artistSlug": "charlie-puth",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/76/e1/0b76e164-35b8-7fbb-a773-9832f3155532/mzaf_12020704327610118862.plus.aac.p.m4a",
@@ -1364,6 +1462,8 @@
       "artistMbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
       "albumTitle": "Voicenotes",
       "duration": 209,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "2017-04-21T12:00:00Z"
     },
     {
@@ -1372,7 +1472,7 @@
       "artistName": "Ariana Grande",
       "artistSlug": "ariana-grande",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/54/a6/9354a6ec-ea35-2926-bd57-3d8cc3dab676/mzaf_2198627714672843695.plus.aac.p.m4a",
@@ -1396,6 +1496,8 @@
       "artistMbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
       "albumTitle": "Dangerous Woman",
       "duration": 226,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "2016-05-20T12:00:00Z"
     },
     {
@@ -1404,7 +1506,7 @@
       "artistName": "Katy Perry",
       "artistSlug": "katy-perry",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/40/42/d4/4042d4ca-6349-a88e-3472-38b32de2904c/mzaf_9909647428470593133.plus.aac.p.m4a",
@@ -1428,6 +1530,8 @@
       "artistMbid": "122d63fc-8671-43e4-9752-34e846d62a9c",
       "albumTitle": "One of the Boys",
       "duration": 220,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "2008-06-17T07:00:00Z"
     },
     {
@@ -1436,7 +1540,7 @@
       "artistName": "ABBA",
       "artistSlug": "abba",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/6d/12/fd6d123d-e356-cd43-b036-2ae2218bca1e/mzaf_2532642148093309877.plus.aac.p.m4a",
@@ -1460,6 +1564,8 @@
       "artistMbid": "d87e52c5-bb8d-4da8-b941-9f4928627dc8",
       "albumTitle": "ABBA Gold: Greatest Hits",
       "duration": 295,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "1980-07-21T12:00:00Z"
     },
     {
@@ -1468,7 +1574,7 @@
       "artistName": "The Cardigans",
       "artistSlug": "the-cardigans",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/d1/36/9ad136e0-e328-2593-fc6c-8dbeb818f743/mzaf_2413478528681060781.plus.aac.p.m4a",
@@ -1492,6 +1598,8 @@
       "artistMbid": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
       "albumTitle": "First Band on the Moon (2019 Remaster)",
       "duration": 194,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "1996-09-17T07:00:00Z"
     },
     {
@@ -1500,7 +1608,7 @@
       "artistName": "Lady Gaga",
       "artistSlug": "lady-gaga",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/ae/23/66ae23ad-76f2-cc89-bcef-8592f03f4a74/mzaf_3200208882053923784.plus.aac.p.m4a",
@@ -1524,6 +1632,8 @@
       "artistMbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
       "albumTitle": "Abracadabra - Single",
       "duration": 223,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "2025-02-03T12:00:00Z"
     },
     {
@@ -1532,7 +1642,7 @@
       "artistName": "Rihanna",
       "artistSlug": "rihanna",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/bd/6f/58bd6f05-45d7-76d7-bae3-6d453e00b5cc/mzaf_1937910784700207272.plus.aac.p.m4a",
@@ -1556,6 +1666,8 @@
       "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
       "albumTitle": "Loud (Deluxe)",
       "duration": 235,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2010-09-10T07:00:00Z"
     },
     {
@@ -1564,7 +1676,7 @@
       "artistName": "Ariana Grande",
       "artistSlug": "ariana-grande",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f6/c8/85/f6c88585-c5a4-1499-7b85-838e22ce7d1a/mzaf_10594422595674150015.plus.aac.p.m4a",
@@ -1588,10 +1700,12 @@
       "artistMbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
       "albumTitle": "My Everything (Bonus Tracks Edition)",
       "duration": 197,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2014-08-22T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:28:08.281Z",
+  "lastUpdated": "2026-03-02T00:50:27.625Z",
   "totalTracks": 50,
   "coverColor": "#ec4899",
   "genre": "pop",

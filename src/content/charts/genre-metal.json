@@ -11,27 +11,33 @@
       "artistName": "Deftones",
       "artistSlug": "deftones",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/79/1f/59/791f597d-d720-089f-8dfd-1f88a4f65ba7/mzaf_12861853141152525171.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Deftones/_/My+Own+Summer+(Shove+It)"
+        "lastfm": "https://www.last.fm/music/Deftones/_/My+Own+Summer+(Shove+It)",
+        "itunes": "https://music.apple.com/us/album/my-own-summer-shove-it/1099843198?i=1099843209&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "017b740c-8fc7-4592-b23f-183aa3919d21",
       "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
-      "duration": 215
+      "albumTitle": "Around the Fur",
+      "duration": 215,
+      "previousRank": 1,
+      "rankDelta": 0,
+      "releaseDate": "1997-10-28T08:00:00Z"
     },
     {
       "id": "system-of-a-down--toxicity",
@@ -39,27 +45,33 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/81/b2/d8/81b2d89d-2303-585f-e6c0-87edfc525cb0/mzaf_3574703683202422354.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Toxicity"
+        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Toxicity",
+        "itunes": "https://music.apple.com/us/album/toxicity/273714443?i=273714713&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0684f2fc-6e05-3fa7-a878-85d901c772c1",
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
-      "duration": 220
+      "albumTitle": "Toxicity",
+      "duration": 219,
+      "previousRank": 2,
+      "rankDelta": 0,
+      "releaseDate": "2001-09-04T07:00:00Z"
     },
     {
       "id": "deftones--sextape",
@@ -67,7 +79,7 @@
       "artistName": "Deftones",
       "artistSlug": "deftones",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/f4/dc/cdf4dc5e-10e4-1a62-bb81-c4becee2a9c1/mzaf_18297675782504064315.plus.aac.p.m4a",
@@ -91,6 +103,8 @@
       "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
       "albumTitle": "Diamond Eyes (Deluxe)",
       "duration": 242,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "2010-05-04T12:00:00Z"
     },
     {
@@ -99,27 +113,33 @@
       "artistName": "Slipknot",
       "artistSlug": "slipknot",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6b/e4/45/6be4455a-7d97-ecc1-eb9a-1e6d3b8e7e5a/mzaf_7150647397889532045.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/5d/17/7c5d174e-f7c5-2fba-04c4-c3d89b605300/016861752347.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/5d/17/7c5d174e-f7c5-2fba-04c4-c3d89b605300/016861752347.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/5d/17/7c5d174e-f7c5-2fba-04c4-c3d89b605300/016861752347.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Slipknot/_/Duality"
+        "lastfm": "https://www.last.fm/music/Slipknot/_/Duality",
+        "itunes": "https://music.apple.com/us/album/duality/926182864?i=926187884&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "023dcf4c-6a94-35d0-b700-650c2e9e2d42",
       "artistMbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
-      "duration": 242
+      "albumTitle": "Vol. 3: (The Subliminal Verses) [Deluxe Edition]",
+      "duration": 253,
+      "previousRank": 4,
+      "rankDelta": 0,
+      "releaseDate": "2004-05-04T07:00:00Z"
     },
     {
       "id": "deftones--change-in-the-house-of-flies",
@@ -127,7 +147,7 @@
       "artistName": "Deftones",
       "artistSlug": "deftones",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/98/e4/8c98e4d6-2206-f59c-bdb6-d47b9aaca800/mzaf_3114192743853864209.plus.aac.p.m4a",
@@ -151,6 +171,8 @@
       "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
       "albumTitle": "White Pony (20th Anniversary Deluxe Edition)",
       "duration": 300,
+      "previousRank": 5,
+      "rankDelta": 0,
       "releaseDate": "2000-06-20T12:00:00Z"
     },
     {
@@ -159,7 +181,7 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f4/a1/c2/f4a1c207-6d73-e3bd-8fcb-bd6c5037021a/mzaf_16212608709217830172.plus.aac.p.m4a",
@@ -183,6 +205,8 @@
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
       "albumTitle": "Toxicity",
       "duration": 210,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2001-08-13T07:00:00Z"
     },
     {
@@ -191,7 +215,7 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/c1/66/5ac1665e-2983-3cf3-c56a-2ea896836199/mzaf_6327916219154846408.plus.aac.p.m4a",
@@ -215,6 +239,8 @@
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
       "albumTitle": "Toxicity",
       "duration": 235,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "2001-09-04T07:00:00Z"
     },
     {
@@ -223,7 +249,7 @@
       "artistName": "Slipknot",
       "artistSlug": "slipknot",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f8/3c/c4/f83cc4df-9bc7-7096-0068-4262ac06147b/mzaf_16235813225932692212.plus.aac.p.m4a",
@@ -247,6 +273,8 @@
       "artistMbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
       "albumTitle": "All Hope Is Gone",
       "duration": 284,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2008-07-07T07:00:00Z"
     },
     {
@@ -255,7 +283,7 @@
       "artistName": "Korn",
       "artistSlug": "korn",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ef/a4/dd/efa4dd64-e8e0-6c12-c88b-a3a996b24b12/mzaf_13798363446300996858.plus.aac.p.m4a",
@@ -279,6 +307,8 @@
       "artistMbid": "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
       "albumTitle": "Korn",
       "duration": 258,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "1994-08-01T07:00:00Z"
     },
     {
@@ -287,27 +317,33 @@
       "artistName": "Deftones",
       "artistSlug": "deftones",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ad/8d/52/ad8d52b1-99d4-db94-72fb-ee0486da911c/mzaf_6119625334625771845.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/cb/b4/27cbb40e-f8c6-dede-9c69-62089a873fa9/093624919803.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Deftones/_/Mascara"
+        "lastfm": "https://www.last.fm/music/Deftones/_/Mascara",
+        "itunes": "https://music.apple.com/us/album/mascara/1099843198?i=1099843243&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "01e49cbe-2f7b-33bf-ad4c-1b25edfa0156",
       "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
-      "duration": 225
+      "albumTitle": "Around the Fur",
+      "duration": 225,
+      "previousRank": 10,
+      "rankDelta": 0,
+      "releaseDate": "1997-10-28T08:00:00Z"
     },
     {
       "id": "system-of-a-down--b-y-o-b",
@@ -315,7 +351,7 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/1b/f7/d7/1bf7d74d-f3bc-1a10-fa36-40ce371aedec/mzaf_12920305247033811156.plus.aac.p.m4a",
@@ -339,6 +375,8 @@
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
       "albumTitle": "The Ultimate System of a Down",
       "duration": 246,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2017-10-26T12:00:00Z"
     },
     {
@@ -347,27 +385,33 @@
       "artistName": "Deftones",
       "artistSlug": "deftones",
       "rank": 12,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/58/94/3058942f-eb9a-dd7e-5719-e0b0fe9fb163/mzaf_14154113525455668937.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/bd/cb/cdbdcbfd-0b6e-93ff-61f7-04c9d5da7368/093624919759.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Deftones/_/Risk"
+        "lastfm": "https://www.last.fm/music/Deftones/_/Risk",
+        "itunes": "https://music.apple.com/us/album/risk/1099846321?i=1099846721&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "08a42744-ef73-46d3-b37c-9b44657bfb85",
       "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
-      "duration": 218
+      "albumTitle": "Diamond Eyes (Deluxe)",
+      "duration": 219,
+      "previousRank": 12,
+      "rankDelta": 0,
+      "releaseDate": "2010-05-04T12:00:00Z"
     },
     {
       "id": "slipknot--wait-and-bleed",
@@ -375,27 +419,33 @@
       "artistName": "Slipknot",
       "artistSlug": "slipknot",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/73/4c/51734c1f-9780-3791-4b20-212d44618c3c/mzaf_10732756011048494616.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/e3/a3/c2e3a370-175c-d67e-7a57-fdb3e1cfc959/016861752507.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/e3/a3/c2e3a370-175c-d67e-7a57-fdb3e1cfc959/016861752507.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c2/e3/a3/c2e3a370-175c-d67e-7a57-fdb3e1cfc959/016861752507.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Slipknot/_/Wait+and+Bleed"
+        "lastfm": "https://www.last.fm/music/Slipknot/_/Wait+and+Bleed",
+        "itunes": "https://music.apple.com/us/album/wait-and-bleed/927731469?i=927731733&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "03d8389d-d495-375d-96a2-14c1a6126fc1",
       "artistMbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
-      "duration": 167
+      "albumTitle": "Slipknot",
+      "duration": 148,
+      "previousRank": 13,
+      "rankDelta": 0,
+      "releaseDate": "1999-06-29T07:00:00Z"
     },
     {
       "id": "slipknot--before-i-forget",
@@ -403,7 +453,7 @@
       "artistName": "Slipknot",
       "artistSlug": "slipknot",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6a/be/ba/6abeba04-d953-dbef-272b-330a6020130b/mzaf_13892880778275569141.plus.aac.p.m4a",
@@ -427,6 +477,8 @@
       "artistMbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
       "albumTitle": "Vol. 3 The Subliminal Verses",
       "duration": 279,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "2004-05-25T07:00:00Z"
     },
     {
@@ -435,7 +487,7 @@
       "artistName": "Korn",
       "artistSlug": "korn",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e9/4b/42/e94b42b5-2f1d-ca18-887c-29719c12b84c/mzaf_5854571708162939270.plus.aac.p.m4a",
@@ -459,6 +511,8 @@
       "artistMbid": "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
       "albumTitle": "Music Pass: Hits of the 90's",
       "duration": 266,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "1998-08-17T12:00:00Z"
     },
     {
@@ -467,27 +521,33 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9d/62/76/9d62760c-6296-bc40-3264-7b67f7fd39f6/mzaf_12311413967986429177.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/25/80/c9/mzi.tdavltfl.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/25/80/c9/mzi.tdavltfl.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/25/80/c9/mzi.tdavltfl.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Sugar"
+        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Sugar",
+        "itunes": "https://music.apple.com/us/album/sugar-clean-version/158528551?i=158528586&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00e78e59-4890-3816-88f5-bc4b4b12716b",
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
-      "duration": 164
+      "albumTitle": "System Of A Down",
+      "duration": 153,
+      "previousRank": 16,
+      "rankDelta": 0,
+      "releaseDate": "1998-06-30T12:00:00Z"
     },
     {
       "id": "slipknot--custer",
@@ -495,27 +555,33 @@
       "artistName": "Slipknot",
       "artistSlug": "slipknot",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/d5/25/4fd52584-fe45-35df-5e4a-b8b1ce01e5f9/mzaf_2921570894741120086.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/96/a5/35/96a5357b-3e20-d8e7-344a-a7cc6e687c99/016861753436.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/96/a5/35/96a5357b-3e20-d8e7-344a-a7cc6e687c99/016861753436.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/96/a5/35/96a5357b-3e20-d8e7-344a-a7cc6e687c99/016861753436.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Slipknot/_/Custer"
+        "lastfm": "https://www.last.fm/music/Slipknot/_/Custer",
+        "itunes": "https://music.apple.com/us/album/custer/910615114?i=910615144&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "04ae5fa6-261a-4606-ae4c-70fba3f54fc5",
       "artistMbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
-      "duration": 254
+      "albumTitle": ".5: The Gray Chapter",
+      "duration": 254,
+      "previousRank": 17,
+      "rankDelta": 0,
+      "releaseDate": "2014-10-20T12:00:00Z"
     },
     {
       "id": "avenged-sevenfold--hail-to-the-king",
@@ -523,7 +589,7 @@
       "artistName": "Avenged Sevenfold",
       "artistSlug": "avenged-sevenfold",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5b/06/fb/5b06fbc7-4477-6594-fd3c-d575e0748267/mzaf_15934959697547583330.plus.aac.p.m4a",
@@ -547,6 +613,8 @@
       "artistMbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
       "albumTitle": "Hail to the King",
       "duration": 305,
+      "previousRank": 18,
+      "rankDelta": 0,
       "releaseDate": "2013-07-15T07:00:00Z"
     },
     {
@@ -555,7 +623,7 @@
       "artistName": "Rob Zombie",
       "artistSlug": "rob-zombie",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/3c/3d/573c3d9d-8ef6-9e81-8575-29a9d5934c01/mzaf_17365090183614354641.plus.aac.p.m4a",
@@ -579,6 +647,8 @@
       "artistMbid": "c995a379-60b9-404b-bd97-a7e2de0751d3",
       "albumTitle": "Hellbilly Deluxe",
       "duration": 223,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "1998-08-24T12:00:00Z"
     },
     {
@@ -587,27 +657,33 @@
       "artistName": "Drowning Pool",
       "artistSlug": "drowning-pool",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/14/d5/4914d567-3eed-3c55-5251-021e463ad3f8/mzaf_2235806821740798602.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/ed/24/65ed24a6-b0bb-85e9-88b1-fbe64708713d/14CMGIM00807.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/ed/24/65ed24a6-b0bb-85e9-88b1-fbe64708713d/14CMGIM00807.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/ed/24/65ed24a6-b0bb-85e9-88b1-fbe64708713d/14CMGIM00807.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Drowning+Pool/_/Bodies"
+        "lastfm": "https://www.last.fm/music/Drowning+Pool/_/Bodies",
+        "itunes": "https://music.apple.com/us/album/bodies/1440777715?i=1440777727&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "090e76ec-ae1b-3a5c-b6cd-33b0baf23c0e",
       "artistMbid": "87a73cf0-ebdf-483d-8b5a-3db1e5e72122",
-      "duration": 202
+      "albumTitle": "Sinner",
+      "duration": 202,
+      "previousRank": 20,
+      "rankDelta": 0,
+      "releaseDate": "2001-05-14T07:00:00Z"
     },
     {
       "id": "deftones--around-the-fur",
@@ -615,7 +691,7 @@
       "artistName": "Deftones",
       "artistSlug": "deftones",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/71/10/72711097-4335-8ad6-a0f6-0e0588417b0c/mzaf_6411491445007836545.plus.aac.p.m4a",
@@ -639,6 +715,8 @@
       "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
       "albumTitle": "Around the Fur",
       "duration": 308,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "1997-10-28T08:00:00Z"
     },
     {
@@ -647,7 +725,7 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e0/50/20/e050209b-b885-6bb5-eebf-57ddeb7eb1f5/mzaf_8590532391418870341.plus.aac.p.m4a",
@@ -671,6 +749,8 @@
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
       "albumTitle": "Steal This Album!",
       "duration": 189,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2002-11-26T12:00:00Z"
     },
     {
@@ -679,7 +759,7 @@
       "artistName": "Tame Impala",
       "artistSlug": "tame-impala",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/04/9b/47/049b4772-0cc3-55d8-0c92-86a7368679a7/mzaf_11944374016959280597.plus.aac.p.m4a",
@@ -703,6 +783,8 @@
       "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
       "albumTitle": "The Slow Rush",
       "duration": 238,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "2019-04-12T07:00:00Z"
     },
     {
@@ -711,7 +793,7 @@
       "artistName": "Avenged Sevenfold",
       "artistSlug": "avenged-sevenfold",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f2/f1/8c/f2f18ce1-70c7-3fc3-f070-11dd365e6798/mzaf_9374192161719557060.plus.aac.p.m4a",
@@ -735,6 +817,8 @@
       "artistMbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
       "albumTitle": "Hail to the King (Deluxe Edition)",
       "duration": 323,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2013-08-23T07:00:00Z"
     },
     {
@@ -743,7 +827,7 @@
       "artistName": "Rammstein",
       "artistSlug": "rammstein",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/77/3c/ef/773cef7b-2d8a-9479-1338-d37c2c3f27db/mzaf_18116069634665056571.plus.aac.p.m4a",
@@ -767,6 +851,8 @@
       "artistMbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
       "albumTitle": "Mutter",
       "duration": 272,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "2001-02-12T12:00:00Z"
     },
     {
@@ -775,27 +861,33 @@
       "artistName": "Slipknot",
       "artistSlug": "slipknot",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/29/45/0c/29450c9f-f00f-65bf-5ced-a8c3cf1751c7/mzaf_15273980502575458266.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/8d/35/388d3526-771c-4c3e-451b-f10afdbf19d9/016861752200.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/8d/35/388d3526-771c-4c3e-451b-f10afdbf19d9/016861752200.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/8d/35/388d3526-771c-4c3e-451b-f10afdbf19d9/016861752200.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Slipknot/_/Snuff"
+        "lastfm": "https://www.last.fm/music/Slipknot/_/Snuff",
+        "itunes": "https://music.apple.com/us/album/snuff/927736478?i=927736702&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "19b7e424-dabc-37dd-b45c-1b79673eae09",
       "artistMbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
-      "duration": 276
+      "albumTitle": "The Studio Album Collection 1999 - 2008",
+      "duration": 276,
+      "previousRank": 26,
+      "rankDelta": 0,
+      "releaseDate": "2008-08-20T12:00:00Z"
     },
     {
       "id": "avenged-sevenfold--afterlife",
@@ -803,27 +895,33 @@
       "artistName": "Avenged Sevenfold",
       "artistSlug": "avenged-sevenfold",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/55/d0/80/55d08099-0daf-8987-0362-13e8fca40ceb/mzaf_5359610215799095923.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/45/ab/b7/45abb7a5-6a53-8d8f-91b0-03d1ef93111e/dj.zzffiuki.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/45/ab/b7/45abb7a5-6a53-8d8f-91b0-03d1ef93111e/dj.zzffiuki.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/45/ab/b7/45abb7a5-6a53-8d8f-91b0-03d1ef93111e/dj.zzffiuki.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Avenged+Sevenfold/_/Afterlife"
+        "lastfm": "https://www.last.fm/music/Avenged+Sevenfold/_/Afterlife",
+        "itunes": "https://music.apple.com/us/album/afterlife/266023781?i=266024329&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "062b113c-0d1b-4935-b1a7-b4ab5a498ac5",
       "artistMbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
-      "duration": 352
+      "albumTitle": "Avenged Sevenfold (Bonus Track Version)",
+      "duration": 352,
+      "previousRank": 27,
+      "rankDelta": 0,
+      "releaseDate": "2007-10-30T07:00:00Z"
     },
     {
       "id": "slipknot--eyeless",
@@ -831,27 +929,33 @@
       "artistName": "Slipknot",
       "artistSlug": "slipknot",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/75/2f/c0/752fc056-4d42-1ebc-51ea-3710b9a2c48a/mzaf_16964777124401629615.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/01/bd/41/01bd41f3-17df-6117-bfab-34058cb0bb11/ddNtx.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/01/bd/41/01bd41f3-17df-6117-bfab-34058cb0bb11/ddNtx.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/01/bd/41/01bd41f3-17df-6117-bfab-34058cb0bb11/ddNtx.png/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Slipknot/_/Eyeless"
+        "lastfm": "https://www.last.fm/music/Slipknot/_/Eyeless",
+        "itunes": "https://music.apple.com/us/album/eyeless/1094779279?i=1094779300&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0033f912-66e9-3705-8705-7ce63341a7a6",
       "artistMbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
-      "duration": 279
+      "albumTitle": "Tribute to Slipknot",
+      "duration": 105,
+      "previousRank": 28,
+      "rankDelta": 0,
+      "releaseDate": "2016-03-15T12:00:00Z"
     },
     {
       "id": "avenged-sevenfold--nightmare",
@@ -859,27 +963,33 @@
       "artistName": "Avenged Sevenfold",
       "artistSlug": "avenged-sevenfold",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/21/92/352192e5-d538-ec37-5491-b173a3ef93ba/mzaf_1465284581781996933.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/84/1e/1b/841e1ba9-120d-491f-4be6-6c943f19d907/mzi.jjswxbfu.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/84/1e/1b/841e1ba9-120d-491f-4be6-6c943f19d907/mzi.jjswxbfu.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/84/1e/1b/841e1ba9-120d-491f-4be6-6c943f19d907/mzi.jjswxbfu.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Avenged+Sevenfold/_/Nightmare"
+        "lastfm": "https://www.last.fm/music/Avenged+Sevenfold/_/Nightmare",
+        "itunes": "https://music.apple.com/us/album/nightmare/378658741?i=378658742&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "14202629-f6e0-321f-900d-fcc8718b1a2a",
       "artistMbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
-      "duration": 374
+      "albumTitle": "Nightmare",
+      "duration": 374,
+      "previousRank": 29,
+      "rankDelta": 0,
+      "releaseDate": "2010-05-18T07:00:00Z"
     },
     {
       "id": "system-of-a-down--prison-song",
@@ -887,27 +997,33 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4e/8f/39/4e8f39b6-711c-281d-1eca-ec627b0fcf1c/mzaf_10000151033246913603.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Prison+Song"
+        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Prison+Song",
+        "itunes": "https://music.apple.com/us/album/prison-song/273714443?i=273714525&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0009370f-7209-4ef4-950e-32bb46f99671",
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
-      "duration": 224
+      "albumTitle": "Toxicity",
+      "duration": 201,
+      "previousRank": 30,
+      "rankDelta": 0,
+      "releaseDate": "2001-09-04T07:00:00Z"
     },
     {
       "id": "system-of-a-down--lonely-day",
@@ -915,7 +1031,7 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/30/77/37/30773722-eb3b-cbed-1443-9f8f56b274cf/mzaf_14377212866734745736.plus.aac.p.m4a",
@@ -939,6 +1055,8 @@
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
       "albumTitle": "Hypnotize",
       "duration": 168,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "2005-11-22T08:00:00Z"
     },
     {
@@ -947,7 +1065,7 @@
       "artistName": "Deftones",
       "artistSlug": "deftones",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/f8/bf/03f8bfdb-1420-4a97-daea-8e1d2e61fd3c/mzaf_11814067783652148138.plus.aac.p.m4a",
@@ -971,6 +1089,8 @@
       "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
       "albumTitle": "Diamond Eyes (Deluxe)",
       "duration": 288,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2010-05-04T12:00:00Z"
     },
     {
@@ -979,27 +1099,33 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ca/9c/83/ca9c8368-6213-4df7-82c9-43c02bc0c148/mzaf_15806253465271207665.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/65/6d/43/656d432b-e59c-361a-c3ad-2e6cccbf4b2d/827969064825.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/65/6d/43/656d432b-e59c-361a-c3ad-2e6cccbf4b2d/827969064825.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/65/6d/43/656d432b-e59c-361a-c3ad-2e6cccbf4b2d/827969064825.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Radio%2FVideo"
+        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Radio%2FVideo",
+        "itunes": "https://music.apple.com/us/album/radio-video/187472331?i=187472710&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "17d39f5b-7b59-36ba-99fa-bd92f9234d67",
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
-      "duration": 249
+      "albumTitle": "Mezmerize",
+      "duration": 249,
+      "previousRank": 33,
+      "rankDelta": 0,
+      "releaseDate": "2005-05-17T07:00:00Z"
     },
     {
       "id": "rob-zombie--living-dead-girl",
@@ -1007,7 +1133,7 @@
       "artistName": "Rob Zombie",
       "artistSlug": "rob-zombie",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/21/ad/1421adc5-7169-1a5e-d484-59e6764d677e/mzaf_13003792884435821723.plus.aac.p.m4a",
@@ -1031,6 +1157,8 @@
       "artistMbid": "c995a379-60b9-404b-bd97-a7e2de0751d3",
       "albumTitle": "Hellbilly Deluxe",
       "duration": 201,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "1998-08-25T12:00:00Z"
     },
     {
@@ -1039,27 +1167,33 @@
       "artistName": "Type O Negative",
       "artistSlug": "type-o-negative",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/14/2d/c7/142dc77b-e5ed-8606-69cc-29eda6c83158/mzaf_17410385719166632483.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/dd/de/65ddde9d-e249-eded-2681-d32a9fd0a80e/mzi.iohdxtnf.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/dd/de/65ddde9d-e249-eded-2681-d32a9fd0a80e/mzi.iohdxtnf.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/65/dd/de/65ddde9d-e249-eded-2681-d32a9fd0a80e/mzi.iohdxtnf.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Type+O+Negative/_/I+Don%27t+Wanna+Be+Me"
+        "lastfm": "https://www.last.fm/music/Type+O+Negative/_/I+Don%27t+Wanna+Be+Me",
+        "itunes": "https://music.apple.com/us/album/i-dont-wanna-be-me/214477226?i=214477235&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "04294bd7-73d9-462b-ba04-0c0f4dbefed5",
       "artistMbid": "a63df8c3-28e4-41db-bac2-c6c6e8ff8f28",
-      "duration": 308
+      "albumTitle": "Life Is Killing Me",
+      "duration": 309,
+      "previousRank": 35,
+      "rankDelta": 0,
+      "releaseDate": "2003-06-09T12:00:00Z"
     },
     {
       "id": "deftones--be-quiet-and-drive-far-away",
@@ -1067,7 +1201,7 @@
       "artistName": "Deftones",
       "artistSlug": "deftones",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/71/10/72711097-4335-8ad6-a0f6-0e0588417b0c/mzaf_6411491445007836545.plus.aac.p.m4a",
@@ -1091,6 +1225,8 @@
       "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
       "albumTitle": "Around the Fur",
       "duration": 308,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "1997-10-28T08:00:00Z"
     },
     {
@@ -1099,7 +1235,7 @@
       "artistName": "Avenged Sevenfold",
       "artistSlug": "avenged-sevenfold",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/68/bc/8e68bcef-e9ee-6f4e-1cf6-6a144f7d4255/mzaf_5372283877988363674.plus.aac.p.m4a",
@@ -1123,6 +1259,8 @@
       "artistMbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
       "albumTitle": "City of Evil",
       "duration": 312,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2005-06-06T07:00:00Z"
     },
     {
@@ -1131,7 +1269,7 @@
       "artistName": "Metallica",
       "artistSlug": "metallica",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/da/e7/9c/dae79c08-a960-2d21-8eab-42e9d70e29e6/mzaf_7135498142102205621.plus.aac.p.m4a",
@@ -1155,6 +1293,8 @@
       "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
       "albumTitle": "Master of Puppets (Deluxe Box Set)",
       "duration": 515,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "1986-03-03T12:00:00Z"
     },
     {
@@ -1163,27 +1303,33 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5a/c1/66/5ac1665e-2983-3cf3-c56a-2ea896836199/mzaf_6327916219154846408.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Violent+Pornography"
+        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Violent+Pornography",
+        "itunes": "https://music.apple.com/us/album/aerials/273714443?i=273714765&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "07fe6324-f0dd-4ab7-b5f5-ffba3daedeae",
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
-      "duration": 211
+      "albumTitle": "Toxicity",
+      "duration": 235,
+      "previousRank": 39,
+      "rankDelta": 0,
+      "releaseDate": "2001-09-04T07:00:00Z"
     },
     {
       "id": "pantera--walk",
@@ -1191,7 +1337,7 @@
       "artistName": "Pantera",
       "artistSlug": "pantera",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/62/95/55/6295559c-56e1-0e42-fa82-8cbfc485601f/mzaf_12027521552250318735.plus.aac.p.m4a",
@@ -1215,6 +1361,8 @@
       "artistMbid": "541f16f5-ad7a-428e-af89-9fa1b16d3c9c",
       "albumTitle": "The Best of Pantera: Far Beyond the Great Southern Cowboys' Vulgar Hits! (Remastered)",
       "duration": 315,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "1992-02-25T08:00:00Z"
     },
     {
@@ -1223,27 +1371,33 @@
       "artistName": "Metallica",
       "artistSlug": "metallica",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/15/70/4f/15704fc6-5323-f790-10cd-bb8a162e8bf4/mzaf_18179605505662845535.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/f3/83/b5f38312-5b95-9a09-fcb9-5622dd5ea077/858978005820.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/f3/83/b5f38312-5b95-9a09-fcb9-5622dd5ea077/858978005820.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/f3/83/b5f38312-5b95-9a09-fcb9-5622dd5ea077/858978005820.png/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Metallica/_/One"
+        "lastfm": "https://www.last.fm/music/Metallica/_/One",
+        "itunes": "https://music.apple.com/us/album/one/1433827883?i=1433828082&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "006cddf7-52f3-3eb8-9af4-86aa57c8800d",
       "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
-      "duration": 536
+      "albumTitle": "...And Justice for All (Deluxe Box Set)",
+      "duration": 446,
+      "previousRank": 41,
+      "rankDelta": 0,
+      "releaseDate": "1988-08-25T07:00:00Z"
     },
     {
       "id": "disturbed--down-with-the-sickness",
@@ -1251,7 +1405,7 @@
       "artistName": "Disturbed",
       "artistSlug": "disturbed",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1a/22/d4/1a22d4cb-27fd-ec96-23ac-3e7451881c5e/mzaf_16425651580891387400.plus.aac.p.m4a",
@@ -1275,6 +1429,8 @@
       "artistMbid": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
       "albumTitle": "Queen of the Damned (Music from the Motion Picture)",
       "duration": 278,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2000-03-07T12:00:00Z"
     },
     {
@@ -1283,27 +1439,33 @@
       "artistName": "Deftones",
       "artistSlug": "deftones",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ea/3c/80/ea3c80a7-6260-765a-706a-7c91d1f431ca/mzaf_312129875738525652.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2e/12/19/2e121951-b104-af73-1952-93b3aaccabcf/093624919773.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Deftones/_/Xerces"
+        "lastfm": "https://www.last.fm/music/Deftones/_/Xerces",
+        "itunes": "https://music.apple.com/us/album/xerces/1099850829?i=1099850852&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "262c4ab0-563c-4f39-8899-b1d70406854b",
       "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
-      "duration": 222
+      "albumTitle": "Saturday Night Wrist (Bonus Track Version)",
+      "duration": 222,
+      "previousRank": 43,
+      "rankDelta": 0,
+      "releaseDate": "2006-10-31T12:00:00Z"
     },
     {
       "id": "kittie--brackish",
@@ -1311,27 +1473,33 @@
       "artistName": "Kittie",
       "artistSlug": "kittie",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/e8/ca/38/e8ca38c4-6a8e-63e5-67bb-0905ced6e256/mzaf_7514058959811248509.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/61/f4/60/61f46080-c64f-1b6c-3492-758962a01b20/699675106720.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/61/f4/60/61f46080-c64f-1b6c-3492-758962a01b20/699675106720.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/61/f4/60/61f46080-c64f-1b6c-3492-758962a01b20/699675106720.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kittie/_/Brackish"
+        "lastfm": "https://www.last.fm/music/Kittie/_/Brackish",
+        "itunes": "https://music.apple.com/us/album/brackish-live-version/1297000888?i=1297001667&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "01399297-12a3-46b6-a492-3097feb0d1d8",
       "artistMbid": "7677be48-16e9-4c84-9365-a69dd6f2df55",
-      "duration": 142
+      "albumTitle": "Paperdoll - EP",
+      "duration": 175,
+      "previousRank": 44,
+      "rankDelta": 0,
+      "releaseDate": "2000-12-12T12:00:00Z"
     },
     {
       "id": "babymetal--gimme-chocolate",
@@ -1339,27 +1507,33 @@
       "artistName": "BABYMETAL",
       "artistSlug": "babymetal",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/64/ff/a664ff98-efa6-a604-9ed9-aa4cf00a8232/mzaf_17741476493824080860.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/b1/84/25b18443-a659-5425-470f-b2e72a33318d/116513.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/b1/84/25b18443-a659-5425-470f-b2e72a33318d/116513.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/b1/84/25b18443-a659-5425-470f-b2e72a33318d/116513.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BABYMETAL/_/Gimme+Chocolate%21%21"
+        "lastfm": "https://www.last.fm/music/BABYMETAL/_/Gimme+Chocolate%21%21",
+        "itunes": "https://music.apple.com/us/album/gimme-chocolate/1830273487?i=1830273490&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "02a667c5-6a7b-4462-8c0f-9caaccb8ff31",
       "artistMbid": "27e2997f-f7a1-4353-bcc4-57b9274fa9a4",
-      "duration": 283
+      "albumTitle": "BABYMETAL",
+      "duration": 231,
+      "previousRank": 45,
+      "rankDelta": 0,
+      "releaseDate": "2015-05-31T12:00:00Z"
     },
     {
       "id": "system-of-a-down--hypnotize",
@@ -1367,7 +1541,7 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/cb/ef/b8cbef42-dab5-5ae6-0f24-fb5677a0cfdc/mzaf_9513548688078658813.plus.aac.p.m4a",
@@ -1391,6 +1565,8 @@
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
       "albumTitle": "Hypnotize",
       "duration": 189,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "2005-10-11T07:00:00Z"
     },
     {
@@ -1399,7 +1575,7 @@
       "artistName": "Metallica",
       "artistSlug": "metallica",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/6d/5f/576d5f71-3a0e-8ddb-707c-a678d0662e61/mzaf_9422690907460571611.plus.aac.p.m4a",
@@ -1423,6 +1599,8 @@
       "artistMbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
       "albumTitle": "Metallica Through the Never (Music from the Motion Picture)",
       "duration": 237,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "2013-09-24T07:00:00Z"
     },
     {
@@ -1431,27 +1609,33 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/de/c5/ba/dec5ba8e-5c80-6525-dc99-ff5ac64f0447/mzaf_14517620678208586831.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/51/52/825152b4-9423-b23b-c036-cc67ead732d4/888888046775.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Deer+Dance"
+        "lastfm": "https://www.last.fm/music/System+of+a+Down/_/Deer+Dance",
+        "itunes": "https://music.apple.com/us/album/deer-dance/273714443?i=273714606&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "018370b1-8561-34f6-929f-74a806d471f0",
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
-      "duration": 160
+      "albumTitle": "Toxicity",
+      "duration": 175,
+      "previousRank": 48,
+      "rankDelta": 0,
+      "releaseDate": "2001-09-04T07:00:00Z"
     },
     {
       "id": "system-of-a-down--atwa",
@@ -1459,7 +1643,7 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/94/9f/64/949f6431-d5b3-8543-24e0-dd5c8dc13f84/mzaf_11602823617922206877.plus.aac.p.m4a",
@@ -1483,6 +1667,8 @@
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
       "albumTitle": "Toxicity",
       "duration": 176,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2001-09-04T07:00:00Z"
     },
     {
@@ -1491,7 +1677,7 @@
       "artistName": "Bullet for My Valentine",
       "artistSlug": "bullet-for-my-valentine",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/92/e5/6a/92e56ac4-fc8b-da7e-00e6-64ca9c72749c/mzaf_623658172096373469.plus.aac.p.m4a",
@@ -1515,10 +1701,12 @@
       "artistMbid": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
       "albumTitle": "Temper Temper (Deluxe Version)",
       "duration": 339,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2013-02-08T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:32:36.619Z",
+  "lastUpdated": "2026-03-02T00:51:34.019Z",
   "totalTracks": 50,
   "coverColor": "#6b7280",
   "genre": "metal",

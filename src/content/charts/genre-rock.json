@@ -11,7 +11,7 @@
       "artistName": "Fleetwood Mac",
       "artistSlug": "fleetwood-mac",
       "rank": 1,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/f6/21/08f621aa-9eb3-fa68-b053-ae31c00333ea/mzaf_4273334424215730909.plus.aac.p.m4a",
@@ -35,6 +35,8 @@
       "artistMbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
       "albumTitle": "Boomer Bangers",
       "duration": 268,
+      "previousRank": 1,
+      "rankDelta": 0,
       "releaseDate": "1974-02-04T12:00:00Z"
     },
     {
@@ -43,7 +45,7 @@
       "artistName": "Jeff Buckley",
       "artistSlug": "jeff-buckley",
       "rank": 2,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/0c/4e/db0c4edc-9daa-e262-55b9-89984c3f6aa6/mzaf_16142695276315265640.plus.aac.p.m4a",
@@ -67,6 +69,8 @@
       "artistMbid": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e",
       "albumTitle": "Grace",
       "duration": 404,
+      "previousRank": 2,
+      "rankDelta": 0,
       "releaseDate": "1994-08-23T12:00:00Z"
     },
     {
@@ -75,7 +79,7 @@
       "artistName": "Goo Goo Dolls",
       "artistSlug": "goo-goo-dolls",
       "rank": 3,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/17/35/60173512-3d5c-1d6f-549e-d8ddafa93e07/mzaf_5281658494050788067.plus.aac.p.m4a",
@@ -99,6 +103,8 @@
       "artistMbid": "e2c00c56-8365-4160-9f40-a64682917633",
       "albumTitle": "Dizzy Up the Girl",
       "duration": 290,
+      "previousRank": 3,
+      "rankDelta": 0,
       "releaseDate": "1998-04-07T07:00:00Z"
     },
     {
@@ -107,7 +113,7 @@
       "artistName": "Foo Fighters",
       "artistSlug": "foo-fighters",
       "rank": 4,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/77/17/d07717cb-9977-1cbb-6634-3e598d0c4da6/mzaf_15769952961470333318.plus.aac.p.m4a",
@@ -131,6 +137,8 @@
       "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
       "albumTitle": "The Colour And The Shape",
       "duration": 251,
+      "previousRank": 4,
+      "rankDelta": 0,
       "releaseDate": "1997-05-20T07:00:00Z"
     },
     {
@@ -139,27 +147,33 @@
       "artistName": "Coldplay",
       "artistSlug": "coldplay",
       "rank": 5,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/db/ce/47dbce82-d89c-0897-0da7-26d06ae7e2f2/mzaf_14852507599380441353.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Coldplay/_/Sparks"
+        "lastfm": "https://www.last.fm/music/Coldplay/_/Sparks",
+        "itunes": "https://music.apple.com/us/album/sparks/1122782080?i=1122782281&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "01ca95d6-7309-31ca-973f-3e23237076f5",
       "artistMbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-      "duration": 227
+      "albumTitle": "Parachutes",
+      "duration": 227,
+      "previousRank": 5,
+      "rankDelta": 0,
+      "releaseDate": "2000-07-10T07:00:00Z"
     },
     {
       "id": "paramore--still-into-you",
@@ -167,7 +181,7 @@
       "artistName": "Paramore",
       "artistSlug": "paramore",
       "rank": 6,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/db/60/13/db6013f7-510d-ef12-878b-16feaac842fb/mzaf_7662707399072425562.plus.aac.p.m4a",
@@ -191,6 +205,8 @@
       "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
       "albumTitle": "Paramore",
       "duration": 216,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2013-03-14T07:00:00Z"
     },
     {
@@ -199,7 +215,7 @@
       "artistName": "Paramore",
       "artistSlug": "paramore",
       "rank": 7,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/16/73/981673b7-177f-4506-cfd1-1987d4de177c/mzaf_10695824347704723223.plus.aac.p.m4a",
@@ -223,6 +239,8 @@
       "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
       "albumTitle": "Brand New Eyes (Deluxe Version)",
       "duration": 229,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "2009-09-29T07:00:00Z"
     },
     {
@@ -231,7 +249,7 @@
       "artistName": "Evanescence",
       "artistSlug": "evanescence",
       "rank": 8,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3e/34/c4/3e34c400-9ad9-3859-6988-496c27728be4/mzaf_14936938522678789093.plus.aac.p.m4a",
@@ -255,6 +273,8 @@
       "artistMbid": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
       "albumTitle": "Fallen",
       "duration": 236,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2003-02-04T12:00:00Z"
     },
     {
@@ -263,7 +283,7 @@
       "artistName": "The Killers",
       "artistSlug": "the-killers",
       "rank": 9,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/95/6e/b3956e14-35f0-937e-afb0-72774d3f613f/mzaf_8359343604382181711.plus.aac.p.m4a",
@@ -287,6 +307,8 @@
       "artistMbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
       "albumTitle": "Direct Hits",
       "duration": 224,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "2003-09-29T12:00:00Z"
     },
     {
@@ -295,7 +317,7 @@
       "artistName": "Red Hot Chili Peppers",
       "artistSlug": "red-hot-chili-peppers",
       "rank": 10,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/6b/81/726b81ba-51ce-a834-a7e7-f63ef188ba5e/mzaf_3878585649506778971.plus.aac.p.m4a",
@@ -319,6 +341,8 @@
       "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
       "albumTitle": "Californication (Remastered)",
       "duration": 217,
+      "previousRank": 10,
+      "rankDelta": 0,
       "releaseDate": "1999-05-25T07:00:00Z"
     },
     {
@@ -327,7 +351,7 @@
       "artistName": "My Chemical Romance",
       "artistSlug": "my-chemical-romance",
       "rank": 11,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bf/24/a4/bf24a497-a3c4-7531-3472-e9cd8ac27c90/mzaf_3457508798731622918.plus.aac.p.m4a",
@@ -351,6 +375,8 @@
       "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
       "albumTitle": "The Black Parade",
       "duration": 162,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2006-10-23T07:00:00Z"
     },
     {
@@ -359,7 +385,7 @@
       "artistName": "Red Hot Chili Peppers",
       "artistSlug": "red-hot-chili-peppers",
       "rank": 12,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7e/b7/11/7eb71162-f171-3b8e-c7ee-9af9c177d87c/mzaf_16991645625428564807.plus.aac.p.m4a",
@@ -383,6 +409,8 @@
       "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
       "albumTitle": "By the Way (Deluxe Edition)",
       "duration": 268,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2002-07-09T07:00:00Z"
     },
     {
@@ -391,7 +419,7 @@
       "artistName": "Harry Styles",
       "artistSlug": "harry-styles",
       "rank": 13,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/19/f7/99/19f799a3-4638-f354-8713-f5ac076f328e/mzaf_2398941441794619302.plus.aac.p.m4a",
@@ -415,6 +443,8 @@
       "artistMbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
       "albumTitle": "Harry Styles",
       "duration": 341,
+      "previousRank": 13,
+      "rankDelta": 0,
       "releaseDate": "2017-04-07T07:00:00Z"
     },
     {
@@ -423,7 +453,7 @@
       "artistName": "The Police",
       "artistSlug": "the-police",
       "rank": 14,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/7e/4f/f37e4f0e-4979-c096-6fa0-7ffc054d0c73/mzaf_8433816559382260848.plus.aac.p.m4a",
@@ -447,6 +477,8 @@
       "artistMbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
       "albumTitle": "The Very Best of Sting & The Police",
       "duration": 251,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "1983-01-06T12:00:00Z"
     },
     {
@@ -455,7 +487,7 @@
       "artistName": "My Chemical Romance",
       "artistSlug": "my-chemical-romance",
       "rank": 15,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8e/6b/77/8e6b7716-7831-5f52-0c39-4be2a2664502/mzaf_7548842095897645497.plus.aac.p.m4a",
@@ -479,6 +511,8 @@
       "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
       "albumTitle": "Three Cheers for Sweet Revenge",
       "duration": 202,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "2004-06-08T07:00:00Z"
     },
     {
@@ -487,7 +521,7 @@
       "artistName": "Paramore",
       "artistSlug": "paramore",
       "rank": 16,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c4/8c/e4/c48ce468-cb8c-f8ae-09d9-9f5c59cb7739/mzaf_9573386091329877856.plus.aac.p.m4a",
@@ -511,6 +545,8 @@
       "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
       "albumTitle": "Riot! (Deluxe Version)",
       "duration": 211,
+      "previousRank": 16,
+      "rankDelta": 0,
       "releaseDate": "2007-06-04T07:00:00Z"
     },
     {
@@ -519,7 +555,7 @@
       "artistName": "Linkin Park",
       "artistSlug": "linkin-park",
       "rank": 17,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/81/42/72814285-6c1a-d0a4-89e2-8aeeda6cfc37/mzaf_17180911196812101386.plus.aac.p.m4a",
@@ -543,6 +579,8 @@
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
       "albumTitle": "Meteora (Deluxe Edition)",
       "duration": 162,
+      "previousRank": 17,
+      "rankDelta": 0,
       "releaseDate": "2003-03-25T08:00:00Z"
     },
     {
@@ -551,7 +589,7 @@
       "artistName": "The Cranberries",
       "artistSlug": "the-cranberries",
       "rank": 18,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/61/90/a261905c-da9c-2242-2bd6-784a6dc73b3a/mzaf_15752941331928651124.plus.aac.p.m4a",
@@ -575,6 +613,8 @@
       "artistMbid": "c98d40fd-f6cf-4b26-883e-eaa515ee2851",
       "albumTitle": "Everybody Else Is Doing It, So Why Can't We?",
       "duration": 275,
+      "previousRank": 18,
+      "rankDelta": 0,
       "releaseDate": "1993-02-15T08:00:00Z"
     },
     {
@@ -583,7 +623,7 @@
       "artistName": "Linkin Park",
       "artistSlug": "linkin-park",
       "rank": 19,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e9/ca/eb/e9caeb68-483d-b108-7898-25073e24566a/mzaf_1183955807160648053.plus.aac.p.m4a",
@@ -607,6 +647,8 @@
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
       "albumTitle": "Meteora (Deluxe Edition)",
       "duration": 214,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2003-02-24T08:00:00Z"
     },
     {
@@ -615,7 +657,7 @@
       "artistName": "Linkin Park",
       "artistSlug": "linkin-park",
       "rank": 20,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/cb/c7/3fcbc7cc-0606-7f6e-7fc3-793318cfd1ed/mzaf_16081918663584534594.plus.aac.p.m4a",
@@ -639,6 +681,8 @@
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
       "albumTitle": "Hybrid Theory (Deluxe Edition)",
       "duration": 216,
+      "previousRank": 20,
+      "rankDelta": 0,
       "releaseDate": "2000-10-24T07:00:00Z"
     },
     {
@@ -647,7 +691,7 @@
       "artistName": "My Chemical Romance",
       "artistSlug": "my-chemical-romance",
       "rank": 21,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/8b/1d/bd/8b1dbd50-0282-d4c3-814f-c444fa87a892/mzaf_5909803204081466460.plus.aac.p.m4a",
@@ -671,6 +715,8 @@
       "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
       "albumTitle": "The Black Parade",
       "duration": 239,
+      "previousRank": 21,
+      "rankDelta": 0,
       "releaseDate": "2006-10-24T07:00:00Z"
     },
     {
@@ -679,7 +725,7 @@
       "artistName": "My Chemical Romance",
       "artistSlug": "my-chemical-romance",
       "rank": 22,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/19/3c/26/193c26c0-f698-8130-2d4f-7163dca353a6/mzaf_5127904266281610758.plus.aac.p.m4a",
@@ -703,6 +749,8 @@
       "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
       "albumTitle": "The Black Parade",
       "duration": 311,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2006-09-12T07:00:00Z"
     },
     {
@@ -711,7 +759,7 @@
       "artistName": "Paramore",
       "artistSlug": "paramore",
       "rank": 23,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a2/ff/e8/a2ffe8f2-8642-e806-e5c8-9afbc5cc6e8d/mzaf_17255648141518396899.plus.aac.p.m4a",
@@ -735,6 +783,8 @@
       "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
       "albumTitle": "Twilight (Original Motion Picture Soundtrack)",
       "duration": 262,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "2008-10-21T07:00:00Z"
     },
     {
@@ -743,7 +793,7 @@
       "artistName": "Red Hot Chili Peppers",
       "artistSlug": "red-hot-chili-peppers",
       "rank": 24,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/30/57/a2/3057a2dc-cbd7-bea7-66fd-7680c0a47c68/mzaf_7704768448750272219.plus.aac.p.m4a",
@@ -767,6 +817,8 @@
       "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
       "albumTitle": "Californication (Remastered)",
       "duration": 321,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "1999-06-08T07:00:00Z"
     },
     {
@@ -775,7 +827,7 @@
       "artistName": "The All-American Rejects",
       "artistSlug": "the-all-american-rejects",
       "rank": 25,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/09/6f/a0096f54-7ef2-3fc1-5243-f2d216d2ca2e/mzaf_9602656919098080675.plus.aac.p.m4a",
@@ -797,6 +849,8 @@
       ],
       "albumTitle": "Move Along (Bonus Track Version)",
       "duration": 194,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "2005-06-06T12:00:00Z"
     },
     {
@@ -805,7 +859,7 @@
       "artistName": "Nickelback",
       "artistSlug": "nickelback",
       "rank": 26,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/8b/72/4f/8b724fde-05f2-edbf-f063-8024ea7a8565/mzaf_6187035033277088785.plus.aac.p.m4a",
@@ -829,6 +883,8 @@
       "artistMbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
       "albumTitle": "Silver Side Up",
       "duration": 224,
+      "previousRank": 26,
+      "rankDelta": 0,
       "releaseDate": "2001-08-21T07:00:00Z"
     },
     {
@@ -837,7 +893,7 @@
       "artistName": "Red Hot Chili Peppers",
       "artistSlug": "red-hot-chili-peppers",
       "rank": 27,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bc/9f/89/bc9f892f-a55b-493f-d11d-097a7fc3c194/mzaf_5067400398413485421.plus.aac.p.m4a",
@@ -861,6 +917,8 @@
       "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
       "albumTitle": "Blood Sugar Sex Magik (Deluxe Edition)",
       "duration": 264,
+      "previousRank": 27,
+      "rankDelta": 0,
       "releaseDate": "1991-09-24T07:00:00Z"
     },
     {
@@ -869,7 +927,7 @@
       "artistName": "Linkin Park",
       "artistSlug": "linkin-park",
       "rank": 28,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bb/13/76/bb1376a7-4db0-ed68-c1a6-d0278cc4b320/mzaf_17832584344687833283.plus.aac.p.m4a",
@@ -893,6 +951,8 @@
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
       "albumTitle": "Meteora (Deluxe Edition)",
       "duration": 188,
+      "previousRank": 28,
+      "rankDelta": 0,
       "releaseDate": "2003-03-25T08:00:00Z"
     },
     {
@@ -901,7 +961,7 @@
       "artistName": "Linkin Park",
       "artistSlug": "linkin-park",
       "rank": 29,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a2/65/ea/a265ea31-5403-afb9-d32c-00a2bed6adc9/mzaf_14470032920014838408.plus.aac.p.m4a",
@@ -925,6 +985,8 @@
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
       "albumTitle": "Minutes to Midnight (Deluxe Edition)",
       "duration": 205,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "2007-04-02T07:00:00Z"
     },
     {
@@ -933,7 +995,7 @@
       "artistName": "Kings of Leon",
       "artistSlug": "kings-of-leon",
       "rank": 30,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8f/39/df/8f39df6b-9b97-1313-b26d-368d9cc0d20f/mzaf_16643660259914950728.plus.aac.p.m4a",
@@ -957,6 +1019,8 @@
       "artistMbid": "6ffb8ea9-2370-44d8-b678-e9237bbd347b",
       "albumTitle": "Only By the Night",
       "duration": 203,
+      "previousRank": 30,
+      "rankDelta": 0,
       "releaseDate": "2008-09-04T07:00:00Z"
     },
     {
@@ -965,7 +1029,7 @@
       "artistName": "Three Days Grace",
       "artistSlug": "three-days-grace",
       "rank": 31,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/10/b9/45/10b945bd-a830-28db-4085-432df6bd1060/mzaf_13100421154380356383.plus.aac.p.m4a",
@@ -989,6 +1053,8 @@
       "artistMbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
       "albumTitle": "Three Days Grace (Expanded Edition)",
       "duration": 231,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "2003-07-14T07:00:00Z"
     },
     {
@@ -997,7 +1063,7 @@
       "artistName": "Audioslave",
       "artistSlug": "audioslave",
       "rank": 32,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/45/c5/a4/45c5a454-85c9-dc43-6d42-b86ff48964b7/mzaf_792093563240187454.plus.aac.p.m4a",
@@ -1021,6 +1087,8 @@
       "artistMbid": "020bfbb4-05c3-4c86-b372-17825c262094",
       "albumTitle": "Audioslave",
       "duration": 294,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2002-11-18T08:00:00Z"
     },
     {
@@ -1029,7 +1097,7 @@
       "artistName": "Paramore",
       "artistSlug": "paramore",
       "rank": 33,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fe/d5/24/fed5241b-c847-a8f7-f5b9-51ce45ba3ed3/mzaf_208965274966115301.plus.aac.p.m4a",
@@ -1053,6 +1121,8 @@
       "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
       "albumTitle": "Paramore",
       "duration": 297,
+      "previousRank": 33,
+      "rankDelta": 0,
       "releaseDate": "2013-04-05T07:00:00Z"
     },
     {
@@ -1061,7 +1131,7 @@
       "artistName": "Coldplay",
       "artistSlug": "coldplay",
       "rank": 34,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/f3/1a/66f31a76-a6ed-cb4c-f353-23310a7ae9a8/mzaf_10593596652344378873.plus.aac.p.m4a",
@@ -1085,6 +1155,8 @@
       "artistMbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
       "albumTitle": "Parachutes",
       "duration": 269,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "2000-06-26T07:00:00Z"
     },
     {
@@ -1093,7 +1165,7 @@
       "artistName": "My Chemical Romance",
       "artistSlug": "my-chemical-romance",
       "rank": 35,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/cc/a2/11/cca2110f-7291-99a2-3b2c-9eafd928ab01/mzaf_12186386545957991533.plus.aac.p.m4a",
@@ -1117,6 +1189,8 @@
       "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
       "albumTitle": "May Death Never Stop You",
       "duration": 188,
+      "previousRank": 35,
+      "rankDelta": 0,
       "releaseDate": "2014-03-21T12:00:00Z"
     },
     {
@@ -1125,7 +1199,7 @@
       "artistName": "My Chemical Romance",
       "artistSlug": "my-chemical-romance",
       "rank": 36,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e5/c7/32/e5c73278-2d03-4a03-feee-d8f8dd3b5a34/mzaf_12737461411509435660.plus.aac.p.m4a",
@@ -1149,6 +1223,8 @@
       "artistMbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
       "albumTitle": "Three Cheers for Sweet Revenge",
       "duration": 203,
+      "previousRank": 36,
+      "rankDelta": 0,
       "releaseDate": "2004-06-08T07:00:00Z"
     },
     {
@@ -1157,7 +1233,7 @@
       "artistName": "Lit",
       "artistSlug": "lit",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4a/ba/b2/4abab272-778b-6ad4-00e6-bde369cf32d4/mzaf_10753476092577773276.plus.aac.p.m4a",
@@ -1181,6 +1257,8 @@
       "artistMbid": "5ccb9a53-092d-4806-b337-470a582893d7",
       "albumTitle": "My Own Worst Enemy - Single",
       "duration": 194,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2021-10-11T12:00:00Z"
     },
     {
@@ -1189,7 +1267,7 @@
       "artistName": "The Killers",
       "artistSlug": "the-killers",
       "rank": 38,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3f/52/56/3f525606-7cb8-0292-51c1-c617802ba773/mzaf_433193577063250516.plus.aac.p.m4a",
@@ -1213,6 +1291,8 @@
       "artistMbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
       "albumTitle": "Hot Fuss",
       "duration": 197,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "2004-03-15T08:00:00Z"
     },
     {
@@ -1221,7 +1301,7 @@
       "artistName": "Red Hot Chili Peppers",
       "artistSlug": "red-hot-chili-peppers",
       "rank": 39,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9a/45/f8/9a45f881-0fc0-a732-71ff-9b119ed459ef/mzaf_16792293069829482436.plus.aac.p.m4a",
@@ -1245,6 +1325,8 @@
       "artistMbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
       "albumTitle": "Californication (Deluxe Edition)",
       "duration": 256,
+      "previousRank": 39,
+      "rankDelta": 0,
       "releaseDate": "1999-06-08T07:00:00Z"
     },
     {
@@ -1253,7 +1335,7 @@
       "artistName": "System of a Down",
       "artistSlug": "system-of-a-down",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/30/77/37/30773722-eb3b-cbed-1443-9f8f56b274cf/mzaf_14377212866734745736.plus.aac.p.m4a",
@@ -1277,6 +1359,8 @@
       "artistMbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
       "albumTitle": "Hypnotize",
       "duration": 168,
+      "previousRank": 40,
+      "rankDelta": 0,
       "releaseDate": "2005-11-22T08:00:00Z"
     },
     {
@@ -1285,7 +1369,7 @@
       "artistName": "Nirvana",
       "artistSlug": "nirvana",
       "rank": 41,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f4/3e/86/f43e8664-bdd9-bc56-8d2b-76064c865920/mzaf_15456055651529260945.plus.aac.p.m4a",
@@ -1309,6 +1393,8 @@
       "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
       "albumTitle": "Nevermind",
       "duration": 219,
+      "previousRank": 41,
+      "rankDelta": 0,
       "releaseDate": "1991-09-24T12:00:00Z"
     },
     {
@@ -1317,7 +1403,7 @@
       "artistName": "Muse",
       "artistSlug": "muse",
       "rank": 42,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/44/ca/6e/44ca6e47-9910-8133-4ccb-dbe6a064f3ef/mzaf_15122557870955362047.plus.aac.p.m4a",
@@ -1341,6 +1427,8 @@
       "artistMbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
       "albumTitle": "Black Holes and Revelations",
       "duration": 209,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2006-06-19T07:00:00Z"
     },
     {
@@ -1349,7 +1437,7 @@
       "artistName": "Three Days Grace",
       "artistSlug": "three-days-grace",
       "rank": 43,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c9/12/59/c91259ba-d503-92c8-7623-535245e0c4a2/mzaf_12059368180397361482.plus.aac.p.m4a",
@@ -1373,6 +1461,8 @@
       "artistMbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
       "albumTitle": "One-X (Deluxe Edition)",
       "duration": 231,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "2006-06-13T07:00:00Z"
     },
     {
@@ -1381,7 +1471,7 @@
       "artistName": "Arctic Monkeys",
       "artistSlug": "arctic-monkeys",
       "rank": 44,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/fa/0a/50/fa0a5090-4887-4a51-2ce5-2246af4a8e50/mzaf_11023754184952084303.plus.aac.p.m4a",
@@ -1405,6 +1495,8 @@
       "artistMbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
       "albumTitle": "AM",
       "duration": 243,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "2013-09-09T07:00:00Z"
     },
     {
@@ -1413,7 +1505,7 @@
       "artistName": "Deftones",
       "artistSlug": "deftones",
       "rank": 45,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8c/98/e4/8c98e4d6-2206-f59c-bdb6-d47b9aaca800/mzaf_3114192743853864209.plus.aac.p.m4a",
@@ -1437,6 +1529,8 @@
       "artistMbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
       "albumTitle": "White Pony (20th Anniversary Deluxe Edition)",
       "duration": 300,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "2000-06-20T12:00:00Z"
     },
     {
@@ -1445,7 +1539,7 @@
       "artistName": "Nirvana",
       "artistSlug": "nirvana",
       "rank": 46,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/53/1e/a6531efa-397c-eb73-ecab-9b2790c1471e/mzaf_16440344883389407474.plus.aac.p.m4a",
@@ -1469,6 +1563,8 @@
       "artistMbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
       "albumTitle": "Nevermind",
       "duration": 301,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "1991-09-10T12:00:00Z"
     },
     {
@@ -1477,7 +1573,7 @@
       "artistName": "Radiohead",
       "artistSlug": "radiohead",
       "rank": 47,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8d/e0/bb/8de0bb10-0593-83cc-4d2c-4e9f6ea9b575/mzaf_16440589638018943894.plus.aac.p.m4a",
@@ -1501,6 +1597,8 @@
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
       "albumTitle": "Creep - EP",
       "duration": 259,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "1992-09-21T12:00:00Z"
     },
     {
@@ -1509,7 +1607,7 @@
       "artistName": "Creed",
       "artistSlug": "creed",
       "rank": 48,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fa/ca/8f/faca8fed-4283-328e-d32a-84e747b35575/mzaf_11209087538798491758.plus.aac.p.m4a",
@@ -1533,6 +1631,8 @@
       "artistMbid": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
       "albumTitle": "Weathered",
       "duration": 238,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "2001-11-20T12:00:00Z"
     },
     {
@@ -1541,7 +1641,7 @@
       "artistName": "Linkin Park",
       "artistSlug": "linkin-park",
       "rank": 49,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/07/6c/bd/076cbd00-d166-8b95-c074-8653704dfa6d/mzaf_4904589341214304398.plus.aac.p.m4a",
@@ -1565,6 +1665,8 @@
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
       "albumTitle": "Minutes to Midnight (Deluxe Edition)",
       "duration": 189,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2007-05-14T12:00:00Z"
     },
     {
@@ -1573,7 +1675,7 @@
       "artistName": "Fall Out Boy",
       "artistSlug": "fall-out-boy",
       "rank": 50,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/87/bc/0287bc4c-eeb4-9f81-aef0-7da7b813fc07/mzaf_16967850793810079730.plus.aac.p.m4a",
@@ -1597,10 +1699,12 @@
       "artistMbid": "516cef4d-0718-4007-9939-f9b38af3f784",
       "albumTitle": "Infinity On High",
       "duration": 204,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2007-02-06T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T00:28:47.586Z",
+  "lastUpdated": "2026-03-02T00:50:51.131Z",
   "totalTracks": 50,
   "coverColor": "#ef4444",
   "genre": "rock",
