@@ -14,30 +14,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/1a/87/621a8716-c619-33e0-d47d-e0d698cf359e/mzaf_10328858384956916010.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill",
-        "itunes": "https://music.apple.com/us/album/on-melancholy-hill/850569437?i=850569480&uo=4"
+        "lastfm": "https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "06f2a8ae-fab8-4830-8721-6bbe3a03a594",
       "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
-      "albumTitle": "Plastic Beach",
-      "duration": 234,
+      "duration": 233,
       "previousRank": 1,
-      "rankDelta": 0,
-      "releaseDate": "2010-03-03T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "daft-punk--instant-crush-feat-julian-casablancas",
@@ -48,7 +44,7 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1a/3b/90/1a3b90d2-b984-b042-1822-e19f388524e0/mzaf_7080651603608009369.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
         "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/43/5f/e8435ffa-b6b9-b171-40ab-4ff3959ab661/886443919266.jpg/100x100bb.jpg",
         "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e8/43/5f/e8435ffa-b6b9-b171-40ab-4ff3959ab661/886443919266.jpg/300x300bb.jpg",
@@ -184,26 +180,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0a/de/fd/0adefd5b-145a-1cc9-f3b5-be89fd0232b9/mzaf_4322553693875273982.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/2d/fe/c12dfe8f-cdf6-e179-d69a-8ec35f760266/00602537248681.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/2d/fe/c12dfe8f-cdf6-e179-d69a-8ec35f760266/00602537248681.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/2d/fe/c12dfe8f-cdf6-e179-d69a-8ec35f760266/00602537248681.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kavinsky/_/Nightcall"
+        "lastfm": "https://www.last.fm/music/Kavinsky/_/Nightcall",
+        "itunes": "https://music.apple.com/us/album/nightcall/1442447952?i=1442447970&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "21388839-65ae-49a9-9434-f1b1ee339777",
       "artistMbid": "eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa",
-      "duration": 259,
+      "albumTitle": "Nightcall",
+      "duration": 258,
       "previousRank": 6,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2010-03-26T12:00:00Z"
     },
     {
       "id": "mgmt--kids",
@@ -316,26 +316,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/14/88/02/1488029f-506a-e77e-2f58-34bcc0795ad1/mzaf_2015721280503636210.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/15/ba/ec/15baec26-2db7-0abd-4197-76372183a628/mzi.xbpaeiac.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/15/ba/ec/15baec26-2db7-0abd-4197-76372183a628/mzi.xbpaeiac.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/15/ba/ec/15baec26-2db7-0abd-4197-76372183a628/mzi.xbpaeiac.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Calvin+Harris/_/Feel+So+Close"
+        "lastfm": "https://www.last.fm/music/Calvin+Harris/_/Feel+So+Close",
+        "itunes": "https://music.apple.com/us/album/feel-so-close-radio-edit/450132718?i=450132719&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0175fe26-c7fa-42d0-a4f1-8a0b40c2cdbd",
       "artistMbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
-      "duration": 206,
+      "albumTitle": "Feel So Close",
+      "duration": 208,
       "previousRank": 10,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2011-08-22T07:00:00Z"
     },
     {
       "id": "crystal-castles--crimewave",
@@ -410,26 +414,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/92/85/8e9285d6-709f-e8ec-06ba-a8ce0581ede1/mzaf_14509651326128706139.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/d8/08/66d808c0-24c9-9223-5692-7e4759ab207d/196871101424.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/d8/08/66d808c0-24c9-9223-5692-7e4759ab207d/196871101424.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/66/d8/08/66d808c0-24c9-9223-5692-7e4759ab207d/196871101424.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/MGMT/_/Electric+Feel"
+        "lastfm": "https://www.last.fm/music/MGMT/_/Electric+Feel",
+        "itunes": "https://music.apple.com/us/album/electric-feel/1687386073?i=1687386390&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "01218288-d146-4071-836d-5c9240a4c494",
       "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
-      "duration": 229,
+      "albumTitle": "Hot Summer Party Mix",
+      "duration": 230,
       "previousRank": 13,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2007-10-02T12:00:00Z"
     },
     {
       "id": "daft-punk--one-more-time",
@@ -474,30 +482,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ab/3b/91/ab3b91fa-9c5c-1a4a-8e1d-63f94aa64be2/mzaf_13376265056463113320.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/c8/49/dcc849a3-33f9-a51d-bdba-644e20053387/artwork.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/c8/49/dcc849a3-33f9-a51d-bdba-644e20053387/artwork.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/c8/49/dcc849a3-33f9-a51d-bdba-644e20053387/artwork.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Weeknd/_/House+of+Balloons+%2F+Glass+Table+Girls",
-        "itunes": "https://music.apple.com/us/album/house-of-balloons-glass-table-girls/1502366903?i=1502366904&uo=4"
+        "lastfm": "https://www.last.fm/music/The+Weeknd/_/House+of+Balloons+%2F+Glass+Table+Girls"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "001c4b89-4cd1-45ca-92c9-196cfe71c9f0",
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-      "albumTitle": "Soundcastle Sessions - Single",
-      "duration": 315,
+      "duration": 405,
       "previousRank": 15,
-      "rankDelta": 0,
-      "releaseDate": "2020-03-13T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "crystal-castles--vanished",
@@ -508,30 +512,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/c8/3d/5ac83da7-f942-d504-1a17-fd5bdae696cc/mzaf_852756193334387036.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/81/ee/0c81ee06-cab6-07ee-e925-a35c6027ad5a/2964.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/81/ee/0c81ee06-cab6-07ee-e925-a35c6027ad5a/2964.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/81/ee/0c81ee06-cab6-07ee-e925-a35c6027ad5a/2964.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Crystal+Castles/_/Vanished",
-        "itunes": "https://music.apple.com/us/album/vanished/1132754123?i=1132754196&uo=4"
+        "lastfm": "https://www.last.fm/music/Crystal+Castles/_/Vanished"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "026d7080-a7f1-3395-bda9-d3cc678d2ff6",
       "artistMbid": "b1570544-93ab-4b2b-8398-131735394202",
-      "albumTitle": "Crystal Castles",
-      "duration": 243,
+      "duration": 304,
       "previousRank": 16,
-      "rankDelta": 0,
-      "releaseDate": "2008-03-16T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "depeche-mode--enjoy-the-silence",
@@ -711,26 +711,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/63/a8/19/63a819cb-938a-3f82-49c9-d898d52a1d67/mzaf_8967626079243486198.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/06/cc/e506ccd5-56ec-3d4c-69f7-14900bea74f0/mzi.bbgsikee.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/06/cc/e506ccd5-56ec-3d4c-69f7-14900bea74f0/mzi.bbgsikee.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e5/06/cc/e506ccd5-56ec-3d4c-69f7-14900bea74f0/mzi.bbgsikee.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/MGMT/_/Time+to+Pretend"
+        "lastfm": "https://www.last.fm/music/MGMT/_/Time+to+Pretend",
+        "itunes": "https://music.apple.com/us/album/time-to-pretend/273519664?i=273519673&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "02c51e19-ed08-30e6-9355-64c7f3ce4abc",
       "artistMbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
-      "duration": 261,
+      "albumTitle": "Oracular Spectacular",
+      "duration": 263,
       "previousRank": 22,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2007-10-02T07:00:00Z"
     },
     {
       "id": "daft-punk--veridis-quo",
@@ -839,26 +843,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/18/89/8e188913-1e16-0ccc-9b2f-092d68b1c0ec/mzaf_8010931873864046371.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ca/64/4a/ca644a71-2966-c477-d71b-84aeeedc19f2/075679962416.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ca/64/4a/ca644a71-2966-c477-d71b-84aeeedc19f2/075679962416.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ca/64/4a/ca644a71-2966-c477-d71b-84aeeedc19f2/075679962416.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Santigold/_/Disparate+Youth"
+        "lastfm": "https://www.last.fm/music/Santigold/_/Disparate+Youth",
+        "itunes": "https://music.apple.com/us/album/disparate-youth/513473335?i=513473337&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "08504809-0414-3d3e-847e-17882c345c88",
       "artistMbid": "97b20fe3-0924-4a5f-9955-d0b5c5f9587f",
+      "albumTitle": "Master of My Make-Believe (Deluxe Version)",
       "duration": 284,
       "previousRank": 26,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2012-02-14T12:00:00Z"
     },
     {
       "id": "m83--midnight-city",
@@ -937,26 +945,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/12/64/7012647c-9251-a012-f5d4-6dd804197fae/mzaf_9158487417358931156.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/3f/66/c23f6607-cc64-1cac-84fe-5295d9efe8c3/09UMGIM22612.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/3f/66/c23f6607-cc64-1cac-84fe-5295d9efe8c3/09UMGIM22612.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/3f/66/c23f6607-cc64-1cac-84fe-5295d9efe8c3/09UMGIM22612.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Owl+City/_/Fireflies"
+        "lastfm": "https://www.last.fm/music/Owl+City/_/Fireflies",
+        "itunes": "https://music.apple.com/us/album/fireflies/1440782380?i=1440783289&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "009a41f9-d8c3-4e00-87bc-e982b8e55f1a",
       "artistMbid": "ad279295-653f-42e1-9aaa-b731df2e78ba",
+      "albumTitle": "Ocean Eyes",
       "duration": 228,
       "previousRank": 29,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2009-01-01T12:00:00Z"
     },
     {
       "id": "phantogram--fall-in-love",
@@ -1069,30 +1081,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/73/4f/ed/734fed68-b930-0f46-99fd-05d87663e61e/mzaf_14538867047064898061.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/92/e6/9692e643-bc82-ae9c-2791-1e26c8fb141e/5099964204352.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/92/e6/9692e643-bc82-ae9c-2791-1e26c8fb141e/5099964204352.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/92/e6/9692e643-bc82-ae9c-2791-1e26c8fb141e/5099964204352.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/LCD+Soundsystem/_/Dance+Yrself+Clean",
-        "itunes": "https://music.apple.com/us/album/dance-yrself-clean/693387639?i=693387645&uo=4"
+        "lastfm": "https://www.last.fm/music/LCD+Soundsystem/_/Dance+Yrself+Clean"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0ffc330b-4382-4566-974f-d2312694d049",
       "artistMbid": "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
-      "albumTitle": "This Is Happening",
       "duration": 536,
       "previousRank": 33,
-      "rankDelta": 0,
-      "releaseDate": "2010-05-17T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "crystal-castles--kerosene",
@@ -1133,7 +1141,7 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/76/46/7e/76467e19-3983-192a-406f-43cd30f8fe63/mzaf_7454703089470620689.plus.aac.p.m4a",
       "artwork": {
         "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/98/55/0a98555b-8d9d-3b46-660a-b91261557d17/00724384559953.rgb.jpg/100x100bb.jpg",
         "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/98/55/0a98555b-8d9d-3b46-660a-b91261557d17/00724384559953.rgb.jpg/300x300bb.jpg",
@@ -1167,30 +1175,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/25/41/70/254170a1-5706-d8ee-a678-b8979c1c4c5f/mzaf_12088316866899937918.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/85/de/fd/mzi.mdqckgeq.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/85/de/fd/mzi.mdqckgeq.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/85/de/fd/mzi.mdqckgeq.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/3OH%213/_/Don%27t+Trust+Me",
-        "itunes": "https://music.apple.com/us/album/dont-trust-me/287413480?i=287413483&uo=4"
+        "lastfm": "https://www.last.fm/music/3OH%213/_/Don%27t+Trust+Me"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "048fb666-60cc-386a-a55a-903ba74a9bad",
       "artistMbid": "125948ec-7f91-4d1a-8b83-accbf50fae3d",
-      "albumTitle": "Want",
-      "duration": 194,
+      "duration": 192,
       "previousRank": 36,
-      "rankDelta": 0,
-      "releaseDate": "2008-06-01T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "bjork--army-of-me",
@@ -1201,30 +1205,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/13/98/e113989e-5155-be2e-db69-6345f490e60f/mzaf_948457787749352695.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/62/1c/69621c9a-514f-00cf-1de6-6e49f004fb28/075596174060.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/62/1c/69621c9a-514f-00cf-1de6-6e49f004fb28/075596174060.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/62/1c/69621c9a-514f-00cf-1de6-6e49f004fb28/075596174060.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Bj%C3%B6rk/_/Army+of+Me",
-        "itunes": "https://music.apple.com/us/album/army-of-me/300205609?i=300205685&uo=4"
+        "lastfm": "https://www.last.fm/music/Bj%C3%B6rk/_/Army+of+Me"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "011cff2c-166d-43f7-a4ce-c63ef6d696d6",
       "artistMbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
-      "albumTitle": "Post",
-      "duration": 234,
+      "duration": 237,
       "previousRank": 37,
-      "rankDelta": 0,
-      "releaseDate": "1995-04-24T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "daft-punk--digital-love",
@@ -1235,30 +1235,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/9a/10/16/9a101659-7e2b-2af5-47ca-2399aa11d41d/mzaf_2308252532029859970.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/4a/77/fd4a77db-0ebc-d043-41a2-f32fa1bb0fb4/dj.qrikkdwj.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/4a/77/fd4a77db-0ebc-d043-41a2-f32fa1bb0fb4/dj.qrikkdwj.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/4a/77/fd4a77db-0ebc-d043-41a2-f32fa1bb0fb4/dj.qrikkdwj.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Daft+Punk/_/Digital+Love",
-        "itunes": "https://music.apple.com/us/album/digital-love/697194953?i=697195633&uo=4"
+        "lastfm": "https://www.last.fm/music/Daft+Punk/_/Digital+Love"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "05814d4b-0b5d-4ba8-bbb1-8fe0f69f3532",
       "artistMbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
-      "albumTitle": "Discovery",
-      "duration": 301,
+      "duration": 300,
       "previousRank": 38,
-      "rankDelta": 0,
-      "releaseDate": "2001-02-26T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "aphex-twin--pulsewidth",
@@ -1337,30 +1333,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4e/67/bb/4e67bb6a-157b-89b3-82fd-613767674414/mzaf_6910265193211473233.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/56/0b/07560b7d-fcb7-974e-fc95-cd6d96458028/5400863128401_cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/56/0b/07560b7d-fcb7-974e-fc95-cd6d96458028/5400863128401_cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/56/0b/07560b7d-fcb7-974e-fc95-cd6d96458028/5400863128401_cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Crystal+Castles/_/Empathy",
-        "itunes": "https://music.apple.com/us/album/empathy/1670134235?i=1670135615&uo=4"
+        "lastfm": "https://www.last.fm/music/Crystal+Castles/_/Empathy"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "57ccdfc9-7e2e-3d53-9fb8-97281c598424",
       "artistMbid": "b1570544-93ab-4b2b-8398-131735394202",
-      "albumTitle": "(II)",
-      "duration": 250,
+      "duration": 249,
       "previousRank": 41,
-      "rankDelta": 0,
-      "releaseDate": "2010-04-23T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "aphex-twin--xtal",
@@ -1371,30 +1363,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/88/07/1d/88071df2-b7b3-dca3-0cb1-e4cc6b036674/mzaf_1785616371015459389.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/b3/e0/5fb3e08d-c2cd-3da4-6ad7-c5dc61803683/cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/b3/e0/5fb3e08d-c2cd-3da4-6ad7-c5dc61803683/cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/b3/e0/5fb3e08d-c2cd-3da4-6ad7-c5dc61803683/cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Aphex+Twin/_/Xtal",
-        "itunes": "https://music.apple.com/us/album/xtal/1668862636?i=1668862649&uo=4"
+        "lastfm": "https://www.last.fm/music/Aphex+Twin/_/Xtal"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "06072ab9-200c-3881-af04-34e247918213",
       "artistMbid": "f22942a1-6f70-4f48-866e-238cb2308fbd",
-      "albumTitle": "Selected Ambient Works 85-92",
-      "duration": 294,
+      "duration": 280,
       "previousRank": 42,
-      "rankDelta": 0,
-      "releaseDate": "1992-02-12T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "lana-del-rey--cinnamon-girl",
@@ -1405,30 +1393,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/ab/c9/86abc949-717d-b99e-ccc1-2d06a10e01d6/mzaf_13331833199397738074.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5f/b9/c65fb9eb-da2f-89a9-b640-2fff1fc3a660/19UMGIM61350.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5f/b9/c65fb9eb-da2f-89a9-b640-2fff1fc3a660/19UMGIM61350.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5f/b9/c65fb9eb-da2f-89a9-b640-2fff1fc3a660/19UMGIM61350.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Lana+Del+Rey/_/Cinnamon+Girl",
-        "itunes": "https://music.apple.com/us/album/cinnamon-girl/1474669063?i=1474669074&uo=4"
+        "lastfm": "https://www.last.fm/music/Lana+Del+Rey/_/Cinnamon+Girl"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "111b16ec-fbe7-45b8-9587-64f6cfef8598",
       "artistMbid": "b7539c32-53e7-4908-bda3-81449c367da6",
-      "albumTitle": "Norman Fucking Rockwell!",
-      "duration": 301,
+      "duration": 300,
       "previousRank": 43,
-      "rankDelta": 0,
-      "releaseDate": "2019-08-30T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "black-eyed-peas--rock-that-body",
@@ -1575,26 +1559,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/62/54/4f/62544f47-6dcf-f1c6-94aa-6c33a56bd254/mzaf_7303879598402754582.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/8e/13/bd8e1358-b367-a689-cb84-cebd0b067dc4/634904078263.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/8e/13/bd8e1358-b367-a689-cb84-cebd0b067dc4/634904078263.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/8e/13/bd8e1358-b367-a689-cb84-cebd0b067dc4/634904078263.png/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Radiohead/_/Motion+Picture+Soundtrack"
+        "lastfm": "https://www.last.fm/music/Radiohead/_/Motion+Picture+Soundtrack",
+        "itunes": "https://music.apple.com/us/album/motion-picture-soundtrack/1097862870?i=1097863579&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0178358c-730c-4152-9590-746b8fd5b512",
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-      "duration": 232,
+      "albumTitle": "Kid A",
+      "duration": 200,
       "previousRank": 48,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2000-10-02T07:00:00Z"
     },
     {
       "id": "m-i-a--paper-planes",
@@ -1665,7 +1653,7 @@
       "releaseDate": "1997-01-20T08:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T23:22:51.062Z",
+  "lastUpdated": "2026-03-03T07:03:57.498Z",
   "totalTracks": 50,
   "coverColor": "#06b6d4",
   "genre": "electronic",

@@ -1609,30 +1609,26 @@
       "rankChange": "same",
       "playcount": 53755564,
       "listeners": 2116005,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/da/ff/99daffce-cdde-59c6-5ae0-7f922ce411a8/mzaf_5621292401829922816.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Espresso",
-        "itunes": "https://music.apple.com/us/album/espresso/1752214909?i=1752214923&uo=4"
+        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Espresso"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "05e5ca93-eb60-491b-9669-8bac0307d52d",
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
-      "albumTitle": "Short n' Sweet",
       "duration": 175,
       "previousRank": 48,
-      "rankDelta": 0,
-      "releaseDate": "2024-06-14T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "baby-keem--ca-ino",
@@ -1699,7 +1695,7 @@
       "rankDelta": 0
     }
   ],
-  "lastUpdated": "2026-03-02T23:11:36.783Z",
+  "lastUpdated": "2026-03-03T06:44:56.218Z",
   "totalTracks": 50,
   "coverColor": "#6366f1"
 }

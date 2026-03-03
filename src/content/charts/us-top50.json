@@ -180,7 +180,7 @@
       "artistName": "Don Toliver",
       "artistSlug": "don-toliver",
       "rank": 6,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 53800,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/68/e1/1768e109-c034-115d-affc-01a97c427142/mzaf_4718121937950048317.plus.aac.p.m4a",
@@ -204,8 +204,8 @@
       "artistMbid": "a0723a3c-4135-438e-85c5-012712144ede",
       "albumTitle": "OCTANE",
       "duration": 153,
-      "previousRank": 9,
-      "rankDelta": 3,
+      "previousRank": 6,
+      "rankDelta": 0,
       "releaseDate": "2026-01-22T12:00:00Z"
     },
     {
@@ -214,7 +214,7 @@
       "artistName": "Radiohead",
       "artistSlug": "radiohead",
       "rank": 7,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 53537,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8d/e0/bb/8de0bb10-0593-83cc-4d2c-4e9f6ea9b575/mzaf_16440589638018943894.plus.aac.p.m4a",
@@ -238,8 +238,8 @@
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
       "albumTitle": "Creep - EP",
       "duration": 259,
-      "previousRank": 8,
-      "rankDelta": 1,
+      "previousRank": 7,
+      "rankDelta": 0,
       "releaseDate": "1992-09-21T12:00:00Z"
     },
     {
@@ -248,7 +248,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 8,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 52798,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/2c/26/852c262a-d446-3343-26c9-a48b679e65f8/mzaf_10568200496426777792.plus.aac.p.m4a",
@@ -272,8 +272,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "DeBÍ TiRAR Más FOToS (Piano Version)",
       "duration": 127,
-      "previousRank": 7,
-      "rankDelta": -1,
+      "previousRank": 8,
+      "rankDelta": 0,
       "releaseDate": "2025-06-27T12:00:00Z"
     },
     {
@@ -282,7 +282,7 @@
       "artistName": "Bruno Mars",
       "artistSlug": "bruno-mars",
       "rank": 9,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 51821,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/49/8c/5b498caf-e3a4-8d48-20ae-0f51cf0a0d6e/mzaf_16238111096439911115.plus.aac.p.m4a",
@@ -306,8 +306,8 @@
       "artistMbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
       "albumTitle": "The Romantic",
       "duration": 204,
-      "previousRank": 24,
-      "rankDelta": 15,
+      "previousRank": 9,
+      "rankDelta": 0,
       "releaseDate": "2026-02-27T08:00:00Z"
     },
     {
@@ -350,7 +350,7 @@
       "artistName": "Bruno Mars",
       "artistSlug": "bruno-mars",
       "rank": 11,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 51794,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/29/70/4c2970ab-d1c0-344b-53c7-b1624a14ac36/mzaf_9879015910950364057.plus.aac.p.m4a",
@@ -374,8 +374,8 @@
       "artistMbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
       "albumTitle": "The Romantic",
       "duration": 213,
-      "previousRank": 15,
-      "rankDelta": 4,
+      "previousRank": 11,
+      "rankDelta": 0,
       "releaseDate": "2026-01-09T08:00:00Z"
     },
     {
@@ -384,7 +384,7 @@
       "artistName": "Baby Keem",
       "artistSlug": "baby-keem",
       "rank": 12,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 51668,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fc/d4/c7/fcd4c7ff-4d22-12d0-ba89-5c029a444af8/mzaf_14946872784353114689.plus.aac.p.m4a",
@@ -408,8 +408,8 @@
       "artistMbid": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
       "albumTitle": "Ca$ino",
       "duration": 200,
-      "previousRank": 6,
-      "rankDelta": -6,
+      "previousRank": 12,
+      "rankDelta": 0,
       "releaseDate": "2026-02-20T12:00:00Z"
     },
     {
@@ -418,7 +418,7 @@
       "artistName": "The Marías",
       "artistSlug": "the-marias",
       "rank": 13,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 51130,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/59/68/465968ed-5c6d-0f97-167d-6f53b74793fc/mzaf_12576584058255046082.plus.aac.p.m4a",
@@ -442,8 +442,8 @@
       "artistMbid": "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3",
       "albumTitle": "Submarine",
       "duration": 237,
-      "previousRank": 11,
-      "rankDelta": -2,
+      "previousRank": 13,
+      "rankDelta": 0,
       "releaseDate": "2024-05-03T07:00:00Z"
     },
     {
@@ -452,7 +452,7 @@
       "artistName": "The Killers",
       "artistSlug": "the-killers",
       "rank": 14,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 50876,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/95/6e/b3956e14-35f0-937e-afb0-72774d3f613f/mzaf_8359343604382181711.plus.aac.p.m4a",
@@ -476,8 +476,8 @@
       "artistMbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
       "albumTitle": "Direct Hits",
       "duration": 224,
-      "previousRank": 12,
-      "rankDelta": -2,
+      "previousRank": 14,
+      "rankDelta": 0,
       "releaseDate": "2003-09-29T12:00:00Z"
     },
     {
@@ -486,7 +486,7 @@
       "artistName": "Dominic Fike",
       "artistSlug": "dominic-fike",
       "rank": 15,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 50012,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b9/00/5c/b9005c47-45de-a5cb-e9ac-f8af66d69f33/mzaf_18175355208890397177.plus.aac.p.m4a",
@@ -510,8 +510,8 @@
       "artistMbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
       "albumTitle": "Don't Forget About Me, Demos - EP",
       "duration": 98,
-      "previousRank": 17,
-      "rankDelta": 2,
+      "previousRank": 15,
+      "rankDelta": 0,
       "releaseDate": "2018-10-16T12:00:00Z"
     },
     {
@@ -520,7 +520,7 @@
       "artistName": "The Marías",
       "artistSlug": "the-marias",
       "rank": 16,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 49154,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/94/b3/c3/94b3c3c1-4eba-4239-fa31-3d8bbea65b28/mzaf_5004823772581160721.plus.aac.p.m4a",
@@ -544,8 +544,8 @@
       "artistMbid": "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3",
       "albumTitle": "Submarine",
       "duration": 225,
-      "previousRank": 13,
-      "rankDelta": -3,
+      "previousRank": 16,
+      "rankDelta": 0,
       "releaseDate": "2021-11-12T12:00:00Z"
     },
     {
@@ -554,7 +554,7 @@
       "artistName": "Tame Impala",
       "artistSlug": "tame-impala",
       "rank": 17,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 48069,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/55/f3/8b55f3a3-3204-8930-f156-82843546950e/mzaf_9370328603131228430.plus.aac.p.m4a",
@@ -578,8 +578,8 @@
       "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
       "albumTitle": "The Less I Know The Better - Single",
       "duration": 176,
-      "previousRank": 19,
-      "rankDelta": 2,
+      "previousRank": 17,
+      "rankDelta": 0,
       "releaseDate": "2025-02-28T12:00:00Z"
     },
     {
@@ -622,7 +622,7 @@
       "artistName": "Malcolm Todd",
       "artistSlug": "malcolm-todd",
       "rank": 19,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 47888,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/97/06/d4970622-b87b-9af3-b375-21af92396852/mzaf_1443470814230920096.plus.aac.p.m4a",
@@ -645,8 +645,8 @@
       "artistMbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
       "albumTitle": "Sweet Boy",
       "duration": 152,
-      "previousRank": 20,
-      "rankDelta": 1,
+      "previousRank": 19,
+      "rankDelta": 0,
       "releaseDate": "2024-04-05T12:00:00Z"
     },
     {
@@ -655,7 +655,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 20,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 47449,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/61/8e/2d/618e2d09-d6e5-1864-92b3-b5ea326bc1a9/mzaf_18353592973487747406.plus.aac.p.m4a",
@@ -679,8 +679,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "ARTZ Basel Miami Mix (DJ Mix)",
       "duration": 111,
-      "previousRank": 14,
-      "rankDelta": -6,
+      "previousRank": 20,
+      "rankDelta": 0,
       "releaseDate": "2023-01-27T12:00:00Z"
     },
     {
@@ -719,7 +719,7 @@
       "artistName": "Bad Bunny",
       "artistSlug": "bad-bunny",
       "rank": 22,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 47159,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
@@ -743,8 +743,8 @@
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
       "albumTitle": "DeBÍ TiRAR MáS FOToS",
       "duration": 184,
-      "previousRank": 16,
-      "rankDelta": -6,
+      "previousRank": 22,
+      "rankDelta": 0,
       "releaseDate": "2025-01-05T12:00:00Z"
     },
     {
@@ -753,7 +753,7 @@
       "artistName": "Zara Larsson",
       "artistSlug": "zara-larsson",
       "rank": 23,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 45941,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/69/bb/0369bb27-0c58-9c65-ad6b-d86c77a38f42/mzaf_13731575429992521229.plus.aac.p.m4a",
@@ -777,8 +777,8 @@
       "artistMbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
       "albumTitle": "Midnight Sun",
       "duration": 190,
-      "previousRank": 26,
-      "rankDelta": 3,
+      "previousRank": 23,
+      "rankDelta": 0,
       "releaseDate": "2025-06-13T12:00:00Z"
     },
     {
@@ -787,7 +787,7 @@
       "artistName": "Mitski",
       "artistSlug": "mitski",
       "rank": 24,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 44890,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/81/45/bb814593-6bd8-e308-4a69-3e2f4422451c/mzaf_13344244952806927177.plus.aac.p.m4a",
@@ -811,8 +811,8 @@
       "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
       "albumTitle": "Nothing's About to Happen to Me",
       "duration": 180,
-      "previousRank": 46,
-      "rankDelta": 22,
+      "previousRank": 24,
+      "rankDelta": 0,
       "releaseDate": "2026-02-27T12:00:00Z"
     },
     {
@@ -821,7 +821,7 @@
       "artistName": "Lit",
       "artistSlug": "lit",
       "rank": 25,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 44463,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4a/ba/b2/4abab272-778b-6ad4-00e6-bde369cf32d4/mzaf_10753476092577773276.plus.aac.p.m4a",
@@ -845,8 +845,8 @@
       "artistMbid": "5ccb9a53-092d-4806-b337-470a582893d7",
       "albumTitle": "My Own Worst Enemy - Single",
       "duration": 194,
-      "previousRank": 27,
-      "rankDelta": 2,
+      "previousRank": 25,
+      "rankDelta": 0,
       "releaseDate": "2021-10-11T12:00:00Z"
     },
     {
@@ -855,7 +855,7 @@
       "artistName": "Don Toliver",
       "artistSlug": "don-toliver",
       "rank": 26,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 44088,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/6b/e2/a46be242-f934-1876-06d1-fe4cedea4cdb/mzaf_16330599808244850326.plus.aac.p.m4a",
@@ -879,8 +879,8 @@
       "artistMbid": "a0723a3c-4135-438e-85c5-012712144ede",
       "albumTitle": "OCTANE",
       "duration": 156,
-      "previousRank": 29,
-      "rankDelta": 3,
+      "previousRank": 26,
+      "rankDelta": 0,
       "releaseDate": "2026-01-22T12:00:00Z"
     },
     {
@@ -889,32 +889,28 @@
       "artistName": "Malcolm Todd",
       "artistSlug": "malcolm-todd",
       "rank": 27,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 43984,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/43/92/7d/43927dac-0c29-2edf-71bb-a768796a9a09/mzaf_2799764568982507458.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/b8/5a/33b85ad4-cfd1-bcb8-444b-15329d4965ef/196871375542.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/b8/5a/33b85ad4-cfd1-bcb8-444b-15329d4965ef/196871375542.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/b8/5a/33b85ad4-cfd1-bcb8-444b-15329d4965ef/196871375542.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Malcolm+Todd/_/Roommates",
-        "itunes": "https://music.apple.com/us/album/roommates/1703837503?i=1703837703&uo=4"
+        "lastfm": "https://www.last.fm/music/Malcolm+Todd/_/Roommates"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "artistMbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
-      "albumTitle": "Roommates - Single",
-      "duration": 215,
-      "previousRank": 30,
-      "rankDelta": 3,
-      "releaseDate": "2023-06-22T12:00:00Z"
+      "duration": 214,
+      "previousRank": 27,
+      "rankDelta": 0
     },
     {
       "id": "baby-keem--house-money",
@@ -922,7 +918,7 @@
       "artistName": "Baby Keem",
       "artistSlug": "baby-keem",
       "rank": 28,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 43889,
       "previewUrl": null,
@@ -943,8 +939,8 @@
       "mbid": "73accbbc-eec3-40e1-9fa0-0add913e657f",
       "artistMbid": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
       "duration": 195,
-      "previousRank": 22,
-      "rankDelta": -6
+      "previousRank": 28,
+      "rankDelta": 0
     },
     {
       "id": "mitski--ill-change-for-you",
@@ -952,7 +948,7 @@
       "artistName": "Mitski",
       "artistSlug": "mitski",
       "rank": 29,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 43727,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/fe/af/c0feafa3-8177-1261-1a37-556131f4176b/mzaf_4832321812754311678.plus.aac.p.m4a",
@@ -976,8 +972,8 @@
       "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
       "albumTitle": "Nothing's About to Happen to Me",
       "duration": 196,
-      "previousRank": 43,
-      "rankDelta": 14,
+      "previousRank": 29,
+      "rankDelta": 0,
       "releaseDate": "2026-02-27T12:00:00Z"
     },
     {
@@ -986,33 +982,29 @@
       "artistName": "Foo Fighters",
       "artistSlug": "foo-fighters",
       "rank": 30,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 43686,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/77/17/d07717cb-9977-1cbb-6634-3e598d0c4da6/mzaf_15769952961470333318.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/f5/86/68f586ca-a375-9965-a864-9e227e77ef5b/884977570328.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/f5/86/68f586ca-a375-9965-a864-9e227e77ef5b/884977570328.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/f5/86/68f586ca-a375-9965-a864-9e227e77ef5b/884977570328.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Foo+Fighters/_/Everlong",
-        "itunes": "https://music.apple.com/us/album/everlong/362133451?i=362133505&uo=4"
+        "lastfm": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00779e5b-e581-3fcb-b0af-d6150e446b23",
       "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
-      "albumTitle": "The Colour And The Shape",
-      "duration": 251,
-      "previousRank": 28,
-      "rankDelta": -2,
-      "releaseDate": "1997-05-20T07:00:00Z"
+      "duration": 334,
+      "previousRank": 30,
+      "rankDelta": 0
     },
     {
       "id": "olivia-dean--so-easy-to-fall-in-love",
@@ -1020,7 +1012,7 @@
       "artistName": "Olivia Dean",
       "artistSlug": "olivia-dean",
       "rank": 31,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 43526,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/78/76/b07876e5-0e27-b261-a76b-9de5135f7196/mzaf_3541076937115029478.plus.aac.p.m4a",
@@ -1043,8 +1035,8 @@
       "artistMbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
       "albumTitle": "The Art of Loving",
       "duration": 169,
-      "previousRank": 32,
-      "rankDelta": 1,
+      "previousRank": 31,
+      "rankDelta": 0,
       "releaseDate": "2025-09-26T12:00:00Z"
     },
     {
@@ -1053,7 +1045,7 @@
       "artistName": "PinkPantheress",
       "artistSlug": "pinkpantheress",
       "rank": 32,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 43517,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/4b/47/114b47c0-c7f8-0e49-d322-a1bf57a46ed2/mzaf_2644670788257584205.plus.aac.p.m4a",
@@ -1077,8 +1069,8 @@
       "artistMbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
       "albumTitle": "Pain - Single",
       "duration": 99,
-      "previousRank": 34,
-      "rankDelta": 2,
+      "previousRank": 32,
+      "rankDelta": 0,
       "releaseDate": "2021-01-29T12:00:00Z"
     },
     {
@@ -1087,7 +1079,7 @@
       "artistName": "Baby Keem",
       "artistSlug": "baby-keem",
       "rank": 33,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 43331,
       "previewUrl": null,
@@ -1108,8 +1100,8 @@
       "mbid": "8105281a-1cb4-47c9-ae37-278497c8bbc6",
       "artistMbid": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
       "duration": 136,
-      "previousRank": 25,
-      "rankDelta": -8
+      "previousRank": 33,
+      "rankDelta": 0
     },
     {
       "id": "jeff-buckley--lover-you-shouldve-come-over",
@@ -1117,7 +1109,7 @@
       "artistName": "Jeff Buckley",
       "artistSlug": "jeff-buckley",
       "rank": 34,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 43328,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/0c/4e/db0c4edc-9daa-e262-55b9-89984c3f6aa6/mzaf_16142695276315265640.plus.aac.p.m4a",
@@ -1141,8 +1133,8 @@
       "artistMbid": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e",
       "albumTitle": "Grace",
       "duration": 404,
-      "previousRank": 31,
-      "rankDelta": -3,
+      "previousRank": 34,
+      "rankDelta": 0,
       "releaseDate": "1994-08-23T12:00:00Z"
     },
     {
@@ -1151,29 +1143,33 @@
       "artistName": "Don Toliver",
       "artistSlug": "don-toliver",
       "rank": 35,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 42854,
       "previewUrl": null,
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/5f/4f/ce5f4f03-f9a5-3d80-d8ac-630c574f3deb/199999519676.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/5f/4f/ce5f4f03-f9a5-3d80-d8ac-630c574f3deb/199999519676.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/5f/4f/ce5f4f03-f9a5-3d80-d8ac-630c574f3deb/199999519676.png/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Don+Toliver/_/No+Pole"
+        "lastfm": "https://www.last.fm/music/Don+Toliver/_/No+Pole",
+        "itunes": "https://music.apple.com/us/album/no-pole/1864226023?i=1864226024&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "c44742a1-ef4a-4493-84d6-969ef837d125",
       "artistMbid": "a0723a3c-4135-438e-85c5-012712144ede",
-      "duration": 187,
-      "previousRank": 37,
-      "rankDelta": 2
+      "albumTitle": "No Pole - Single",
+      "duration": 195,
+      "previousRank": 35,
+      "rankDelta": 0,
+      "releaseDate": "2025-12-25T12:00:00Z"
     },
     {
       "id": "baby-keem--good-flirts-feat-kendrick-lamar-and-momo-boyd",
@@ -1181,7 +1177,7 @@
       "artistName": "Baby Keem",
       "artistSlug": "baby-keem",
       "rank": 36,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 42801,
       "previewUrl": null,
@@ -1202,8 +1198,8 @@
       "mbid": "95fc79ea-8ab1-481e-bdc6-80272e2a025e",
       "artistMbid": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
       "duration": 232,
-      "previousRank": 23,
-      "rankDelta": -13
+      "previousRank": 36,
+      "rankDelta": 0
     },
     {
       "id": "mitski--wheres-my-phone",
@@ -1211,7 +1207,7 @@
       "artistName": "Mitski",
       "artistSlug": "mitski",
       "rank": 37,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 42665,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/96/07/e1960731-9b87-3c60-80ea-54c6cea7ea8e/mzaf_4471017596947200923.plus.aac.p.m4a",
@@ -1235,6 +1231,8 @@
       "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
       "albumTitle": "Nothing's About to Happen to Me",
       "duration": 190,
+      "previousRank": 37,
+      "rankDelta": 0,
       "releaseDate": "2026-02-27T12:00:00Z"
     },
     {
@@ -1243,7 +1241,7 @@
       "artistName": "Chappell Roan",
       "artistSlug": "chappell-roan",
       "rank": 38,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 42609,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/6d/4f/c36d4f23-b87f-046d-7a0e-e3e05d180b2a/mzaf_17235999651335214399.plus.aac.p.m4a",
@@ -1267,8 +1265,8 @@
       "artistMbid": "56a55378-f155-48de-80a5-d80104221267",
       "albumTitle": "Good Luck, Babe! - Single",
       "duration": 218,
-      "previousRank": 33,
-      "rankDelta": -5,
+      "previousRank": 38,
+      "rankDelta": 0,
       "releaseDate": "2024-04-05T12:00:00Z"
     },
     {
@@ -1277,7 +1275,7 @@
       "artistName": "TV Girl",
       "artistSlug": "tv-girl",
       "rank": 39,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 42599,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/b3/b5/f8/b3b5f8a3-6bae-fc72-70c9-3ab54e5fa281/mzaf_5828376612481938129.plus.aac.p.m4a",
@@ -1301,8 +1299,8 @@
       "artistMbid": "38f0c7ac-46eb-49ca-b3ab-c785ccd05a60",
       "albumTitle": "French Exit",
       "duration": 214,
-      "previousRank": 35,
-      "rankDelta": -4,
+      "previousRank": 39,
+      "rankDelta": 0,
       "releaseDate": "2014-06-05T12:00:00Z"
     },
     {
@@ -1311,7 +1309,7 @@
       "artistName": "Mitski",
       "artistSlug": "mitski",
       "rank": 40,
-      "rankChange": "new",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 42486,
       "previewUrl": null,
@@ -1331,7 +1329,9 @@
       ],
       "mbid": "3e801435-b74d-4843-b99e-c7eac2b14200",
       "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
-      "duration": 184
+      "duration": 184,
+      "previousRank": 40,
+      "rankDelta": 0
     },
     {
       "id": "she-and-him--i-thought-i-saw-your-face-today",
@@ -1339,7 +1339,7 @@
       "artistName": "She & Him",
       "artistSlug": "she-and-him",
       "rank": 41,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 42257,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/41/77/32/41773281-a37c-7790-3355-5f3d15bbbf27/mzaf_2603544144250418389.plus.aac.p.m4a",
@@ -1363,8 +1363,8 @@
       "artistMbid": "fb821608-35fd-4a45-a4b2-1a0537cee111",
       "albumTitle": "Volume One",
       "duration": 170,
-      "previousRank": 36,
-      "rankDelta": -5,
+      "previousRank": 41,
+      "rankDelta": 0,
       "releaseDate": "2008-03-18T12:00:00Z"
     },
     {
@@ -1373,7 +1373,7 @@
       "artistName": "Childish Gambino",
       "artistSlug": "childish-gambino",
       "rank": 42,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 42255,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/9a/8a/249a8ae4-39ec-dd5e-f891-fe70d5073c1e/mzaf_9321397294219166302.plus.aac.p.m4a",
@@ -1396,8 +1396,8 @@
       "artistMbid": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
       "albumTitle": "Camp",
       "duration": 317,
-      "previousRank": 39,
-      "rankDelta": -3,
+      "previousRank": 42,
+      "rankDelta": 0,
       "releaseDate": "2011-11-15T12:00:00Z"
     },
     {
@@ -1406,7 +1406,7 @@
       "artistName": "Radiohead",
       "artistSlug": "radiohead",
       "rank": 43,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 42084,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/66/13/3c/66133c2c-59a6-f17b-0b88-7f61e1edc181/mzaf_12936594904953407247.plus.aac.p.m4a",
@@ -1430,8 +1430,8 @@
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
       "albumTitle": "OK Computer",
       "duration": 300,
-      "previousRank": 38,
-      "rankDelta": -5,
+      "previousRank": 43,
+      "rankDelta": 0,
       "releaseDate": "1997-05-21T07:00:00Z"
     },
     {
@@ -1440,7 +1440,7 @@
       "artistName": "Fleetwood Mac",
       "artistSlug": "fleetwood-mac",
       "rank": 44,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 41849,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f2/44/8e/f2448e3b-5edd-0aa4-0419-f5cee0d3e6bb/mzaf_17305748011946564217.plus.aac.p.m4a",
@@ -1464,8 +1464,8 @@
       "artistMbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
       "albumTitle": "Fleetwood Mac 1975 to 1987",
       "duration": 258,
-      "previousRank": 42,
-      "rankDelta": -2,
+      "previousRank": 44,
+      "rankDelta": 0,
       "releaseDate": "1977-02-04T12:00:00Z"
     },
     {
@@ -1474,7 +1474,7 @@
       "artistName": "EsDeeKid",
       "artistSlug": "esdeekid",
       "rank": 45,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 41323,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/13/8f/b5138f23-e816-8e12-8203-83f6ee2d3ce6/mzaf_8525420916576032268.plus.aac.p.m4a",
@@ -1498,8 +1498,8 @@
       "artistMbid": "3d253cbd-fb66-4752-a8d1-f9b0db75bcea",
       "albumTitle": "esdeekid 4 raws - Single",
       "duration": 101,
-      "previousRank": 41,
-      "rankDelta": -4,
+      "previousRank": 45,
+      "rankDelta": 0,
       "releaseDate": "2025-12-20T12:00:00Z"
     },
     {
@@ -1508,7 +1508,7 @@
       "artistName": "bôa",
       "artistSlug": "boa",
       "rank": 46,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 40793,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/46/1b/1e461bd9-87fe-46e8-a4a5-e921e83ddf54/mzaf_9890527819711465833.plus.aac.p.m4a",
@@ -1532,8 +1532,8 @@
       "artistMbid": "ca1dcba2-792c-4550-abf2-7b45396e81ca",
       "albumTitle": "Twilight",
       "duration": 204,
-      "previousRank": 44,
-      "rankDelta": -2,
+      "previousRank": 46,
+      "rankDelta": 0,
       "releaseDate": "2000-06-21T12:00:00Z"
     },
     {
@@ -1542,7 +1542,7 @@
       "artistName": "Tame Impala",
       "artistSlug": "tame-impala",
       "rank": 47,
-      "rankChange": "up",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 40582,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/e0/26/93e02611-d12e-86e8-595a-b6d20a7847dc/mzaf_12540017880660395875.plus.aac.p.m4a",
@@ -1566,8 +1566,8 @@
       "artistMbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
       "albumTitle": "Dracula - Single",
       "duration": 205,
-      "previousRank": 49,
-      "rankDelta": 2,
+      "previousRank": 47,
+      "rankDelta": 0,
       "releaseDate": "2025-09-24T12:00:00Z"
     },
     {
@@ -1576,7 +1576,7 @@
       "artistName": "Twenty One Pilots",
       "artistSlug": "twenty-one-pilots",
       "rank": 48,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 40076,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/e1/8d/5ce18dc7-92e0-c437-1c4c-3eb133a7dad3/mzaf_16869785547693954708.plus.aac.p.m4a",
@@ -1600,8 +1600,8 @@
       "artistMbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
       "albumTitle": "Drag Path - Single",
       "duration": 224,
-      "previousRank": 40,
-      "rankDelta": -8,
+      "previousRank": 48,
+      "rankDelta": 0,
       "releaseDate": "2025-09-12T12:00:00Z"
     },
     {
@@ -1610,7 +1610,7 @@
       "artistName": "Kanye West",
       "artistSlug": "kanye-west",
       "rank": 49,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 39721,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c3/c6/c6/c3c6c652-2f19-1511-c8e9-e9caf9b6b4ac/mzaf_8110172512846397285.plus.aac.p.m4a",
@@ -1633,8 +1633,8 @@
       "mbid": "0064b08f-45d3-314e-bfcc-5f641e431319",
       "albumTitle": "Graduation",
       "duration": 237,
-      "previousRank": 48,
-      "rankDelta": -1,
+      "previousRank": 49,
+      "rankDelta": 0,
       "releaseDate": "2007-09-05T12:00:00Z"
     },
     {
@@ -1643,7 +1643,7 @@
       "artistName": "Paramore",
       "artistSlug": "paramore",
       "rank": 50,
-      "rankChange": "down",
+      "rankChange": "same",
       "playcount": 0,
       "listeners": 39645,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/98/16/73/981673b7-177f-4506-cfd1-1987d4de177c/mzaf_10695824347704723223.plus.aac.p.m4a",
@@ -1667,12 +1667,12 @@
       "artistMbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
       "albumTitle": "Brand New Eyes (Deluxe Version)",
       "duration": 229,
-      "previousRank": 45,
-      "rankDelta": -5,
+      "previousRank": 50,
+      "rankDelta": 0,
       "releaseDate": "2009-09-29T07:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T23:13:39.062Z",
+  "lastUpdated": "2026-03-03T06:48:13.432Z",
   "totalTracks": 50,
   "coverColor": "#3b82f6",
   "country": "us",

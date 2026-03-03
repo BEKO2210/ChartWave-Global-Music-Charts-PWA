@@ -728,30 +728,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 353,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/56/cd/e456cd7c-d289-553a-9c39-98ca08ca0b4b/mzaf_14810478461288819548.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Ravyn+Lenae/_/Love+Me+Not",
-        "itunes": "https://music.apple.com/us/album/love-me-not/1743852410?i=1743852427&uo=4"
+        "lastfm": "https://www.last.fm/music/Ravyn+Lenae/_/Love+Me+Not"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "6c8ef1fe-897c-43f4-b45e-a3d5e3fba71d",
       "artistMbid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
-      "albumTitle": "Bird's Eye",
       "duration": 213,
       "previousRank": 22,
-      "rankDelta": 0,
-      "releaseDate": "2024-05-03T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "charli-xcx--dying-for-you",
@@ -996,29 +992,24 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 329,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/da/a4/bcdaa416-ef9e-fbcc-a96b-0a1b492d35b0/mzaf_8826149582565333170.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/cb/db/06/mzi.nlvxgflx.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/cb/db/06/mzi.nlvxgflx.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/cb/db/06/mzi.nlvxgflx.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sean+Paul/_/(When+You+Gonna)+Give+It+Up+To+Me+-+Radio+Version",
-        "itunes": "https://music.apple.com/us/album/when-you-gonna-give-it-up-to-me-radio-version/202964095?i=202964098&uo=4"
+        "lastfm": "https://www.last.fm/music/Sean+Paul/_/(When+You+Gonna)+Give+It+Up+To+Me+-+Radio+Version"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "artistMbid": "c3da3346-2643-48a7-93cd-011f6834b3d7",
-      "albumTitle": "Only Hits",
-      "duration": 244,
       "previousRank": 30,
-      "rankDelta": 0,
-      "releaseDate": "2005-09-27T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "radiohead--let-down",
@@ -1165,30 +1156,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 321,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/c6/81/13c68110-8b12-eaa5-65f5-f78a8b898fec/mzaf_13228370947289178162.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/dc/88/4bdc8837-8831-9277-a89c-db947c21ea36/825646580118.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/dc/88/4bdc8837-8831-9277-a89c-db947c21ea36/825646580118.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/dc/88/4bdc8837-8831-9277-a89c-db947c21ea36/825646580118.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Marina/_/Primadonna",
-        "itunes": "https://music.apple.com/us/album/primadonna/534339822?i=534340044&uo=4"
+        "lastfm": "https://www.last.fm/music/Marina/_/Primadonna"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "04a91585-aee5-4cd7-9090-da2a88f35bef",
       "artistMbid": "b37e091c-d2ee-4707-bfb1-402fc32f29bd",
-      "albumTitle": "Electra Heart (Deluxe Version)",
       "duration": 221,
       "previousRank": 35,
-      "rankDelta": 0,
-      "releaseDate": "2012-03-20T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "lana-del-rey--white-feather-hawk-tail-deer-hunter",
@@ -1466,30 +1453,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 295,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/36/19/80361983-137c-5ec1-04b8-c47a38f94bd7/mzaf_15967606551339762207.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Gorillaz/_/The+Moon+Cave+(feat.+Asha+Puthli,+Bobby+Womack,+Dave+Jolicoeur,+Jalen+Ngonda+and+Black+Thought)",
-        "itunes": "https://music.apple.com/us/album/the-moon-cave-feat-asha-puthli-bobby-womack-david/1837237742?i=1837237761&uo=4"
+        "lastfm": "https://www.last.fm/music/Gorillaz/_/The+Moon+Cave+(feat.+Asha+Puthli,+Bobby+Womack,+Dave+Jolicoeur,+Jalen+Ngonda+and+Black+Thought)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "06aced25-39a5-4c20-ae90-c28c9c835732",
       "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
-      "albumTitle": "The Mountain",
-      "duration": 298,
       "previousRank": 44,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-27T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "gigi-perez--sailor-song",
@@ -1534,30 +1516,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 294,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/08/9e/1b089e17-1084-d825-d576-66d46ae1e243/mzaf_11823295334220528749.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Neighbourhood/_/Softcore",
-        "itunes": "https://music.apple.com/us/album/softcore/1440532502?i=1440532753&uo=4"
+        "lastfm": "https://www.last.fm/music/The+Neighbourhood/_/Softcore"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0e016d69-1afe-435a-b159-f528eea505c6",
       "artistMbid": "53b06622-ec51-4924-a554-58b0affde6b5",
-      "albumTitle": "Hard To Imagine The Neighbourhood Ever Changing",
-      "duration": 206,
+      "duration": 207,
       "previousRank": 46,
-      "rankDelta": 0,
-      "releaseDate": "2018-03-09T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "chappell-roan--good-luck-babe",
@@ -1670,32 +1648,28 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 284,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/a2/de/08a2dede-ddc3-e5a1-1867-170abd2a4f77/mzaf_15151063157010972535.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/5b/70/1d5b70c3-e97d-61cc-1a17-d6806fa249c9/9120091293080.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/5b/70/1d5b70c3-e97d-61cc-1a17-d6806fa249c9/9120091293080.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/5b/70/1d5b70c3-e97d-61cc-1a17-d6806fa249c9/9120091293080.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/COSM%C3%93/_/TANZSCHEIN",
-        "itunes": "https://music.apple.com/us/album/tanzschein/1870245563?i=1870245567&uo=4"
+        "lastfm": "https://www.last.fm/music/COSM%C3%93/_/TANZSCHEIN"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "76d61d85-fa90-47ce-961c-3cbe8782bebd",
-      "albumTitle": "TANZSCHEIN - Single",
-      "duration": 163,
+      "duration": 162,
       "previousRank": 50,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-06T12:00:00Z"
+      "rankDelta": 0
     }
   ],
-  "lastUpdated": "2026-03-02T23:12:44.089Z",
+  "lastUpdated": "2026-03-03T06:46:49.669Z",
   "totalTracks": 50,
   "coverColor": "#ef4444",
   "country": "at",

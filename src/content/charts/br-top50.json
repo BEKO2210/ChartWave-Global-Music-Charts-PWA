@@ -78,30 +78,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 47202,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a7/cd/19/a7cd192a-bf02-0683-cfeb-d85d17b2d9b3/mzaf_483007823746368595.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/44/9d/d9449d4c-46ea-d73d-015c-6437f281bbaa/196872989106.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/44/9d/d9449d4c-46ea-d73d-015c-6437f281bbaa/196872989106.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/44/9d/d9449d4c-46ea-d73d-015c-6437f281bbaa/196872989106.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Marina+Sena/_/Lua+Cheia",
-        "itunes": "https://music.apple.com/us/album/lua-cheia/1803241760?i=1803241775&uo=4"
+        "lastfm": "https://www.last.fm/music/Marina+Sena/_/Lua+Cheia"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "96e8544b-f820-413e-a3d9-1bc39ac61498",
       "artistMbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
-      "albumTitle": "Coisas Naturais",
       "duration": 197,
       "previousRank": 3,
-      "rankDelta": 0,
-      "releaseDate": "2025-03-31T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "pedro-sampaio--jetski",
@@ -452,26 +448,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 31822,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/1c/6b/fa1c6be0-8f12-52fa-3b36-5465d32ac602/mzaf_13774232611391010550.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Taylor+Swift/_/The+Fate+of+Ophelia"
+        "lastfm": "https://www.last.fm/music/Taylor+Swift/_/The+Fate+of+Ophelia",
+        "itunes": "https://music.apple.com/us/album/the-fate-of-ophelia/1833328839?i=1833328840&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
       "artistMbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "albumTitle": "The Life of a Showgirl",
       "duration": 226,
       "previousRank": 14,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2025-10-03T12:00:00Z"
     },
     {
       "id": "raye--where-is-my-husband",
@@ -572,7 +572,7 @@
       "duration": 195,
       "previousRank": 17,
       "rankDelta": 0,
-      "releaseDate": "2026-02-26T12:00:00Z"
+      "releaseDate": "2026-02-18T12:00:00Z"
     },
     {
       "id": "dj-japa-nk--posso-ate-nao-te-dar-flores",
@@ -583,28 +583,23 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 29340,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d0/42/5b/d0425b93-1d38-7a60-f255-87785e8ff9f8/mzaf_1619389932654901909.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/a4/5c/fea45c50-3f62-51b3-ec91-f07d07e45793/0.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/a4/5c/fea45c50-3f62-51b3-ec91-f07d07e45793/0.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/a4/5c/fea45c50-3f62-51b3-ec91-f07d07e45793/0.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/DJ+Japa+NK/_/Posso+At%C3%A9+N%C3%A3o+Te+Dar+Flores",
-        "itunes": "https://music.apple.com/us/album/posso-ate-n%C3%A3o-te-dar-flores/1858705184?i=1858705187&uo=4"
+        "lastfm": "https://www.last.fm/music/DJ+Japa+NK/_/Posso+At%C3%A9+N%C3%A3o+Te+Dar+Flores"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "albumTitle": "Posso Ate Não Te Dar Flores - Single",
-      "duration": 89,
       "previousRank": 18,
-      "rankDelta": 0,
-      "releaseDate": "2025-12-03T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "pedro-sampaio--sequencia-cunt-feat-clementaum",
@@ -615,30 +610,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 28654,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/b0/e2/04b0e26f-a798-8123-fd38-36f605e470d6/mzaf_14500751156741457839.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/a8/19/3ba819d1-4c7d-b2f0-bab9-642ef39ade64/5021732260871.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/a8/19/3ba819d1-4c7d-b2f0-bab9-642ef39ade64/5021732260871.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/a8/19/3ba819d1-4c7d-b2f0-bab9-642ef39ade64/5021732260871.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/PEDRO+SAMPAIO/_/SEQU%C3%8ANCIA+CUNT+(feat.+Clementaum)",
-        "itunes": "https://music.apple.com/us/album/sequ%C3%AAncia-colocad%C3%A3o-feat-delano/1736000456?i=1736000472&uo=4"
+        "lastfm": "https://www.last.fm/music/PEDRO+SAMPAIO/_/SEQU%C3%8ANCIA+CUNT+(feat.+Clementaum)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "4721b241-7e88-4aed-810c-79481db23420",
       "artistMbid": "796bc8a9-efd1-43e8-bacf-5eba68835928",
-      "albumTitle": "SEQUÊNCIA COLOCADÃO (feat. Delano) - Single",
-      "duration": 103,
+      "duration": 130,
       "previousRank": 19,
-      "rankDelta": 0,
-      "releaseDate": "2024-03-27T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "pedro-sampaio--sequencia-feiticeira",
@@ -713,26 +704,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 27334,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/93/2c/7c932c17-7125-5d2e-a270-5f9a6cc082b3/mzaf_17192319741877735715.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/bc/ef/ccbcefb5-cf3a-1c55-0173-c37602827c7a/25UMGIM81699.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/bc/ef/ccbcefb5-cf3a-1c55-0173-c37602827c7a/25UMGIM81699.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/bc/ef/ccbcefb5-cf3a-1c55-0173-c37602827c7a/25UMGIM81699.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Tears"
+        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Tears",
+        "itunes": "https://music.apple.com/us/album/tears/1819861154?i=1819861157&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "11d44ae8-4fd9-4bec-94fb-06f6a7e40d66",
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+      "albumTitle": "Man’s Best Friend",
       "duration": 160,
       "previousRank": 22,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2025-08-29T12:00:00Z"
     },
     {
       "id": "blackpink--me-and-my",
@@ -765,7 +760,7 @@
       "duration": 172,
       "previousRank": 23,
       "rankDelta": 0,
-      "releaseDate": "2026-02-26T12:00:00Z"
+      "releaseDate": "2026-02-18T12:00:00Z"
     },
     {
       "id": "marina-sena--coisas-naturais",
@@ -776,30 +771,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 25336,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5a/0f/ff/5a0fff45-7216-95e1-8add-2280003563fe/mzaf_579274042491555193.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/44/9d/d9449d4c-46ea-d73d-015c-6437f281bbaa/196872989106.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/44/9d/d9449d4c-46ea-d73d-015c-6437f281bbaa/196872989106.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/44/9d/d9449d4c-46ea-d73d-015c-6437f281bbaa/196872989106.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Marina+Sena/_/Coisas+Naturais",
-        "itunes": "https://music.apple.com/us/album/coisas-naturais/1803241760?i=1803241761&uo=4"
+        "lastfm": "https://www.last.fm/music/Marina+Sena/_/Coisas+Naturais"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0da54635-bb4d-497d-bae2-43595dd71ee7",
       "artistMbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
-      "albumTitle": "Coisas Naturais",
-      "duration": 240,
+      "duration": 239,
       "previousRank": 24,
-      "rankDelta": 0,
-      "releaseDate": "2025-03-31T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "preta-gil--sinais-de-fogo",
@@ -810,30 +801,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 23952,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/35/f2/eb/35f2eb2c-29f2-799a-1e50-bb4edc52883c/mzaf_15193816457304787413.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8b/f1/41/8bf141d9-3f7c-1c9d-5315-f3127db04b01/5050466573421.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8b/f1/41/8bf141d9-3f7c-1c9d-5315-f3127db04b01/5050466573421.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8b/f1/41/8bf141d9-3f7c-1c9d-5315-f3127db04b01/5050466573421.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Preta+Gil/_/Sinais+de+fogo",
-        "itunes": "https://music.apple.com/us/album/sinais-de-fogo/581032239?i=581032497&uo=4"
+        "lastfm": "https://www.last.fm/music/Preta+Gil/_/Sinais+de+fogo"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "9a64f5d2-c228-4deb-ba6f-dbc8d1a6a3f6",
       "artistMbid": "6348666a-b266-49d7-836c-b9d4741ba646",
-      "albumTitle": "Prét-A-Porter",
       "duration": 216,
       "previousRank": 25,
-      "rankDelta": 0,
-      "releaseDate": "2003-08-04T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "blackpink--champion",
@@ -866,7 +853,7 @@
       "duration": 173,
       "previousRank": 26,
       "rankDelta": 0,
-      "releaseDate": "2026-02-27T12:00:00Z"
+      "releaseDate": "2026-02-18T12:00:00Z"
     },
     {
       "id": "bad-bunny--titi-me-pregunto",
@@ -1046,30 +1033,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 23145,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/42/dc/06/42dc069a-1683-2d2b-6442-b3655f2b2a97/mzaf_15363406353889961611.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/4d/0e/974d0ed9-0c7b-59da-da0f-7a22ebfc1479/196872953367.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/4d/0e/974d0ed9-0c7b-59da-da0f-7a22ebfc1479/196872953367.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/4d/0e/974d0ed9-0c7b-59da-da0f-7a22ebfc1479/196872953367.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Jennie/_/like+JENNIE",
-        "itunes": "https://music.apple.com/us/album/like-jennie/1800280826?i=1800281048&uo=4"
+        "lastfm": "https://www.last.fm/music/Jennie/_/like+JENNIE"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "1e35cc2f-e6da-4496-8917-98a8fdd3a383",
       "artistMbid": "d32de3a1-01f0-430e-859a-72307724041c",
-      "albumTitle": "Ruby",
-      "duration": 124,
+      "duration": 123,
       "previousRank": 32,
-      "rankDelta": 0,
-      "releaseDate": "2025-03-05T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "sabrina-carpenter--espresso",
@@ -1080,30 +1063,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 22598,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/da/ff/99daffce-cdde-59c6-5ae0-7f922ce411a8/mzaf_5621292401829922816.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Espresso",
-        "itunes": "https://music.apple.com/us/album/espresso/1752214909?i=1752214923&uo=4"
+        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Espresso"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "05e5ca93-eb60-491b-9669-8bac0307d52d",
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
-      "albumTitle": "Short n' Sweet",
       "duration": 175,
       "previousRank": 33,
-      "rankDelta": 0,
-      "releaseDate": "2024-06-14T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "marina-sena--sai-para-ver-o-mar",
@@ -1204,7 +1183,7 @@
       "duration": 187,
       "previousRank": 36,
       "rankDelta": 0,
-      "releaseDate": "2026-02-20T12:00:00Z"
+      "releaseDate": "2026-02-18T12:00:00Z"
     },
     {
       "id": "lana-del-rey--white-feather-hawk-tail-deer-hunter",
@@ -1350,30 +1329,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 20819,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/36/2a/c7362ab3-84d5-bdbb-940e-d2f51bcab53f/mzaf_12498016938606730127.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/28/b1/0c28b161-3015-d972-0d9c-c52afcb4bd70/5059460340671.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/28/b1/0c28b161-3015-d972-0d9c-c52afcb4bd70/5059460340671.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/28/b1/0c28b161-3015-d972-0d9c-c52afcb4bd70/5059460340671.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/PEDRO+SAMPAIO/_/ESCADA+DO+PR%C3%89DIO",
-        "itunes": "https://music.apple.com/us/album/escada-do-pr%C3%A9dio/1772037455?i=1772037892&uo=4"
+        "lastfm": "https://www.last.fm/music/PEDRO+SAMPAIO/_/ESCADA+DO+PR%C3%89DIO"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "a8ca5e83-ecd6-43d6-ad61-adf78b22879a",
       "artistMbid": "796bc8a9-efd1-43e8-bacf-5eba68835928",
-      "albumTitle": "Halloween Brasil 2024",
       "duration": 137,
       "previousRank": 41,
-      "rankDelta": 0,
-      "releaseDate": "2024-10-05T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "sabrina-carpenter--juno",
@@ -1384,30 +1359,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 20716,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/02/7e/cf027ecc-749e-f2a1-e77c-255bb4e8830a/mzaf_13760319481709366894.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Juno",
-        "itunes": "https://music.apple.com/us/album/juno/1752214909?i=1752215160&uo=4"
+        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Juno"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "10a8578d-6b96-496f-bdb0-433e97006e10",
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
-      "albumTitle": "Short n' Sweet",
       "duration": 223,
       "previousRank": 42,
-      "rankDelta": 0,
-      "releaseDate": "2024-08-23T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "sabrina-carpenter--taste",
@@ -1418,30 +1389,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 20422,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/57/a6/2657a620-c596-e0e4-efa2-e814f3572d1c/mzaf_5475540510703120797.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Taste",
-        "itunes": "https://music.apple.com/us/album/taste/1750307020?i=1750307079&uo=4"
+        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/Taste"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "058613a0-ed6e-4176-a232-27565c0b0bad",
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
-      "albumTitle": "Short n' Sweet",
-      "duration": 157,
+      "duration": 156,
       "previousRank": 43,
-      "rankDelta": 0,
-      "releaseDate": "2024-08-23T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "zara-larsson--lush-life",
@@ -1682,7 +1649,7 @@
       "releaseDate": "2024-12-27T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T23:17:13.299Z",
+  "lastUpdated": "2026-03-03T06:54:48.243Z",
   "totalTracks": 50,
   "coverColor": "#22c55e",
   "country": "br",

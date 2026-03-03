@@ -592,26 +592,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 3219,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3f/cb/c7/3fcbc7cc-0606-7f6e-7fc3-793318cfd1ed/mzaf_16081918663584534594.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Linkin+Park/_/In+the+End"
+        "lastfm": "https://www.last.fm/music/Linkin+Park/_/In+the+End",
+        "itunes": "https://music.apple.com/us/album/in-the-end/590431776?i=590431785&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "000125d9-cf0d-3354-926b-704befae9577",
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
-      "duration": 221,
+      "albumTitle": "Hybrid Theory (Deluxe Edition)",
+      "duration": 216,
       "previousRank": 18,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2000-10-24T07:00:00Z"
     },
     {
       "id": "sombr--12-to-12",
@@ -622,26 +626,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 3173,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/5d/c4/d05dc49d-f3b6-7d3a-4e5f-56e12bcde750/mzaf_14325217487291115220.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e4/44/19e44489-7f7b-3ca7-660f-98d44664bc3f/054391229144.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e4/44/19e44489-7f7b-3ca7-660f-98d44664bc3f/054391229144.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/e4/44/19e44489-7f7b-3ca7-660f-98d44664bc3f/054391229144.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/sombr/_/12+to+12"
+        "lastfm": "https://www.last.fm/music/sombr/_/12+to+12",
+        "itunes": "https://music.apple.com/us/album/12-to-12/1828036634?i=1828036635&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "a43d3ce0-c1c4-4481-8ad9-ac012af67037",
       "artistMbid": "502cf908-9921-48bc-bf0e-265c881c0156",
-      "duration": 242,
+      "albumTitle": "12 to 12 - Single",
+      "duration": 243,
       "previousRank": 19,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2025-07-24T12:00:00Z"
     },
     {
       "id": "tame-impala--the-less-i-know-the-better",
@@ -686,26 +694,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 3137,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/81/42/72814285-6c1a-d0a4-89e2-8aeeda6cfc37/mzaf_17180911196812101386.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/44/05/134405bd-9e27-a678-8953-b5f724201f95/093624948988.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Linkin+Park/_/Faint"
+        "lastfm": "https://www.last.fm/music/Linkin+Park/_/Faint",
+        "itunes": "https://music.apple.com/us/album/faint/590423275?i=590423286&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "051f95e0-b0ca-4ec1-bb6c-4b89c81afc36",
       "artistMbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
-      "duration": 459,
+      "albumTitle": "Meteora (Deluxe Edition)",
+      "duration": 162,
       "previousRank": 21,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2003-03-25T08:00:00Z"
     },
     {
       "id": "radiohead--creep",
@@ -954,29 +966,24 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 2974,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bc/da/a4/bcdaa416-ef9e-fbcc-a96b-0a1b492d35b0/mzaf_8826149582565333170.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/cb/db/06/mzi.nlvxgflx.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/cb/db/06/mzi.nlvxgflx.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/cb/db/06/mzi.nlvxgflx.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sean+Paul/_/(When+You+Gonna)+Give+It+Up+To+Me+-+Radio+Version",
-        "itunes": "https://music.apple.com/us/album/when-you-gonna-give-it-up-to-me-radio-version/202964095?i=202964098&uo=4"
+        "lastfm": "https://www.last.fm/music/Sean+Paul/_/(When+You+Gonna)+Give+It+Up+To+Me+-+Radio+Version"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "artistMbid": "c3da3346-2643-48a7-93cd-011f6834b3d7",
-      "albumTitle": "Only Hits",
-      "duration": 244,
       "previousRank": 29,
-      "rankDelta": 0,
-      "releaseDate": "2005-09-27T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "tame-impala--dracula",
@@ -1116,30 +1123,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 2849,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/08/9e/1b089e17-1084-d825-d576-66d46ae1e243/mzaf_11823295334220528749.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Neighbourhood/_/Softcore",
-        "itunes": "https://music.apple.com/us/album/softcore/1440532502?i=1440532753&uo=4"
+        "lastfm": "https://www.last.fm/music/The+Neighbourhood/_/Softcore"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0e016d69-1afe-435a-b159-f528eea505c6",
       "artistMbid": "53b06622-ec51-4924-a554-58b0affde6b5",
-      "albumTitle": "Hard To Imagine The Neighbourhood Ever Changing",
-      "duration": 206,
+      "duration": 207,
       "previousRank": 34,
-      "rankDelta": 0,
-      "releaseDate": "2018-03-09T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "rihanna--dont-stop-the-music",
@@ -1150,30 +1153,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 2815,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/5b/0d/f65b0d9e-ad88-c617-94a8-de4cf6579dff/mzaf_4611312496171288825.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music",
-        "itunes": "https://music.apple.com/us/album/dont-stop-the-music/1441154435?i=1441154439&uo=4"
+        "lastfm": "https://www.last.fm/music/Rihanna/_/Don%27t+Stop+the+Music"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "014b764e-ac05-4611-a191-f737dbcd77a8",
       "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
-      "albumTitle": "Good Girl Gone Bad: Reloaded",
-      "duration": 267,
+      "duration": 193,
       "previousRank": 35,
-      "rankDelta": 0,
-      "releaseDate": "2007-05-31T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "ravyn-lenae--love-me-not",
@@ -1282,30 +1281,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 2738,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a7/9a/a6/a79aa63c-03fe-8d03-0156-d64703340736/mzaf_6358114128986734028.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/8f/5f/648f5f68-3ffa-e33d-39d0-50210803074f/196871388221.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/8f/5f/648f5f68-3ffa-e33d-39d0-50210803074f/196871388221.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/8f/5f/648f5f68-3ffa-e33d-39d0-50210803074f/196871388221.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/A$AP+Rocky/_/I+Smoked+Away+My+Brain+(I%27m+God+x+Demons+Mashup)+(feat.+Imogen+Heap+&+Clams+Casino)",
-        "itunes": "https://music.apple.com/us/album/i-smoked-away-my-brain-im-god-x-demons-mashup-feat/1702941199?i=1702941200&uo=4"
+        "lastfm": "https://www.last.fm/music/A$AP+Rocky/_/I+Smoked+Away+My+Brain+(I%27m+God+x+Demons+Mashup)+(feat.+Imogen+Heap+&+Clams+Casino)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "b9545700-492a-483d-b522-180b141bb9ec",
       "artistMbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
-      "albumTitle": "I Smoked Away My Brain (I'm God x Demons Mashup) [feat. Imogen Heap & Clams Casino] - Single",
-      "duration": 190,
+      "duration": 191,
       "previousRank": 39,
-      "rankDelta": 0,
-      "releaseDate": "2023-08-17T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "blackpink--jump",
@@ -1613,30 +1608,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 2598,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/2f/ed/58/2fed5854-1c88-31ec-0e98-66b9706dd42d/mzaf_11845437215964282853.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a1/67/9c/a1679c06-1050-239c-bd3a-c374f7c6459e/886449952601.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a1/67/9c/a1679c06-1050-239c-bd3a-c374f7c6459e/886449952601.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a1/67/9c/a1679c06-1050-239c-bd3a-c374f7c6459e/886449952601.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Depeche+Mode/_/Enjoy+the+Silence",
-        "itunes": "https://music.apple.com/us/album/enjoy-the-silence/1612543823?i=1612544004&uo=4"
+        "lastfm": "https://www.last.fm/music/Depeche+Mode/_/Enjoy+the+Silence"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00141b04-c8e6-31d9-909b-954aafb95214",
       "artistMbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
-      "albumTitle": "Violator  The 12\" Singles",
-      "duration": 258,
+      "duration": 464,
       "previousRank": 49,
-      "rankDelta": 0,
-      "releaseDate": "1990-01-01T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "sombr--homewrecker",
@@ -1673,7 +1664,7 @@
       "releaseDate": "2026-02-05T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T23:12:25.626Z",
+  "lastUpdated": "2026-03-03T06:45:55.925Z",
   "totalTracks": 50,
   "coverColor": "#ef4444",
   "country": "de",

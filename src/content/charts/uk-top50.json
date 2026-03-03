@@ -556,30 +556,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 11562,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/f9/0e/a3f90eec-8123-842b-ae56-8993c6e9870f/mzaf_1600572074521858394.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/42/4c/5a424c34-d30e-dcd6-884a-e8270e1e3e49/075679652751.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/42/4c/5a424c34-d30e-dcd6-884a-e8270e1e3e49/075679652751.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/42/4c/5a424c34-d30e-dcd6-884a-e8270e1e3e49/075679652751.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Charli+xcx/_/Von+dutch",
-        "itunes": "https://music.apple.com/us/album/von-dutch-a-g-cook-remix-featuring-addison-rae/1736230132?i=1736230135&uo=4"
+        "lastfm": "https://www.last.fm/music/Charli+xcx/_/Von+dutch"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "2a3c5011-c25d-4945-848e-27724dde8201",
       "artistMbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
-      "albumTitle": "Von dutch a. g. cook remix featuring addison rae - Single",
-      "duration": 157,
+      "duration": 177,
       "previousRank": 17,
-      "rankDelta": 0,
-      "releaseDate": "2024-03-22T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "tame-impala--the-less-i-know-the-better",
@@ -926,30 +922,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 10167,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/f6/21/08f621aa-9eb3-fa68-b053-ae31c00333ea/mzaf_4273334424215730909.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/78/09/d578093e-97aa-3477-d181-5ce3f83503fd/5059460350540.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/78/09/d578093e-97aa-3477-d181-5ce3f83503fd/5059460350540.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/78/09/d578093e-97aa-3477-d181-5ce3f83503fd/5059460350540.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Fleetwood+Mac/_/The+Chain+-+2004+Remaster",
-        "itunes": "https://music.apple.com/us/album/the-chain-2004-remaster/1779505308?i=1779506499&uo=4"
+        "lastfm": "https://www.last.fm/music/Fleetwood+Mac/_/The+Chain+-+2004+Remaster"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "cd06c484-9319-4376-a104-504871e19756",
       "artistMbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
-      "albumTitle": "Boomer Bangers",
-      "duration": 268,
+      "duration": 269,
       "previousRank": 28,
-      "rankDelta": 0,
-      "releaseDate": "1974-02-04T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "the-cure--boys-dont-cry",
@@ -1062,26 +1054,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 9658,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/ad/ac/6aadacf7-367d-d2c8-d4f4-9c029e9c9e7a/mzaf_14476986014125684401.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/cb/92/35cb9209-d225-0246-d2fa-f9e4fb6d9270/8031466000107.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/cb/92/35cb9209-d225-0246-d2fa-f9e4fb6d9270/8031466000107.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/cb/92/35cb9209-d225-0246-d2fa-f9e4fb6d9270/8031466000107.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Milky/_/Just+The+Way+You+Are"
+        "lastfm": "https://www.last.fm/music/Milky/_/Just+The+Way+You+Are",
+        "itunes": "https://music.apple.com/us/album/just-the-way-you-are/1874672058?i=1874672062&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "00daf0ea-ed2e-4b90-8b68-8ee04de43113",
       "artistMbid": "f858fe79-9e1b-48af-ba97-4c07e94e37cd",
-      "duration": 212,
+      "albumTitle": "Just The Way You Are",
+      "duration": 210,
       "previousRank": 32,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2002-01-01T12:00:00Z"
     },
     {
       "id": "pinkpantheress--illegal",
@@ -1228,26 +1224,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 9455,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/c4/dd/48c4dd2b-8335-be3c-81f3-f13b84e0cf0a/mzaf_4574789671002849650.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/98/7d/2a987dd6-2961-b988-d7f1-e7a59f990dce/054391234278.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/sombr/_/undressed"
+        "lastfm": "https://www.last.fm/music/sombr/_/undressed",
+        "itunes": "https://music.apple.com/us/album/undressed/1802084937?i=1802084938&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "4f720de8-5e2b-44df-814c-3fcefb9cb493",
       "artistMbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+      "albumTitle": "undressed - Single",
       "duration": 182,
       "previousRank": 37,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2025-03-21T12:00:00Z"
     },
     {
       "id": "esdeekid--4-raws",
@@ -1292,30 +1292,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 9403,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/15/0c/b6150c36-0765-c563-a250-ba767c00c809/mzaf_4225228786396793280.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/bc/ef/ccbcefb5-cf3a-1c55-0173-c37602827c7a/25UMGIM81699.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/bc/ef/ccbcefb5-cf3a-1c55-0173-c37602827c7a/25UMGIM81699.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/bc/ef/ccbcefb5-cf3a-1c55-0173-c37602827c7a/25UMGIM81699.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour",
-        "itunes": "https://music.apple.com/us/album/house-tour/1819861154?i=1819861170&uo=4"
+        "lastfm": "https://www.last.fm/music/Sabrina+Carpenter/_/House+Tour"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "6095702d-b48f-46a9-80a3-4f5723fe3b28",
       "artistMbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
-      "albumTitle": "Man’s Best Friend",
       "duration": 169,
       "previousRank": 39,
-      "rankDelta": 0,
-      "releaseDate": "2025-08-29T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "pinkpantheress--pain",
@@ -1394,30 +1390,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 9250,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/77/17/d07717cb-9977-1cbb-6634-3e598d0c4da6/mzaf_15769952961470333318.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/f5/86/68f586ca-a375-9965-a864-9e227e77ef5b/884977570328.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/f5/86/68f586ca-a375-9965-a864-9e227e77ef5b/884977570328.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/f5/86/68f586ca-a375-9965-a864-9e227e77ef5b/884977570328.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Foo+Fighters/_/Everlong",
-        "itunes": "https://music.apple.com/us/album/everlong/362133451?i=362133505&uo=4"
+        "lastfm": "https://www.last.fm/music/Foo+Fighters/_/Everlong"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "00779e5b-e581-3fcb-b0af-d6150e446b23",
       "artistMbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
-      "albumTitle": "The Colour And The Shape",
-      "duration": 251,
+      "duration": 334,
       "previousRank": 42,
-      "rankDelta": 0,
-      "releaseDate": "1997-05-20T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "sabrina-carpenter--tears",
@@ -1496,16 +1488,16 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 9072,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/b1/84/36b1840d-bac0-65c5-bf9b-e00d8b69d41c/mzaf_10392447432660937233.plus.aac.p.m4a",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4f/77/7d/4f777da4-0f66-30c3-0605-4a747183b335/mzaf_9468486758792255402.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/7e/1b/4c7e1be2-0274-1aab-cb99-63e06a89586a/06UMGIM14172.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/7e/1b/4c7e1be2-0274-1aab-cb99-63e06a89586a/06UMGIM14172.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/7e/1b/4c7e1be2-0274-1aab-cb99-63e06a89586a/06UMGIM14172.rgb.jpg/600x600bb.jpg",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/40/a8/a5/40a8a563-b379-898a-0b27-5ce7a32ae5da/mzm.emyqomfv.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/40/a8/a5/40a8a563-b379-898a-0b27-5ce7a32ae5da/mzm.emyqomfv.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/40/a8/a5/40a8a563-b379-898a-0b27-5ce7a32ae5da/mzm.emyqomfv.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
         "lastfm": "https://www.last.fm/music/Fontaines+D.C./_/I+Love+You",
-        "itunes": "https://music.apple.com/us/album/i-love-you/1443477124?i=1443477261&uo=4"
+        "itunes": "https://music.apple.com/us/album/i-love-you/1016217381?i=1016217555&uo=4"
       },
       "tags": [],
       "genres": [],
@@ -1515,11 +1507,11 @@
       ],
       "mbid": "be9db312-2af0-4770-a56a-81fd382e802a",
       "artistMbid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
-      "albumTitle": "Dru World Order",
-      "duration": 314,
+      "albumTitle": "Get Weird (Deluxe Edition)",
+      "duration": 249,
       "previousRank": 45,
       "rankDelta": 0,
-      "releaseDate": "2002-01-01T12:00:00Z"
+      "releaseDate": "2015-11-06T08:00:00Z"
     },
     {
       "id": "radiohead--all-i-need",
@@ -1687,7 +1679,7 @@
       "rankDelta": 0
     }
   ],
-  "lastUpdated": "2026-03-02T23:14:20.328Z",
+  "lastUpdated": "2026-03-03T06:49:03.174Z",
   "totalTracks": 50,
   "coverColor": "#3b82f6",
   "country": "gb",

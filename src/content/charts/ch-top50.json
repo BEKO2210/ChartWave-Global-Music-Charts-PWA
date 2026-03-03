@@ -826,7 +826,7 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 302,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/56/cd/e456cd7c-d289-553a-9c39-98ca08ca0b4b/mzaf_14810478461288819548.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
         "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/100x100bb.jpg",
         "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/300x300bb.jpg",
@@ -928,30 +928,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 298,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/36/19/80361983-137c-5ec1-04b8-c47a38f94bd7/mzaf_15967606551339762207.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Gorillaz/_/The+Moon+Cave+(feat.+Asha+Puthli,+Bobby+Womack,+Dave+Jolicoeur,+Jalen+Ngonda+and+Black+Thought)",
-        "itunes": "https://music.apple.com/us/album/the-moon-cave-feat-asha-puthli-bobby-womack-david/1837237742?i=1837237761&uo=4"
+        "lastfm": "https://www.last.fm/music/Gorillaz/_/The+Moon+Cave+(feat.+Asha+Puthli,+Bobby+Womack,+Dave+Jolicoeur,+Jalen+Ngonda+and+Black+Thought)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "06aced25-39a5-4c20-ae90-c28c9c835732",
       "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
-      "albumTitle": "The Mountain",
-      "duration": 298,
       "previousRank": 28,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-27T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "olivia-dean--so-easy-to-fall-in-love",
@@ -1665,33 +1660,29 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 263,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a7/9a/a6/a79aa63c-03fe-8d03-0156-d64703340736/mzaf_6358114128986734028.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/8f/5f/648f5f68-3ffa-e33d-39d0-50210803074f/196871388221.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/8f/5f/648f5f68-3ffa-e33d-39d0-50210803074f/196871388221.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/8f/5f/648f5f68-3ffa-e33d-39d0-50210803074f/196871388221.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/A$AP+Rocky/_/I+Smoked+Away+My+Brain+(I%27m+God+x+Demons+Mashup)+(feat.+Imogen+Heap+&+Clams+Casino)",
-        "itunes": "https://music.apple.com/us/album/i-smoked-away-my-brain-im-god-x-demons-mashup-feat/1702941199?i=1702941200&uo=4"
+        "lastfm": "https://www.last.fm/music/A$AP+Rocky/_/I+Smoked+Away+My+Brain+(I%27m+God+x+Demons+Mashup)+(feat.+Imogen+Heap+&+Clams+Casino)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "b9545700-492a-483d-b522-180b141bb9ec",
       "artistMbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
-      "albumTitle": "I Smoked Away My Brain (I'm God x Demons Mashup) [feat. Imogen Heap & Clams Casino] - Single",
-      "duration": 190,
+      "duration": 191,
       "previousRank": 50,
-      "rankDelta": 0,
-      "releaseDate": "2023-08-17T12:00:00Z"
+      "rankDelta": 0
     }
   ],
-  "lastUpdated": "2026-03-02T23:13:10.964Z",
+  "lastUpdated": "2026-03-03T06:47:25.411Z",
   "totalTracks": 50,
   "coverColor": "#ef4444",
   "country": "ch",

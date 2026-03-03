@@ -104,7 +104,7 @@
       "duration": 195,
       "previousRank": 3,
       "rankDelta": 0,
-      "releaseDate": "2026-02-26T12:00:00Z"
+      "releaseDate": "2026-02-18T12:00:00Z"
     },
     {
       "id": "ive--bang-bang",
@@ -284,30 +284,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 211,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/be/41/31be4175-cc94-399c-5094-744c85e2c217/mzaf_5693297935994016807.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/54/fd/9d54fd06-fc19-c30c-c9ec-3fcc20eab4a3/199806315972.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/54/fd/9d54fd06-fc19-c30c-c9ec-3fcc20eab4a3/199806315972.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/54/fd/9d54fd06-fc19-c30c-c9ec-3fcc20eab4a3/199806315972.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/IVE/_/BLACKHOLE",
-        "itunes": "https://music.apple.com/us/album/blackhole/1873882195?i=1873882200&uo=4"
+        "lastfm": "https://www.last.fm/music/IVE/_/BLACKHOLE"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "ab1cbff2-60d7-40b5-ab53-bf93cc6e7726",
       "artistMbid": "a760a4d1-1258-4833-9ed5-fa083902d907",
-      "albumTitle": "REVIVE+",
       "duration": 194,
       "previousRank": 9,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-23T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "blackpink--me-and-my",
@@ -340,7 +336,7 @@
       "duration": 172,
       "previousRank": 10,
       "rankDelta": 0,
-      "releaseDate": "2026-02-26T12:00:00Z"
+      "releaseDate": "2026-02-18T12:00:00Z"
     },
     {
       "id": "xg--hypnotize",
@@ -439,7 +435,7 @@
       "duration": 187,
       "previousRank": 13,
       "rankDelta": 0,
-      "releaseDate": "2026-02-20T12:00:00Z"
+      "releaseDate": "2026-02-18T12:00:00Z"
     },
     {
       "id": "blackpink--champion",
@@ -450,29 +446,24 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 200,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/b5/cf/0bb5cf8b-e2f0-c807-17b0-374b710a4104/mzaf_16687956431689216528.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/b6/b6/0eb6b6f5-3baf-62b8-c905-8617a1275a21/8809519881108.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/b6/b6/0eb6b6f5-3baf-62b8-c905-8617a1275a21/8809519881108.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/b6/b6/0eb6b6f5-3baf-62b8-c905-8617a1275a21/8809519881108.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BLACKPINK/_/Champion",
-        "itunes": "https://music.apple.com/us/album/champion/1870046940?i=1870046948&uo=4"
+        "lastfm": "https://www.last.fm/music/BLACKPINK/_/Champion"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
-      "albumTitle": "DEADLINE - EP",
-      "duration": 173,
       "previousRank": 14,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-27T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "hearts2hearts--style",
@@ -517,26 +508,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 197,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/29/70/4c2970ab-d1c0-344b-53c7-b1624a14ac36/mzaf_9879015910950364057.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might"
+        "lastfm": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
+        "itunes": "https://music.apple.com/us/album/i-just-might/1866732792?i=1866732800&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "781018b7-f4f0-4fae-9b41-f45ecbe34024",
       "artistMbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+      "albumTitle": "The Romantic",
       "duration": 213,
       "previousRank": 16,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2026-01-09T08:00:00Z"
     },
     {
       "id": "bruno-mars--risk-it-all",
@@ -683,30 +678,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 178,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e0/1d/98/e01d9881-0953-f0ed-b03d-3a4bd6f3c769/mzaf_8283505998481315852.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/luther+(with+SZA)",
-        "itunes": "https://music.apple.com/us/album/luther/1781270319?i=1781270323&uo=4"
+        "lastfm": "https://www.last.fm/music/Kendrick+Lamar/_/luther+(with+SZA)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "c8991a8c-1958-4e21-9615-568161d32286",
       "artistMbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
-      "albumTitle": "GNX",
-      "duration": 178,
       "previousRank": 21,
-      "rankDelta": 0,
-      "releaseDate": "2024-11-21T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "kc--kolok-colok",
@@ -784,30 +774,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 169,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/7e/67/e87e6795-4ada-2f65-d562-1fd2a3eddfdf/mzaf_11263458879279601822.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/ILLIT/_/Magnetic",
-        "itunes": "https://music.apple.com/us/album/magnetic/1734500886?i=1734500896&uo=4"
+        "lastfm": "https://www.last.fm/music/ILLIT/_/Magnetic"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "e614e432-ca77-41c1-82c1-4e3a24ebbb0c",
       "artistMbid": "6b128dd7-e998-4edb-a4f5-400fef190445",
-      "albumTitle": "SUPER REAL ME - EP",
-      "duration": 161,
+      "duration": 160,
       "previousRank": 24,
-      "rankDelta": 0,
-      "releaseDate": "2024-03-25T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "kiiikiii--delulu",
@@ -818,30 +804,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 167,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/4a/31/ef4a315d-6a5c-9c19-5351-b0274eadb07d/mzaf_4199897924569923006.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/b4/81/1cb481b3-9b5b-83bf-e047-41e3089b0653/199806885123.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/b4/81/1cb481b3-9b5b-83bf-e047-41e3089b0653/199806885123.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/b4/81/1cb481b3-9b5b-83bf-e047-41e3089b0653/199806885123.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/KiiiKiii/_/Delulu",
-        "itunes": "https://music.apple.com/us/album/delulu/1866860579?i=1866860606&uo=4"
+        "lastfm": "https://www.last.fm/music/KiiiKiii/_/Delulu"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "dc0e5ed6-c731-42c1-ae98-2750a594bcd0",
       "artistMbid": "bdbc7927-6ff5-4a64-a2dd-9756323008e1",
-      "albumTitle": "Delulu Pack - EP",
       "duration": 144,
       "previousRank": 25,
-      "rankDelta": 0,
-      "releaseDate": "2026-01-26T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "billie-eilish--birds-of-a-feather",
@@ -920,16 +902,16 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 161,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/ee/e7/52eee71e-d0f6-d9ef-8ca8-bba4d404ca72/mzaf_14830085791741863071.plus.aac.p.m4a",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/3b/d3/343bd360-443e-f05f-ce4e-7d668c836c39/mzaf_15416431273000690443.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/67/f6/a967f6af-1f86-6caa-86d9-8eb2f68932b5/198704573514_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/67/f6/a967f6af-1f86-6caa-86d9-8eb2f68932b5/198704573514_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/67/f6/a967f6af-1f86-6caa-86d9-8eb2f68932b5/198704573514_Cover.jpg/600x600bb.jpg",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/bc/4d/e4bc4da3-0013-9949-8e54-0eede523f9d4/198704525001_Cover.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/bc/4d/e4bc4da3-0013-9949-8e54-0eede523f9d4/198704525001_Cover.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/bc/4d/e4bc4da3-0013-9949-8e54-0eede523f9d4/198704525001_Cover.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
         "lastfm": "https://www.last.fm/music/ILLIT/_/Billyeoon+Goyangi+(Do+the+Dance)",
-        "itunes": "https://music.apple.com/us/album/billyeoon-goyangi-do-the-dance/1822488752?i=1822488848&uo=4"
+        "itunes": "https://music.apple.com/us/album/billyeoon-goyangi-do-the-dance/1817427556?i=1817427565&uo=4"
       },
       "tags": [],
       "genres": [],
@@ -938,7 +920,7 @@
         "itunes"
       ],
       "artistMbid": "6b128dd7-e998-4edb-a4f5-400fef190445",
-      "albumTitle": "Billyeoon Goyangi (Do the Dance) [Remixes]",
+      "albumTitle": "bomb - EP",
       "duration": 189,
       "previousRank": 28,
       "rankDelta": 0,
@@ -1020,30 +1002,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 148,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/0f/d8/6f/0fd86fd4-67e1-819e-011e-6dfbb35c543f/mzaf_1219313157550046379.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/91/0d/07910df6-5ab5-0867-3be5-900cf9d11018/cover_KM0016894_1.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/91/0d/07910df6-5ab5-0867-3be5-900cf9d11018/cover_KM0016894_1.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/91/0d/07910df6-5ab5-0867-3be5-900cf9d11018/cover_KM0016894_1.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/WOODZ/_/Drowning",
-        "itunes": "https://music.apple.com/us/album/drowning/1683448653?i=1683448656&uo=4"
+        "lastfm": "https://www.last.fm/music/WOODZ/_/Drowning"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "146c8234-c342-4ab6-b329-71a4be3a2c24",
       "artistMbid": "25c73c37-9517-4144-8ef6-32541e82ff42",
-      "albumTitle": "OO-LI",
-      "duration": 245,
+      "duration": 244,
       "previousRank": 31,
-      "rankDelta": 0,
-      "releaseDate": "2023-04-26T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "bad-bunny--nuevayol",
@@ -1054,26 +1032,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 146,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL"
+        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL",
+        "itunes": "https://music.apple.com/us/album/nuevayol/1787022393?i=1787022572&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0780271f-9882-4e41-ba9a-546c69bcb914",
       "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "albumTitle": "DeBÍ TiRAR MáS FOToS",
       "duration": 184,
       "previousRank": 32,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2025-01-05T12:00:00Z"
     },
     {
       "id": "newjeans--supernatural",
@@ -1152,26 +1134,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 144,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8d/e0/bb/8de0bb10-0593-83cc-4d2c-4e9f6ea9b575/mzaf_16440589638018943894.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/7a/7c/287a7ca9-ed95-1a21-e3bb-4559a1a0ac0e/191404134351.png/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/7a/7c/287a7ca9-ed95-1a21-e3bb-4559a1a0ac0e/191404134351.png/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/7a/7c/287a7ca9-ed95-1a21-e3bb-4559a1a0ac0e/191404134351.png/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Radiohead/_/Creep"
+        "lastfm": "https://www.last.fm/music/Radiohead/_/Creep",
+        "itunes": "https://music.apple.com/us/album/creep-acoustic/1679849414?i=1679849823&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "012e70cd-4ef6-37bf-8ebf-02d318fe5151",
       "artistMbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
-      "duration": 235,
+      "albumTitle": "Creep - EP",
+      "duration": 259,
       "previousRank": 35,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "1992-09-21T12:00:00Z"
     },
     {
       "id": "raye--where-is-my-husband",
@@ -1250,30 +1236,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 140,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/a8/a2/45a8a2e0-9516-86b2-66ea-e8b2bf71de68/mzaf_10773372944954067241.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Frank+Ocean/_/Pink+%252B+White",
-        "itunes": "https://music.apple.com/us/album/pink-white/1146195596?i=1146195714&uo=4"
+        "lastfm": "https://www.last.fm/music/Frank+Ocean/_/Pink+%252B+White"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0e360068-12c7-4012-853c-6a6011e0b36a",
       "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
-      "albumTitle": "Blonde",
-      "duration": 185,
+      "duration": 290,
       "previousRank": 38,
-      "rankDelta": 0,
-      "releaseDate": "2016-08-20T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "system-seoul--",
@@ -1284,28 +1266,23 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 140,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/92/80/93928008-2f0a-d948-d3c2-e6314d9f28d5/mzaf_15345402503969130082.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/7f/ea/9a7fea15-a658-a279-2ee4-acbd0782e50d/artwork.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/7f/ea/9a7fea15-a658-a279-2ee4-acbd0782e50d/artwork.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/7f/ea/9a7fea15-a658-a279-2ee4-acbd0782e50d/artwork.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/SYSTEM+SEOUL/_/%EB%84%88",
-        "itunes": "https://music.apple.com/us/album/ss-hoodie-skyblue-148bpm-feat-sn7/1840970051?i=1840970052&uo=4"
+        "lastfm": "https://www.last.fm/music/SYSTEM+SEOUL/_/%EB%84%88"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "albumTitle": "ss_hoodie_skyblue_148bpm (feat. sn7) - Single",
-      "duration": 85,
       "previousRank": 39,
-      "rankDelta": 0,
-      "releaseDate": "2025-09-19T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "tame-impala--dracula-jennie-remix",
@@ -1412,29 +1389,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 137,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/1f/e9/da1fe9e9-f784-b4f2-c181-c8f770aa2ede/mzaf_13144624855104730433.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/94/a2/7494a26e-4756-c082-5709-8526127baee8/cover_KM0023994_1.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/94/a2/7494a26e-4756-c082-5709-8526127baee8/cover_KM0023994_1.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/94/a2/7494a26e-4756-c082-5709-8526127baee8/cover_KM0023994_1.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/LNGSHOT/_/Moonwalkin%27",
-        "itunes": "https://music.apple.com/us/album/moonwalkin/1866762522?i=1866762525&uo=4"
+        "lastfm": "https://www.last.fm/music/LNGSHOT/_/Moonwalkin%27"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "04237dc3-fa65-483b-a803-f80ace8e6ac1",
-      "albumTitle": "SHOT CALLERS - EP",
       "duration": 208,
       "previousRank": 43,
-      "rankDelta": 0,
-      "releaseDate": "2026-01-13T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "olivia-dean--man-i-need",
@@ -1445,26 +1418,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 137,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/81/2c/6d/812c6df3-5481-5e61-b5d1-306d485b0d9d/mzaf_6058256111555931162.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Olivia+Dean/_/Man+I+Need"
+        "lastfm": "https://www.last.fm/music/Olivia+Dean/_/Man+I+Need",
+        "itunes": "https://music.apple.com/us/album/man-i-need/1817609404?i=1817609509&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "3161a467-1441-4ef8-8ca0-424db271cd79",
       "artistMbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+      "albumTitle": "The Art of Loving",
       "duration": 184,
       "previousRank": 44,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2025-09-26T12:00:00Z"
     },
     {
       "id": "newjeans--eta",
@@ -1475,30 +1452,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 136,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/eb/dc/fbebdc04-d035-0b34-6df7-7c7e73e1c5ce/mzaf_1666920854414573023.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/NewJeans/_/ETA",
-        "itunes": "https://music.apple.com/us/album/eta/1695951888?i=1695951900&uo=4"
+        "lastfm": "https://www.last.fm/music/NewJeans/_/ETA"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "bec9099f-460f-4b35-b841-9619b4546487",
       "artistMbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
-      "albumTitle": "NewJeans 2nd EP 'Get Up'",
       "duration": 151,
       "previousRank": 45,
-      "rankDelta": 0,
-      "releaseDate": "2023-07-21T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "newjeans--super-shy",
@@ -1668,7 +1641,7 @@
       "releaseDate": "2025-06-19T12:00:00Z"
     }
   ],
-  "lastUpdated": "2026-03-02T23:16:46.580Z",
+  "lastUpdated": "2026-03-03T06:53:39.094Z",
   "totalTracks": 50,
   "coverColor": "#ec4899",
   "country": "kr",

@@ -14,26 +14,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/37/98/e33798c6-ab13-4203-8092-87a2e638d60b/mzaf_6127986664630820149.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Weeknd/_/The+Morning"
+        "lastfm": "https://www.last.fm/music/The+Weeknd/_/The+Morning",
+        "itunes": "https://music.apple.com/us/album/the-morning/1550877895?i=1550878111&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0a2af4c8-c688-4931-ba8e-5a7b0cea7c96",
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-      "duration": 315,
+      "albumTitle": "The Highlights",
+      "duration": 316,
       "previousRank": 1,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2011-03-21T07:00:00Z"
     },
     {
       "id": "tinashe--2-on-feat-schoolboy-q",
@@ -77,26 +81,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2f/a8/be/2fa8be8c-4dd8-5b72-a100-855acf921275/mzaf_9274276073018723273.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Weeknd/_/Wicked+Games"
+        "lastfm": "https://www.last.fm/music/The+Weeknd/_/Wicked+Games",
+        "itunes": "https://music.apple.com/us/album/wicked-games/1550877895?i=1550878110&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0fb22556-675e-3f0b-9a3b-e045b10defa1",
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-      "duration": 326,
+      "albumTitle": "The Highlights",
+      "duration": 324,
       "previousRank": 3,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2011-03-21T07:00:00Z"
     },
     {
       "id": "beyonce--drunk-in-love-feat-jay-z",
@@ -116,7 +124,7 @@
       },
       "links": {
         "lastfm": "https://www.last.fm/music/Beyonc%C3%A9/_/Drunk+in+Love+(feat.+JAY+Z)",
-        "itunes": "https://music.apple.com/us/album/drunk-in-love-feat-jay-z/780519939?i=780519961&uo=4"
+        "itunes": "https://music.apple.com/us/album/drunk-in-love-feat-ja%C3%BF-z/780519939?i=780519961&uo=4"
       },
       "tags": [],
       "genres": [],
@@ -140,30 +148,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/64/7a/4b/647a4b8e-ebaa-17af-7da0-85d378d77ff3/mzaf_9137541395783905292.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/83/cb/b7/83cbb7a9-21be-0cfb-d666-953d5cff8b37/0859381127710.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/83/cb/b7/83cbb7a9-21be-0cfb-d666-953d5cff8b37/0859381127710.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/83/cb/b7/83cbb7a9-21be-0cfb-d666-953d5cff8b37/0859381127710.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Weeknd/_/The+Party+&+the+After+Party",
-        "itunes": "https://music.apple.com/us/album/after-party/1439964550?i=1439964764&uo=4"
+        "lastfm": "https://www.last.fm/music/The+Weeknd/_/The+Party+&+the+After+Party"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "01a37c9b-c088-4b1b-996c-11634054c61f",
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-      "albumTitle": "Where It's At",
-      "duration": 196,
+      "duration": 459,
       "previousRank": 5,
-      "rankDelta": 0,
-      "releaseDate": "2014-09-09T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "the-weeknd--often",
@@ -242,26 +246,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/75/bd/22/75bd222f-2d7c-670d-065b-d85830f3de2f/mzaf_13118491895806362699.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/76/23/8d76234b-5101-fa9b-58b3-5e17645d5b05/00602527744209.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/76/23/8d76234b-5101-fa9b-58b3-5e17645d5b05/00602527744209.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/76/23/8d76234b-5101-fa9b-58b3-5e17645d5b05/00602527744209.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Frank+Ocean/_/Novacane"
+        "lastfm": "https://www.last.fm/music/Frank+Ocean/_/Novacane",
+        "itunes": "https://music.apple.com/us/album/novacane/1445278500?i=1445278502&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "068e68c4-172c-4ad5-a4fc-d33a2c83c463",
       "artistMbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
-      "duration": 449,
+      "albumTitle": "Novacane - Single",
+      "duration": 303,
       "previousRank": 8,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2011-02-16T12:00:00Z"
     },
     {
       "id": "frank-ocean--lost",
@@ -374,26 +382,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/5e/ad/905eade3-210b-52c5-d87c-d31dffcf5190/mzaf_10893098181928710492.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d2/dd/35/d2dd3500-4c77-04dd-f68a-fd21fd9e9985/00050087298814.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d2/dd/35/d2dd3500-4c77-04dd-f68a-fd21fd9e9985/00050087298814.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d2/dd/35/d2dd3500-4c77-04dd-f68a-fd21fd9e9985/00050087298814.rgb.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Zendaya/_/Replay"
+        "lastfm": "https://www.last.fm/music/Zendaya/_/Replay",
+        "itunes": "https://music.apple.com/us/album/replay/1440641976?i=1440641979&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "0167e877-c08d-4b4f-a0b1-b11597fa22c4",
       "artistMbid": "5b946a83-b395-4016-b67f-c71690f9a866",
+      "albumTitle": "Zendaya",
       "duration": 209,
       "previousRank": 12,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2013-07-16T12:00:00Z"
     },
     {
       "id": "the-weeknd--coming-down",
@@ -468,30 +480,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/b8/0a/a1b80a65-84ea-9a95-bd2e-d356683ac29d/mzaf_4617626773713579369.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/2d/20742d10-aae0-7a0c-0509-e8f611be5787/884977705362.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/2d/20742d10-aae0-7a0c-0509-e8f611be5787/884977705362.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/74/2d/20742d10-aae0-7a0c-0509-e8f611be5787/884977705362.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Usher/_/Hey+Daddy+(Daddy%27s+Home)",
-        "itunes": "https://music.apple.com/us/album/hey-daddy-daddys-home/923691585?i=923691587&uo=4"
+        "lastfm": "https://www.last.fm/music/Usher/_/Hey+Daddy+(Daddy%27s+Home)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "09b70d29-7093-329a-8708-e7a7a14c97c4",
       "artistMbid": "3414d446-735a-443c-931f-10634f57e5b9",
-      "albumTitle": "Raymond v Raymond (Expanded Edition)",
-      "duration": 224,
+      "duration": 183,
       "previousRank": 15,
-      "rankDelta": 0,
-      "releaseDate": "2009-12-08T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "miguel--adorn",
@@ -502,26 +510,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/66/13/51/661351bf-a3a1-3c96-4c66-04cd3144a19a/mzaf_13243965223855913867.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/56/ac/a156acb2-068e-a616-3e56-86ca656c14ce/886443632943.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/56/ac/a156acb2-068e-a616-3e56-86ca656c14ce/886443632943.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/56/ac/a156acb2-068e-a616-3e56-86ca656c14ce/886443632943.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Miguel/_/Adorn"
+        "lastfm": "https://www.last.fm/music/Miguel/_/Adorn",
+        "itunes": "https://music.apple.com/us/album/adorn/561709112?i=561709114&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "054f2182-003a-484b-8ab1-8ef1fca2d7bf",
       "artistMbid": "285e1285-aecc-478f-a8da-0c8cf69e1217",
-      "duration": 194,
+      "albumTitle": "Kaleidoscope Dream",
+      "duration": 193,
       "previousRank": 16,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2012-08-07T07:00:00Z"
     },
     {
       "id": "the-weeknd--cant-feel-my-face",
@@ -566,26 +578,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a2/08/56/a20856b1-68a2-2b92-6d78-f245514bde19/mzaf_6361295436295872562.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/1e/6b/19/1e6b197a-20be-77bf-a469-99066f32c877/707541045933.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/1e/6b/19/1e6b197a-20be-77bf-a469-99066f32c877/707541045933.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/1e/6b/19/1e6b197a-20be-77bf-a469-99066f32c877/707541045933.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/The+Weeknd/_/Twenty+Eight"
+        "lastfm": "https://www.last.fm/music/The+Weeknd/_/Twenty+Eight",
+        "itunes": "https://music.apple.com/us/album/twenty-eight/1083694190?i=1083694410&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "08ede032-1afc-432d-b486-05d084e2f226",
       "artistMbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-      "duration": 258,
+      "albumTitle": "Piano Dreamers Play the Weeknd",
+      "duration": 188,
       "previousRank": 18,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2016-01-29T12:00:00Z"
     },
     {
       "id": "frank-ocean--bad-religion",
@@ -630,29 +646,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/76/4f/5c764f13-36da-d47b-1fe1-d895f0d42636/mzaf_14479033350538581906.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/bf/86/ba/mzi.rpgkclds.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/bf/86/ba/mzi.rpgkclds.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/bf/86/ba/mzi.rpgkclds.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Miguel/_/All+I+Want+Is+You+(feat.+J.+Cole)",
-        "itunes": "https://music.apple.com/us/album/all-i-want-is-you-feat-j-cole/439618070?i=439618072&uo=4"
+        "lastfm": "https://www.last.fm/music/Miguel/_/All+I+Want+Is+You+(feat.+J.+Cole)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "artistMbid": "285e1285-aecc-478f-a8da-0c8cf69e1217",
-      "albumTitle": "All I Want Is You",
-      "duration": 296,
+      "duration": 298,
       "previousRank": 20,
-      "rankDelta": 0,
-      "releaseDate": "2010-05-25T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "soulja-boy--kiss-me-thru-the-phone",
@@ -899,29 +911,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/52/3c/94523c88-f5f9-16f4-dbd7-f284ca168048/mzaf_7184891920196479048.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Usher/_/Yeah%21+(feat.+Lil+Jon+&+Ludacris)",
-        "itunes": "https://music.apple.com/us/album/yeah-feat-lil-jon-ludacris/386153476?i=386153478&uo=4"
+        "lastfm": "https://www.last.fm/music/Usher/_/Yeah%21+(feat.+Lil+Jon+&+Ludacris)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "artistMbid": "3414d446-735a-443c-931f-10634f57e5b9",
-      "albumTitle": "Confessions (Expanded Edition)",
       "duration": 250,
       "previousRank": 28,
-      "rankDelta": 0,
-      "releaseDate": "2004-01-10T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "frank-ocean--swim-good",
@@ -1028,26 +1036,30 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": null,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7d/45/cf/7d45cf05-92bb-7153-2232-ce9e4e39c380/mzaf_4906502614605264321.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/c1/c9/31c1c94b-3927-28b2-9327-0a8a4d2978fb/075679795540.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/c1/c9/31c1c94b-3927-28b2-9327-0a8a4d2978fb/075679795540.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/c1/c9/31c1c94b-3927-28b2-9327-0a8a4d2978fb/075679795540.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Trey+Songz/_/Love+Faces"
+        "lastfm": "https://www.last.fm/music/Trey+Songz/_/Love+Faces",
+        "itunes": "https://music.apple.com/us/album/love-faces/1541341748?i=1541341769&uo=4"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm"
+        "lastfm",
+        "itunes"
       ],
       "mbid": "26b19396-b4af-30e6-8206-310711e4c6a9",
       "artistMbid": "4d7304f6-7fe3-4959-9d98-01a5af84afe6",
-      "duration": 243,
+      "albumTitle": "Passion, Pain & Pleasure (Deluxe Version)",
+      "duration": 244,
       "previousRank": 32,
-      "rankDelta": 0
+      "rankDelta": 0,
+      "releaseDate": "2010-09-14T12:00:00Z"
     },
     {
       "id": "beyonce--pretty-hurts",
@@ -1194,30 +1206,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/37/fe/3737fe32-32d0-365e-8156-6a6aa05dee98/mzaf_756686812560023386.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/74/c9/5374c99e-cff1-61a6-ca0f-fa1219d050a0/886443854406.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/74/c9/5374c99e-cff1-61a6-ca0f-fa1219d050a0/886443854406.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/74/c9/5374c99e-cff1-61a6-ca0f-fa1219d050a0/886443854406.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Justin+Timberlake/_/Pusher+Love+Girl",
-        "itunes": "https://music.apple.com/us/album/pusher-love-girl/1441493446?i=1441493468&uo=4"
+        "lastfm": "https://www.last.fm/music/Justin+Timberlake/_/Pusher+Love+Girl"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "04bdc987-2c52-3c91-985e-5cab642e5686",
       "artistMbid": "596ffa74-3d08-44ef-b113-765d43d12738",
-      "albumTitle": "The 20/20 Experience (Deluxe Version)",
       "duration": 482,
       "previousRank": 37,
-      "rankDelta": 0,
-      "releaseDate": "2013-03-15T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "ne-yo--mad",
@@ -1295,30 +1303,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/74/36/147436fe-c296-4bb1-47a2-48e0aa8c770a/mzaf_5770196566134546782.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/93/97/a1939758-e087-cc96-340d-19b3cc8e5b3d/886443919754.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/93/97/a1939758-e087-cc96-340d-19b3cc8e5b3d/886443919754.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/93/97/a1939758-e087-cc96-340d-19b3cc8e5b3d/886443919754.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Ciara/_/Body+Party",
-        "itunes": "https://music.apple.com/us/album/body-party/632895294?i=632895522&uo=4"
+        "lastfm": "https://www.last.fm/music/Ciara/_/Body+Party"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "1392428e-66ca-4e2b-bfb4-7d29401d8e21",
       "artistMbid": "03172286-f7ed-4864-a4db-459cd5ca9790",
-      "albumTitle": "Ciara",
       "duration": 234,
       "previousRank": 40,
-      "rankDelta": 0,
-      "releaseDate": "2013-03-08T08:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "frank-ocean--crack-rock",
@@ -1397,29 +1401,25 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4f/12/66/4f1266ae-d85e-2824-d6bd-31c193b084a5/mzaf_8828668328324087561.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music/a1/d3/05/mzi.nzfmzboj.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music/a1/d3/05/mzi.nzfmzboj.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music/a1/d3/05/mzi.nzfmzboj.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Ciara/_/Get+Up+(feat.+Chamillionaire)",
-        "itunes": "https://music.apple.com/us/album/get-up-feat-chamillionaire/220195031?i=220196115&uo=4"
+        "lastfm": "https://www.last.fm/music/Ciara/_/Get+Up+(feat.+Chamillionaire)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "artistMbid": "03172286-f7ed-4864-a4db-459cd5ca9790",
-      "albumTitle": "The Evolution (Bonus Track Edition)",
       "duration": 262,
       "previousRank": 43,
-      "rankDelta": 0,
-      "releaseDate": "2006-07-25T07:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "the-weeknd--the-knowing",
@@ -1494,30 +1494,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e6/a7/94/e6a79465-5288-fd08-c77c-636b40deeb52/mzaf_1527643245109379762.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/75/f9/1a75f961-ee8f-a17d-2c63-244736d27e35/5034644712796.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/75/f9/1a75f961-ee8f-a17d-2c63-244736d27e35/5034644712796.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/75/f9/1a75f961-ee8f-a17d-2c63-244736d27e35/5034644712796.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Aaliyah/_/I+Don%27t+Wanna",
-        "itunes": "https://music.apple.com/us/album/i-dont-wanna/1816082814?i=1816083961&uo=4"
+        "lastfm": "https://www.last.fm/music/Aaliyah/_/I+Don%27t+Wanna"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0f4380a2-8933-49e8-9a7f-9ec1a1dfe4b4",
       "artistMbid": "bc85da58-52d9-457d-ae8d-5d8d4ec870a9",
-      "albumTitle": "Ultimate Aaliyah",
-      "duration": 257,
+      "duration": 255,
       "previousRank": 46,
-      "rankDelta": 0,
-      "releaseDate": "2000-03-28T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "partynextdoor--recognize-feat-drake",
@@ -1561,30 +1557,26 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/35/f9/88/35f98845-9d21-3a5b-c5ac-5c4ce979c328/mzaf_3751491420467703681.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/06/0a/de/060ade24-2353-7c93-478d-2da3ee9d23cb/d2e6aa2e-0bd7-49eb-a453-35d4064cec90.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/06/0a/de/060ade24-2353-7c93-478d-2da3ee9d23cb/d2e6aa2e-0bd7-49eb-a453-35d4064cec90.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/06/0a/de/060ade24-2353-7c93-478d-2da3ee9d23cb/d2e6aa2e-0bd7-49eb-a453-35d4064cec90.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Rihanna/_/Loveeeeeee+Song",
-        "itunes": "https://music.apple.com/us/album/loveeeeeee-song-feat-future-mixed/1730757812?i=1730757826&uo=4"
+        "lastfm": "https://www.last.fm/music/Rihanna/_/Loveeeeeee+Song"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0176f546-cf68-4e3f-b15d-3280d3f2ece1",
       "artistMbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
-      "albumTitle": "Def Jam 40: R&B, Lovers (DJ Mix)",
-      "duration": 108,
+      "duration": 256,
       "previousRank": 48,
-      "rankDelta": 0,
-      "releaseDate": "2024-02-16T12:00:00Z"
+      "rankDelta": 0
     },
     {
       "id": "beyonce--dangerously-in-love",
@@ -1629,33 +1621,29 @@
       "rankChange": "same",
       "playcount": 0,
       "listeners": 0,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/a9/7b/16/a97b1649-8612-5f94-d9c8-d4e3313cc67b/mzaf_6828136440435046454.plus.aac.p.m4a",
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/a8/0a/cda80af7-e288-1a50-44fb-23b7ae149d46/888915459591_cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/a8/0a/cda80af7-e288-1a50-44fb-23b7ae149d46/888915459591_cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/a8/0a/cda80af7-e288-1a50-44fb-23b7ae149d46/888915459591_cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Ray+J/_/One+Wish",
-        "itunes": "https://music.apple.com/us/album/one-wish/1678208690?i=1678208699&uo=4"
+        "lastfm": "https://www.last.fm/music/Ray+J/_/One+Wish"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "11451bd8-231c-4fc4-9499-696bc1008420",
       "artistMbid": "9a07de5c-37e5-4907-ac77-ba9674a9bd6a",
-      "albumTitle": "Raydiation",
-      "duration": 338,
+      "duration": 241,
       "previousRank": 50,
-      "rankDelta": 0,
-      "releaseDate": "2005-09-05T12:00:00Z"
+      "rankDelta": 0
     }
   ],
-  "lastUpdated": "2026-03-02T23:24:16.036Z",
+  "lastUpdated": "2026-03-03T07:05:43.248Z",
   "totalTracks": 50,
   "coverColor": "#8b5cf6",
   "genre": "r&b",
