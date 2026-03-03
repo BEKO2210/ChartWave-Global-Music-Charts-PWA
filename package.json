@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
+    "generate-icons": "tsx scripts/generate-icons.ts",
     "build": "astro build",
     "preview": "astro preview",
     "fetch:charts": "tsx scripts/fetch-charts.ts",

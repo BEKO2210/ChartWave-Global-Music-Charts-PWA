@@ -19,8 +19,8 @@ export default defineConfig({
           name: 'ChartWave',
           short_name: 'ChartWave',
           description: 'Global music charts with 30-second previews. Free. Open. Everywhere.',
-          theme_color: '#6366f1',
-          background_color: '#080810',
+          theme_color: '#dc2626',
+          background_color: '#000000',
           display: 'standalone',
           display_override: ['window-controls-overlay', 'standalone'],
           orientation: 'any',
@@ -32,10 +32,6 @@ export default defineConfig({
             { src: 'pwa-192x192.png', sizes: '192x192', type: 'image/png' },
             { src: 'pwa-512x512.png', sizes: '512x512', type: 'image/png' },
             { src: 'maskable-icon-512x512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
-          ],
-          screenshots: [
-            { src: 'screenshot-desktop.png', sizes: '1280x720', type: 'image/png', form_factor: 'wide', label: 'ChartWave Desktop' },
-            { src: 'screenshot-mobile.png', sizes: '390x844', type: 'image/png', form_factor: 'narrow', label: 'ChartWave Mobile' }
           ],
           shortcuts: [
             { name: 'Global Top 50', url: '/ChartWave-Global-Music-Charts-PWA/chart/global-top50', icons: [{ src: 'pwa-64x64.png', sizes: '64x64' }] },

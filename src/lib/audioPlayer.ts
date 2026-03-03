@@ -131,7 +131,16 @@ class AudioPlayerManager {
   }
 
   play(): void {
-    this.howl?.play();
+    if (!this.howl) return;
+    // If the track has ended, seek back to the start before playing
+    const seek = this.howl.seek() as number;
+    const dur = this.howl.duration() || 30;
+    if (seek >= dur - 0.1) {
+      this.howl.seek(0);
+      $progress.set(0);
+      $currentTime.set(0);
+    }
+    this.howl.play();
   }
 
   pause(): void {

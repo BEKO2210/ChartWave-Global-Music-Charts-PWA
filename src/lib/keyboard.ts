@@ -8,7 +8,12 @@ function isInputFocused(): boolean {
   return tag === 'input' || tag === 'textarea' || tag === 'select' || active.hasAttribute('contenteditable');
 }
 
+let _keyboardInitialized = false;
+
 export function initKeyboardShortcuts(): void {
+  if (_keyboardInitialized) return;
+  _keyboardInitialized = true;
+
   document.addEventListener('keydown', (e: KeyboardEvent) => {
     if (isInputFocused()) return;
 
