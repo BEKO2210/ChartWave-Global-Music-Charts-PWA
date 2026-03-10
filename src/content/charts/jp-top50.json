@@ -6,58 +6,24 @@
   "description": "Top 50 most listened tracks in Japan, updated weekly.",
   "tracks": [
     {
-      "id": "--iris-out",
-      "title": "IRIS OUT",
-      "artistName": "米津玄師",
-      "artistSlug": "",
-      "rank": 1,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 692,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/d4/d3/63d4d309-d2af-e1cf-f5c8-52566e36bfc1/mzaf_17216505190548647784.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/IRIS+OUT",
-        "itunes": "https://music.apple.com/us/album/iris-out/1837658528?i=1837658529&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
-      "artistMbid": "09d4a85c-4916-4b4e-bc96-c4cfcf371046",
-      "albumTitle": "IRIS OUT - Single",
-      "duration": 152,
-      "previousRank": 1,
-      "rankDelta": 0,
-      "releaseDate": "2025-09-15T12:00:00Z"
-    },
-    {
       "id": "pinkpantheress--stateside-zara-larsson",
       "title": "Stateside + Zara Larsson",
       "artistName": "PinkPantheress",
       "artistSlug": "pinkpantheress",
-      "rank": 2,
-      "rankChange": "same",
+      "rank": 1,
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 645,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/0b/8e/5e0b8e5f-1a32-7f1f-3b77-1d008e6e0c1e/mzaf_17111867416921804819.plus.aac.p.m4a",
+      "listeners": 744,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a4/4a/03/a44a0393-4ea2-6824-5da0-bec4d313d0ff/mzaf_8360611439130507879.plus.aac.p.m4a",
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/d2/bb/b0d2bb76-41a2-1bb1-586c-107b63e4181d/5026854077819.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/d2/bb/b0d2bb76-41a2-1bb1-586c-107b63e4181d/5026854077819.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/d2/bb/b0d2bb76-41a2-1bb1-586c-107b63e4181d/5026854077819.jpg/600x600bb.jpg",
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/db/5a/12db5a38-94c1-42bc-b36b-7204b7aa4eac/5021732768650.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/db/5a/12db5a38-94c1-42bc-b36b-7204b7aa4eac/5021732768650.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/db/5a/12db5a38-94c1-42bc-b36b-7204b7aa4eac/5021732768650.jpg/600x600bb.jpg",
         "placeholder": "#1a1a2e"
       },
       "links": {
         "lastfm": "https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson",
-        "itunes": "https://music.apple.com/us/album/stateside-with-zara-larsson/1843595790?i=1843595808&uo=4"
+        "itunes": "https://music.apple.com/us/album/stateside/1806614239?i=1806614783&uo=4"
       },
       "tags": [],
       "genres": [],
@@ -67,89 +33,21 @@
       ],
       "mbid": "ffbf7862-2476-4164-ac32-f5904ccefe0f",
       "artistMbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
-      "albumTitle": "Fancy Some More?",
-      "duration": 185,
+      "albumTitle": "Fancy That",
+      "duration": 168,
       "previousRank": 2,
-      "rankDelta": 0,
-      "releaseDate": "2025-10-10T12:00:00Z"
-    },
-    {
-      "id": "king-gnu--aizo",
-      "title": "AIZO",
-      "artistName": "King Gnu",
-      "artistSlug": "king-gnu",
-      "rank": 3,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 621,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/29/a2/1a/29a21ac0-9c04-75cc-4b46-d1ec4168c0f0/mzaf_15133126017791169575.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/8a/0b/9f8a0bc1-e6ee-5873-4fc9-9a75b0d58e2a/4547366794816.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/8a/0b/9f8a0bc1-e6ee-5873-4fc9-9a75b0d58e2a/4547366794816.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/8a/0b/9f8a0bc1-e6ee-5873-4fc9-9a75b0d58e2a/4547366794816.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/King+Gnu/_/AIZO",
-        "itunes": "https://music.apple.com/us/album/aizo/1860538546?i=1860538548&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "4c819955-e6b3-491a-b951-f9a766db02ac",
-      "artistMbid": "338f5d97-3133-4bf8-a58e-068ff9b5405d",
-      "albumTitle": "AIZO - Single",
-      "duration": 216,
-      "previousRank": 3,
-      "rankDelta": 0,
-      "releaseDate": "2026-01-09T12:00:00Z"
+      "rankDelta": 1,
+      "releaseDate": "2025-04-25T12:00:00Z"
     },
     {
       "id": "hearts2hearts--rude",
       "title": "RUDE!",
       "artistName": "Hearts2Hearts",
       "artistSlug": "hearts2hearts",
-      "rank": 4,
-      "rankChange": "same",
+      "rank": 2,
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 588,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/3c/36/013c3684-7121-8f9f-6eb5-00b610ac055c/mzaf_16203782190977593201.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/b9/fb/78b9fb30-169a-eab0-38e9-8df725f8f2d6/888735954603.png/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/b9/fb/78b9fb30-169a-eab0-38e9-8df725f8f2d6/888735954603.png/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/b9/fb/78b9fb30-169a-eab0-38e9-8df725f8f2d6/888735954603.png/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/Hearts2Hearts/_/RUDE%21",
-        "itunes": "https://music.apple.com/us/album/rude/1875146814?i=1875146815&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "b98e4697-eeaa-483a-88fb-4da7b35d4774",
-      "artistMbid": "066080a4-84c7-46c6-91d3-dc10d572749b",
-      "albumTitle": "RUDE! - Single",
-      "duration": 200,
-      "previousRank": 4,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-20T12:00:00Z"
-    },
-    {
-      "id": "ive--bang-bang",
-      "title": "BANG BANG",
-      "artistName": "IVE",
-      "artistSlug": "ive",
-      "rank": 5,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 566,
+      "listeners": 675,
       "previewUrl": null,
       "artwork": {
         "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -158,52 +56,134 @@
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/IVE/_/BANG+BANG"
+        "lastfm": "https://www.last.fm/music/Hearts2Hearts/_/RUDE%21"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
         "lastfm"
       ],
-      "mbid": "1a79d074-39f7-42d7-8d5c-bd0fc64831bd",
-      "artistMbid": "a760a4d1-1258-4833-9ed5-fa083902d907",
-      "duration": 178,
-      "previousRank": 5,
-      "rankDelta": 0
+      "mbid": "b98e4697-eeaa-483a-88fb-4da7b35d4774",
+      "artistMbid": "066080a4-84c7-46c6-91d3-dc10d572749b",
+      "duration": 200,
+      "previousRank": 4,
+      "rankDelta": 2
     },
     {
-      "id": "xg--hypnotize",
-      "title": "HYPNOTIZE",
-      "artistName": "XG",
-      "artistSlug": "xg",
-      "rank": 6,
-      "rankChange": "same",
+      "id": "--iris-out",
+      "title": "IRIS OUT",
+      "artistName": "米津玄師",
+      "artistSlug": "",
+      "rank": 3,
+      "rankChange": "down",
       "playcount": 0,
-      "listeners": 551,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/61/79/ed/6179ed51-829e-8f66-6d1d-0b2bbc349a76/mzaf_11841702438848777890.plus.aac.p.m4a",
+      "listeners": 611,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/40/bc/d240bc00-1056-57c1-3ec8-cd57f957bcaf/4571694810689.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/40/bc/d240bc00-1056-57c1-3ec8-cd57f957bcaf/4571694810689.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/40/bc/d240bc00-1056-57c1-3ec8-cd57f957bcaf/4571694810689.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/XG/_/HYPNOTIZE",
-        "itunes": "https://music.apple.com/us/album/hypnotize/1861009513?i=1861009528&uo=4"
+        "lastfm": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/IRIS+OUT"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "7484d290-2d72-48df-893a-95b40a6bf956",
-      "artistMbid": "8dfe067c-ae90-472e-80f2-fcee9be4e158",
-      "albumTitle": "THE CORE - 核",
-      "duration": 171,
-      "previousRank": 6,
-      "rankDelta": 0,
-      "releaseDate": "2026-01-23T12:00:00Z"
+      "mbid": "83dbaf01-8a59-47c8-971c-e0b07cd12c95",
+      "artistMbid": "09d4a85c-4916-4b4e-bc96-c4cfcf371046",
+      "duration": 151,
+      "previousRank": 1,
+      "rankDelta": -2
+    },
+    {
+      "id": "--five",
+      "title": "Five",
+      "artistName": "嵐",
+      "artistSlug": "",
+      "rank": 4,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 608,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/%E5%B5%90/_/Five"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "artistMbid": "1008b912-cbb1-4e4c-bd4d-b9adf6937e8e"
+    },
+    {
+      "id": "king-gnu--aizo",
+      "title": "AIZO",
+      "artistName": "King Gnu",
+      "artistSlug": "king-gnu",
+      "rank": 5,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 605,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/King+Gnu/_/AIZO"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "4c819955-e6b3-491a-b951-f9a766db02ac",
+      "artistMbid": "338f5d97-3133-4bf8-a58e-068ff9b5405d",
+      "duration": 215,
+      "previousRank": 3,
+      "rankDelta": -2
+    },
+    {
+      "id": "--",
+      "title": "晴る",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
+      "rank": 6,
+      "rankChange": "up",
+      "playcount": 0,
+      "listeners": 577,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E6%99%B4%E3%82%8B"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "bd96e3b9-e014-417b-b9e9-d75143cce05c",
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 272,
+      "previousRank": 44,
+      "rankDelta": 38
     },
     {
       "id": "mrs-green-apple--lulu",
@@ -213,7 +193,7 @@
       "rank": 7,
       "rankChange": "same",
       "playcount": 0,
-      "listeners": 507,
+      "listeners": 520,
       "previewUrl": null,
       "artwork": {
         "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -243,143 +223,154 @@
       "rank": 8,
       "rankChange": "same",
       "playcount": 0,
-      "listeners": 504,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/d8/84/efd884da-ffb3-dff0-1c53-05ee61d7baa1/mzaf_9160660066743675925.plus.aac.p.m4a",
+      "listeners": 510,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/b4/81/1cb481b3-9b5b-83bf-e047-41e3089b0653/199806885123.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/b4/81/1cb481b3-9b5b-83bf-e047-41e3089b0653/199806885123.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/b4/81/1cb481b3-9b5b-83bf-e047-41e3089b0653/199806885123.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/KiiiKiii/_/404+(New+Era)",
-        "itunes": "https://music.apple.com/us/album/404-new-era/1866860579?i=1866860733&uo=4"
+        "lastfm": "https://www.last.fm/music/KiiiKiii/_/404+(New+Era)"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "dbf1b243-9522-4980-9525-d068df9ffaf5",
       "artistMbid": "bdbc7927-6ff5-4a64-a2dd-9756323008e1",
-      "albumTitle": "Delulu Pack - EP",
-      "duration": 180,
+      "duration": 179,
       "previousRank": 8,
-      "rankDelta": 0,
-      "releaseDate": "2026-01-26T12:00:00Z"
+      "rankDelta": 0
     },
     {
-      "id": "blackpink--jump",
-      "title": "JUMP",
+      "id": "xg--hypnotize",
+      "title": "HYPNOTIZE",
+      "artistName": "XG",
+      "artistSlug": "xg",
+      "rank": 9,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 506,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/XG/_/HYPNOTIZE"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "7484d290-2d72-48df-893a-95b40a6bf956",
+      "artistMbid": "8dfe067c-ae90-472e-80f2-fcee9be4e158",
+      "duration": 170,
+      "previousRank": 6,
+      "rankDelta": -3
+    },
+    {
+      "id": "blackpink--go",
+      "title": "GO",
       "artistName": "BLACKPINK",
       "artistSlug": "blackpink",
-      "rank": 9,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 497,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cb/b3/6b/cbb36b26-061d-af60-2cdf-353f3afa8463/mzaf_6164418099715201202.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/5e/74/ee5e747e-52e5-458c-e850-0ed3d703b184/8809519880736.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/5e/74/ee5e747e-52e5-458c-e850-0ed3d703b184/8809519880736.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/5e/74/ee5e747e-52e5-458c-e850-0ed3d703b184/8809519880736.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/BLACKPINK/_/JUMP",
-        "itunes": "https://music.apple.com/us/album/jump/1824672650?i=1824672652&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "752d837b-a4bc-40c5-ab85-b485de42df12",
-      "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
-      "albumTitle": "JUMP - Single",
-      "duration": 165,
-      "previousRank": 9,
-      "rankDelta": 0,
-      "releaseDate": "2025-07-11T12:00:00Z"
-    },
-    {
-      "id": "mrs-green-apple--",
-      "title": "ライラック",
-      "artistName": "Mrs. GREEN APPLE",
-      "artistSlug": "mrs-green-apple",
       "rank": 10,
-      "rankChange": "same",
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 475,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/85/6f/ea856fc0-9b40-44ab-d534-2fa2ceba7f3e/mzaf_8873612218402422085.plus.aac.p.m4a",
+      "listeners": 496,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Mrs.+GREEN+APPLE/_/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF",
-        "itunes": "https://music.apple.com/us/album/lilac/1739088465?i=1739088799&uo=4"
+        "lastfm": "https://www.last.fm/music/BLACKPINK/_/GO"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "235d3829-832d-4a54-96ca-2f6634b033d3",
-      "artistMbid": "9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2",
-      "albumTitle": "Lilac - Single",
-      "duration": 288,
-      "previousRank": 10,
-      "rankDelta": 0,
-      "releaseDate": "2024-04-12T12:00:00Z"
+      "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
+      "previousRank": 13,
+      "rankDelta": 3
     },
     {
       "id": "--",
-      "title": "いらない",
-      "artistName": "サカナクション",
+      "title": "千鳥",
+      "artistName": "ヨルシカ",
       "artistSlug": "",
       "rank": 11,
       "rankChange": "up",
       "playcount": 0,
-      "listeners": 471,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a7/f8/0f/a7f80fd4-9472-a4c9-45c2-1de3491067fb/mzaf_5488031442246202996.plus.aac.p.m4a",
+      "listeners": 473,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e3/e5/7a/e3e57a00-ed2d-69d6-bf00-347d7c37f3bd/PA00074572_0_90261_jacket.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e3/e5/7a/e3e57a00-ed2d-69d6-bf00-347d7c37f3bd/PA00074572_0_90261_jacket.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e3/e5/7a/e3e57a00-ed2d-69d6-bf00-347d7c37f3bd/PA00074572_0_90261_jacket.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/_/%E3%81%84%E3%82%89%E3%81%AA%E3%81%84",
-        "itunes": "https://music.apple.com/us/album/%E3%81%9F%E3%81%A0%E5%90%9B%E3%81%AB%E6%99%B4%E3%82%8C/1648875799?i=1648876333&uo=4"
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E5%8D%83%E9%B3%A5"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "0c32a5e8-3f56-4747-8024-0a9d08aa1547",
-      "artistMbid": "01830cc1-8a04-4dfb-9e4a-d557dfda6a93",
-      "albumTitle": "負け犬にアンコールはいらない",
-      "duration": 199,
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 252,
       "previousRank": 44,
-      "rankDelta": 33,
-      "releaseDate": "2018-05-09T12:00:00Z"
+      "rankDelta": 33
+    },
+    {
+      "id": "ive--bang-bang",
+      "title": "BANG BANG",
+      "artistName": "IVE",
+      "artistSlug": "ive",
+      "rank": 12,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 458,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/IVE/_/BANG+BANG"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "1a79d074-39f7-42d7-8d5c-bd0fc64831bd",
+      "artistMbid": "a760a4d1-1258-4833-9ed5-fa083902d907",
+      "duration": 178,
+      "previousRank": 5,
+      "rankDelta": -7
     },
     {
       "id": "--",
       "title": "怪獣",
       "artistName": "サカナクション",
       "artistSlug": "",
-      "rank": 12,
+      "rank": 13,
       "rankChange": "up",
       "playcount": 0,
-      "listeners": 465,
+      "listeners": 453,
       "previewUrl": null,
       "artwork": {
         "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -399,140 +390,104 @@
       "artistMbid": "01830cc1-8a04-4dfb-9e4a-d557dfda6a93",
       "duration": 252,
       "previousRank": 44,
-      "rankDelta": 32
+      "rankDelta": 31
     },
     {
-      "id": "blackpink--go",
-      "title": "GO",
-      "artistName": "BLACKPINK",
-      "artistSlug": "blackpink",
-      "rank": 13,
-      "rankChange": "same",
+      "id": "mrs-green-apple--",
+      "title": "ライラック",
+      "artistName": "Mrs. GREEN APPLE",
+      "artistSlug": "mrs-green-apple",
+      "rank": 14,
+      "rankChange": "down",
       "playcount": 0,
-      "listeners": 445,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/fd/e5/18fde538-ee69-7c27-e7ad-fa08c6d5771d/mzaf_11997872270699265606.plus.aac.p.m4a",
+      "listeners": 447,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/ee/be/c3eebebf-5dd1-b96c-b586-32df3ae454a3/8809519881153.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/ee/be/c3eebebf-5dd1-b96c-b586-32df3ae454a3/8809519881153.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/ee/be/c3eebebf-5dd1-b96c-b586-32df3ae454a3/8809519881153.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/BLACKPINK/_/GO",
-        "itunes": "https://music.apple.com/us/album/go/1870067304?i=1870067581&uo=4"
+        "lastfm": "https://www.last.fm/music/Mrs.+GREEN+APPLE/_/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
-      "albumTitle": "DEADLINE - EP",
-      "duration": 195,
-      "previousRank": 13,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-18T12:00:00Z"
+      "mbid": "235d3829-832d-4a54-96ca-2f6634b033d3",
+      "artistMbid": "9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2",
+      "duration": 289,
+      "previousRank": 10,
+      "rankDelta": -4
+    },
+    {
+      "id": "--",
+      "title": "プレイシック",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
+      "rank": 15,
+      "rankChange": "up",
+      "playcount": 0,
+      "listeners": 442,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%83%E3%82%AF"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "16568ea1-e695-44e2-bb2b-6b895255cb47",
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 233,
+      "previousRank": 44,
+      "rankDelta": 29
+    },
+    {
+      "id": "--",
+      "title": "雲になる",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
+      "rank": 16,
+      "rankChange": "up",
+      "playcount": 0,
+      "listeners": 438,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E9%9B%B2%E3%81%AB%E3%81%AA%E3%82%8B"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 246,
+      "previousRank": 44,
+      "rankDelta": 28
     },
     {
       "id": "m-lk--",
       "title": "好きすぎて滅！",
       "artistName": "M!LK",
       "artistSlug": "m-lk",
-      "rank": 14,
-      "rankChange": "up",
-      "playcount": 0,
-      "listeners": 433,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/de/c4/77dec4c2-6f77-4fb6-49f6-6000e8ee660c/mzaf_2535713996101342949.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/M%21LK/_/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85%EF%BC%81",
-        "itunes": "https://music.apple.com/us/album/sukisugite-metsu/1846753945?i=1846753946&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "0d55a765-a5a9-4b3b-94e5-f61d44a9e8dd",
-      "artistMbid": "c209e6c9-bdc6-41b1-8044-6ccbd5896252",
-      "albumTitle": "Sukisugite METSU! - Single",
-      "duration": 212,
-      "previousRank": 20,
-      "rankDelta": 6,
-      "releaseDate": "2025-10-27T12:00:00Z"
-    },
-    {
-      "id": "--jane-doe",
-      "title": "JANE DOE",
-      "artistName": "米津玄師",
-      "artistSlug": "",
-      "rank": 15,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 433,
-      "previewUrl": null,
-      "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/JANE+DOE"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm"
-      ],
-      "artistMbid": "09d4a85c-4916-4b4e-bc96-c4cfcf371046",
-      "previousRank": 15,
-      "rankDelta": 0
-    },
-    {
-      "id": "hana--blue-jeans",
-      "title": "Blue Jeans",
-      "artistName": "Hana",
-      "artistSlug": "hana",
-      "rank": 16,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 432,
-      "previewUrl": null,
-      "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/Hana/_/Blue+Jeans"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm"
-      ],
-      "mbid": "10dd89b5-6c8d-46d9-a0e0-2fb59f9e9019",
-      "artistMbid": "25d148da-1af8-464b-8179-3418878fe035",
-      "duration": 206,
-      "previousRank": 16,
-      "rankDelta": 0
-    },
-    {
-      "id": "illit--magnetic",
-      "title": "Magnetic",
-      "artistName": "ILLIT",
-      "artistSlug": "illit",
       "rank": 17,
-      "rankChange": "same",
+      "rankChange": "up",
       "playcount": 0,
       "listeners": 431,
       "previewUrl": null,
@@ -543,28 +498,28 @@
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/ILLIT/_/Magnetic"
+        "lastfm": "https://www.last.fm/music/M%21LK/_/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85%EF%BC%81"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
         "lastfm"
       ],
-      "mbid": "e614e432-ca77-41c1-82c1-4e3a24ebbb0c",
-      "artistMbid": "6b128dd7-e998-4edb-a4f5-400fef190445",
-      "duration": 160,
-      "previousRank": 17,
-      "rankDelta": 0
+      "mbid": "0d55a765-a5a9-4b3b-94e5-f61d44a9e8dd",
+      "artistMbid": "c209e6c9-bdc6-41b1-8044-6ccbd5896252",
+      "duration": 212,
+      "previousRank": 20,
+      "rankDelta": 3
     },
     {
-      "id": "ive--blackhole",
-      "title": "BLACKHOLE",
-      "artistName": "IVE",
-      "artistSlug": "ive",
+      "id": "--",
+      "title": "忘れてください",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
       "rank": 18,
-      "rankChange": "same",
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 427,
+      "listeners": 426,
       "previewUrl": null,
       "artwork": {
         "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -573,57 +528,28 @@
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/IVE/_/BLACKHOLE"
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E5%BF%98%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
         "lastfm"
       ],
-      "mbid": "ab1cbff2-60d7-40b5-ab53-bf93cc6e7726",
-      "artistMbid": "a760a4d1-1258-4833-9ed5-fa083902d907",
-      "duration": 194,
-      "previousRank": 18,
-      "rankDelta": 0
-    },
-    {
-      "id": "hana--rose",
-      "title": "ROSE",
-      "artistName": "Hana",
-      "artistSlug": "hana",
-      "rank": 19,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 425,
-      "previewUrl": null,
-      "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/Hana/_/ROSE"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm"
-      ],
-      "artistMbid": "25d148da-1af8-464b-8179-3418878fe035",
-      "duration": 165,
-      "previousRank": 19,
-      "rankDelta": 0
+      "mbid": "c8172818-073d-478d-96b8-f40c92e623e6",
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 217,
+      "previousRank": 44,
+      "rankDelta": 26
     },
     {
       "id": "m-lk--",
       "title": "爆裂愛してる",
       "artistName": "M!LK",
       "artistSlug": "m-lk",
-      "rank": 20,
-      "rankChange": "same",
+      "rank": 19,
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 419,
+      "listeners": 423,
       "previewUrl": null,
       "artwork": {
         "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -643,177 +569,184 @@
       "artistMbid": "c209e6c9-bdc6-41b1-8044-6ccbd5896252",
       "duration": 205,
       "previousRank": 20,
-      "rankDelta": 0
+      "rankDelta": 1
     },
     {
-      "id": "mitski--if-i-leave",
-      "title": "If I Leave",
-      "artistName": "Mitski",
-      "artistSlug": "mitski",
-      "rank": 21,
-      "rankChange": "same",
+      "id": "--",
+      "title": "花も騒めく",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
+      "rank": 20,
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 407,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/81/45/bb814593-6bd8-e308-4a69-3e2f4422451c/mzaf_13344244952806927177.plus.aac.p.m4a",
+      "listeners": 423,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Mitski/_/If+I+Leave",
-        "itunes": "https://music.apple.com/us/album/if-i-leave/1860622550?i=1860622560&uo=4"
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E8%8A%B1%E3%82%82%E9%A8%92%E3%82%81%E3%81%8F"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "f508ac87-793f-4bb3-aa15-85e97fc9f836",
-      "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
-      "albumTitle": "Nothing's About to Happen to Me",
-      "duration": 180,
-      "previousRank": 21,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-27T12:00:00Z"
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 220,
+      "previousRank": 44,
+      "rankDelta": 24
     },
     {
-      "id": "vaundy--",
-      "title": "怪獣の花唄",
-      "artistName": "Vaundy",
-      "artistSlug": "vaundy",
+      "id": "--",
+      "title": "いらない",
+      "artistName": "サカナクション",
+      "artistSlug": "",
+      "rank": 21,
+      "rankChange": "up",
+      "playcount": 0,
+      "listeners": 416,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/_/%E3%81%84%E3%82%89%E3%81%AA%E3%81%84"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "0c32a5e8-3f56-4747-8024-0a9d08aa1547",
+      "artistMbid": "01830cc1-8a04-4dfb-9e4a-d557dfda6a93",
+      "duration": 226,
+      "previousRank": 44,
+      "rankDelta": 23
+    },
+    {
+      "id": "--",
+      "title": "火星人",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
       "rank": 22,
       "rankChange": "up",
       "playcount": 0,
-      "listeners": 407,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/bf/27/5b/bf275bc8-b81c-175f-d572-199bf29c56a3/mzaf_5321781457895786971.plus.aac.p.m4a",
+      "listeners": 414,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/eb/75/8aeb7526-6fe4-a81a-5dce-c5d026e7f036/4547366655728.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/eb/75/8aeb7526-6fe4-a81a-5dce-c5d026e7f036/4547366655728.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/eb/75/8aeb7526-6fe4-a81a-5dce-c5d026e7f036/4547366655728.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Vaundy/_/%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84",
-        "itunes": "https://music.apple.com/us/album/kaiju-no-hanauta-replica/1714599649?i=1714599800&uo=4"
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E7%81%AB%E6%98%9F%E4%BA%BA"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "3afe810a-2f65-4b39-a7c2-a352d20ce012",
-      "artistMbid": "114b26ff-a1fe-41f3-9df8-5c093afe9c56",
-      "albumTitle": "replica",
-      "duration": 223,
-      "previousRank": 34,
-      "rankDelta": 12,
-      "releaseDate": "2023-11-15T12:00:00Z"
+      "mbid": "9228ceda-efee-45cb-9f08-773cc12d7d87",
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 232,
+      "previousRank": 44,
+      "rankDelta": 22
     },
     {
-      "id": "mitski--ill-change-for-you",
-      "title": "I'll Change For You",
-      "artistName": "Mitski",
-      "artistSlug": "mitski",
+      "id": "--",
+      "title": "魔性",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
       "rank": 23,
-      "rankChange": "same",
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 399,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c0/fe/af/c0feafa3-8177-1261-1a37-556131f4176b/mzaf_4832321812754311678.plus.aac.p.m4a",
+      "listeners": 412,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Mitski/_/I%27ll+Change+For+You",
-        "itunes": "https://music.apple.com/us/album/ill-change-for-you/1860622550?i=1860622841&uo=4"
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E9%AD%94%E6%80%A7"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "11359140-f050-44b4-9bf9-d2016df21ddd",
-      "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
-      "albumTitle": "Nothing's About to Happen to Me",
-      "duration": 196,
-      "previousRank": 23,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-27T12:00:00Z"
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 280,
+      "previousRank": 44,
+      "rankDelta": 21
     },
     {
-      "id": "newjeans--ditto",
-      "title": "Ditto",
-      "artistName": "NewJeans",
-      "artistSlug": "newjeans",
+      "id": "--",
+      "title": "アポリア",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
       "rank": 24,
-      "rankChange": "same",
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 397,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/85/72/66/8572665a-d35f-ce5d-43c5-9ae4b69b4b46/mzaf_2317272666428796662.plus.aac.p.m4a",
+      "listeners": 407,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/29/42/f629426e-92fe-535c-cbe4-76e70850819b/196922287107_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/NewJeans/_/Ditto",
-        "itunes": "https://music.apple.com/us/album/ditto/1657231957?i=1657231962&uo=4"
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E3%82%A2%E3%83%9D%E3%83%AA%E3%82%A2"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "adf44a12-e5f4-48aa-9029-b9ef4b5f1d6d",
-      "artistMbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
-      "albumTitle": "Ditto - Single",
-      "duration": 186,
-      "previousRank": 24,
-      "rankDelta": 0,
-      "releaseDate": "2022-12-19T12:00:00Z"
+      "mbid": "4b51e9fc-0d51-40dd-a612-3ad7efe7fb31",
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 229,
+      "previousRank": 44,
+      "rankDelta": 20
     },
     {
-      "id": "aespa--whiplash",
-      "title": "Whiplash",
-      "artistName": "aespa",
-      "artistSlug": "aespa",
+      "id": "--",
+      "title": "早朝、郵便受け",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
       "rank": 25,
-      "rankChange": "same",
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 392,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/1b/a1/7d1ba15e-19fb-0411-e503-61e4379abd10/mzaf_16342830676435185944.plus.aac.p.m4a",
+      "listeners": 406,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/aespa/_/Whiplash",
-        "itunes": "https://music.apple.com/us/album/whiplash/1772214980?i=1772214981&uo=4"
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E6%97%A9%E6%9C%9D%E3%80%81%E9%83%B5%E4%BE%BF%E5%8F%97%E3%81%91"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "24dd7fe2-068b-456f-93f2-1eb5400f03dd",
-      "artistMbid": "b51c672b-85e0-48fe-8648-470a2422229f",
-      "albumTitle": "Whiplash - The 5th Mini Album - EP",
-      "duration": 183,
-      "previousRank": 25,
-      "rankDelta": 0,
-      "releaseDate": "2024-10-21T12:00:00Z"
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 65,
+      "previousRank": 44,
+      "rankDelta": 19
     },
     {
       "id": "back-number--",
@@ -823,7 +756,7 @@
       "rank": 26,
       "rankChange": "up",
       "playcount": 0,
-      "listeners": 391,
+      "listeners": 405,
       "previewUrl": null,
       "artwork": {
         "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -846,78 +779,14 @@
       "rankDelta": 6
     },
     {
-      "id": "--",
-      "title": "茜",
-      "artistName": "ヨルシカ",
-      "artistSlug": "",
-      "rank": 27,
-      "rankChange": "up",
-      "playcount": 0,
-      "listeners": 379,
-      "previewUrl": null,
-      "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E8%8C%9C"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm"
-      ],
-      "mbid": "ed5f13e8-999a-428e-b85f-87160791f3f2",
-      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
-      "duration": 225,
-      "previousRank": 44,
-      "rankDelta": 17
-    },
-    {
-      "id": "back-number--",
-      "title": "ハッピーエンド",
-      "artistName": "back number",
-      "artistSlug": "back-number",
-      "rank": 28,
-      "rankChange": "up",
-      "playcount": 0,
-      "listeners": 378,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/80/31/52/803152f1-bea9-a571-969f-71fcf60bb934/mzaf_11670634285315859615.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d9/55/96/d955961f-f9f7-4aa9-720f-36ddc0c46d0c/00602577303951.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d9/55/96/d955961f-f9f7-4aa9-720f-36ddc0c46d0c/00602577303951.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d9/55/96/d955961f-f9f7-4aa9-720f-36ddc0c46d0c/00602577303951.rgb.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/back+number/_/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89",
-        "itunes": "https://music.apple.com/us/album/happy-end/1451567750?i=1451567751&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "b7f36183-f36b-4fa7-bec3-b24110b9726d",
-      "artistMbid": "f35bfbe2-d30e-402c-9ac1-fa5f90b72ec2",
-      "albumTitle": "Happy End - EP",
-      "duration": 314,
-      "previousRank": 32,
-      "rankDelta": 4,
-      "releaseDate": "2016-11-16T12:00:00Z"
-    },
-    {
       "id": "hearts2hearts--focus",
       "title": "FOCUS",
       "artistName": "Hearts2Hearts",
       "artistSlug": "hearts2hearts",
-      "rank": 29,
-      "rankChange": "same",
+      "rank": 27,
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 376,
+      "listeners": 391,
       "previewUrl": null,
       "artwork": {
         "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
@@ -937,163 +806,384 @@
       "artistMbid": "066080a4-84c7-46c6-91d3-dc10d572749b",
       "duration": 177,
       "previousRank": 29,
-      "rankDelta": 0
+      "rankDelta": 2
     },
     {
-      "id": "--",
-      "title": "晴る",
-      "artistName": "ヨルシカ",
-      "artistSlug": "",
-      "rank": 30,
-      "rankChange": "up",
+      "id": "blackpink--jump",
+      "title": "JUMP",
+      "artistName": "BLACKPINK",
+      "artistSlug": "blackpink",
+      "rank": 28,
+      "rankChange": "down",
       "playcount": 0,
-      "listeners": 375,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/f1/7a/67f17aa9-2909-5a14-a949-31959c1d4d80/mzaf_13425942078361372642.plus.aac.p.m4a",
+      "listeners": 386,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/e4/3d/9ee43dd8-818c-c085-899c-c27a1e3b82cc/23UM1IM53496.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/e4/3d/9ee43dd8-818c-c085-899c-c27a1e3b82cc/23UM1IM53496.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/e4/3d/9ee43dd8-818c-c085-899c-c27a1e3b82cc/23UM1IM53496.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E6%99%B4%E3%82%8B",
-        "itunes": "https://music.apple.com/us/album/sunny/1721450220?i=1721450223&uo=4"
+        "lastfm": "https://www.last.fm/music/BLACKPINK/_/JUMP"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "bd96e3b9-e014-417b-b9e9-d75143cce05c",
-      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
-      "albumTitle": "Sunny - Single",
-      "duration": 271,
-      "previousRank": 44,
-      "rankDelta": 14,
-      "releaseDate": "2026-02-19T12:00:00Z"
+      "mbid": "752d837b-a4bc-40c5-ab85-b485de42df12",
+      "artistMbid": "48646387-1664-4c9a-9139-9bfd091b823c",
+      "duration": 164,
+      "previousRank": 9,
+      "rankDelta": -19
     },
     {
-      "id": "mitski--wheres-my-phone",
-      "title": "Where's My Phone?",
-      "artistName": "Mitski",
-      "artistSlug": "mitski",
-      "rank": 31,
-      "rankChange": "same",
+      "id": "newjeans--ditto",
+      "title": "Ditto",
+      "artistName": "NewJeans",
+      "artistSlug": "newjeans",
+      "rank": 29,
+      "rankChange": "down",
       "playcount": 0,
-      "listeners": 367,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e1/96/07/e1960731-9b87-3c60-80ea-54c6cea7ea8e/mzaf_4471017596947200923.plus.aac.p.m4a",
+      "listeners": 382,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Mitski/_/Where%27s+My+Phone%3F",
-        "itunes": "https://music.apple.com/us/album/wheres-my-phone/1860622550?i=1860622553&uo=4"
+        "lastfm": "https://www.last.fm/music/NewJeans/_/Ditto"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "9e577af2-d46a-4386-8225-8ce87bee39fa",
-      "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
-      "albumTitle": "Nothing's About to Happen to Me",
-      "duration": 190,
-      "previousRank": 31,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-27T12:00:00Z"
+      "mbid": "adf44a12-e5f4-48aa-9029-b9ef4b5f1d6d",
+      "artistMbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
+      "duration": 185,
+      "previousRank": 24,
+      "rankDelta": -5
     },
     {
       "id": "back-number--",
-      "title": "高嶺の花子さん",
+      "title": "ハッピーエンド",
       "artistName": "back number",
       "artistSlug": "back-number",
-      "rank": 32,
-      "rankChange": "same",
+      "rank": 30,
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 360,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/17/18/95/17189570-6265-e409-d6b4-4f2944508078/mzaf_9194027563389522705.plus.aac.p.m4a",
+      "listeners": 377,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/92/55/179255b2-1948-25b3-6c90-09fce87b1c84/00602577303876.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/92/55/179255b2-1948-25b3-6c90-09fce87b1c84/00602577303876.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/92/55/179255b2-1948-25b3-6c90-09fce87b1c84/00602577303876.rgb.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/back+number/_/%E9%AB%98%E5%B6%BA%E3%81%AE%E8%8A%B1%E5%AD%90%E3%81%95%E3%82%93",
-        "itunes": "https://music.apple.com/us/album/takaneno-hanakosan/1451566890?i=1451566891&uo=4"
+        "lastfm": "https://www.last.fm/music/back+number/_/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%A8%E3%83%B3%E3%83%89"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "03cf604a-a643-4495-b463-0d478725d71b",
+      "mbid": "b7f36183-f36b-4fa7-bec3-b24110b9726d",
       "artistMbid": "f35bfbe2-d30e-402c-9ac1-fa5f90b72ec2",
-      "albumTitle": "Takaneno Hanakosan - EP",
-      "duration": 295,
+      "duration": 314,
       "previousRank": 32,
-      "rankDelta": 0,
-      "releaseDate": "2013-01-01T12:00:00Z"
+      "rankDelta": 2
     },
     {
-      "id": "mitski--in-a-lake",
-      "title": "In A Lake",
-      "artistName": "Mitski",
-      "artistSlug": "mitski",
-      "rank": 33,
-      "rankChange": "same",
+      "id": "--",
+      "title": "ポスト春",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
+      "rank": 31,
+      "rankChange": "up",
       "playcount": 0,
-      "listeners": 360,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/63/d1/6263d15b-d080-cbac-774c-3f092b733f54/mzaf_17706781318209920540.plus.aac.p.m4a",
+      "listeners": 374,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Mitski/_/In+A+Lake",
-        "itunes": "https://music.apple.com/us/album/in-a-lake/1860622550?i=1860622551&uo=4"
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E3%83%9D%E3%82%B9%E3%83%88%E6%98%A5"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "3e801435-b74d-4843-b99e-c7eac2b14200",
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 199,
+      "previousRank": 44,
+      "rankDelta": 13
+    },
+    {
+      "id": "--jane-doe",
+      "title": "JANE DOE",
+      "artistName": "米津玄師",
+      "artistSlug": "",
+      "rank": 32,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 374,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/JANE+DOE"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "artistMbid": "09d4a85c-4916-4b4e-bc96-c4cfcf371046",
+      "previousRank": 15,
+      "rankDelta": -17
+    },
+    {
+      "id": "--",
+      "title": "太陽",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
+      "rank": 33,
+      "rankChange": "up",
+      "playcount": 0,
+      "listeners": 373,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E5%A4%AA%E9%99%BD"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "b654746c-f88b-46fc-a55c-42a7cd916bd5",
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 265,
+      "previousRank": 44,
+      "rankDelta": 11
+    },
+    {
+      "id": "illit--magnetic",
+      "title": "Magnetic",
+      "artistName": "ILLIT",
+      "artistSlug": "illit",
+      "rank": 34,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 370,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/ILLIT/_/Magnetic"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "e614e432-ca77-41c1-82c1-4e3a24ebbb0c",
+      "artistMbid": "6b128dd7-e998-4edb-a4f5-400fef190445",
+      "duration": 160,
+      "previousRank": 17,
+      "rankDelta": -17
+    },
+    {
+      "id": "mitski--if-i-leave",
+      "title": "If I Leave",
+      "artistName": "Mitski",
+      "artistSlug": "mitski",
+      "rank": 35,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 369,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Mitski/_/If+I+Leave"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "f508ac87-793f-4bb3-aa15-85e97fc9f836",
       "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
-      "albumTitle": "Nothing's About to Happen to Me",
-      "duration": 185,
-      "previousRank": 33,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-27T12:00:00Z"
+      "duration": 180,
+      "previousRank": 21,
+      "rankDelta": -14
     },
     {
       "id": "vaundy--",
       "title": "踊り子",
       "artistName": "Vaundy",
       "artistSlug": "vaundy",
-      "rank": 34,
-      "rankChange": "same",
+      "rank": 36,
+      "rankChange": "down",
       "playcount": 0,
-      "listeners": 358,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a0/f0/3d/a0f03d7b-58f1-088b-e15f-d09111a0826d/mzaf_6174241011891127128.plus.aac.p.m4a",
+      "listeners": 367,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/eb/75/8aeb7526-6fe4-a81a-5dce-c5d026e7f036/4547366655728.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/eb/75/8aeb7526-6fe4-a81a-5dce-c5d026e7f036/4547366655728.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/eb/75/8aeb7526-6fe4-a81a-5dce-c5d026e7f036/4547366655728.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Vaundy/_/%E8%B8%8A%E3%82%8A%E5%AD%90",
-        "itunes": "https://music.apple.com/us/album/odoriko/1714599649?i=1714599984&uo=4"
+        "lastfm": "https://www.last.fm/music/Vaundy/_/%E8%B8%8A%E3%82%8A%E5%AD%90"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "bd09a525-86d8-46dc-85a5-4b305170c789",
+      "artistMbid": "114b26ff-a1fe-41f3-9df8-5c093afe9c56",
+      "duration": 230,
+      "previousRank": 34,
+      "rankDelta": -2
+    },
+    {
+      "id": "--",
+      "title": "修羅",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
+      "rank": 37,
+      "rankChange": "up",
+      "playcount": 0,
+      "listeners": 366,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E4%BF%AE%E7%BE%85"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "8100f63a-084c-4c56-9e9f-533f83f62bea",
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 233,
+      "previousRank": 44,
+      "rankDelta": 7
+    },
+    {
+      "id": "vaundy--",
+      "title": "怪獣の花唄",
+      "artistName": "Vaundy",
+      "artistSlug": "vaundy",
+      "rank": 38,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 361,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Vaundy/_/%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "3afe810a-2f65-4b39-a7c2-a352d20ce012",
+      "artistMbid": "114b26ff-a1fe-41f3-9df8-5c093afe9c56",
+      "duration": 224,
+      "previousRank": 34,
+      "rankDelta": -4
+    },
+    {
+      "id": "--",
+      "title": "ルバート",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
+      "rank": 39,
+      "rankChange": "up",
+      "playcount": 0,
+      "listeners": 360,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E3%83%AB%E3%83%90%E3%83%BC%E3%83%88"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "448d95ae-9a99-4131-8f67-80d929d613f8",
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 229,
+      "previousRank": 44,
+      "rankDelta": 5
+    },
+    {
+      "id": "bruno-mars--risk-it-all",
+      "title": "Risk It All",
+      "artistName": "Bruno Mars",
+      "artistSlug": "bruno-mars",
+      "rank": 40,
+      "rankChange": "new",
+      "playcount": 0,
+      "listeners": 357,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/d9/b7/ddd9b7ed-26e7-840f-812e-ead460b5e1f0/mzaf_10786822495258520885.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Bruno+Mars/_/Risk+It+All",
+        "itunes": "https://music.apple.com/us/album/risk-it-all/1866732792?i=1866732797&uo=4"
       },
       "tags": [],
       "genres": [],
@@ -1101,23 +1191,203 @@
         "lastfm",
         "itunes"
       ],
-      "mbid": "bd09a525-86d8-46dc-85a5-4b305170c789",
-      "artistMbid": "114b26ff-a1fe-41f3-9df8-5c093afe9c56",
-      "albumTitle": "replica",
-      "duration": 229,
-      "previousRank": 34,
-      "rankDelta": 0,
-      "releaseDate": "2021-11-17T12:00:00Z"
+      "mbid": "d672fe10-182c-4a17-a510-9f45b4a1f82f",
+      "artistMbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+      "albumTitle": "The Romantic",
+      "duration": 204,
+      "releaseDate": "2026-02-27T08:00:00Z"
+    },
+    {
+      "id": "--",
+      "title": "へび",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
+      "rank": 41,
+      "rankChange": "up",
+      "playcount": 0,
+      "listeners": 351,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E3%81%B8%E3%81%B3"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "b8809579-fc50-4408-b2d3-100bfb82264b",
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 260,
+      "previousRank": 44,
+      "rankDelta": 3
+    },
+    {
+      "id": "illit--not-cute-anymore",
+      "title": "NOT CUTE ANYMORE",
+      "artistName": "ILLIT",
+      "artistSlug": "illit",
+      "rank": 42,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 347,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/ILLIT/_/NOT+CUTE+ANYMORE"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "artistMbid": "6b128dd7-e998-4edb-a4f5-400fef190445",
+      "duration": 131,
+      "previousRank": 40,
+      "rankDelta": -2
+    },
+    {
+      "id": "hana--blue-jeans",
+      "title": "Blue Jeans",
+      "artistName": "Hana",
+      "artistSlug": "hana",
+      "rank": 43,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 346,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Hana/_/Blue+Jeans"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "10dd89b5-6c8d-46d9-a0e0-2fb59f9e9019",
+      "artistMbid": "25d148da-1af8-464b-8179-3418878fe035",
+      "duration": 206,
+      "previousRank": 16,
+      "rankDelta": -27
+    },
+    {
+      "id": "olivia-dean--so-easy-to-fall-in-love",
+      "title": "So Easy (To Fall In Love)",
+      "artistName": "Olivia Dean",
+      "artistSlug": "olivia-dean",
+      "rank": 44,
+      "rankChange": "up",
+      "playcount": 0,
+      "listeners": 346,
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/78/76/b07876e5-0e27-b261-a76b-9de5135f7196/mzaf_3541076937115029478.plus.aac.p.m4a",
+      "artwork": {
+        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
+        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/600x600bb.jpg",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love)",
+        "itunes": "https://music.apple.com/us/album/so-easy-to-fall-in-love/1817609404?i=1817609507&uo=4"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm",
+        "itunes"
+      ],
+      "artistMbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+      "albumTitle": "The Art of Loving",
+      "duration": 169,
+      "previousRank": 45,
+      "rankDelta": 1,
+      "releaseDate": "2025-09-26T12:00:00Z"
+    },
+    {
+      "id": "back-number--",
+      "title": "高嶺の花子さん",
+      "artistName": "back number",
+      "artistSlug": "back-number",
+      "rank": 45,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 342,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/back+number/_/%E9%AB%98%E5%B6%BA%E3%81%AE%E8%8A%B1%E5%AD%90%E3%81%95%E3%82%93"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "03cf604a-a643-4495-b463-0d478725d71b",
+      "artistMbid": "f35bfbe2-d30e-402c-9ac1-fa5f90b72ec2",
+      "duration": 295,
+      "previousRank": 32,
+      "rankDelta": -13
+    },
+    {
+      "id": "aespa--whiplash",
+      "title": "Whiplash",
+      "artistName": "aespa",
+      "artistSlug": "aespa",
+      "rank": 46,
+      "rankChange": "down",
+      "playcount": 0,
+      "listeners": 336,
+      "previewUrl": null,
+      "artwork": {
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "placeholder": "#1a1a2e"
+      },
+      "links": {
+        "lastfm": "https://www.last.fm/music/aespa/_/Whiplash"
+      },
+      "tags": [],
+      "genres": [],
+      "dataSources": [
+        "lastfm"
+      ],
+      "mbid": "24dd7fe2-068b-456f-93f2-1eb5400f03dd",
+      "artistMbid": "b51c672b-85e0-48fe-8648-470a2422229f",
+      "duration": 183,
+      "previousRank": 25,
+      "rankDelta": -21
     },
     {
       "id": "djo--end-of-beginning",
       "title": "End of Beginning",
       "artistName": "Djo",
       "artistSlug": "djo",
-      "rank": 35,
-      "rankChange": "same",
+      "rank": 47,
+      "rankChange": "down",
       "playcount": 0,
-      "listeners": 356,
+      "listeners": 332,
       "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/df/af/6edfaf58-f901-e9b5-840b-9ac9e37f34b7/mzaf_8465065510938624101.plus.aac.p.m4a",
       "artwork": {
         "small": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/100x100bb.jpg",
@@ -1140,508 +1410,100 @@
       "albumTitle": "DECIDE",
       "duration": 159,
       "previousRank": 35,
-      "rankDelta": 0,
+      "rankDelta": -12,
       "releaseDate": "2024-03-01T12:00:00Z"
     },
     {
-      "id": "xg--gala",
-      "title": "GALA",
-      "artistName": "XG",
-      "artistSlug": "xg",
-      "rank": 36,
-      "rankChange": "same",
+      "id": "--",
+      "title": "うめき",
+      "artistName": "ヨルシカ",
+      "artistSlug": "",
+      "rank": 48,
+      "rankChange": "down",
       "playcount": 0,
-      "listeners": 354,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/c7/cf/a0c7cf96-d634-0824-9e61-32e2d5b17855/mzaf_146799643823244507.plus.aac.p.m4a",
+      "listeners": 331,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/40/bc/d240bc00-1056-57c1-3ec8-cd57f957bcaf/4571694810689.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/40/bc/d240bc00-1056-57c1-3ec8-cd57f957bcaf/4571694810689.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/40/bc/d240bc00-1056-57c1-3ec8-cd57f957bcaf/4571694810689.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/XG/_/GALA",
-        "itunes": "https://music.apple.com/us/album/gala/1861009513?i=1861009520&uo=4"
+        "lastfm": "https://www.last.fm/music/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/_/%E3%81%86%E3%82%81%E3%81%8D"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "042e8172-6a52-4c2f-bb62-9ac60f52771c",
-      "artistMbid": "8dfe067c-ae90-472e-80f2-fcee9be4e158",
-      "albumTitle": "THE CORE - 核",
-      "duration": 227,
-      "previousRank": 36,
-      "rankDelta": 0,
-      "releaseDate": "2025-09-19T12:00:00Z"
+      "artistMbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "duration": 197,
+      "previousRank": 44,
+      "rankDelta": -4
     },
     {
-      "id": "bad-bunny--dtmf",
-      "title": "DtMF",
-      "artistName": "Bad Bunny",
-      "artistSlug": "bad-bunny",
-      "rank": 37,
-      "rankChange": "same",
+      "id": "ive--blackhole",
+      "title": "BLACKHOLE",
+      "artistName": "IVE",
+      "artistSlug": "ive",
+      "rank": 49,
+      "rankChange": "down",
       "playcount": 0,
-      "listeners": 348,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/97/55/2e97555a-1ed3-9e07-de57-07e1213186c9/mzaf_7594924455925081680.plus.aac.p.m4a",
+      "listeners": 330,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/Bad+Bunny/_/DtMF",
-        "itunes": "https://music.apple.com/us/album/nuevayol/1787022393?i=1787022572&uo=4"
+        "lastfm": "https://www.last.fm/music/IVE/_/BLACKHOLE"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
-      "mbid": "2944ab9d-2e49-4143-83fb-4e8499469654",
-      "artistMbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
-      "albumTitle": "DeBÍ TiRAR MáS FOToS",
-      "duration": 184,
-      "previousRank": 37,
-      "rankDelta": 0,
-      "releaseDate": "2025-01-05T12:00:00Z"
-    },
-    {
-      "id": "bruno-mars--i-just-might",
-      "title": "I Just Might",
-      "artistName": "Bruno Mars",
-      "artistSlug": "bruno-mars",
-      "rank": 38,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 346,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4c/29/70/4c2970ab-d1c0-344b-53c7-b1624a14ac36/mzaf_9879015910950364057.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/Bruno+Mars/_/I+Just+Might",
-        "itunes": "https://music.apple.com/us/album/i-just-might/1866732792?i=1866732800&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "781018b7-f4f0-4fae-9b41-f45ecbe34024",
-      "artistMbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
-      "albumTitle": "The Romantic",
-      "duration": 213,
-      "previousRank": 38,
-      "rankDelta": 0,
-      "releaseDate": "2026-01-09T08:00:00Z"
-    },
-    {
-      "id": "hana--cold-night",
-      "title": "cold night",
-      "artistName": "Hana",
-      "artistSlug": "hana",
-      "rank": 39,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 344,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/05/a3/8b/05a38bf3-8de6-06f8-f585-3ac29aba5460/mzaf_15634560373448421605.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/6a/dc/4b6adc20-0631-6a2f-8cae-2e2be369d954/4547366798692.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/6a/dc/4b6adc20-0631-6a2f-8cae-2e2be369d954/4547366798692.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/6a/dc/4b6adc20-0631-6a2f-8cae-2e2be369d954/4547366798692.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/Hana/_/cold+night",
-        "itunes": "https://music.apple.com/us/album/cold-night/1867687784?i=1867687787&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "5804885c-416f-4c6d-8703-3eaaf9c9c46d",
-      "artistMbid": "25d148da-1af8-464b-8179-3418878fe035",
-      "albumTitle": "Cold Night - Single",
-      "duration": 193,
-      "previousRank": 39,
-      "rankDelta": 0,
-      "releaseDate": "2026-01-24T12:00:00Z"
-    },
-    {
-      "id": "illit--not-cute-anymore",
-      "title": "NOT CUTE ANYMORE",
-      "artistName": "ILLIT",
-      "artistSlug": "illit",
-      "rank": 40,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 343,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/87/74/b7877496-087a-014d-07d1-cb8f934e6465/mzaf_6580320150417650379.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/de/95/a5de954b-4e07-975b-1621-7681fd218e15/198704763106_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/de/95/a5de954b-4e07-975b-1621-7681fd218e15/198704763106_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/de/95/a5de954b-4e07-975b-1621-7681fd218e15/198704763106_Cover.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/ILLIT/_/NOT+CUTE+ANYMORE",
-        "itunes": "https://music.apple.com/us/album/not-cute-anymore/1849105513?i=1849105517&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "artistMbid": "6b128dd7-e998-4edb-a4f5-400fef190445",
-      "albumTitle": "NOT CUTE ANYMORE - Single",
-      "duration": 132,
-      "previousRank": 40,
-      "rankDelta": 0,
-      "releaseDate": "2025-11-24T12:00:00Z"
-    },
-    {
-      "id": "huntr-x--golden",
-      "title": "Golden",
-      "artistName": "HUNTR/X",
-      "artistSlug": "huntr-x",
-      "rank": 41,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 342,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/68/32/3868327b-f83f-71c7-0a0c-1813edf2b73e/mzaf_9475346657459209500.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/HUNTR%2FX/_/Golden",
-        "itunes": "https://music.apple.com/us/album/golden/1820264137?i=1820264150&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "f40cee59-ae8b-45cf-98e8-9c7278dbd821",
-      "albumTitle": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-      "duration": 195,
-      "previousRank": 41,
-      "rankDelta": 0,
-      "releaseDate": "2025-06-19T12:00:00Z"
-    },
-    {
-      "id": "le-sserafim--spaghetti",
-      "title": "SPAGHETTI",
-      "artistName": "LE SSERAFIM",
-      "artistSlug": "le-sserafim",
-      "rank": 42,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 339,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/bd/2c/c9bd2ccd-1a28-34d2-b1ae-14da2404f8b3/mzaf_17126970940455785926.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/3b/01/0c3b0191-6170-765d-23a6-1b1c9c25cb77/198704776991_Cover.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/3b/01/0c3b0191-6170-765d-23a6-1b1c9c25cb77/198704776991_Cover.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/3b/01/0c3b0191-6170-765d-23a6-1b1c9c25cb77/198704776991_Cover.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/LE+SSERAFIM/_/SPAGHETTI",
-        "itunes": "https://music.apple.com/us/album/spaghetti/1846119152?i=1846119582&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "30817bf7-2880-426b-b9f4-2ea7d715d8d7",
-      "artistMbid": "1ee37742-1e3d-4e61-84d2-bc85f4c1459a",
-      "albumTitle": "SPAGHETTI",
-      "duration": 172,
-      "previousRank": 42,
-      "rankDelta": 0,
-      "releaseDate": "2025-10-24T12:00:00Z"
-    },
-    {
-      "id": "hana--all-in",
-      "title": "ALL IN",
-      "artistName": "Hana",
-      "artistSlug": "hana",
-      "rank": 43,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 334,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/33/48/d2/3348d26c-cc2b-dcd7-52d8-1938da16e8f6/mzaf_10732789603570373863.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/16/2c/5b162ca7-fd06-103b-c8db-344b24fd2a80/4547366806434.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/16/2c/5b162ca7-fd06-103b-c8db-344b24fd2a80/4547366806434.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/16/2c/5b162ca7-fd06-103b-c8db-344b24fd2a80/4547366806434.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/Hana/_/ALL+IN",
-        "itunes": "https://music.apple.com/us/album/all-in/1874511603?i=1874511682&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "artistMbid": "25d148da-1af8-464b-8179-3418878fe035",
-      "albumTitle": "HANA",
-      "duration": 152,
-      "previousRank": 43,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-23T12:00:00Z"
+      "mbid": "ab1cbff2-60d7-40b5-ab53-bf93cc6e7726",
+      "artistMbid": "a760a4d1-1258-4833-9ed5-fa083902d907",
+      "duration": 194,
+      "previousRank": 18,
+      "rankDelta": -31
     },
     {
       "id": "--",
       "title": "新宝島",
       "artistName": "サカナクション",
       "artistSlug": "",
-      "rank": 44,
-      "rankChange": "same",
+      "rank": 50,
+      "rankChange": "down",
       "playcount": 0,
-      "listeners": 333,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/02/13/fc0213b4-5586-2ca0-3061-79f300d78f26/mzaf_18086299013045660751.plus.aac.p.m4a",
+      "listeners": 325,
+      "previewUrl": null,
       "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/20/c6/8520c637-179b-b204-8e71-57a483ba4b25/VEATP-32980.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/20/c6/8520c637-179b-b204-8e71-57a483ba4b25/VEATP-32980.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/20/c6/8520c637-179b-b204-8e71-57a483ba4b25/VEATP-32980.jpg/600x600bb.jpg",
+        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
         "placeholder": "#1a1a2e"
       },
       "links": {
-        "lastfm": "https://www.last.fm/music/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/_/%E6%96%B0%E5%AE%9D%E5%B3%B6",
-        "itunes": "https://music.apple.com/us/album/shin-takara-jima/1043473928?i=1043473930&uo=4"
+        "lastfm": "https://www.last.fm/music/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/_/%E6%96%B0%E5%AE%9D%E5%B3%B6"
       },
       "tags": [],
       "genres": [],
       "dataSources": [
-        "lastfm",
-        "itunes"
+        "lastfm"
       ],
       "mbid": "0ab81166-b5fb-46a0-b916-aa53d1abd0de",
       "artistMbid": "01830cc1-8a04-4dfb-9e4a-d557dfda6a93",
-      "albumTitle": "Shin Takara Jima - Single",
-      "duration": 306,
+      "duration": 345,
       "previousRank": 44,
-      "rankDelta": 0,
-      "releaseDate": "2015-09-30T12:00:00Z"
-    },
-    {
-      "id": "olivia-dean--so-easy-to-fall-in-love",
-      "title": "So Easy (To Fall In Love)",
-      "artistName": "Olivia Dean",
-      "artistSlug": "olivia-dean",
-      "rank": 45,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 332,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/78/76/b07876e5-0e27-b261-a76b-9de5135f7196/mzaf_3541076937115029478.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/Olivia+Dean/_/So+Easy+(To+Fall+In+Love)",
-        "itunes": "https://music.apple.com/us/album/so-easy-to-fall-in-love/1817609404?i=1817609507&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "artistMbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
-      "albumTitle": "The Art of Loving",
-      "duration": 169,
-      "previousRank": 45,
-      "rankDelta": 0,
-      "releaseDate": "2025-09-26T12:00:00Z"
-    },
-    {
-      "id": "mitski--cats",
-      "title": "Cats",
-      "artistName": "Mitski",
-      "artistSlug": "mitski",
-      "rank": 46,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 330,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6d/37/91/6d37918c-7fcd-5d82-c62a-952f118a1fa9/mzaf_5883880918020259846.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/55/e4/4955e4d7-f47b-cc11-d8bc-12755a6427a3/61012.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/Mitski/_/Cats",
-        "itunes": "https://music.apple.com/us/album/cats/1860622550?i=1860622558&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "6244243b-697f-4ba2-94de-30897b7034a8",
-      "artistMbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
-      "albumTitle": "Nothing's About to Happen to Me",
-      "duration": 168,
-      "previousRank": 46,
-      "rankDelta": 0,
-      "releaseDate": "2026-02-27T12:00:00Z"
-    },
-    {
-      "id": "gorillaz--the-moon-cave-feat-asha-puthli-bobby-womack-dave-jolicoeur-jalen-ngonda-and-black-thought",
-      "title": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
-      "artistName": "Gorillaz",
-      "artistSlug": "gorillaz",
-      "rank": 47,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 327,
-      "previewUrl": null,
-      "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/Gorillaz/_/The+Moon+Cave+(feat.+Asha+Puthli,+Bobby+Womack,+Dave+Jolicoeur,+Jalen+Ngonda+and+Black+Thought)"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm"
-      ],
-      "mbid": "06aced25-39a5-4c20-ae90-c28c9c835732",
-      "artistMbid": "e21857d5-3256-4547-afb3-4b6ded592596",
-      "previousRank": 47,
-      "rankDelta": 0
-    },
-    {
-      "id": "raye--where-is-my-husband",
-      "title": "WHERE IS MY HUSBAND!",
-      "artistName": "RAYE",
-      "artistSlug": "raye",
-      "rank": 48,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 321,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/16/34/c716348b-2768-3e4f-75d6-136bbb11ce6b/mzaf_17115623893667689076.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/10/8a/69108a18-55ec-d774-a653-90b2242733db/199538765458.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/RAYE/_/WHERE+IS+MY+HUSBAND%21",
-        "itunes": "https://music.apple.com/us/album/where-is-my-husband/1838737596?i=1838737598&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "127fd962-d85c-4f64-84e1-220f3dae762c",
-      "artistMbid": "8be564c3-dfba-440b-af8c-4ffbceeef45e",
-      "albumTitle": "WHERE IS MY HUSBAND! - Single",
-      "duration": 197,
-      "previousRank": 48,
-      "rankDelta": 0,
-      "releaseDate": "2025-09-19T12:00:00Z"
-    },
-    {
-      "id": "king-gnu--specialz",
-      "title": "SPECIALZ",
-      "artistName": "King Gnu",
-      "artistSlug": "king-gnu",
-      "rank": 49,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 314,
-      "previewUrl": null,
-      "artwork": {
-        "small": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "medium": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "large": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/King+Gnu/_/SPECIALZ"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm"
-      ],
-      "mbid": "288611cf-0bc6-4827-879f-27e73cad623e",
-      "artistMbid": "338f5d97-3133-4bf8-a58e-068ff9b5405d",
-      "duration": 239,
-      "previousRank": 49,
-      "rankDelta": 0
-    },
-    {
-      "id": "bump-of-chicken--ray",
-      "title": "ray",
-      "artistName": "BUMP OF CHICKEN",
-      "artistSlug": "bump-of-chicken",
-      "rank": 50,
-      "rankChange": "same",
-      "playcount": 0,
-      "listeners": 313,
-      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c3/8e/31/c38e31f1-aa5a-a331-9d54-bc1f12d63c11/mzaf_15018943359915626794.plus.aac.p.m4a",
-      "artwork": {
-        "small": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a0/83/f4/a083f4f3-3853-d374-3870-957a7df3791a/TFCC-86457WW.jpg/100x100bb.jpg",
-        "medium": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a0/83/f4/a083f4f3-3853-d374-3870-957a7df3791a/TFCC-86457WW.jpg/300x300bb.jpg",
-        "large": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a0/83/f4/a083f4f3-3853-d374-3870-957a7df3791a/TFCC-86457WW.jpg/600x600bb.jpg",
-        "placeholder": "#1a1a2e"
-      },
-      "links": {
-        "lastfm": "https://www.last.fm/music/BUMP+OF+CHICKEN/_/ray",
-        "itunes": "https://music.apple.com/us/album/ray/1464635119?i=1464635122&uo=4"
-      },
-      "tags": [],
-      "genres": [],
-      "dataSources": [
-        "lastfm",
-        "itunes"
-      ],
-      "mbid": "0d87bba1-adfe-4807-a111-d11b658989f5",
-      "artistMbid": "0f718079-e5ea-4cfb-b512-b2d04da66901",
-      "albumTitle": "Ray",
-      "duration": 301,
-      "previousRank": 50,
-      "rankDelta": 0,
-      "releaseDate": "2014-03-12T12:00:00Z"
+      "rankDelta": -6
     }
   ],
-  "lastUpdated": "2026-03-03T06:52:15.609Z",
+  "lastUpdated": "2026-03-10T06:56:02.504Z",
   "totalTracks": 50,
   "coverColor": "#ec4899",
   "country": "jp",
